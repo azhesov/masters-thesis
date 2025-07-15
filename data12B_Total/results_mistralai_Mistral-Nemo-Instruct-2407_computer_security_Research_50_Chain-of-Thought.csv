@@ -1,0 +1,77 @@
+Technique,Topic,Target Level,Output Length,Model,Prompt,Rewrite Prompt,Text,Flesch-Kincaid,Flesch Ease,ARI,SMOG,Gunning Fog,Coleman-Liau,Spache,Linsear Write
+Chain-of-Thought,computer security,Research,50,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'computer security' to someone reading at the Research level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 50 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the Research level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 50 words that follows your plan.",8.0,59.3,8.8,9.7,9.24,10.37,4.44,6.333333333333333
+Chain-of-Thought,computer security,Research,50,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'computer security' to someone reading at the Research level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 50 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the Research level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 50 words that follows your plan. Here is the result:
+
+""Computer security, at the Research level, encompasses the protection of digital assets from unauthorized access, use, disclosure, disruption, modification, or destruction. It involves applying scientific methodologies to identify, mitigate, and recover from security threats, such as malware, cyberattacks, and data breaches. Research in this field aims to develop innovative solutions, advance our understanding of cyber threats, and improve existing security measures.""",13.4,29.04,15.6,15.5,17.02,16.01,6.62,13.0
+Chain-of-Thought,computer security,Research,50,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'computer security' to someone reading at the Research level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 50 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the Research level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 50 words that follows your plan. Computer security, at the research level, entails the protection of data, systems, and networks from unauthorized access, misuse, or disruption. It involves understanding and mitigating vulnerabilities, implementing secure designs and protocols, and continuously monitoring and responding to threats in an ever-evolving cyber landscape.",13.0,30.06,15.0,14.0,14.93,16.18,6.66,11.5
+Chain-of-Thought,computer security,Research,50,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'computer security' to someone reading at the Research level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 50 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the Research level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 50 words that follows your plan. Remember, your paragraph should be understandable and clear to someone reading at the Research level.
+
+Step 4: Review your work for any grammar or punctuation errors.",8.1,58.89,9.5,9.9,8.83,11.12,4.25,6.6
+Chain-of-Thought,computer security,Research,50,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'computer security' to someone reading at the Research level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 50 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the Research level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 50 words that follows your plan. Useful vocabulary: 'threat', 'vulnerability', 'prevent', 'detect', 'protect','recover', 'cyberattack', 'compromise', 'cybercriminal', 'cybersecurity'.
+
+Computer security, at its core, is the practice of protecting computer systems, networks, and sensitive information from cyber threats. This involves identifying and mitigating vulnerabilities, preventing unauthorized access or malicious activities, detecting and responding to cyberattacks, and ensuring business continuity in case of a compromise. Cybersecurity aims to safeguard against cybercriminals who exploit vulnerabilities to gain unauthorized access, steal data, or disrupt operations.",16.5,4.78,18.9,15.9,17.55,19.78,6.81,11.714285714285714
+Chain-of-Thought,computer security,Research,50,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'computer security' to someone reading at the Research level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 50 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the Research level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 50 words that follows your plan.",8.0,59.3,8.8,9.7,9.24,10.37,4.44,6.333333333333333
+Chain-of-Thought,computer security,Research,50,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'computer security' to someone reading at the Research level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 50 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the Research level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 50 words that follows your plan. Computer security, or cybersecurity, is a branch of technology that protects computers, servers, mobile devices, and networks from digital threats, damages, or unauthorized access. It encompasses various practices and strategies to ensure confidentiality, integrity, and availability of information, including encryption, firewalls, intrusion detection, and secure coding.",14.4,20.99,16.2,14.8,16.8,16.99,7.03,12.4
+Chain-of-Thought,computer security,Research,50,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'computer security' to someone reading at the Research level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 50 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the Research level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 50 words that follows your plan. Step 4: Review and edit your paragraph.
+
+**Step 1: Understanding the Audience**
+
+Research level readers are familiar with complex concepts and expect clear, concise, and detailed explanations. They are interested in the underlying mechanisms and principles of a topic.
+
+**Step 2: Vocabulary and Sentence Structure**
+
+- Use technical terms like 'cyber threats', 'vulnerabilities', 'encryption', 'authentication', and 'access controls'.
+- Employ precise, formal language suitable for academic writing.
+- Use active voice and vary sentence structure to maintain reader engagement.
+
+**Step 3: Drafting the Paragraph**
+
+Computer security, at the research level, involves the protection of digital assets from cyber threats and unauthorized access. It encompasses identifying and mitigating vulnerabilities, implementing robust authentication and access control mechanisms, and employing encryption to safeguard sensitive data. Researchers explore advanced topics such as secure coding practices, intrusion detection systems, and cryptographic protocols to enhance the resilience of computer systems.
+
+**",12.6,31.07,16.1,13.4,13.83,17.22,6.51,7.375
+Chain-of-Thought,computer security,Research,50,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'computer security' to someone reading at the Research level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 50 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the Research level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 50 words that follows your plan. Use the given paragraph as a reference.
+
+The given paragraph: ""Cryptography is a fundamental aspect of computer security, enabling secure communication and data storage. It provides confidentiality, integrity, and authenticity, safeguarding information from unauthorized access, tampering, or disruption.""
+
+Your paragraph: ""Computer security, a pivotal element in the digital realm, ensures the protection of information and systems from malicious activities. It encompasses confidentiality, integrity, and availability, safeguarding data from unauthorized access, alteration, or disruption, and maintaining system reliability.""",14.7,14.86,16.3,15.2,15.55,18.15,6.1,8.875
+Chain-of-Thought,computer security,Research,50,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'computer security' to someone reading at the Research level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 50 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the Research level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 50 words that follows your plan. Computer security, at the research level, involves protecting information systems from unauthorized access, use, disruption, or disclosure. It encompasses cryptography for secure communication, intrusion detection systems to identify and mitigate threats, and secure software development practices to prevent vulnerabilities.",13.9,22.41,15.7,14.6,16.67,17.33,6.51,11.5

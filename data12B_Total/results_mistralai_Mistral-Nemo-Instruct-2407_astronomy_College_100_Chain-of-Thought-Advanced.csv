@@ -1,0 +1,127 @@
+Technique,Topic,Target Level,Output Length,Model,Prompt,Rewrite Prompt,Text,Flesch-Kincaid,Flesch Ease,ARI,SMOG,Gunning Fog,Coleman-Liau,Spache,Linsear Write
+Chain-of-Thought-Advanced,astronomy,College,100,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'astronomy' in 100 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 13. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph.",,"Step 1: Think about how to explain 'astronomy' in 100 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 13. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph.",7.0,61.73,9.0,9.2,7.42,10.41,4.11,5.357142857142857
+Chain-of-Thought-Advanced,astronomy,College,100,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'astronomy' in 100 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 13. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph.",,"Step 1: Think about how to explain 'astronomy' in 100 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 13. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph. Astronomy is the scientific study of celestial objects, space, and the physical universe. It involves observing and understanding planets, stars, galaxies, and other celestial bodies. Astronomers use powerful telescopes and tools to gather data, which they analyze to learn about the universe's origins, evolution, and future.",8.9,51.55,11.2,11.2,10.18,12.62,5.02,6.333333333333333
+Chain-of-Thought-Advanced,astronomy,College,100,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'astronomy' in 100 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 13. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph.",,"Step 1: Think about how to explain 'astronomy' in 100 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 13. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph.",7.0,61.73,9.0,9.2,7.42,10.41,4.11,5.357142857142857
+Chain-of-Thought-Advanced,astronomy,College,100,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'astronomy' in 100 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 13. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph.",,"Step 1: Think about how to explain 'astronomy' in 100 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 13. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph. It should be:
+- Concise
+- Easy to understand
+- Accurate
+
+Final paragraph: ""Astronomy is the scientific study of celestial objects, spaces, and phenomena that originate outside Earth's atmosphere. It includes the observation and analysis of stars, galaxies, planets, and other heavenly bodies using telescopes, mathematics, and physics.""",10.5,41.97,12.2,11.9,11.39,13.33,5.2,7.125
+Chain-of-Thought-Advanced,astronomy,College,100,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'astronomy' in 100 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 13. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph.",,"Step 1: Think about how to explain 'astronomy' in 100 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 13. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph. Then, calculate the Flesch-Kincaid Grade Level of your output.
+
+**Plan:**
+- Explain 'astronomy' as the scientific study of celestial objects and phenomena.
+- Mention key aspects: planets, stars, galaxies, and their physical properties.
+- Include the use of telescopes and mathematics for observation and analysis.
+- Keep sentences short and simple, use transitional words, and avoid complex vocabulary.
+
+**Output:**
+Astronomy is the study of celestial bodies and events in space. This includes planets, stars, and galaxies. Scientists use powerful telescopes to observe them. They also use math to understand their movements and properties. By studying the universe, astronomers help us understand our place in it.
+
+**Calculation:**
+- Total words: 43
+- Total sentences: 5
+- Total syllables: 67
+- Flesch-Kincaid Grade Level: 0.39 × (43/5) + 11.8 ×",8.3,53.17,11.1,10.7,8.23,12.56,4.17,5.4
+Chain-of-Thought-Advanced,astronomy,College,100,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'astronomy' in 100 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 13. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph.",,"Step 1: Think about how to explain 'astronomy' in 100 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 13. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph.",7.0,61.73,9.0,9.2,7.42,10.41,4.11,5.357142857142857
+Chain-of-Thought-Advanced,astronomy,College,100,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'astronomy' in 100 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 13. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph.",,"Step 1: Think about how to explain 'astronomy' in 100 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 13. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph.",7.0,61.73,9.0,9.2,7.42,10.41,4.11,5.357142857142857
+Chain-of-Thought-Advanced,astronomy,College,100,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'astronomy' in 100 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 13. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph.",,"Step 1: Think about how to explain 'astronomy' in 100 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 13. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph.",7.0,61.73,9.0,9.2,7.42,10.41,4.11,5.357142857142857
+Chain-of-Thought-Advanced,astronomy,College,100,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'astronomy' in 100 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 13. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph.",,"Step 1: Think about how to explain 'astronomy' in 100 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 13. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph. Review your work, and revise if necessary.
+Step 5: Calculate the Flesch-Kincaid Grade Level of the final paragraph to ensure it is within the desired range.
+
+Final Paragraph:
+Astronomy is the scientific study of celestial objects and phenomena that originate outside Earth's atmosphere. It involves the use of telescopes and other instruments to observe the universe and understand its components, such as stars, planets, and galaxies. Additionally, astronomers study the physical properties of celestial bodies and the laws that govern their motion.
+
+Flesch-Kincaid Grade Level Calculation:
+- Total words: 47
+- Total sentences: 2
+- Total syllables: 84
+- Flesch-Kincaid Grade Level: 0.39 × (47 / 2) + 11.8 × (84 / 47) - 15.59 ≈ 13.2
+
+The final paragraph has a Fles",8.8,51.65,10.6,10.8,9.17,11.87,4.43,5.777777777777778
+Chain-of-Thought-Advanced,astronomy,College,100,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'astronomy' in 100 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 13. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph.",,"Step 1: Think about how to explain 'astronomy' in 100 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 13. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph. Make sure it is concise, understandable, and does not exceed 100 words.
+
+Astronomy is the scientific study of celestial objects and phenomena that originate outside Earth's atmosphere. It uses physics, mathematics, and chemistry to explain the universe's structure and behavior. Astronomy explores stars, planets, galaxies, and other celestial bodies, seeking to understand their origin, evolution, and interactions. It also investigates the universe's large-scale structures and its fundamental physical properties. Through observation and theory, astronomy helps us understand our place in the cosmos and the laws that govern it.
+
+Flesch-Kincaid Grade Level: 13.0",10.1,42.98,12.0,12.0,10.85,13.84,4.87,6.222222222222222

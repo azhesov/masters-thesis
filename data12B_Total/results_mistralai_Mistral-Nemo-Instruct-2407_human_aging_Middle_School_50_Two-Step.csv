@@ -1,0 +1,53 @@
+Technique,Topic,Target Level,Output Length,Model,Prompt,Rewrite Prompt,Text,Flesch-Kincaid,Flesch Ease,ARI,SMOG,Gunning Fog,Coleman-Liau,Spache,Linsear Write
+Two-Step,human aging,Middle School,50,mistralai/Mistral-Nemo-Instruct-2407,Write a summary about 'human aging'. Limit the output to 50 words.,"Rewrite the following text to match the readability level of Middle School and limit the output to 50 words:
+
+Write a summary about 'human aging'. Limit the output to 50 words. 'Human aging' is a progressive, irreversible process marked by deterioration of physiological functions, increased susceptibility to diseases, and a heightened risk of death.","Rewrite the following text to match the readability level of Middle School and limit the output to 50 words:
+
+Write a summary about 'human aging'. Limit the output to 50 words. 'Human aging' is a progressive, irreversible process marked by deterioration of physiological functions, increased susceptibility to diseases, and a heightened risk of death. It starts in our mid-20s, slowing down our metabolism, weakening our muscles, and affecting our memory. As we age, our skin wrinkles, our hair turns gray, and our bodies become more prone to illness.",10.2,53.61,12.1,12.0,12.04,11.6,5.67,11.2
+Two-Step,human aging,Middle School,50,mistralai/Mistral-Nemo-Instruct-2407,Write a summary about 'human aging'. Limit the output to 50 words.,"Rewrite the following text to match the readability level of Middle School and limit the output to 50 words:
+
+Write a summary about 'human aging'. Limit the output to 50 words. 'Human aging' refers to the progressive physiological changes that occur in humans over time, including biological processes like cellular senescence and molecular damage, leading to an increased risk of age-related diseases and death.","Rewrite the following text to match the readability level of Middle School and limit the output to 50 words:
+
+Write a summary about 'human aging'. Limit the output to 50 words. 'Human aging' refers to the progressive physiological changes that occur in humans over time, including biological processes like cellular senescence and molecular damage, leading to an increased risk of age-related diseases and death.",12.8,41.4,14.9,14.1,14.77,13.29,6.67,14.333333333333334
+Two-Step,human aging,Middle School,50,mistralai/Mistral-Nemo-Instruct-2407,Write a summary about 'human aging'. Limit the output to 50 words.,"Rewrite the following text to match the readability level of Middle School and limit the output to 50 words:
+
+Write a summary about 'human aging'. Limit the output to 50 words. In 20-21st century understanding, human aging is a complex, multifactorial process involving cellular and molecular changes, leading to functional decline and increased risk of age-related diseases.","Rewrite the following text to match the readability level of Middle School and limit the output to 50 words:
+
+Write a summary about 'human aging'. Limit the output to 50 words. In 20-21st century understanding, human aging is a complex, multifactorial process involving cellular and molecular changes, leading to functional decline and increased risk of age-related diseases.",13.1,35.27,14.4,14.1,14.62,13.98,6.84,13.166666666666666
+Two-Step,human aging,Middle School,50,mistralai/Mistral-Nemo-Instruct-2407,Write a summary about 'human aging'. Limit the output to 50 words.,"Rewrite the following text to match the readability level of Middle School and limit the output to 50 words:
+
+Write a summary about 'human aging'. Limit the output to 50 words. Human aging is a complex process involving multiple biological changes at the cellular and molecular levels. It is characterized by a gradual decline in physical and cognitive functions, increased susceptibility to diseases, and a higher risk of death. The underlying mechanisms are not fully understood, but they are believed to involve DNA damage, telomere shortening, and altered cellular signaling pathways.","Rewrite the following text to match the readability level of Middle School and limit the output to 50 words:
+
+Write a summary about 'human aging'. Limit the output to 50 words. Human aging is a complex process involving multiple biological changes at the cellular and molecular levels. It is characterized by a gradual decline in physical and cognitive functions, increased susceptibility to diseases, and a higher risk of death. The underlying mechanisms are not fully understood, but they are believed to involve DNA damage, telomere shortening, and altered cellular signaling pathways. Environmental factors, such as diet and exercise, also play a significant role in the aging process.",12.6,36.49,13.1,14.1,14.6,13.11,6.65,11.833333333333334
+Two-Step,human aging,Middle School,50,mistralai/Mistral-Nemo-Instruct-2407,Write a summary about 'human aging'. Limit the output to 50 words.,"Rewrite the following text to match the readability level of Middle School and limit the output to 50 words:
+
+Write a summary about 'human aging'. Limit the output to 50 words.","Rewrite the following text to match the readability level of Middle School and limit the output to 50 words:
+
+Write a summary about 'human aging'. Limit the output to 50 words. Explain how we grow old.
+
+Human aging is a natural process that happens to everyone. As we get older, our cells divide and grow more slowly. Our bodies also become less efficient at repairing damaged cells. This means that we can get sick more easily. Our skin wrinkles and our bones become weaker. Our senses, like sight and hearing, also get worse. Our brains may not work as well as before. This is why older people often need more help with daily tasks.",5.0,77.84,5.2,8.0,6.27,6.76,3.73,4.8
+Two-Step,human aging,Middle School,50,mistralai/Mistral-Nemo-Instruct-2407,Write a summary about 'human aging'. Limit the output to 50 words.,"Rewrite the following text to match the readability level of Middle School and limit the output to 50 words:
+
+Write a summary about 'human aging'. Limit the output to 50 words. 'Human aging' refers to the progressive decline in functional capacity and physiological changes over time, beginning in the mid-20s, leading to increased susceptibility to diseases and ultimately, death.","Rewrite the following text to match the readability level of Middle School and limit the output to 50 words:
+
+Write a summary about 'human aging'. Limit the output to 50 words. 'Human aging' refers to the progressive decline in functional capacity and physiological changes over time, beginning in the mid-20s, leading to increased susceptibility to diseases and ultimately, death.",12.2,43.02,14.1,13.6,13.3,13.17,6.09,13.166666666666666
+Two-Step,human aging,Middle School,50,mistralai/Mistral-Nemo-Instruct-2407,Write a summary about 'human aging'. Limit the output to 50 words.,"Rewrite the following text to match the readability level of Middle School and limit the output to 50 words:
+
+Write a summary about 'human aging'. Limit the output to 50 words. ""Human aging is a complex, multifactorial process involving cumulative damage and loss of function in various organs, leading to increased susceptibility to disease and ultimately, death. It's influenced by genetics, lifestyle, and environment.""","Rewrite the following text to match the readability level of Middle School and limit the output to 50 words:
+
+Write a summary about 'human aging'. Limit the output to 50 words. ""Human aging is a complex, multifactorial process involving cumulative damage and loss of function in various organs, leading to increased susceptibility to disease and ultimately, death. It's influenced by genetics, lifestyle, and environment.""",11.9,38.32,12.9,13.0,13.28,13.51,6.45,11.0
+Two-Step,human aging,Middle School,50,mistralai/Mistral-Nemo-Instruct-2407,Write a summary about 'human aging'. Limit the output to 50 words.,"Rewrite the following text to match the readability level of Middle School and limit the output to 50 words:
+
+Write a summary about 'human aging'. Limit the output to 50 words. ""Human aging is a complex biological process characterized by progressive decline in physiological functions, increased susceptibility to diseases, and eventual death. It's influenced by genetics, lifestyle, and environment.""","Rewrite the following text to match the readability level of Middle School and limit the output to 50 words:
+
+Write a summary about 'human aging'. Limit the output to 50 words. ""Human aging is a complex biological process characterized by progressive decline in physiological functions, increased susceptibility to diseases, and eventual death. It's influenced by genetics, lifestyle, and environment.""",12.6,31.07,13.3,13.0,13.38,14.49,6.42,10.375
+Two-Step,human aging,Middle School,50,mistralai/Mistral-Nemo-Instruct-2407,Write a summary about 'human aging'. Limit the output to 50 words.,"Rewrite the following text to match the readability level of Middle School and limit the output to 50 words:
+
+Write a summary about 'human aging'. Limit the output to 50 words. ""Human aging is a complex, progressive process characterized by physiological changes, increased risk of diseases, and decreased functional ability. It's influenced by genetics, lifestyle, and environment, with no definitive cure or prevention method yet discovered.""","Rewrite the following text to match the readability level of Middle School and limit the output to 50 words:
+
+Write a summary about 'human aging'. Limit the output to 50 words. ""Human aging is a complex, progressive process characterized by physiological changes, increased risk of diseases, and decreased functional ability. It's influenced by genetics, lifestyle, and environment, with no definitive cure or prevention method yet discovered.""",12.1,37.81,13.8,13.8,14.48,14.21,6.42,11.75
+Two-Step,human aging,Middle School,50,mistralai/Mistral-Nemo-Instruct-2407,Write a summary about 'human aging'. Limit the output to 50 words.,"Rewrite the following text to match the readability level of Middle School and limit the output to 50 words:
+
+Write a summary about 'human aging'. Limit the output to 50 words. 'Human aging' refers to the progressive accumulation of changes in an organism over time, leading to increased vulnerability to diseases and ultimately death.","Rewrite the following text to match the readability level of Middle School and limit the output to 50 words:
+
+Write a summary about 'human aging'. Limit the output to 50 words. 'Human aging' refers to the progressive accumulation of changes in an organism over time, leading to increased vulnerability to diseases and ultimately death.",11.5,44.75,12.1,12.5,12.39,11.66,5.77,11.666666666666666

@@ -1,0 +1,149 @@
+Technique,Topic,Target Level,Output Length,Model,Prompt,Rewrite Prompt,Text,Flesch-Kincaid,Flesch Ease,ARI,SMOG,Gunning Fog,Coleman-Liau,Spache,Linsear Write
+Chain-of-Thought-Advanced,nutrition,Research,50,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'nutrition' in 50 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 18. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph.",,"Step 1: Think about how to explain 'nutrition' in 50 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 18. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph. If it's too complex, go back and simplify it.
+Step 5: Calculate the Flesch-Kincaid Grade Level of the final output and make sure it's correct. If it's not, go back and simplify it.
+
+Final Output:
+
+Nutrition is the process of providing food to the body to maintain health. It involves consuming a balanced diet with essential nutrients like proteins, vitamins, and minerals. This helps our body grow, repair tissues, and prevent diseases.
+
+Flesch-Kincaid Grade Level: 18.00",7.3,61.12,8.6,10.0,8.28,10.01,4.26,5.777777777777778
+Chain-of-Thought-Advanced,nutrition,Research,50,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'nutrition' in 50 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 18. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph.",,"Step 1: Think about how to explain 'nutrition' in 50 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 18. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph.",7.0,61.73,8.9,9.2,7.42,10.3,4.11,5.357142857142857
+Chain-of-Thought-Advanced,nutrition,Research,50,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'nutrition' in 50 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 18. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph.",,"Step 1: Think about how to explain 'nutrition' in 50 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 18. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph. The final paragraph will explain 'nutrition' in 50 words, using vocabulary and sentence structure that aims for a Flesch-Kincaid Grade Level of 18.
+Step 5: Check if the final paragraph has correct metric value.
+
+Final Paragraph: ""Nutrition refers to the intake of food and drinks that provide essential nutrients for growth, maintenance, and repair of the body. These nutrients, like proteins, vitamins, and minerals, aid in various bodily functions. A balanced diet, rich in fruits, vegetables, whole grains, lean proteins, and healthy fats, ensures optimal nutrition.""
+
+Metric Value:
+- Total Words: 50
+- Total Sentences: 2
+- Total Syllables: 103
+
+Flesch-Kincaid Grade Level: 0.39 × (50 / 2) + 11.8 × (103 / 50) - 15.59 ≈ 1",7.9,59.6,10.5,10.5,8.34,11.12,4.11,5.777777777777778
+Chain-of-Thought-Advanced,nutrition,Research,50,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'nutrition' in 50 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 18. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph.",,"Step 1: Think about how to explain 'nutrition' in 50 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 18. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph.",7.0,61.73,8.9,9.2,7.42,10.3,4.11,5.357142857142857
+Chain-of-Thought-Advanced,nutrition,Research,50,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'nutrition' in 50 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 18. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph.",,"Step 1: Think about how to explain 'nutrition' in 50 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 18. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph.",7.0,61.73,8.9,9.2,7.42,10.3,4.11,5.357142857142857
+Chain-of-Thought-Advanced,nutrition,Research,50,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'nutrition' in 50 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 18. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph.",,"Step 1: Think about how to explain 'nutrition' in 50 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 18. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph. The final text will be 'Nutrition is the process of providing and utilizing food for growth, health, and repair of the body. It involves consuming a balanced diet of proteins, carbohydrates, and fats, along with essential vitamins and minerals.'
+
+Step 5: Calculate the Flesch-Kincaid Grade Level of the final text using the formula.
+Flesch-Kincaid Grade Level = 0.39 × (21 / 1) + 11.8 × (82 / 21) - 15.59
+= 0.39 × 21 + 11.8 × 3.9047619 - 15.59
+= 8.21 + 46.1531495 - 15.59
+= 38.8731495
+
+The calculated Flesch-Kincaid Grade Level",7.0,61.73,9.4,10.0,8.28,10.41,3.98,5.888888888888889
+Chain-of-Thought-Advanced,nutrition,Research,50,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'nutrition' in 50 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 18. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph.",,"Step 1: Think about how to explain 'nutrition' in 50 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 18. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph.",7.0,61.73,8.9,9.2,7.42,10.3,4.11,5.357142857142857
+Chain-of-Thought-Advanced,nutrition,Research,50,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'nutrition' in 50 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 18. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph.",,"Step 1: Think about how to explain 'nutrition' in 50 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 18. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph. If necessary, revise it and run it through the Flesch-Kincaid Grade Level calculator again until it meets the required grade level.
+
+**Final Output:**
+
+""Nutrition is the process of providing and utilizing food to maintain health. It involves consuming essential nutrients like proteins, carbohydrates, and fats, along with vitamins and minerals. These nutrients support growth, repair, and energy production in our bodies. Balanced nutrition ensures our bodies function optimally, preventing deficiencies and promoting overall well-being.""
+
+**Flesch-Kincaid Grade Level:**
+- Total words: 65
+- Total sentences: 4
+- Total syllables: 242
+- Calculated Grade Level: 18.02
+
+The final paragraph meets the required Flesch-Kincaid Grade Level of approximately 18.",10.4,42.27,12.7,12.0,10.28,14.2,4.68,5.888888888888889
+Chain-of-Thought-Advanced,nutrition,Research,50,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'nutrition' in 50 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 18. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph.",,"Step 1: Think about how to explain 'nutrition' in 50 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 18. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph.",7.0,61.73,8.9,9.2,7.42,10.3,4.11,5.357142857142857
+Chain-of-Thought-Advanced,nutrition,Research,50,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'nutrition' in 50 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 18. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph.",,"Step 1: Think about how to explain 'nutrition' in 50 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 18. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph. Then calculate its Flesch-Kincaid Grade Level and compare it with the target.
+
+---
+
+**Plan:**
+
+1. Start with a simple definition of 'nutrition'.
+2. Explain that it's about providing the body with what it needs.
+3. Mention that this includes energy, and that food provides these.
+4. Use simple, short sentences and common words.
+
+**Paragraph:**
+
+""Nutrition is giving your body what it needs to stay healthy. This means providing energy, which food gives us. We need this energy to move, think, and grow. So, eating well is important for our bodies.""
+
+**Flesch-Kincaid Grade Level Calculation:**
+
+- Total words: 42
+- Total sentences: 3
+- Total syllables: 85
+
+FKGL = 0.39 × (42 / 3) + 11.8 × (85 / 42) - 15.59 ≈ 1",5.8,70.39,8.2,9.3,6.46,8.67,3.42,5.2

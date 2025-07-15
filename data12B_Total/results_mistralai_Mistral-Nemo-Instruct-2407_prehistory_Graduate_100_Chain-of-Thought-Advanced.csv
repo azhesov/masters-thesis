@@ -1,0 +1,127 @@
+Technique,Topic,Target Level,Output Length,Model,Prompt,Rewrite Prompt,Text,Flesch-Kincaid,Flesch Ease,ARI,SMOG,Gunning Fog,Coleman-Liau,Spache,Linsear Write
+Chain-of-Thought-Advanced,prehistory,Graduate,100,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'prehistory' in 100 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 17. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph.",,"Step 1: Think about how to explain 'prehistory' in 100 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 17. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph. Use the correct metric to validate your output.
+
+---
+
+The term 'prehistory' refers to the vast period of time before written records were created by humans. This era spanned from the emergence of the first humans around 2.6 million years ago until the development of writing systems, which occurred independently in various civilizations around the world, starting roughly 3,400 years ago. During this extensive span, humans evolved, migrated across the globe, and developed tools, languages, and cultures. Prehistoric societies left behind artifacts, art, and architectural remains that archaeologists study to understand their lives and the course of human history.
+
+Flesch-Kincaid Grade Level: 16.9",9.2,50.73,11.4,11.1,9.81,13.04,4.58,5.888888888888889
+Chain-of-Thought-Advanced,prehistory,Graduate,100,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'prehistory' in 100 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 17. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph.",,"Step 1: Think about how to explain 'prehistory' in 100 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 17. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph. The output should be approximately 100 words.
+Step 5: Check the output against the desired Flesch-Kincaid Grade Level. If the output is too difficult, simplify sentences and reduce the number of complex words. If the output is too easy, add more complex words and sentences. Repeat this process until the desired Flesch-Kincaid Grade Level is achieved.
+Step 6: Final check. Ensure the output is accurate and meets the desired Flesch-Kincaid Grade Level. The final output should be:
+""Prehistory is the time before written history. It spans from the start of human life until the invention of writing. This period is crucial for understanding human evolution and culture. Archaeologists study prehistory using artifacts, like tools and art. They piece together stories of early humans without the aid of written records.""",7.3,61.02,9.1,9.7,7.39,10.99,3.79,5.2
+Chain-of-Thought-Advanced,prehistory,Graduate,100,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'prehistory' in 100 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 17. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph.",,"Step 1: Think about how to explain 'prehistory' in 100 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 17. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph. Here's the result:
+""Prehistory is the period before recorded history. It spans from the earliest humans until writing was invented. This time is divided into three eras: Stone Age, Bronze Age, and Iron Age. Each era is defined by the primary tool and weapon materials used. Archaeologists study these eras through artifacts and remains.""
+
+This paragraph has a Flesch-Kincaid Grade Level of 17.1.",7.2,61.33,8.9,10.0,8.62,10.47,4.17,5.4
+Chain-of-Thought-Advanced,prehistory,Graduate,100,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'prehistory' in 100 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 17. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph.",,"Step 1: Think about how to explain 'prehistory' in 100 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 17. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph. Check that it is under 100 words and has the correct Flesch-Kincaid Grade Level.
+
+---
+
+**Final Output:**
+
+Prehistory is the time before written records. It starts with the first humans, around 2.6 million years ago, until the invention of writing, about 5,000 years ago. This period spans from the Stone Age to the Bronze Age. It's called prehistory because we rely on archaeology and paleontology, not written history. These sciences help us understand how early humans lived, migrated, and adapted to their environments.",7.4,60.72,9.3,9.8,7.73,10.77,3.84,5.0
+Chain-of-Thought-Advanced,prehistory,Graduate,100,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'prehistory' in 100 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 17. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph.",,"Step 1: Think about how to explain 'prehistory' in 100 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 17. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph.",7.0,61.73,9.1,9.2,7.42,10.47,4.11,5.357142857142857
+Chain-of-Thought-Advanced,prehistory,Graduate,100,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'prehistory' in 100 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 17. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph.",,"Step 1: Think about how to explain 'prehistory' in 100 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 17. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph.",7.0,61.73,9.1,9.2,7.42,10.47,4.11,5.357142857142857
+Chain-of-Thought-Advanced,prehistory,Graduate,100,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'prehistory' in 100 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 17. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph.",,"Step 1: Think about how to explain 'prehistory' in 100 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 17. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph.",7.0,61.73,9.1,9.2,7.42,10.47,4.11,5.357142857142857
+Chain-of-Thought-Advanced,prehistory,Graduate,100,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'prehistory' in 100 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 17. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph.",,"Step 1: Think about how to explain 'prehistory' in 100 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 17. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph. Review it for the appropriate vocabulary and sentence structure.
+Step 5: Calculate the Flesch-Kincaid Grade Level of the final paragraph.
+
+**Example:**
+
+*Step 1:* Prehistory is the time before written records. It's the era of human ancestors and early humans.
+
+*Step 2:* Prehistory, the time before written records, is when our human ancestors and early humans lived.
+
+*Step 3:* Total words = 16, total sentences = 1, total syllables = 35.
+
+*Step 4:* Prehistory, the time before written records, is when our human ancestors and early humans lived.
+
+*Step 5:* FKGL = 0.39 × (16 / 1) + 11.8 × (35 / 16) - 15.59 ≈ 16.7
+
+**Your turn:**
+
+*Step 1:* Write your plan in 100 words.
+*",7.0,61.73,8.5,9.2,6.17,8.96,3.24,5.4
+Chain-of-Thought-Advanced,prehistory,Graduate,100,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'prehistory' in 100 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 17. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph.",,"Step 1: Think about how to explain 'prehistory' in 100 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 17. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph.",7.0,61.73,9.1,9.2,7.42,10.47,4.11,5.357142857142857
+Chain-of-Thought-Advanced,prehistory,Graduate,100,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'prehistory' in 100 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 17. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph.",,"Step 1: Think about how to explain 'prehistory' in 100 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 17. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph.",7.0,61.73,9.1,9.2,7.42,10.47,4.11,5.357142857142857

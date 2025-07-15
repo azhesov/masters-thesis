@@ -1,0 +1,60 @@
+Technique,Topic,Target Level,Output Length,Model,Prompt,Rewrite Prompt,Text,Flesch-Kincaid,Flesch Ease,ARI,SMOG,Gunning Fog,Coleman-Liau,Spache,Linsear Write
+Chain-of-Thought,computer security,Advanced College,50,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'computer security' to someone reading at the Advanced College level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 50 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the Advanced College level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 50 words that follows your plan. (You can use the 'word count' function in Microsoft Word to check your word count. If your paragraph is too long or too short, you may need to adjust your sentences.)
+Step 4: Check your paragraph to ensure it is free of errors. Use the'spell check' and 'grammar check' functions in Microsoft Word.
+Step 5: Once you are satisfied with your paragraph, copy and paste it into the space below and submit it.
+
+Computer security, at the advanced level, encompasses the protection of digital assets from unauthorized access, damage, or disruption. This includes preventing, detecting, and responding to cyber threats such as malware, hacking attempts, and data breaches. It also involves ensuring the integrity, confidentiality, and availability of information systems and data. Strategies employed include encryption, access controls, intrusion detection systems, and regular software updates.",8.9,56.96,11.6,11.5,11.53,12.52,5.61,6.125
+Chain-of-Thought,computer security,Advanced College,50,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'computer security' to someone reading at the Advanced College level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 50 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the Advanced College level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 50 words that follows your plan.",8.1,58.99,9.2,9.7,9.24,10.66,4.44,6.5
+Chain-of-Thought,computer security,Advanced College,50,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'computer security' to someone reading at the Advanced College level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 50 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the Advanced College level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 50 words that follows your plan. (Remember to use proper grammar and punctuation.)
+Step 4: Review your paragraph and make sure it meets the requirements.",7.7,60.11,8.9,9.9,8.77,10.65,4.11,6.0
+Chain-of-Thought,computer security,Advanced College,50,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'computer security' to someone reading at the Advanced College level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 50 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the Advanced College level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 50 words that follows your plan.",8.1,58.99,9.2,9.7,9.24,10.66,4.44,6.5
+Chain-of-Thought,computer security,Advanced College,50,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'computer security' to someone reading at the Advanced College level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 50 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the Advanced College level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 50 words that follows your plan.",8.1,58.99,9.2,9.7,9.24,10.66,4.44,6.5
+Chain-of-Thought,computer security,Advanced College,50,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'computer security' to someone reading at the Advanced College level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 50 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the Advanced College level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 50 words that follows your plan. Here's a sample paragraph:
+
+Computer security, in the realm of advanced computing, involves the protection of digital assets from unauthorized access, use, disruption, or disclosure. It encompasses a broad spectrum of strategies, from encryption algorithms and access controls to intrusion detection systems and ethical hacking practices. The goal is to maintain confidentiality, integrity, and availability of information, ensuring that data is accessible only to authorized users, remains unaltered, and is available when needed.",12.8,35.98,15.6,15.0,16.77,15.72,6.94,12.333333333333334
+Chain-of-Thought,computer security,Advanced College,50,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'computer security' to someone reading at the Advanced College level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 50 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the Advanced College level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 50 words that follows your plan. A computer security breach occurs when unauthorized access, use, or disruption of an information system occurs, posing a risk to the confidentiality, integrity, and availability of data. This can result in significant financial losses, damage to reputation, and potential legal implications for the affected organization.
+
+This paragraph introduces the concept of computer security breaches at an advanced college level by defining them and explaining their potential impacts. The sentence structure is complex and uses advanced vocabulary, such as ""unauthorized,"" ""disruption,"" ""confidentiality,"" ""integrity,"" ""availability,"" ""significant,"" and ""potential."" The paragraph is concise and provides a clear explanation of the topic.",13.4,28.94,15.7,14.7,13.28,16.06,5.96,12.0
+Chain-of-Thought,computer security,Advanced College,50,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'computer security' to someone reading at the Advanced College level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 50 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the Advanced College level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 50 words that follows your plan. Computer security, at an advanced level, involves protecting data, systems, and networks from unauthorized access, use, disruption, or destruction. It encompasses cryptography for data confidentiality, intrusion detection systems for identifying malicious activity, and access control mechanisms to regulate user permissions.",14.0,22.0,15.5,14.8,17.07,16.99,6.58,11.9
+Chain-of-Thought,computer security,Advanced College,50,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'computer security' to someone reading at the Advanced College level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 50 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the Advanced College level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 50 words that follows your plan.",8.1,58.99,9.2,9.7,9.24,10.66,4.44,6.5
+Chain-of-Thought,computer security,Advanced College,50,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'computer security' to someone reading at the Advanced College level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 50 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the Advanced College level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 50 words that follows your plan.",8.1,58.99,9.2,9.7,9.24,10.66,4.44,6.5

@@ -1,0 +1,75 @@
+Technique,Topic,Target Level,Output Length,Model,Prompt,Rewrite Prompt,Text,Flesch-Kincaid,Flesch Ease,ARI,SMOG,Gunning Fog,Coleman-Liau,Spache,Linsear Write
+Zero-Shot,computer security,Middle School,100,meta-llama/Llama-3.1-8B-Instruct,Generate a short paragraph about 'computer security' targeting readability level Middle School. Limit the output to 100 words.,,"Generate a short paragraph about 'computer security' targeting readability level Middle School. Limit the output to 100 words. 
+Computer security is like locking your house door. Imagine your computer is like your home, and hackers are like unwanted visitors. If your house is unlocked, anyone can enter and steal your valuables. Similarly, if your computer's security is weak, hackers can access your personal data and cause harm. To prevent this, you can use strong passwords, install anti-virus software, and update your operating system regularly. These measures will help keep your computer safe and secure, just like locking your house door keeps your home secure. This way, you can enjoy the benefits of using your computer without worrying about hackers. 
+The final answer is: There is no final answer as this is a descriptive paragraph. 
+Note: The readability level of the paragraph is around 7th-8th grade. The Flesch-Kincaid grade level is 7.5, and the Flesch reading ease score is 60.3. The paragraph is written in a clear and simple manner,",8.0,59.19,9.2,10.5,8.86,10.95,4.58,7.375
+Zero-Shot,computer security,Middle School,100,meta-llama/Llama-3.1-8B-Instruct,Generate a short paragraph about 'computer security' targeting readability level Middle School. Limit the output to 100 words.,,"Generate a short paragraph about 'computer security' targeting readability level Middle School. Limit the output to 100 words. Explain what a 'password' is and its purpose in computer security.
+
+## Step 1: Define what a password is
+A password is a secret code that you create to help keep your computer and online accounts safe.
+
+## Step 2: Explain the purpose of a password
+The main purpose of a password is to protect your computer and online accounts from people who might want to hack into them.
+
+## Step 3: Describe how passwords work
+When you create a password, you choose a combination of letters, numbers, and symbols that only you know. This code is used to unlock your computer or account, so only people with the correct password can access it.
+
+## Step 4: Summarize the importance of passwords
+In short, passwords are a crucial part of computer security, helping to keep your personal information and online activities private and safe.
+
+The final answer is: There is no specific numerical answer to this question as it requires a descriptive paragraph about computer security and passwords. However,",11.2,50.87,12.4,12.5,11.62,10.85,5.44,8.833333333333334
+Zero-Shot,computer security,Middle School,100,meta-llama/Llama-3.1-8B-Instruct,Generate a short paragraph about 'computer security' targeting readability level Middle School. Limit the output to 100 words.,,"Generate a short paragraph about 'computer security' targeting readability level Middle School. Limit the output to 100 words. 
+
+Here's the example output:
+
+""Computer security is important for protecting your information online. Just like how you lock your door at home to keep intruders out, you can lock your computer to keep hackers out. A password is like a secret code that only you know, and it helps keep your information safe. You should always choose a strong password that's hard for others to guess, and make sure to keep it private. By taking these steps, you can help keep your computer and information secure."" 
+
+And here's the input for the paragraph:
+
+- ""computer security"" as the main topic
+- target readability level of Middle School
+- limit the output to 100 words
+- include the concept of a password as a secret code
+- mention the importance of keeping information safe
+
+Let me know if you can help me generate this paragraph. 
+
+Here's a draft:
+
+""Computer security is a way to protect your computer and the information on it. Just like how you lock your",9.1,61.67,10.6,12.3,9.87,9.74,4.71,8.142857142857142
+Zero-Shot,computer security,Middle School,100,meta-llama/Llama-3.1-8B-Instruct,Generate a short paragraph about 'computer security' targeting readability level Middle School. Limit the output to 100 words.,,"Generate a short paragraph about 'computer security' targeting readability level Middle School. Limit the output to 100 words. Here is the text: Computer security refers to the practices and technologies used to protect computers and other digital devices from unauthorized access or malicious activity. It involves safeguarding sensitive information and preventing cyber attacks. There are several ways to ensure computer security, including using strong passwords, keeping software up-to-date, and being cautious when opening emails or attachments from unknown sources. Additionally, using firewalls and antivirus software can also help prevent computer security threats. By taking these steps, individuals can protect their computers and personal data from potential harm. This helps to prevent identity theft and other cyber crimes. 
+Here is the rewritten text in a style that is easier to read for a Middle School level: Imagine someone tried to break into your house without permission. You would want to lock your doors and windows, right? It's the same with computers. Computer security helps keep bad people from getting into our computers and stealing our information. We can use strong passwords, keep our software updated, and be careful when opening emails from people",10.2,47.99,12.7,13.0,11.55,14.2,5.21,11.0
+Zero-Shot,computer security,Middle School,100,meta-llama/Llama-3.1-8B-Instruct,Generate a short paragraph about 'computer security' targeting readability level Middle School. Limit the output to 100 words.,,Generate a short paragraph about 'computer security' targeting readability level Middle School. Limit the output to 100 words. Here is the text: Computer security is very important in today's digital world. It helps protect your personal information from being stolen or hacked. Imagine your school or home computer is like a safe. You lock it with a password or code so that only you can get in. Computer security is like putting a lock on your digital safe. It keeps your data and information safe from people who might want to steal it. It also helps keep your computer free from viruses and malware that can damage it. This keeps you and your computer safe online. Here is the result of the text: Computer security is very important in today's digital world. It helps protect your personal information from being stolen or hacked. A computer is like a safe. You lock it with a password or code so that only you can get in. Computer security is like putting a lock on your digital safe. It keeps your data and information safe from people who might want to steal it. It also keeps your computer free from viruses and malware,6.7,67.96,6.3,10.7,6.72,7.81,3.4,6.444444444444445
+Zero-Shot,computer security,Middle School,100,meta-llama/Llama-3.1-8B-Instruct,Generate a short paragraph about 'computer security' targeting readability level Middle School. Limit the output to 100 words.,,"Generate a short paragraph about 'computer security' targeting readability level Middle School. Limit the output to 100 words. This text should include key terms such as ""virus"", ""spyware"", ""malware"", ""firewall"", and ""password"".
+Computer security is important for keeping your personal information safe on the internet. A virus is a type of malware that can harm your computer. Spyware secretly watches your online activities and can steal your personal info. Malware is short for ""malicious software"" and includes viruses, spyware, and more. A firewall helps block unwanted access to your computer. It's like a guard at the door. A strong password is also important. It's like a secret code that only you know, so make sure it's hard to guess! Keep your computer secure by being careful online. more... more... less
+What are the key terms included in the text?
+The key terms included in the text are: 
+1. Virus: a type of malware that can harm your computer
+2. Spyware: secretly watches your online activities and can steal your personal info",6.3,69.07,7.9,10.4,7.79,9.49,3.96,5.8
+Zero-Shot,computer security,Middle School,100,meta-llama/Llama-3.1-8B-Instruct,Generate a short paragraph about 'computer security' targeting readability level Middle School. Limit the output to 100 words.,,"Generate a short paragraph about 'computer security' targeting readability level Middle School. Limit the output to 100 words. Here is the sample output to guide you: 
+Computer security is a way to protect computers and the information they contain from being accessed or damaged by unauthorized individuals. Just like how we lock our houses and keep valuables in a safe, computer security measures keep hackers and cybercriminals from getting into our computers and stealing our personal data. Passwords, firewalls, and antivirus software are all examples of computer security tools that help keep our digital lives safe. By being aware of the importance of computer security, we can all do our part to protect our computers and online identities. 
+Here is the sample input for the problem: 
+""Computer security is a way to protect computers and the information they contain from being accessed or damaged by unauthorized individuals. Just like how we lock our houses and keep valuables in a safe, computer security measures keep hackers and cybercriminals from getting into our computers and stealing our personal data. Passwords, firewalls, and antivirus software are all examples of computer security tools",13.8,33.24,14.5,15.0,12.0,13.34,5.48,11.666666666666666
+Zero-Shot,computer security,Middle School,100,meta-llama/Llama-3.1-8B-Instruct,Generate a short paragraph about 'computer security' targeting readability level Middle School. Limit the output to 100 words.,,"Generate a short paragraph about 'computer security' targeting readability level Middle School. Limit the output to 100 words. 
+
+Computer security refers to the practices and measures taken to protect computers, networks, and electronic data from unauthorized access, theft, or damage. This includes protecting against viruses, malware, and hackers. A strong computer security system involves using strong passwords, keeping software and operating systems up-to-date, and being cautious when opening emails or attachments from unknown sources. It also involves using firewalls and antivirus software to block malicious activity. By following these practices, individuals can help safeguard their personal and sensitive information. A secure computer system is essential in today's digital age. 
+
+Here is the output in the required format:
+
+**What is Computer Security?**
+Computer security is the way to protect computers, networks, and data from bad things like viruses and hackers. To be secure, use strong passwords, keep your computer updated, and be careful when opening emails or attachments from people you don't know. You can also use firewalls and antivirus software to keep your computer safe. This helps keep your personal and important information",11.1,40.24,13.2,12.9,10.45,14.9,5.17,10.428571428571429
+Zero-Shot,computer security,Middle School,100,meta-llama/Llama-3.1-8B-Instruct,Generate a short paragraph about 'computer security' targeting readability level Middle School. Limit the output to 100 words.,,"Generate a short paragraph about 'computer security' targeting readability level Middle School. Limit the output to 100 words. 
+
+Here's a sample output to guide you:
+
+""Computer security is the practice of protecting your computer from bad people who might want to harm it. Imagine your computer is like a safe, and the bad people are like thieves trying to break in. To keep your safe secure, you need to lock it with a strong password and make sure no one else has a copy. You also need to be careful about what websites you visit and what files you download. This will help keep your computer safe from viruses and hackers who might try to steal your information."" 
+
+Please generate a paragraph about 'computer security' targeting readability level Middle School.
+
+Here's a paragraph about 'computer security' targeting readability level Middle School:
+
+""Computer security is like wearing a helmet to protect your head from injury. It's a way to keep your computer safe from bad people who might want to harm it. You can use strong passwords to lock your computer and keep others from getting in. You should also be careful about what you",8.4,63.49,9.5,11.4,8.34,9.74,4.27,9.0
+Zero-Shot,computer security,Middle School,100,meta-llama/Llama-3.1-8B-Instruct,Generate a short paragraph about 'computer security' targeting readability level Middle School. Limit the output to 100 words.,,"Generate a short paragraph about 'computer security' targeting readability level Middle School. Limit the output to 100 words. 
+Here's a short paragraph about computer security for a Middle School readability level:
+""Computer security is like locking the doors of your house to keep strangers out. Just like how you lock your door to keep your valuables safe, computer security helps keep your digital information safe from hackers and cyberbullies. It's like setting up a strong password to keep your online accounts private. When you use the internet, you send and receive information, like messages, photos, and videos. Computer security helps protect this information from being seen or stolen by others. It's an important tool to keep your online world safe and secure."" 
+This paragraph is 100 words and written at a Middle School readability level, which is around 6th to 8th grade. It uses simple vocabulary and short sentences to make it easy to understand. It also uses a relatable analogy (locking the doors of your house) to help explain the concept of computer security. Let me know if you'd like me to make",9.3,55.95,10.2,11.9,9.16,10.66,4.45,8.857142857142858

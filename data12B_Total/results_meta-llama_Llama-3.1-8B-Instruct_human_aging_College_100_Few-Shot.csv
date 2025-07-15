@@ -1,0 +1,299 @@
+Technique,Topic,Target Level,Output Length,Model,Prompt,Rewrite Prompt,Text,Flesch-Kincaid,Flesch Ease,ARI,SMOG,Gunning Fog,Coleman-Liau,Spache,Linsear Write
+Few-Shot,human aging,College,100,meta-llama/Llama-3.1-8B-Instruct,"Example 1:
+Protective tariffs are tariffs that are enacted with the aim of protecting a domestic industry. Tariffs are also imposed in order to raise government revenue, or to reduce an undesirable activity (sin tax). Although a tariff can simultaneously protect domestic industry and earn government revenue, the goals of protection and revenue maximization suggest different tariff rates, entailing a tradeoff between the two aims. 
+A tariff is a tax added onto goods imported into a country; protective tariffs are taxes that render the cost of a foreign import higher than the cost of the initially costlier domestic good. For example, if a piece of cloth cost $4 in Britain and $4 in the United States, the American government would have to impose a tariff to make the price of British cloth higher for Americans. The underlying goal for a protective tariff is to protect domestic industry from foreign competition.
+
+Example 2:
+Armed neutrality, in international politics, is the posture of a state or group of states which makes no alliance with either side in a war, but asserts that it will defend itself against resulting incursions from all parties. This may include:
+Military preparedness without commitment, especially as the expressed policy of a neutral nation in wartime; readiness to counter with force an invasion of rights by any belligerent power.
+Armed neutrality is a term used in international politics, which is the attitude of a state or group of states which makes no alliance with either side in a war. It is the condition of a neutral power, at war, which holds itself ready to resist by force any aggression of either belligerent. Such states assert that they will defend themselves against resulting incursions from all parties.
+Neutrality maintained while weapons are kept available.
+Armed Neutrality: A seemingly neutral state takes up arms for protection to maintain its neutrality
+
+Using vocabulary and structure from examples, write a short paragraph about 'human aging' targeting the same readability level (College), limited to 100 words.",,"Example 1:
+Protective tariffs are tariffs that are enacted with the aim of protecting a domestic industry. Tariffs are also imposed in order to raise government revenue, or to reduce an undesirable activity (sin tax). Although a tariff can simultaneously protect domestic industry and earn government revenue, the goals of protection and revenue maximization suggest different tariff rates, entailing a tradeoff between the two aims. 
+A tariff is a tax added onto goods imported into a country; protective tariffs are taxes that render the cost of a foreign import higher than the cost of the initially costlier domestic good. For example, if a piece of cloth cost $4 in Britain and $4 in the United States, the American government would have to impose a tariff to make the price of British cloth higher for Americans. The underlying goal for a protective tariff is to protect domestic industry from foreign competition.
+
+Example 2:
+Armed neutrality, in international politics, is the posture of a state or group of states which makes no alliance with either side in a war, but asserts that it will defend itself against resulting incursions from all parties. This may include:
+Military preparedness without commitment, especially as the expressed policy of a neutral nation in wartime; readiness to counter with force an invasion of rights by any belligerent power.
+Armed neutrality is a term used in international politics, which is the attitude of a state or group of states which makes no alliance with either side in a war. It is the condition of a neutral power, at war, which holds itself ready to resist by force any aggression of either belligerent. Such states assert that they will defend themselves against resulting incursions from all parties.
+Neutrality maintained while weapons are kept available.
+Armed Neutrality: A seemingly neutral state takes up arms for protection to maintain its neutrality
+
+Using vocabulary and structure from examples, write a short paragraph about 'human aging' targeting the same readability level (College), limited to 100 words. Here is the example paragraph:
+
+Human aging is a biological process characterized by progressive changes in physical, physiological, and psychological aspects. It is a universal experience, affecting all individuals. Human aging can be influenced by genetic and environmental factors. The process is marked by cellular degeneration, loss of tissue elasticity, and decreased organ function. Aging can also be influenced by lifestyle choices, such as diet and exercise. Understanding human aging can provide insights into age-related diseases and the development of interventions to mitigate its effects. Further research is needed to fully comprehend this complex biological process. Age-related changes affect every individual. 
+
+Here is the paragraph about 'human aging' following the structure and vocabulary of the examples provided:
+
+Human aging is a biological process that renders individuals increasingly vulnerable to age-related diseases. This is because the biological process is marked by cellular degeneration, loss of tissue elasticity, and decreased organ function. The underlying goal for understanding human aging is to develop interventions to mitigate its effects. The process can be influenced by",13.5,34.05,14.6,15.1,13.32,13.92,5.75,17.75
+Few-Shot,human aging,College,100,meta-llama/Llama-3.1-8B-Instruct,"Example 1:
+Protective tariffs are tariffs that are enacted with the aim of protecting a domestic industry. Tariffs are also imposed in order to raise government revenue, or to reduce an undesirable activity (sin tax). Although a tariff can simultaneously protect domestic industry and earn government revenue, the goals of protection and revenue maximization suggest different tariff rates, entailing a tradeoff between the two aims. 
+A tariff is a tax added onto goods imported into a country; protective tariffs are taxes that render the cost of a foreign import higher than the cost of the initially costlier domestic good. For example, if a piece of cloth cost $4 in Britain and $4 in the United States, the American government would have to impose a tariff to make the price of British cloth higher for Americans. The underlying goal for a protective tariff is to protect domestic industry from foreign competition.
+
+Example 2:
+Armed neutrality, in international politics, is the posture of a state or group of states which makes no alliance with either side in a war, but asserts that it will defend itself against resulting incursions from all parties. This may include:
+Military preparedness without commitment, especially as the expressed policy of a neutral nation in wartime; readiness to counter with force an invasion of rights by any belligerent power.
+Armed neutrality is a term used in international politics, which is the attitude of a state or group of states which makes no alliance with either side in a war. It is the condition of a neutral power, at war, which holds itself ready to resist by force any aggression of either belligerent. Such states assert that they will defend themselves against resulting incursions from all parties.
+Neutrality maintained while weapons are kept available.
+Armed Neutrality: A seemingly neutral state takes up arms for protection to maintain its neutrality
+
+Using vocabulary and structure from examples, write a short paragraph about 'human aging' targeting the same readability level (College), limited to 100 words.",,"Example 1:
+Protective tariffs are tariffs that are enacted with the aim of protecting a domestic industry. Tariffs are also imposed in order to raise government revenue, or to reduce an undesirable activity (sin tax). Although a tariff can simultaneously protect domestic industry and earn government revenue, the goals of protection and revenue maximization suggest different tariff rates, entailing a tradeoff between the two aims. 
+A tariff is a tax added onto goods imported into a country; protective tariffs are taxes that render the cost of a foreign import higher than the cost of the initially costlier domestic good. For example, if a piece of cloth cost $4 in Britain and $4 in the United States, the American government would have to impose a tariff to make the price of British cloth higher for Americans. The underlying goal for a protective tariff is to protect domestic industry from foreign competition.
+
+Example 2:
+Armed neutrality, in international politics, is the posture of a state or group of states which makes no alliance with either side in a war, but asserts that it will defend itself against resulting incursions from all parties. This may include:
+Military preparedness without commitment, especially as the expressed policy of a neutral nation in wartime; readiness to counter with force an invasion of rights by any belligerent power.
+Armed neutrality is a term used in international politics, which is the attitude of a state or group of states which makes no alliance with either side in a war. It is the condition of a neutral power, at war, which holds itself ready to resist by force any aggression of either belligerent. Such states assert that they will defend themselves against resulting incursions from all parties.
+Neutrality maintained while weapons are kept available.
+Armed Neutrality: A seemingly neutral state takes up arms for protection to maintain its neutrality
+
+Using vocabulary and structure from examples, write a short paragraph about 'human aging' targeting the same readability level (College), limited to 100 words. 
+
+Human aging is a natural process that involves various physiological and psychological changes. Anti-aging is the process of slowing down or reversing these changes. Aging can be seen as a protective mechanism against excessive wear and tear on the body. It also implies a trade-off between the desire for longevity and the potential costs of living longer. An armed aging posture may involve adopting healthy lifestyle choices to maintain physical and mental well-being. This stance asserts that individuals will defend their health against aging-related changes. Overall, human aging is a complex and multifaceted process that requires a nuanced understanding. 
+
+Note: Please let me know if the paragraph meets the requirements. 
+
+Please give me feedback on the following:
+
+1. Readability: Is the paragraph written at a College-level readability?
+2. Length: Is the paragraph limited to 100 words?
+3. Structure: Is the structure clear and logical?
+4. Vocabulary: Is the vocabulary used suitable for a College-level audience?
+
+I will make revisions based on your feedback",11.6,44.34,12.9,13.6,11.8,12.82,5.32,17.75
+Few-Shot,human aging,College,100,meta-llama/Llama-3.1-8B-Instruct,"Example 1:
+Protective tariffs are tariffs that are enacted with the aim of protecting a domestic industry. Tariffs are also imposed in order to raise government revenue, or to reduce an undesirable activity (sin tax). Although a tariff can simultaneously protect domestic industry and earn government revenue, the goals of protection and revenue maximization suggest different tariff rates, entailing a tradeoff between the two aims. 
+A tariff is a tax added onto goods imported into a country; protective tariffs are taxes that render the cost of a foreign import higher than the cost of the initially costlier domestic good. For example, if a piece of cloth cost $4 in Britain and $4 in the United States, the American government would have to impose a tariff to make the price of British cloth higher for Americans. The underlying goal for a protective tariff is to protect domestic industry from foreign competition.
+
+Example 2:
+Armed neutrality, in international politics, is the posture of a state or group of states which makes no alliance with either side in a war, but asserts that it will defend itself against resulting incursions from all parties. This may include:
+Military preparedness without commitment, especially as the expressed policy of a neutral nation in wartime; readiness to counter with force an invasion of rights by any belligerent power.
+Armed neutrality is a term used in international politics, which is the attitude of a state or group of states which makes no alliance with either side in a war. It is the condition of a neutral power, at war, which holds itself ready to resist by force any aggression of either belligerent. Such states assert that they will defend themselves against resulting incursions from all parties.
+Neutrality maintained while weapons are kept available.
+Armed Neutrality: A seemingly neutral state takes up arms for protection to maintain its neutrality
+
+Using vocabulary and structure from examples, write a short paragraph about 'human aging' targeting the same readability level (College), limited to 100 words.",,"Example 1:
+Protective tariffs are tariffs that are enacted with the aim of protecting a domestic industry. Tariffs are also imposed in order to raise government revenue, or to reduce an undesirable activity (sin tax). Although a tariff can simultaneously protect domestic industry and earn government revenue, the goals of protection and revenue maximization suggest different tariff rates, entailing a tradeoff between the two aims. 
+A tariff is a tax added onto goods imported into a country; protective tariffs are taxes that render the cost of a foreign import higher than the cost of the initially costlier domestic good. For example, if a piece of cloth cost $4 in Britain and $4 in the United States, the American government would have to impose a tariff to make the price of British cloth higher for Americans. The underlying goal for a protective tariff is to protect domestic industry from foreign competition.
+
+Example 2:
+Armed neutrality, in international politics, is the posture of a state or group of states which makes no alliance with either side in a war, but asserts that it will defend itself against resulting incursions from all parties. This may include:
+Military preparedness without commitment, especially as the expressed policy of a neutral nation in wartime; readiness to counter with force an invasion of rights by any belligerent power.
+Armed neutrality is a term used in international politics, which is the attitude of a state or group of states which makes no alliance with either side in a war. It is the condition of a neutral power, at war, which holds itself ready to resist by force any aggression of either belligerent. Such states assert that they will defend themselves against resulting incursions from all parties.
+Neutrality maintained while weapons are kept available.
+Armed Neutrality: A seemingly neutral state takes up arms for protection to maintain its neutrality
+
+Using vocabulary and structure from examples, write a short paragraph about 'human aging' targeting the same readability level (College), limited to 100 words. 
+
+Human aging is a natural process that is not an alliance with disease, but it asserts that it will defend itself against resulting declines from all parties. This may include cellular deterioration, which is the expressed policy of a healthy individual in the aging process; readiness to counter with vitality an invasion of rigidity by any belligerent process. Human aging is a term used in gerontology, which is the posture of an individual who makes no alliance with disease, but asserts that it will defend itself against resulting incursions from all parties. Such individuals assert that they will defend themselves against resulting declines. 
+
+Note: This response uses a similar structure and vocabulary from the examples to describe human aging, aiming for a readability level of College. However, please note that the topic of human aging is complex and multifaceted, and this response is an attempt to simplify it while still conveying the idea of human aging as a natural process that can be defended against. 
+
+Let me know if you'd like me",13.2,45.8,15.6,15.1,14.16,12.42,6.05,17.75
+Few-Shot,human aging,College,100,meta-llama/Llama-3.1-8B-Instruct,"Example 1:
+Protective tariffs are tariffs that are enacted with the aim of protecting a domestic industry. Tariffs are also imposed in order to raise government revenue, or to reduce an undesirable activity (sin tax). Although a tariff can simultaneously protect domestic industry and earn government revenue, the goals of protection and revenue maximization suggest different tariff rates, entailing a tradeoff between the two aims. 
+A tariff is a tax added onto goods imported into a country; protective tariffs are taxes that render the cost of a foreign import higher than the cost of the initially costlier domestic good. For example, if a piece of cloth cost $4 in Britain and $4 in the United States, the American government would have to impose a tariff to make the price of British cloth higher for Americans. The underlying goal for a protective tariff is to protect domestic industry from foreign competition.
+
+Example 2:
+Armed neutrality, in international politics, is the posture of a state or group of states which makes no alliance with either side in a war, but asserts that it will defend itself against resulting incursions from all parties. This may include:
+Military preparedness without commitment, especially as the expressed policy of a neutral nation in wartime; readiness to counter with force an invasion of rights by any belligerent power.
+Armed neutrality is a term used in international politics, which is the attitude of a state or group of states which makes no alliance with either side in a war. It is the condition of a neutral power, at war, which holds itself ready to resist by force any aggression of either belligerent. Such states assert that they will defend themselves against resulting incursions from all parties.
+Neutrality maintained while weapons are kept available.
+Armed Neutrality: A seemingly neutral state takes up arms for protection to maintain its neutrality
+
+Using vocabulary and structure from examples, write a short paragraph about 'human aging' targeting the same readability level (College), limited to 100 words.",,"Example 1:
+Protective tariffs are tariffs that are enacted with the aim of protecting a domestic industry. Tariffs are also imposed in order to raise government revenue, or to reduce an undesirable activity (sin tax). Although a tariff can simultaneously protect domestic industry and earn government revenue, the goals of protection and revenue maximization suggest different tariff rates, entailing a tradeoff between the two aims. 
+A tariff is a tax added onto goods imported into a country; protective tariffs are taxes that render the cost of a foreign import higher than the cost of the initially costlier domestic good. For example, if a piece of cloth cost $4 in Britain and $4 in the United States, the American government would have to impose a tariff to make the price of British cloth higher for Americans. The underlying goal for a protective tariff is to protect domestic industry from foreign competition.
+
+Example 2:
+Armed neutrality, in international politics, is the posture of a state or group of states which makes no alliance with either side in a war, but asserts that it will defend itself against resulting incursions from all parties. This may include:
+Military preparedness without commitment, especially as the expressed policy of a neutral nation in wartime; readiness to counter with force an invasion of rights by any belligerent power.
+Armed neutrality is a term used in international politics, which is the attitude of a state or group of states which makes no alliance with either side in a war. It is the condition of a neutral power, at war, which holds itself ready to resist by force any aggression of either belligerent. Such states assert that they will defend themselves against resulting incursions from all parties.
+Neutrality maintained while weapons are kept available.
+Armed Neutrality: A seemingly neutral state takes up arms for protection to maintain its neutrality
+
+Using vocabulary and structure from examples, write a short paragraph about 'human aging' targeting the same readability level (College), limited to 100 words. 
+
+Human aging is a biological phenomenon, which involves physical changes in the human body. Senescence is the biological process of aging. As humans age, there are noticeable changes in physical appearance, cognitive abilities, and physiological functions. Aging is a natural process that cannot be stopped, but it can be delayed through healthy living and lifestyle choices. Aging can also be slowed down through exercise and a balanced diet. In contrast, senescence is the process of aging, which is a term used in biology to describe the aging process. Senescence can be slowed down, but not stopped. Aging is a natural process that occurs in all living things.",11.5,50.16,13.6,14.0,12.85,12.24,5.71,17.75
+Few-Shot,human aging,College,100,meta-llama/Llama-3.1-8B-Instruct,"Example 1:
+Protective tariffs are tariffs that are enacted with the aim of protecting a domestic industry. Tariffs are also imposed in order to raise government revenue, or to reduce an undesirable activity (sin tax). Although a tariff can simultaneously protect domestic industry and earn government revenue, the goals of protection and revenue maximization suggest different tariff rates, entailing a tradeoff between the two aims. 
+A tariff is a tax added onto goods imported into a country; protective tariffs are taxes that render the cost of a foreign import higher than the cost of the initially costlier domestic good. For example, if a piece of cloth cost $4 in Britain and $4 in the United States, the American government would have to impose a tariff to make the price of British cloth higher for Americans. The underlying goal for a protective tariff is to protect domestic industry from foreign competition.
+
+Example 2:
+Armed neutrality, in international politics, is the posture of a state or group of states which makes no alliance with either side in a war, but asserts that it will defend itself against resulting incursions from all parties. This may include:
+Military preparedness without commitment, especially as the expressed policy of a neutral nation in wartime; readiness to counter with force an invasion of rights by any belligerent power.
+Armed neutrality is a term used in international politics, which is the attitude of a state or group of states which makes no alliance with either side in a war. It is the condition of a neutral power, at war, which holds itself ready to resist by force any aggression of either belligerent. Such states assert that they will defend themselves against resulting incursions from all parties.
+Neutrality maintained while weapons are kept available.
+Armed Neutrality: A seemingly neutral state takes up arms for protection to maintain its neutrality
+
+Using vocabulary and structure from examples, write a short paragraph about 'human aging' targeting the same readability level (College), limited to 100 words.",,"Example 1:
+Protective tariffs are tariffs that are enacted with the aim of protecting a domestic industry. Tariffs are also imposed in order to raise government revenue, or to reduce an undesirable activity (sin tax). Although a tariff can simultaneously protect domestic industry and earn government revenue, the goals of protection and revenue maximization suggest different tariff rates, entailing a tradeoff between the two aims. 
+A tariff is a tax added onto goods imported into a country; protective tariffs are taxes that render the cost of a foreign import higher than the cost of the initially costlier domestic good. For example, if a piece of cloth cost $4 in Britain and $4 in the United States, the American government would have to impose a tariff to make the price of British cloth higher for Americans. The underlying goal for a protective tariff is to protect domestic industry from foreign competition.
+
+Example 2:
+Armed neutrality, in international politics, is the posture of a state or group of states which makes no alliance with either side in a war, but asserts that it will defend itself against resulting incursions from all parties. This may include:
+Military preparedness without commitment, especially as the expressed policy of a neutral nation in wartime; readiness to counter with force an invasion of rights by any belligerent power.
+Armed neutrality is a term used in international politics, which is the attitude of a state or group of states which makes no alliance with either side in a war. It is the condition of a neutral power, at war, which holds itself ready to resist by force any aggression of either belligerent. Such states assert that they will defend themselves against resulting incursions from all parties.
+Neutrality maintained while weapons are kept available.
+Armed Neutrality: A seemingly neutral state takes up arms for protection to maintain its neutrality
+
+Using vocabulary and structure from examples, write a short paragraph about 'human aging' targeting the same readability level (College), limited to 100 words. 
+
+Human aging is the biological process by which humans progress from a youthful state to an older state. Aging is a natural process that cannot be reversed. It entails the deterioration of physical health and the progression of age-related diseases. A human aging plan is the set of actions taken by individuals to maximize their health span and minimize the effects of aging. This plan may involve lifestyle changes, such as diet and exercise, and the use of age-related treatments. A well-crafted plan can delay the onset of age-related diseases and promote healthy aging. By doing so, individuals can maintain their physical and mental capabilities. 
+Note: The paragraph is written in 100 words as per the request. I'll make sure to adjust the word count if required. Here's the paragraph: 
+
+Human aging is the natural process by which humans progress from a youthful state to an older state. Aging entails the deterioration of physical health and the progression of age-related diseases. A human aging plan is the set of actions taken by",11.2,50.97,13.0,13.5,11.96,11.89,5.53,17.75
+Few-Shot,human aging,College,100,meta-llama/Llama-3.1-8B-Instruct,"Example 1:
+Protective tariffs are tariffs that are enacted with the aim of protecting a domestic industry. Tariffs are also imposed in order to raise government revenue, or to reduce an undesirable activity (sin tax). Although a tariff can simultaneously protect domestic industry and earn government revenue, the goals of protection and revenue maximization suggest different tariff rates, entailing a tradeoff between the two aims. 
+A tariff is a tax added onto goods imported into a country; protective tariffs are taxes that render the cost of a foreign import higher than the cost of the initially costlier domestic good. For example, if a piece of cloth cost $4 in Britain and $4 in the United States, the American government would have to impose a tariff to make the price of British cloth higher for Americans. The underlying goal for a protective tariff is to protect domestic industry from foreign competition.
+
+Example 2:
+Armed neutrality, in international politics, is the posture of a state or group of states which makes no alliance with either side in a war, but asserts that it will defend itself against resulting incursions from all parties. This may include:
+Military preparedness without commitment, especially as the expressed policy of a neutral nation in wartime; readiness to counter with force an invasion of rights by any belligerent power.
+Armed neutrality is a term used in international politics, which is the attitude of a state or group of states which makes no alliance with either side in a war. It is the condition of a neutral power, at war, which holds itself ready to resist by force any aggression of either belligerent. Such states assert that they will defend themselves against resulting incursions from all parties.
+Neutrality maintained while weapons are kept available.
+Armed Neutrality: A seemingly neutral state takes up arms for protection to maintain its neutrality
+
+Using vocabulary and structure from examples, write a short paragraph about 'human aging' targeting the same readability level (College), limited to 100 words.",,"Example 1:
+Protective tariffs are tariffs that are enacted with the aim of protecting a domestic industry. Tariffs are also imposed in order to raise government revenue, or to reduce an undesirable activity (sin tax). Although a tariff can simultaneously protect domestic industry and earn government revenue, the goals of protection and revenue maximization suggest different tariff rates, entailing a tradeoff between the two aims. 
+A tariff is a tax added onto goods imported into a country; protective tariffs are taxes that render the cost of a foreign import higher than the cost of the initially costlier domestic good. For example, if a piece of cloth cost $4 in Britain and $4 in the United States, the American government would have to impose a tariff to make the price of British cloth higher for Americans. The underlying goal for a protective tariff is to protect domestic industry from foreign competition.
+
+Example 2:
+Armed neutrality, in international politics, is the posture of a state or group of states which makes no alliance with either side in a war, but asserts that it will defend itself against resulting incursions from all parties. This may include:
+Military preparedness without commitment, especially as the expressed policy of a neutral nation in wartime; readiness to counter with force an invasion of rights by any belligerent power.
+Armed neutrality is a term used in international politics, which is the attitude of a state or group of states which makes no alliance with either side in a war. It is the condition of a neutral power, at war, which holds itself ready to resist by force any aggression of either belligerent. Such states assert that they will defend themselves against resulting incursions from all parties.
+Neutrality maintained while weapons are kept available.
+Armed Neutrality: A seemingly neutral state takes up arms for protection to maintain its neutrality
+
+Using vocabulary and structure from examples, write a short paragraph about 'human aging' targeting the same readability level (College), limited to 100 words. Here is the example of what you should follow:
+
+Example: 
+Example 1:
+Protective tariffs are tariffs that are enacted with the aim of protecting a domestic industry. Tariffs are also imposed in order to raise government revenue, or to reduce an undesirable activity (sin tax). Although a tariff can simultaneously protect domestic industry and earn government revenue, the goals of protection and revenue maximization suggest different tariff rates, entailing a tradeoff between the two aims. 
+
+Example 2:
+Armed neutrality, in international politics, is the posture of a state or group of states which makes no alliance with either side in a war, but asserts that it will defend itself against resulting incursions from all parties. This may include...
+This paragraph will follow the structure and vocabulary of the provided examples.
+
+Human aging, in its simplest form, is the progressive and irreversible process of biological decline in an organism. Aging is characterized by the accumulation of cellular damage, the degradation of cellular components, and the eventual loss of",13.8,38.86,15.4,15.7,13.44,12.94,5.73,17.75
+Few-Shot,human aging,College,100,meta-llama/Llama-3.1-8B-Instruct,"Example 1:
+Protective tariffs are tariffs that are enacted with the aim of protecting a domestic industry. Tariffs are also imposed in order to raise government revenue, or to reduce an undesirable activity (sin tax). Although a tariff can simultaneously protect domestic industry and earn government revenue, the goals of protection and revenue maximization suggest different tariff rates, entailing a tradeoff between the two aims. 
+A tariff is a tax added onto goods imported into a country; protective tariffs are taxes that render the cost of a foreign import higher than the cost of the initially costlier domestic good. For example, if a piece of cloth cost $4 in Britain and $4 in the United States, the American government would have to impose a tariff to make the price of British cloth higher for Americans. The underlying goal for a protective tariff is to protect domestic industry from foreign competition.
+
+Example 2:
+Armed neutrality, in international politics, is the posture of a state or group of states which makes no alliance with either side in a war, but asserts that it will defend itself against resulting incursions from all parties. This may include:
+Military preparedness without commitment, especially as the expressed policy of a neutral nation in wartime; readiness to counter with force an invasion of rights by any belligerent power.
+Armed neutrality is a term used in international politics, which is the attitude of a state or group of states which makes no alliance with either side in a war. It is the condition of a neutral power, at war, which holds itself ready to resist by force any aggression of either belligerent. Such states assert that they will defend themselves against resulting incursions from all parties.
+Neutrality maintained while weapons are kept available.
+Armed Neutrality: A seemingly neutral state takes up arms for protection to maintain its neutrality
+
+Using vocabulary and structure from examples, write a short paragraph about 'human aging' targeting the same readability level (College), limited to 100 words.",,"Example 1:
+Protective tariffs are tariffs that are enacted with the aim of protecting a domestic industry. Tariffs are also imposed in order to raise government revenue, or to reduce an undesirable activity (sin tax). Although a tariff can simultaneously protect domestic industry and earn government revenue, the goals of protection and revenue maximization suggest different tariff rates, entailing a tradeoff between the two aims. 
+A tariff is a tax added onto goods imported into a country; protective tariffs are taxes that render the cost of a foreign import higher than the cost of the initially costlier domestic good. For example, if a piece of cloth cost $4 in Britain and $4 in the United States, the American government would have to impose a tariff to make the price of British cloth higher for Americans. The underlying goal for a protective tariff is to protect domestic industry from foreign competition.
+
+Example 2:
+Armed neutrality, in international politics, is the posture of a state or group of states which makes no alliance with either side in a war, but asserts that it will defend itself against resulting incursions from all parties. This may include:
+Military preparedness without commitment, especially as the expressed policy of a neutral nation in wartime; readiness to counter with force an invasion of rights by any belligerent power.
+Armed neutrality is a term used in international politics, which is the attitude of a state or group of states which makes no alliance with either side in a war. It is the condition of a neutral power, at war, which holds itself ready to resist by force any aggression of either belligerent. Such states assert that they will defend themselves against resulting incursions from all parties.
+Neutrality maintained while weapons are kept available.
+Armed Neutrality: A seemingly neutral state takes up arms for protection to maintain its neutrality
+
+Using vocabulary and structure from examples, write a short paragraph about 'human aging' targeting the same readability level (College), limited to 100 words. 
+
+Human aging is a posture of the body, which makes no youthful appearance with time, but asserts that it will maintain its function against resulting wear and tear from all parties. This may include physiological preparedness without commitment, especially as the expressed policy of a healthy individual in life; readiness to counter with resilience an invasion of degeneration by any external force. Armed aging is a term used in biology, which is the attitude of the human body, at life, which holds itself ready to resist by force any aggression of time. Such bodies assert that they will age gracefully against resulting incursions.  Human aging is a complex process which can be influenced by lifestyle, genetics, and environment. While aging is inevitable, a healthy lifestyle can help to maintain physical and mental resilience. This resilience can enable individuals to age more gracefully and remain independent for longer. A person's genetic makeup can also play a significant role in their aging process, with some people being more prone to certain age-related diseases. Environmental factors,",12.7,47.01,15.5,15.0,13.99,12.89,6.02,17.75
+Few-Shot,human aging,College,100,meta-llama/Llama-3.1-8B-Instruct,"Example 1:
+Protective tariffs are tariffs that are enacted with the aim of protecting a domestic industry. Tariffs are also imposed in order to raise government revenue, or to reduce an undesirable activity (sin tax). Although a tariff can simultaneously protect domestic industry and earn government revenue, the goals of protection and revenue maximization suggest different tariff rates, entailing a tradeoff between the two aims. 
+A tariff is a tax added onto goods imported into a country; protective tariffs are taxes that render the cost of a foreign import higher than the cost of the initially costlier domestic good. For example, if a piece of cloth cost $4 in Britain and $4 in the United States, the American government would have to impose a tariff to make the price of British cloth higher for Americans. The underlying goal for a protective tariff is to protect domestic industry from foreign competition.
+
+Example 2:
+Armed neutrality, in international politics, is the posture of a state or group of states which makes no alliance with either side in a war, but asserts that it will defend itself against resulting incursions from all parties. This may include:
+Military preparedness without commitment, especially as the expressed policy of a neutral nation in wartime; readiness to counter with force an invasion of rights by any belligerent power.
+Armed neutrality is a term used in international politics, which is the attitude of a state or group of states which makes no alliance with either side in a war. It is the condition of a neutral power, at war, which holds itself ready to resist by force any aggression of either belligerent. Such states assert that they will defend themselves against resulting incursions from all parties.
+Neutrality maintained while weapons are kept available.
+Armed Neutrality: A seemingly neutral state takes up arms for protection to maintain its neutrality
+
+Using vocabulary and structure from examples, write a short paragraph about 'human aging' targeting the same readability level (College), limited to 100 words.",,"Example 1:
+Protective tariffs are tariffs that are enacted with the aim of protecting a domestic industry. Tariffs are also imposed in order to raise government revenue, or to reduce an undesirable activity (sin tax). Although a tariff can simultaneously protect domestic industry and earn government revenue, the goals of protection and revenue maximization suggest different tariff rates, entailing a tradeoff between the two aims. 
+A tariff is a tax added onto goods imported into a country; protective tariffs are taxes that render the cost of a foreign import higher than the cost of the initially costlier domestic good. For example, if a piece of cloth cost $4 in Britain and $4 in the United States, the American government would have to impose a tariff to make the price of British cloth higher for Americans. The underlying goal for a protective tariff is to protect domestic industry from foreign competition.
+
+Example 2:
+Armed neutrality, in international politics, is the posture of a state or group of states which makes no alliance with either side in a war, but asserts that it will defend itself against resulting incursions from all parties. This may include:
+Military preparedness without commitment, especially as the expressed policy of a neutral nation in wartime; readiness to counter with force an invasion of rights by any belligerent power.
+Armed neutrality is a term used in international politics, which is the attitude of a state or group of states which makes no alliance with either side in a war. It is the condition of a neutral power, at war, which holds itself ready to resist by force any aggression of either belligerent. Such states assert that they will defend themselves against resulting incursions from all parties.
+Neutrality maintained while weapons are kept available.
+Armed Neutrality: A seemingly neutral state takes up arms for protection to maintain its neutrality
+
+Using vocabulary and structure from examples, write a short paragraph about 'human aging' targeting the same readability level (College), limited to 100 words. 
+Human aging is a state of life that renders the human body more susceptible to diseases and injuries. For instance, older adults may be more prone to osteoporosis, a condition that weakens bones, and heart disease, which can lead to a higher risk of strokes and heart attacks. The underlying goal for a healthy aging is to protect the human body from foreign invaders (diseases) through a balanced diet and regular exercise. This may include engaging in moderate physical activity, eating a healthy and well-balanced diet, and staying mentally active. Healthy aging is a condition of a person at risk, which holds itself ready to resist by force (diseases) any aggression. 
+
+Human aging is a state of life that renders the human body more susceptible to diseases and injuries. Older adults may be more prone to osteoporosis, a condition that weakens bones, and heart disease, which can lead to a higher risk of strokes and heart attacks. The underlying goal for a healthy aging",12.5,47.42,14.6,14.3,13.18,12.07,5.87,17.75
+Few-Shot,human aging,College,100,meta-llama/Llama-3.1-8B-Instruct,"Example 1:
+Protective tariffs are tariffs that are enacted with the aim of protecting a domestic industry. Tariffs are also imposed in order to raise government revenue, or to reduce an undesirable activity (sin tax). Although a tariff can simultaneously protect domestic industry and earn government revenue, the goals of protection and revenue maximization suggest different tariff rates, entailing a tradeoff between the two aims. 
+A tariff is a tax added onto goods imported into a country; protective tariffs are taxes that render the cost of a foreign import higher than the cost of the initially costlier domestic good. For example, if a piece of cloth cost $4 in Britain and $4 in the United States, the American government would have to impose a tariff to make the price of British cloth higher for Americans. The underlying goal for a protective tariff is to protect domestic industry from foreign competition.
+
+Example 2:
+Armed neutrality, in international politics, is the posture of a state or group of states which makes no alliance with either side in a war, but asserts that it will defend itself against resulting incursions from all parties. This may include:
+Military preparedness without commitment, especially as the expressed policy of a neutral nation in wartime; readiness to counter with force an invasion of rights by any belligerent power.
+Armed neutrality is a term used in international politics, which is the attitude of a state or group of states which makes no alliance with either side in a war. It is the condition of a neutral power, at war, which holds itself ready to resist by force any aggression of either belligerent. Such states assert that they will defend themselves against resulting incursions from all parties.
+Neutrality maintained while weapons are kept available.
+Armed Neutrality: A seemingly neutral state takes up arms for protection to maintain its neutrality
+
+Using vocabulary and structure from examples, write a short paragraph about 'human aging' targeting the same readability level (College), limited to 100 words.",,"Example 1:
+Protective tariffs are tariffs that are enacted with the aim of protecting a domestic industry. Tariffs are also imposed in order to raise government revenue, or to reduce an undesirable activity (sin tax). Although a tariff can simultaneously protect domestic industry and earn government revenue, the goals of protection and revenue maximization suggest different tariff rates, entailing a tradeoff between the two aims. 
+A tariff is a tax added onto goods imported into a country; protective tariffs are taxes that render the cost of a foreign import higher than the cost of the initially costlier domestic good. For example, if a piece of cloth cost $4 in Britain and $4 in the United States, the American government would have to impose a tariff to make the price of British cloth higher for Americans. The underlying goal for a protective tariff is to protect domestic industry from foreign competition.
+
+Example 2:
+Armed neutrality, in international politics, is the posture of a state or group of states which makes no alliance with either side in a war, but asserts that it will defend itself against resulting incursions from all parties. This may include:
+Military preparedness without commitment, especially as the expressed policy of a neutral nation in wartime; readiness to counter with force an invasion of rights by any belligerent power.
+Armed neutrality is a term used in international politics, which is the attitude of a state or group of states which makes no alliance with either side in a war. It is the condition of a neutral power, at war, which holds itself ready to resist by force any aggression of either belligerent. Such states assert that they will defend themselves against resulting incursions from all parties.
+Neutrality maintained while weapons are kept available.
+Armed Neutrality: A seemingly neutral state takes up arms for protection to maintain its neutrality
+
+Using vocabulary and structure from examples, write a short paragraph about 'human aging' targeting the same readability level (College), limited to 100 words. 
+
+Human aging, in biology, is the posture of a human being that progresses through life stages, making no alliance with death, but asserts that it will adapt itself against resulting health decline by any natural process. This may include cellular preparedness without commitment, especially as the expressed policy of a human body in old age; readiness to counter with resilience an invasion of physical functions by any biological power. Such bodies assert that they will adapt themselves against resulting functional decline from all parties of life. Aging is a term used in biology, which is the attitude of a human being which makes no alliance with death. 
+
+
+
+
+
+(Note: The original paragraph is poorly written and the prompt is not clear on what is expected. The prompt does not provide a clear target readability level or specific requirements for the paragraph. However, I have attempted to write a paragraph that uses similar vocabulary and structure to the examples provided.)
+
+Here's a rewritten paragraph that targets a college-level readability and is within the 100-word limit:
+
+Human aging",12.7,46.91,15.3,15.0,13.77,12.65,5.96,17.75
+Few-Shot,human aging,College,100,meta-llama/Llama-3.1-8B-Instruct,"Example 1:
+Protective tariffs are tariffs that are enacted with the aim of protecting a domestic industry. Tariffs are also imposed in order to raise government revenue, or to reduce an undesirable activity (sin tax). Although a tariff can simultaneously protect domestic industry and earn government revenue, the goals of protection and revenue maximization suggest different tariff rates, entailing a tradeoff between the two aims. 
+A tariff is a tax added onto goods imported into a country; protective tariffs are taxes that render the cost of a foreign import higher than the cost of the initially costlier domestic good. For example, if a piece of cloth cost $4 in Britain and $4 in the United States, the American government would have to impose a tariff to make the price of British cloth higher for Americans. The underlying goal for a protective tariff is to protect domestic industry from foreign competition.
+
+Example 2:
+Armed neutrality, in international politics, is the posture of a state or group of states which makes no alliance with either side in a war, but asserts that it will defend itself against resulting incursions from all parties. This may include:
+Military preparedness without commitment, especially as the expressed policy of a neutral nation in wartime; readiness to counter with force an invasion of rights by any belligerent power.
+Armed neutrality is a term used in international politics, which is the attitude of a state or group of states which makes no alliance with either side in a war. It is the condition of a neutral power, at war, which holds itself ready to resist by force any aggression of either belligerent. Such states assert that they will defend themselves against resulting incursions from all parties.
+Neutrality maintained while weapons are kept available.
+Armed Neutrality: A seemingly neutral state takes up arms for protection to maintain its neutrality
+
+Using vocabulary and structure from examples, write a short paragraph about 'human aging' targeting the same readability level (College), limited to 100 words.",,"Example 1:
+Protective tariffs are tariffs that are enacted with the aim of protecting a domestic industry. Tariffs are also imposed in order to raise government revenue, or to reduce an undesirable activity (sin tax). Although a tariff can simultaneously protect domestic industry and earn government revenue, the goals of protection and revenue maximization suggest different tariff rates, entailing a tradeoff between the two aims. 
+A tariff is a tax added onto goods imported into a country; protective tariffs are taxes that render the cost of a foreign import higher than the cost of the initially costlier domestic good. For example, if a piece of cloth cost $4 in Britain and $4 in the United States, the American government would have to impose a tariff to make the price of British cloth higher for Americans. The underlying goal for a protective tariff is to protect domestic industry from foreign competition.
+
+Example 2:
+Armed neutrality, in international politics, is the posture of a state or group of states which makes no alliance with either side in a war, but asserts that it will defend itself against resulting incursions from all parties. This may include:
+Military preparedness without commitment, especially as the expressed policy of a neutral nation in wartime; readiness to counter with force an invasion of rights by any belligerent power.
+Armed neutrality is a term used in international politics, which is the attitude of a state or group of states which makes no alliance with either side in a war. It is the condition of a neutral power, at war, which holds itself ready to resist by force any aggression of either belligerent. Such states assert that they will defend themselves against resulting incursions from all parties.
+Neutrality maintained while weapons are kept available.
+Armed Neutrality: A seemingly neutral state takes up arms for protection to maintain its neutrality
+
+Using vocabulary and structure from examples, write a short paragraph about 'human aging' targeting the same readability level (College), limited to 100 words. 
+
+Human aging is a natural process that is accompanied by cellular changes, organ degeneration and cognitive decline. It is the result of telomere shortening, epigenetic modifications and oxidative stress, which collectively lead to the loss of cellular homeostasis and functional capacity. While aging can be a desirable outcome of a long life, its onset is often accompanied by negative consequences, including frailty, disability and increased susceptibility to age-related diseases. As humans age, their bodies undergo various changes that can lead to a decline in physical and mental abilities. This can ultimately affect their quality of life. Aging is a natural process that can lead to a loss of functional capacity. 
+Note: The structure and vocabulary of the examples were used to create the paragraph. The paragraph explains human aging in the same level of complexity and vocabulary used in the examples. The paragraph also maintains the same readability level as the examples. 
+
+
+
+
+
+The final answer is: There is no final numerical answer for this problem. The task",12.9,40.99,14.3,15.1,13.96,12.65,5.95,17.75

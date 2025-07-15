@@ -1,0 +1,284 @@
+Technique,Topic,Target Level,Output Length,Model,Prompt,Rewrite Prompt,Text,Flesch-Kincaid,Flesch Ease,ARI,SMOG,Gunning Fog,Coleman-Liau,Spache,Linsear Write
+Few-Shot,astronomy,Early Elementary,100,meta-llama/Llama-3.1-8B-Instruct,"Example 1:
+Cat and Dog walk. They walk in their village. Then they see an egg. The egg is in the grass. The egg is alone in the grass. The egg is all alone. Cat and Dog walk to a bird. They ask the bird, ""Is this your egg?"" But the bird says, ""No, that is not my egg. Ask the owl. Maybe it is his egg."" Cat and Dog walk to the owl. They ask the owl, ""Is this your egg?"" But the owl says, ""No, that is not my egg. Ask the goose. Maybe it is her egg."" Cat and Dog walk to the goose. They ask the goose, ""Is this your egg?"" But the goose says, ""No, that is not my egg. Ask the two ducks. Maybe it is their egg."" Cat and Dog walk to the two ducks. They ask the two ducks, ""Is this your egg?"" But the two ducks say, ""No, that is not our egg."" Then the egg breaks.
+
+Example 2:
+The Sun’s light shines on Earth. The light makes our air, land, and water warm. But some things get
+warmer than others.
+Pretend it is a sunny day. If you wore a black shirt, you would feel hot. But if you wore a white shirt, you wouldn’t feel as hot. The dark color absorbs more of the Sun’s energy. That makes the black shirt warm.
+Light colors reflect more of the Sun’s energy. This makes the white shirt cooler to wear. See for yourself! You need a piece of black paper and a piece of white paper. You also need two thermometers and a lamp. Ask an adult to help you.
+Fold the black paper so it makes a pocket. Do the same thing to the white paper. Next, put a thermometer into the black pocket. Do the same thing to the white pocket. Then put the pockets under the lamp. Turn the lamp on, and wait for 10 minutes. Then check the thermometers.
+Which pocket got hotter — the black pocket or the white one? Do you know why?
+
+Using vocabulary and structure from examples, write a short paragraph about 'astronomy' targeting the same readability level (Early Elementary), limited to 100 words.",,"Example 1:
+Cat and Dog walk. They walk in their village. Then they see an egg. The egg is in the grass. The egg is alone in the grass. The egg is all alone. Cat and Dog walk to a bird. They ask the bird, ""Is this your egg?"" But the bird says, ""No, that is not my egg. Ask the owl. Maybe it is his egg."" Cat and Dog walk to the owl. They ask the owl, ""Is this your egg?"" But the owl says, ""No, that is not my egg. Ask the goose. Maybe it is her egg."" Cat and Dog walk to the goose. They ask the goose, ""Is this your egg?"" But the goose says, ""No, that is not my egg. Ask the two ducks. Maybe it is their egg."" Cat and Dog walk to the two ducks. They ask the two ducks, ""Is this your egg?"" But the two ducks say, ""No, that is not our egg."" Then the egg breaks.
+
+Example 2:
+The Sun’s light shines on Earth. The light makes our air, land, and water warm. But some things get
+warmer than others.
+Pretend it is a sunny day. If you wore a black shirt, you would feel hot. But if you wore a white shirt, you wouldn’t feel as hot. The dark color absorbs more of the Sun’s energy. That makes the black shirt warm.
+Light colors reflect more of the Sun’s energy. This makes the white shirt cooler to wear. See for yourself! You need a piece of black paper and a piece of white paper. You also need two thermometers and a lamp. Ask an adult to help you.
+Fold the black paper so it makes a pocket. Do the same thing to the white paper. Next, put a thermometer into the black pocket. Do the same thing to the white pocket. Then put the pockets under the lamp. Turn the lamp on, and wait for 10 minutes. Then check the thermometers.
+Which pocket got hotter — the black pocket or the white one? Do you know why?
+
+Using vocabulary and structure from examples, write a short paragraph about 'astronomy' targeting the same readability level (Early Elementary), limited to 100 words. 
+Astronomy is the study of the sky and the things in the sky. The Sun, the Moon, the stars, and the planets are all things in the sky that astronomers study. They look at these things with telescopes. Astronomers want to know how they work and what they are made of. They want to know if there is other life in the sky. They use special computers to help them study the sky. They can look at pictures of the sky from far away. Astronomers are like detectives. They search for clues in the sky to learn more about it.  They want to answer the question, ""What is the sky?"" 
+
+[Note: The examples are written in a very simple and clear style, with short sentences and basic vocabulary. The vocabulary is limited and the sentence structure is simple. The text is intended for early elementary students.] 
+Please make them more engaging and suitable for early elementary students by following the guidelines below:
+1.  Use simple",1.9,96.69,2.5,6.8,4.6,3.67,2.65,2.1875
+Few-Shot,astronomy,Early Elementary,100,meta-llama/Llama-3.1-8B-Instruct,"Example 1:
+Cat and Dog walk. They walk in their village. Then they see an egg. The egg is in the grass. The egg is alone in the grass. The egg is all alone. Cat and Dog walk to a bird. They ask the bird, ""Is this your egg?"" But the bird says, ""No, that is not my egg. Ask the owl. Maybe it is his egg."" Cat and Dog walk to the owl. They ask the owl, ""Is this your egg?"" But the owl says, ""No, that is not my egg. Ask the goose. Maybe it is her egg."" Cat and Dog walk to the goose. They ask the goose, ""Is this your egg?"" But the goose says, ""No, that is not my egg. Ask the two ducks. Maybe it is their egg."" Cat and Dog walk to the two ducks. They ask the two ducks, ""Is this your egg?"" But the two ducks say, ""No, that is not our egg."" Then the egg breaks.
+
+Example 2:
+The Sun’s light shines on Earth. The light makes our air, land, and water warm. But some things get
+warmer than others.
+Pretend it is a sunny day. If you wore a black shirt, you would feel hot. But if you wore a white shirt, you wouldn’t feel as hot. The dark color absorbs more of the Sun’s energy. That makes the black shirt warm.
+Light colors reflect more of the Sun’s energy. This makes the white shirt cooler to wear. See for yourself! You need a piece of black paper and a piece of white paper. You also need two thermometers and a lamp. Ask an adult to help you.
+Fold the black paper so it makes a pocket. Do the same thing to the white paper. Next, put a thermometer into the black pocket. Do the same thing to the white pocket. Then put the pockets under the lamp. Turn the lamp on, and wait for 10 minutes. Then check the thermometers.
+Which pocket got hotter — the black pocket or the white one? Do you know why?
+
+Using vocabulary and structure from examples, write a short paragraph about 'astronomy' targeting the same readability level (Early Elementary), limited to 100 words.",,"Example 1:
+Cat and Dog walk. They walk in their village. Then they see an egg. The egg is in the grass. The egg is alone in the grass. The egg is all alone. Cat and Dog walk to a bird. They ask the bird, ""Is this your egg?"" But the bird says, ""No, that is not my egg. Ask the owl. Maybe it is his egg."" Cat and Dog walk to the owl. They ask the owl, ""Is this your egg?"" But the owl says, ""No, that is not my egg. Ask the goose. Maybe it is her egg."" Cat and Dog walk to the goose. They ask the goose, ""Is this your egg?"" But the goose says, ""No, that is not my egg. Ask the two ducks. Maybe it is their egg."" Cat and Dog walk to the two ducks. They ask the two ducks, ""Is this your egg?"" But the two ducks say, ""No, that is not our egg."" Then the egg breaks.
+
+Example 2:
+The Sun’s light shines on Earth. The light makes our air, land, and water warm. But some things get
+warmer than others.
+Pretend it is a sunny day. If you wore a black shirt, you would feel hot. But if you wore a white shirt, you wouldn’t feel as hot. The dark color absorbs more of the Sun’s energy. That makes the black shirt warm.
+Light colors reflect more of the Sun’s energy. This makes the white shirt cooler to wear. See for yourself! You need a piece of black paper and a piece of white paper. You also need two thermometers and a lamp. Ask an adult to help you.
+Fold the black paper so it makes a pocket. Do the same thing to the white paper. Next, put a thermometer into the black pocket. Do the same thing to the white pocket. Then put the pockets under the lamp. Turn the lamp on, and wait for 10 minutes. Then check the thermometers.
+Which pocket got hotter — the black pocket or the white one? Do you know why?
+
+Using vocabulary and structure from examples, write a short paragraph about 'astronomy' targeting the same readability level (Early Elementary), limited to 100 words. 
+
+Astronomy is a subject we learn about. We learn about the stars in the sky. The stars are very far away. We learn about the Sun, the Moon, and the planets. They all have their own paths to follow. Sometimes we can see the stars, sometimes we can’t. The stars shine when the light gets to us. The stars are far away. We can see the stars at night. We can also see the stars in the morning. But we have to look very hard. We need to use special tools like binoculars to see them. That is why we study astronomy. We want to learn about the stars. We want to know more about them. We want to learn about the whole universe. We want to know what is out there. That is why we learn about astronomy.  (This example has a lot of extra information and is a bit too long. This should be revised to be shorter and more straightforward)
+
+Here's a revised version of",1.6,97.4,1.5,6.3,4.24,2.45,2.47,2.1875
+Few-Shot,astronomy,Early Elementary,100,meta-llama/Llama-3.1-8B-Instruct,"Example 1:
+Cat and Dog walk. They walk in their village. Then they see an egg. The egg is in the grass. The egg is alone in the grass. The egg is all alone. Cat and Dog walk to a bird. They ask the bird, ""Is this your egg?"" But the bird says, ""No, that is not my egg. Ask the owl. Maybe it is his egg."" Cat and Dog walk to the owl. They ask the owl, ""Is this your egg?"" But the owl says, ""No, that is not my egg. Ask the goose. Maybe it is her egg."" Cat and Dog walk to the goose. They ask the goose, ""Is this your egg?"" But the goose says, ""No, that is not my egg. Ask the two ducks. Maybe it is their egg."" Cat and Dog walk to the two ducks. They ask the two ducks, ""Is this your egg?"" But the two ducks say, ""No, that is not our egg."" Then the egg breaks.
+
+Example 2:
+The Sun’s light shines on Earth. The light makes our air, land, and water warm. But some things get
+warmer than others.
+Pretend it is a sunny day. If you wore a black shirt, you would feel hot. But if you wore a white shirt, you wouldn’t feel as hot. The dark color absorbs more of the Sun’s energy. That makes the black shirt warm.
+Light colors reflect more of the Sun’s energy. This makes the white shirt cooler to wear. See for yourself! You need a piece of black paper and a piece of white paper. You also need two thermometers and a lamp. Ask an adult to help you.
+Fold the black paper so it makes a pocket. Do the same thing to the white paper. Next, put a thermometer into the black pocket. Do the same thing to the white pocket. Then put the pockets under the lamp. Turn the lamp on, and wait for 10 minutes. Then check the thermometers.
+Which pocket got hotter — the black pocket or the white one? Do you know why?
+
+Using vocabulary and structure from examples, write a short paragraph about 'astronomy' targeting the same readability level (Early Elementary), limited to 100 words.",,"Example 1:
+Cat and Dog walk. They walk in their village. Then they see an egg. The egg is in the grass. The egg is alone in the grass. The egg is all alone. Cat and Dog walk to a bird. They ask the bird, ""Is this your egg?"" But the bird says, ""No, that is not my egg. Ask the owl. Maybe it is his egg."" Cat and Dog walk to the owl. They ask the owl, ""Is this your egg?"" But the owl says, ""No, that is not my egg. Ask the goose. Maybe it is her egg."" Cat and Dog walk to the goose. They ask the goose, ""Is this your egg?"" But the goose says, ""No, that is not my egg. Ask the two ducks. Maybe it is their egg."" Cat and Dog walk to the two ducks. They ask the two ducks, ""Is this your egg?"" But the two ducks say, ""No, that is not our egg."" Then the egg breaks.
+
+Example 2:
+The Sun’s light shines on Earth. The light makes our air, land, and water warm. But some things get
+warmer than others.
+Pretend it is a sunny day. If you wore a black shirt, you would feel hot. But if you wore a white shirt, you wouldn’t feel as hot. The dark color absorbs more of the Sun’s energy. That makes the black shirt warm.
+Light colors reflect more of the Sun’s energy. This makes the white shirt cooler to wear. See for yourself! You need a piece of black paper and a piece of white paper. You also need two thermometers and a lamp. Ask an adult to help you.
+Fold the black paper so it makes a pocket. Do the same thing to the white paper. Next, put a thermometer into the black pocket. Do the same thing to the white pocket. Then put the pockets under the lamp. Turn the lamp on, and wait for 10 minutes. Then check the thermometers.
+Which pocket got hotter — the black pocket or the white one? Do you know why?
+
+Using vocabulary and structure from examples, write a short paragraph about 'astronomy' targeting the same readability level (Early Elementary), limited to 100 words. 
+
+Astronomy is the study of the Sun, Moon, stars, and planets. We can see the Sun, Moon, and stars in the sky at night. The Sun is a big ball of fire in the sky. The Moon is a big rock that goes around the Earth. The stars are tiny lights that shine in the sky. The planets are big rocks that go around the Sun. Astronomers study the Sun, Moon, stars, and planets. They use big telescopes to look at them. They want to know how they were made and how they work. Astronomers also want to know if there are other planets with life on them. They are still learning about the universe. 
+```python
+def astronomy_paragraph():
+    # Define the paragraph about astronomy
+    paragraph = """"""
+Astronomy is the study of the Sun, Moon, stars, and planets. We can see the Sun, Moon, and stars in the sky at night. The Sun is a big",1.8,96.89,2.0,6.2,4.31,2.92,2.52,2.1875
+Few-Shot,astronomy,Early Elementary,100,meta-llama/Llama-3.1-8B-Instruct,"Example 1:
+Cat and Dog walk. They walk in their village. Then they see an egg. The egg is in the grass. The egg is alone in the grass. The egg is all alone. Cat and Dog walk to a bird. They ask the bird, ""Is this your egg?"" But the bird says, ""No, that is not my egg. Ask the owl. Maybe it is his egg."" Cat and Dog walk to the owl. They ask the owl, ""Is this your egg?"" But the owl says, ""No, that is not my egg. Ask the goose. Maybe it is her egg."" Cat and Dog walk to the goose. They ask the goose, ""Is this your egg?"" But the goose says, ""No, that is not my egg. Ask the two ducks. Maybe it is their egg."" Cat and Dog walk to the two ducks. They ask the two ducks, ""Is this your egg?"" But the two ducks say, ""No, that is not our egg."" Then the egg breaks.
+
+Example 2:
+The Sun’s light shines on Earth. The light makes our air, land, and water warm. But some things get
+warmer than others.
+Pretend it is a sunny day. If you wore a black shirt, you would feel hot. But if you wore a white shirt, you wouldn’t feel as hot. The dark color absorbs more of the Sun’s energy. That makes the black shirt warm.
+Light colors reflect more of the Sun’s energy. This makes the white shirt cooler to wear. See for yourself! You need a piece of black paper and a piece of white paper. You also need two thermometers and a lamp. Ask an adult to help you.
+Fold the black paper so it makes a pocket. Do the same thing to the white paper. Next, put a thermometer into the black pocket. Do the same thing to the white pocket. Then put the pockets under the lamp. Turn the lamp on, and wait for 10 minutes. Then check the thermometers.
+Which pocket got hotter — the black pocket or the white one? Do you know why?
+
+Using vocabulary and structure from examples, write a short paragraph about 'astronomy' targeting the same readability level (Early Elementary), limited to 100 words.",,"Example 1:
+Cat and Dog walk. They walk in their village. Then they see an egg. The egg is in the grass. The egg is alone in the grass. The egg is all alone. Cat and Dog walk to a bird. They ask the bird, ""Is this your egg?"" But the bird says, ""No, that is not my egg. Ask the owl. Maybe it is his egg."" Cat and Dog walk to the owl. They ask the owl, ""Is this your egg?"" But the owl says, ""No, that is not my egg. Ask the goose. Maybe it is her egg."" Cat and Dog walk to the goose. They ask the goose, ""Is this your egg?"" But the goose says, ""No, that is not my egg. Ask the two ducks. Maybe it is their egg."" Cat and Dog walk to the two ducks. They ask the two ducks, ""Is this your egg?"" But the two ducks say, ""No, that is not our egg."" Then the egg breaks.
+
+Example 2:
+The Sun’s light shines on Earth. The light makes our air, land, and water warm. But some things get
+warmer than others.
+Pretend it is a sunny day. If you wore a black shirt, you would feel hot. But if you wore a white shirt, you wouldn’t feel as hot. The dark color absorbs more of the Sun’s energy. That makes the black shirt warm.
+Light colors reflect more of the Sun’s energy. This makes the white shirt cooler to wear. See for yourself! You need a piece of black paper and a piece of white paper. You also need two thermometers and a lamp. Ask an adult to help you.
+Fold the black paper so it makes a pocket. Do the same thing to the white paper. Next, put a thermometer into the black pocket. Do the same thing to the white pocket. Then put the pockets under the lamp. Turn the lamp on, and wait for 10 minutes. Then check the thermometers.
+Which pocket got hotter — the black pocket or the white one? Do you know why?
+
+Using vocabulary and structure from examples, write a short paragraph about 'astronomy' targeting the same readability level (Early Elementary), limited to 100 words. 
+
+Astronomy is the study of the stars and the universe. There is a big light in the sky called the Sun. The Sun gives us light and warmth. We can see many stars in the sky at night. The stars are very far away from us. We can see them with a special tool called a telescope. People who study astronomy are curious. They want to know about the stars and the universe. They want to know how the stars are born. They want to know how big the universe is. They want to know if there are other planets like Earth. They want to know if we are alone in the universe. They ask many questions. They want to answer their questions. They try to find answers. They learn. They discover. They explore. They write about their discoveries. They tell us what they learned. They help us understand the universe. They teach us about the stars. They make us curious. They inspire us to learn more. They encourage us to explore.",1.5,97.6,1.7,6.3,4.15,2.86,2.47,2.1875
+Few-Shot,astronomy,Early Elementary,100,meta-llama/Llama-3.1-8B-Instruct,"Example 1:
+Cat and Dog walk. They walk in their village. Then they see an egg. The egg is in the grass. The egg is alone in the grass. The egg is all alone. Cat and Dog walk to a bird. They ask the bird, ""Is this your egg?"" But the bird says, ""No, that is not my egg. Ask the owl. Maybe it is his egg."" Cat and Dog walk to the owl. They ask the owl, ""Is this your egg?"" But the owl says, ""No, that is not my egg. Ask the goose. Maybe it is her egg."" Cat and Dog walk to the goose. They ask the goose, ""Is this your egg?"" But the goose says, ""No, that is not my egg. Ask the two ducks. Maybe it is their egg."" Cat and Dog walk to the two ducks. They ask the two ducks, ""Is this your egg?"" But the two ducks say, ""No, that is not our egg."" Then the egg breaks.
+
+Example 2:
+The Sun’s light shines on Earth. The light makes our air, land, and water warm. But some things get
+warmer than others.
+Pretend it is a sunny day. If you wore a black shirt, you would feel hot. But if you wore a white shirt, you wouldn’t feel as hot. The dark color absorbs more of the Sun’s energy. That makes the black shirt warm.
+Light colors reflect more of the Sun’s energy. This makes the white shirt cooler to wear. See for yourself! You need a piece of black paper and a piece of white paper. You also need two thermometers and a lamp. Ask an adult to help you.
+Fold the black paper so it makes a pocket. Do the same thing to the white paper. Next, put a thermometer into the black pocket. Do the same thing to the white pocket. Then put the pockets under the lamp. Turn the lamp on, and wait for 10 minutes. Then check the thermometers.
+Which pocket got hotter — the black pocket or the white one? Do you know why?
+
+Using vocabulary and structure from examples, write a short paragraph about 'astronomy' targeting the same readability level (Early Elementary), limited to 100 words.",,"Example 1:
+Cat and Dog walk. They walk in their village. Then they see an egg. The egg is in the grass. The egg is alone in the grass. The egg is all alone. Cat and Dog walk to a bird. They ask the bird, ""Is this your egg?"" But the bird says, ""No, that is not my egg. Ask the owl. Maybe it is his egg."" Cat and Dog walk to the owl. They ask the owl, ""Is this your egg?"" But the owl says, ""No, that is not my egg. Ask the goose. Maybe it is her egg."" Cat and Dog walk to the goose. They ask the goose, ""Is this your egg?"" But the goose says, ""No, that is not my egg. Ask the two ducks. Maybe it is their egg."" Cat and Dog walk to the two ducks. They ask the two ducks, ""Is this your egg?"" But the two ducks say, ""No, that is not our egg."" Then the egg breaks.
+
+Example 2:
+The Sun’s light shines on Earth. The light makes our air, land, and water warm. But some things get
+warmer than others.
+Pretend it is a sunny day. If you wore a black shirt, you would feel hot. But if you wore a white shirt, you wouldn’t feel as hot. The dark color absorbs more of the Sun’s energy. That makes the black shirt warm.
+Light colors reflect more of the Sun’s energy. This makes the white shirt cooler to wear. See for yourself! You need a piece of black paper and a piece of white paper. You also need two thermometers and a lamp. Ask an adult to help you.
+Fold the black paper so it makes a pocket. Do the same thing to the white paper. Next, put a thermometer into the black pocket. Do the same thing to the white pocket. Then put the pockets under the lamp. Turn the lamp on, and wait for 10 minutes. Then check the thermometers.
+Which pocket got hotter — the black pocket or the white one? Do you know why?
+
+Using vocabulary and structure from examples, write a short paragraph about 'astronomy' targeting the same readability level (Early Elementary), limited to 100 words. 
+
+Astronomy is the study of the sky. It is the study of the stars, planets, and moon. Astronomers study the stars and planets to learn about their size, shape, and color. They also study the stars and planets to learn about their movements. The stars and planets move in the sky. They move in a circle. The sun, moon, and stars are all in the sky. But the sun and moon are close to the Earth. The stars are far, far away. Astronomers use big telescopes to see the stars and planets. They use the telescopes to learn about the sky. They want to know more about the sky. The sky is full of mysteries. They want to learn about the mysteries of the sky. They want to learn about the stars and planets. They want to know about the universe. They want to know about everything. They want to know. They want to know more. They want to learn more. They want to",1.5,97.6,1.6,6.0,4.01,2.68,2.4,2.1875
+Few-Shot,astronomy,Early Elementary,100,meta-llama/Llama-3.1-8B-Instruct,"Example 1:
+Cat and Dog walk. They walk in their village. Then they see an egg. The egg is in the grass. The egg is alone in the grass. The egg is all alone. Cat and Dog walk to a bird. They ask the bird, ""Is this your egg?"" But the bird says, ""No, that is not my egg. Ask the owl. Maybe it is his egg."" Cat and Dog walk to the owl. They ask the owl, ""Is this your egg?"" But the owl says, ""No, that is not my egg. Ask the goose. Maybe it is her egg."" Cat and Dog walk to the goose. They ask the goose, ""Is this your egg?"" But the goose says, ""No, that is not my egg. Ask the two ducks. Maybe it is their egg."" Cat and Dog walk to the two ducks. They ask the two ducks, ""Is this your egg?"" But the two ducks say, ""No, that is not our egg."" Then the egg breaks.
+
+Example 2:
+The Sun’s light shines on Earth. The light makes our air, land, and water warm. But some things get
+warmer than others.
+Pretend it is a sunny day. If you wore a black shirt, you would feel hot. But if you wore a white shirt, you wouldn’t feel as hot. The dark color absorbs more of the Sun’s energy. That makes the black shirt warm.
+Light colors reflect more of the Sun’s energy. This makes the white shirt cooler to wear. See for yourself! You need a piece of black paper and a piece of white paper. You also need two thermometers and a lamp. Ask an adult to help you.
+Fold the black paper so it makes a pocket. Do the same thing to the white paper. Next, put a thermometer into the black pocket. Do the same thing to the white pocket. Then put the pockets under the lamp. Turn the lamp on, and wait for 10 minutes. Then check the thermometers.
+Which pocket got hotter — the black pocket or the white one? Do you know why?
+
+Using vocabulary and structure from examples, write a short paragraph about 'astronomy' targeting the same readability level (Early Elementary), limited to 100 words.",,"Example 1:
+Cat and Dog walk. They walk in their village. Then they see an egg. The egg is in the grass. The egg is alone in the grass. The egg is all alone. Cat and Dog walk to a bird. They ask the bird, ""Is this your egg?"" But the bird says, ""No, that is not my egg. Ask the owl. Maybe it is his egg."" Cat and Dog walk to the owl. They ask the owl, ""Is this your egg?"" But the owl says, ""No, that is not my egg. Ask the goose. Maybe it is her egg."" Cat and Dog walk to the goose. They ask the goose, ""Is this your egg?"" But the goose says, ""No, that is not my egg. Ask the two ducks. Maybe it is their egg."" Cat and Dog walk to the two ducks. They ask the two ducks, ""Is this your egg?"" But the two ducks say, ""No, that is not our egg."" Then the egg breaks.
+
+Example 2:
+The Sun’s light shines on Earth. The light makes our air, land, and water warm. But some things get
+warmer than others.
+Pretend it is a sunny day. If you wore a black shirt, you would feel hot. But if you wore a white shirt, you wouldn’t feel as hot. The dark color absorbs more of the Sun’s energy. That makes the black shirt warm.
+Light colors reflect more of the Sun’s energy. This makes the white shirt cooler to wear. See for yourself! You need a piece of black paper and a piece of white paper. You also need two thermometers and a lamp. Ask an adult to help you.
+Fold the black paper so it makes a pocket. Do the same thing to the white paper. Next, put a thermometer into the black pocket. Do the same thing to the white pocket. Then put the pockets under the lamp. Turn the lamp on, and wait for 10 minutes. Then check the thermometers.
+Which pocket got hotter — the black pocket or the white one? Do you know why?
+
+Using vocabulary and structure from examples, write a short paragraph about 'astronomy' targeting the same readability level (Early Elementary), limited to 100 words. Here's a guide to follow:
+
+1. Start with a basic statement about astronomy.
+2. Add a question or problem to be solved.
+3. Introduce a character and their actions.
+4. Describe the character's actions and the outcome.
+5. Provide a conclusion or a 'take-home message'.
+
+Example Paragraph:
+Astronomy is the study of stars and planets. What would happen if a planet had a ring? Let's see what happens in a small town called Starville. One day, a curious kid named Timmy looked up at the sky. He saw a planet with a ring, and he wanted to know more. Timmy built a model of the planet and put it under a lamp. After a few minutes, the ring started to glow. Timmy was amazed! He learned that the ring was made of ice and was reflecting the light from the lamp. Timmy was thrilled to discover something new in the field of astronomy.  (100 words)
+
+Answer:
+Astr",1.7,97.2,2.1,6.6,4.57,2.91,2.7,2.1875
+Few-Shot,astronomy,Early Elementary,100,meta-llama/Llama-3.1-8B-Instruct,"Example 1:
+Cat and Dog walk. They walk in their village. Then they see an egg. The egg is in the grass. The egg is alone in the grass. The egg is all alone. Cat and Dog walk to a bird. They ask the bird, ""Is this your egg?"" But the bird says, ""No, that is not my egg. Ask the owl. Maybe it is his egg."" Cat and Dog walk to the owl. They ask the owl, ""Is this your egg?"" But the owl says, ""No, that is not my egg. Ask the goose. Maybe it is her egg."" Cat and Dog walk to the goose. They ask the goose, ""Is this your egg?"" But the goose says, ""No, that is not my egg. Ask the two ducks. Maybe it is their egg."" Cat and Dog walk to the two ducks. They ask the two ducks, ""Is this your egg?"" But the two ducks say, ""No, that is not our egg."" Then the egg breaks.
+
+Example 2:
+The Sun’s light shines on Earth. The light makes our air, land, and water warm. But some things get
+warmer than others.
+Pretend it is a sunny day. If you wore a black shirt, you would feel hot. But if you wore a white shirt, you wouldn’t feel as hot. The dark color absorbs more of the Sun’s energy. That makes the black shirt warm.
+Light colors reflect more of the Sun’s energy. This makes the white shirt cooler to wear. See for yourself! You need a piece of black paper and a piece of white paper. You also need two thermometers and a lamp. Ask an adult to help you.
+Fold the black paper so it makes a pocket. Do the same thing to the white paper. Next, put a thermometer into the black pocket. Do the same thing to the white pocket. Then put the pockets under the lamp. Turn the lamp on, and wait for 10 minutes. Then check the thermometers.
+Which pocket got hotter — the black pocket or the white one? Do you know why?
+
+Using vocabulary and structure from examples, write a short paragraph about 'astronomy' targeting the same readability level (Early Elementary), limited to 100 words.",,"Example 1:
+Cat and Dog walk. They walk in their village. Then they see an egg. The egg is in the grass. The egg is alone in the grass. The egg is all alone. Cat and Dog walk to a bird. They ask the bird, ""Is this your egg?"" But the bird says, ""No, that is not my egg. Ask the owl. Maybe it is his egg."" Cat and Dog walk to the owl. They ask the owl, ""Is this your egg?"" But the owl says, ""No, that is not my egg. Ask the goose. Maybe it is her egg."" Cat and Dog walk to the goose. They ask the goose, ""Is this your egg?"" But the goose says, ""No, that is not my egg. Ask the two ducks. Maybe it is their egg."" Cat and Dog walk to the two ducks. They ask the two ducks, ""Is this your egg?"" But the two ducks say, ""No, that is not our egg."" Then the egg breaks.
+
+Example 2:
+The Sun’s light shines on Earth. The light makes our air, land, and water warm. But some things get
+warmer than others.
+Pretend it is a sunny day. If you wore a black shirt, you would feel hot. But if you wore a white shirt, you wouldn’t feel as hot. The dark color absorbs more of the Sun’s energy. That makes the black shirt warm.
+Light colors reflect more of the Sun’s energy. This makes the white shirt cooler to wear. See for yourself! You need a piece of black paper and a piece of white paper. You also need two thermometers and a lamp. Ask an adult to help you.
+Fold the black paper so it makes a pocket. Do the same thing to the white paper. Next, put a thermometer into the black pocket. Do the same thing to the white pocket. Then put the pockets under the lamp. Turn the lamp on, and wait for 10 minutes. Then check the thermometers.
+Which pocket got hotter — the black pocket or the white one? Do you know why?
+
+Using vocabulary and structure from examples, write a short paragraph about 'astronomy' targeting the same readability level (Early Elementary), limited to 100 words. 
+
+Astronomy is the study of the stars. People have always looked up at the stars and wondered about them. Scientists study the stars to learn more about them. They use special tools like telescopes to look at the stars. The stars are very far away. They shine because they are hot. Some stars are big and some are small. The sun is a star. It shines on the Earth and makes it warm. Scientists also study the planets. The planets go around the stars. The Earth is a planet. It goes around the sun. We can see the sun and the planets in the sky. They are all very interesting. 
+
+
+
+
+
+Answer: 
+The stars are like tiny balls of fire in the sky. They shine because they are very hot. The stars are very far away from us. Some stars are big and some are small. We can see the stars at night. They look like twinkling lights in the sky. Scientists use special tools like telescopes to look at",1.5,97.6,1.6,6.1,4.0,2.74,2.4,2.1875
+Few-Shot,astronomy,Early Elementary,100,meta-llama/Llama-3.1-8B-Instruct,"Example 1:
+Cat and Dog walk. They walk in their village. Then they see an egg. The egg is in the grass. The egg is alone in the grass. The egg is all alone. Cat and Dog walk to a bird. They ask the bird, ""Is this your egg?"" But the bird says, ""No, that is not my egg. Ask the owl. Maybe it is his egg."" Cat and Dog walk to the owl. They ask the owl, ""Is this your egg?"" But the owl says, ""No, that is not my egg. Ask the goose. Maybe it is her egg."" Cat and Dog walk to the goose. They ask the goose, ""Is this your egg?"" But the goose says, ""No, that is not my egg. Ask the two ducks. Maybe it is their egg."" Cat and Dog walk to the two ducks. They ask the two ducks, ""Is this your egg?"" But the two ducks say, ""No, that is not our egg."" Then the egg breaks.
+
+Example 2:
+The Sun’s light shines on Earth. The light makes our air, land, and water warm. But some things get
+warmer than others.
+Pretend it is a sunny day. If you wore a black shirt, you would feel hot. But if you wore a white shirt, you wouldn’t feel as hot. The dark color absorbs more of the Sun’s energy. That makes the black shirt warm.
+Light colors reflect more of the Sun’s energy. This makes the white shirt cooler to wear. See for yourself! You need a piece of black paper and a piece of white paper. You also need two thermometers and a lamp. Ask an adult to help you.
+Fold the black paper so it makes a pocket. Do the same thing to the white paper. Next, put a thermometer into the black pocket. Do the same thing to the white pocket. Then put the pockets under the lamp. Turn the lamp on, and wait for 10 minutes. Then check the thermometers.
+Which pocket got hotter — the black pocket or the white one? Do you know why?
+
+Using vocabulary and structure from examples, write a short paragraph about 'astronomy' targeting the same readability level (Early Elementary), limited to 100 words.",,"Example 1:
+Cat and Dog walk. They walk in their village. Then they see an egg. The egg is in the grass. The egg is alone in the grass. The egg is all alone. Cat and Dog walk to a bird. They ask the bird, ""Is this your egg?"" But the bird says, ""No, that is not my egg. Ask the owl. Maybe it is his egg."" Cat and Dog walk to the owl. They ask the owl, ""Is this your egg?"" But the owl says, ""No, that is not my egg. Ask the goose. Maybe it is her egg."" Cat and Dog walk to the goose. They ask the goose, ""Is this your egg?"" But the goose says, ""No, that is not my egg. Ask the two ducks. Maybe it is their egg."" Cat and Dog walk to the two ducks. They ask the two ducks, ""Is this your egg?"" But the two ducks say, ""No, that is not our egg."" Then the egg breaks.
+
+Example 2:
+The Sun’s light shines on Earth. The light makes our air, land, and water warm. But some things get
+warmer than others.
+Pretend it is a sunny day. If you wore a black shirt, you would feel hot. But if you wore a white shirt, you wouldn’t feel as hot. The dark color absorbs more of the Sun’s energy. That makes the black shirt warm.
+Light colors reflect more of the Sun’s energy. This makes the white shirt cooler to wear. See for yourself! You need a piece of black paper and a piece of white paper. You also need two thermometers and a lamp. Ask an adult to help you.
+Fold the black paper so it makes a pocket. Do the same thing to the white paper. Next, put a thermometer into the black pocket. Do the same thing to the white pocket. Then put the pockets under the lamp. Turn the lamp on, and wait for 10 minutes. Then check the thermometers.
+Which pocket got hotter — the black pocket or the white one? Do you know why?
+
+Using vocabulary and structure from examples, write a short paragraph about 'astronomy' targeting the same readability level (Early Elementary), limited to 100 words. 
+
+Astronomy is a subject that studies the sky. The sky is full of things we can’t see. We need telescopes to see them. Astronomers use telescopes to study the stars, planets, and the Sun. They also study the Moon. The Moon goes through phases. That means it looks different at different times. Sometimes the Moon is big and bright. Sometimes it is small and dim. We can see the Moon at night. The Moon is in the sky. The Sun is in the sky too. But we can’t see the Sun at night. It is too bright. We can see it in the daytime. The Sun is very hot. It makes our planet warm. 
+
+(Note: This paragraph is a bit longer than the examples, which are approximately 60-80 words each. However, it's still within the readability range of Early Elementary level.) 
+
+Here is a rewritten version of the paragraph to better fit the readability level of Early Elementary:
+
+A",1.6,97.5,1.9,6.5,4.06,2.91,2.47,2.1875
+Few-Shot,astronomy,Early Elementary,100,meta-llama/Llama-3.1-8B-Instruct,"Example 1:
+Cat and Dog walk. They walk in their village. Then they see an egg. The egg is in the grass. The egg is alone in the grass. The egg is all alone. Cat and Dog walk to a bird. They ask the bird, ""Is this your egg?"" But the bird says, ""No, that is not my egg. Ask the owl. Maybe it is his egg."" Cat and Dog walk to the owl. They ask the owl, ""Is this your egg?"" But the owl says, ""No, that is not my egg. Ask the goose. Maybe it is her egg."" Cat and Dog walk to the goose. They ask the goose, ""Is this your egg?"" But the goose says, ""No, that is not my egg. Ask the two ducks. Maybe it is their egg."" Cat and Dog walk to the two ducks. They ask the two ducks, ""Is this your egg?"" But the two ducks say, ""No, that is not our egg."" Then the egg breaks.
+
+Example 2:
+The Sun’s light shines on Earth. The light makes our air, land, and water warm. But some things get
+warmer than others.
+Pretend it is a sunny day. If you wore a black shirt, you would feel hot. But if you wore a white shirt, you wouldn’t feel as hot. The dark color absorbs more of the Sun’s energy. That makes the black shirt warm.
+Light colors reflect more of the Sun’s energy. This makes the white shirt cooler to wear. See for yourself! You need a piece of black paper and a piece of white paper. You also need two thermometers and a lamp. Ask an adult to help you.
+Fold the black paper so it makes a pocket. Do the same thing to the white paper. Next, put a thermometer into the black pocket. Do the same thing to the white pocket. Then put the pockets under the lamp. Turn the lamp on, and wait for 10 minutes. Then check the thermometers.
+Which pocket got hotter — the black pocket or the white one? Do you know why?
+
+Using vocabulary and structure from examples, write a short paragraph about 'astronomy' targeting the same readability level (Early Elementary), limited to 100 words.",,"Example 1:
+Cat and Dog walk. They walk in their village. Then they see an egg. The egg is in the grass. The egg is alone in the grass. The egg is all alone. Cat and Dog walk to a bird. They ask the bird, ""Is this your egg?"" But the bird says, ""No, that is not my egg. Ask the owl. Maybe it is his egg."" Cat and Dog walk to the owl. They ask the owl, ""Is this your egg?"" But the owl says, ""No, that is not my egg. Ask the goose. Maybe it is her egg."" Cat and Dog walk to the goose. They ask the goose, ""Is this your egg?"" But the goose says, ""No, that is not my egg. Ask the two ducks. Maybe it is their egg."" Cat and Dog walk to the two ducks. They ask the two ducks, ""Is this your egg?"" But the two ducks say, ""No, that is not our egg."" Then the egg breaks.
+
+Example 2:
+The Sun’s light shines on Earth. The light makes our air, land, and water warm. But some things get
+warmer than others.
+Pretend it is a sunny day. If you wore a black shirt, you would feel hot. But if you wore a white shirt, you wouldn’t feel as hot. The dark color absorbs more of the Sun’s energy. That makes the black shirt warm.
+Light colors reflect more of the Sun’s energy. This makes the white shirt cooler to wear. See for yourself! You need a piece of black paper and a piece of white paper. You also need two thermometers and a lamp. Ask an adult to help you.
+Fold the black paper so it makes a pocket. Do the same thing to the white paper. Next, put a thermometer into the black pocket. Do the same thing to the white pocket. Then put the pockets under the lamp. Turn the lamp on, and wait for 10 minutes. Then check the thermometers.
+Which pocket got hotter — the black pocket or the white one? Do you know why?
+
+Using vocabulary and structure from examples, write a short paragraph about 'astronomy' targeting the same readability level (Early Elementary), limited to 100 words. 
+
+Astronomy is the study of stars and planets. We can see them at night. The stars are big balls of fire. They make a beautiful sky. The planets go around the stars. The Moon is a planet. It goes around the Sun. We see the Moon at night too. Sometimes we see a meteor. A meteor is a small rock from space. It falls to the Earth. Astronomers are people who study the stars and planets. They have big telescopes. They use the telescopes to see the stars and planets. They learn new things about the stars and planets. This is what astronomy is. It is fun! It is interesting! It is astronomy.  I like it. I like learning about stars. I like learning about planets. I like learning about space.  I like astronomy.  I am an astronomer. I study the stars and planets. I learn new things every day. I use my telescope to look at the stars and planets.",1.3,98.31,1.2,6.2,3.74,2.09,2.33,2.1875
+Few-Shot,astronomy,Early Elementary,100,meta-llama/Llama-3.1-8B-Instruct,"Example 1:
+Cat and Dog walk. They walk in their village. Then they see an egg. The egg is in the grass. The egg is alone in the grass. The egg is all alone. Cat and Dog walk to a bird. They ask the bird, ""Is this your egg?"" But the bird says, ""No, that is not my egg. Ask the owl. Maybe it is his egg."" Cat and Dog walk to the owl. They ask the owl, ""Is this your egg?"" But the owl says, ""No, that is not my egg. Ask the goose. Maybe it is her egg."" Cat and Dog walk to the goose. They ask the goose, ""Is this your egg?"" But the goose says, ""No, that is not my egg. Ask the two ducks. Maybe it is their egg."" Cat and Dog walk to the two ducks. They ask the two ducks, ""Is this your egg?"" But the two ducks say, ""No, that is not our egg."" Then the egg breaks.
+
+Example 2:
+The Sun’s light shines on Earth. The light makes our air, land, and water warm. But some things get
+warmer than others.
+Pretend it is a sunny day. If you wore a black shirt, you would feel hot. But if you wore a white shirt, you wouldn’t feel as hot. The dark color absorbs more of the Sun’s energy. That makes the black shirt warm.
+Light colors reflect more of the Sun’s energy. This makes the white shirt cooler to wear. See for yourself! You need a piece of black paper and a piece of white paper. You also need two thermometers and a lamp. Ask an adult to help you.
+Fold the black paper so it makes a pocket. Do the same thing to the white paper. Next, put a thermometer into the black pocket. Do the same thing to the white pocket. Then put the pockets under the lamp. Turn the lamp on, and wait for 10 minutes. Then check the thermometers.
+Which pocket got hotter — the black pocket or the white one? Do you know why?
+
+Using vocabulary and structure from examples, write a short paragraph about 'astronomy' targeting the same readability level (Early Elementary), limited to 100 words.",,"Example 1:
+Cat and Dog walk. They walk in their village. Then they see an egg. The egg is in the grass. The egg is alone in the grass. The egg is all alone. Cat and Dog walk to a bird. They ask the bird, ""Is this your egg?"" But the bird says, ""No, that is not my egg. Ask the owl. Maybe it is his egg."" Cat and Dog walk to the owl. They ask the owl, ""Is this your egg?"" But the owl says, ""No, that is not my egg. Ask the goose. Maybe it is her egg."" Cat and Dog walk to the goose. They ask the goose, ""Is this your egg?"" But the goose says, ""No, that is not my egg. Ask the two ducks. Maybe it is their egg."" Cat and Dog walk to the two ducks. They ask the two ducks, ""Is this your egg?"" But the two ducks say, ""No, that is not our egg."" Then the egg breaks.
+
+Example 2:
+The Sun’s light shines on Earth. The light makes our air, land, and water warm. But some things get
+warmer than others.
+Pretend it is a sunny day. If you wore a black shirt, you would feel hot. But if you wore a white shirt, you wouldn’t feel as hot. The dark color absorbs more of the Sun’s energy. That makes the black shirt warm.
+Light colors reflect more of the Sun’s energy. This makes the white shirt cooler to wear. See for yourself! You need a piece of black paper and a piece of white paper. You also need two thermometers and a lamp. Ask an adult to help you.
+Fold the black paper so it makes a pocket. Do the same thing to the white paper. Next, put a thermometer into the black pocket. Do the same thing to the white pocket. Then put the pockets under the lamp. Turn the lamp on, and wait for 10 minutes. Then check the thermometers.
+Which pocket got hotter — the black pocket or the white one? Do you know why?
+
+Using vocabulary and structure from examples, write a short paragraph about 'astronomy' targeting the same readability level (Early Elementary), limited to 100 words. 
+
+Astronomy is the study of the universe. It is fun to learn about the stars, planets, and galaxies. You can see the stars at night. You can look at pictures of the planets. You can even go to a planetarium and see stars and planets up close. The stars and planets look different at different times. The stars are like diamonds in the sky. The planets look like big balls. The galaxies are like huge swirly clouds. There are many galaxies in the universe. Astronomers study the stars, planets, and galaxies. They try to learn more about the universe. They even want to visit other planets!",1.6,97.5,1.9,6.6,4.34,3.03,2.48,2.1875

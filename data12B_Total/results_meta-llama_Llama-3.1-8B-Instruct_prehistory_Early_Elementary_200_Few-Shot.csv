@@ -1,0 +1,256 @@
+Technique,Topic,Target Level,Output Length,Model,Prompt,Rewrite Prompt,Text,Flesch-Kincaid,Flesch Ease,ARI,SMOG,Gunning Fog,Coleman-Liau,Spache,Linsear Write
+Few-Shot,prehistory,Early Elementary,200,meta-llama/Llama-3.1-8B-Instruct,"Example 1:
+Cat and Dog walk. They walk in their village. Then they see an egg. The egg is in the grass. The egg is alone in the grass. The egg is all alone. Cat and Dog walk to a bird. They ask the bird, ""Is this your egg?"" But the bird says, ""No, that is not my egg. Ask the owl. Maybe it is his egg."" Cat and Dog walk to the owl. They ask the owl, ""Is this your egg?"" But the owl says, ""No, that is not my egg. Ask the goose. Maybe it is her egg."" Cat and Dog walk to the goose. They ask the goose, ""Is this your egg?"" But the goose says, ""No, that is not my egg. Ask the two ducks. Maybe it is their egg."" Cat and Dog walk to the two ducks. They ask the two ducks, ""Is this your egg?"" But the two ducks say, ""No, that is not our egg."" Then the egg breaks.
+
+Example 2:
+The Sun’s light shines on Earth. The light makes our air, land, and water warm. But some things get
+warmer than others.
+Pretend it is a sunny day. If you wore a black shirt, you would feel hot. But if you wore a white shirt, you wouldn’t feel as hot. The dark color absorbs more of the Sun’s energy. That makes the black shirt warm.
+Light colors reflect more of the Sun’s energy. This makes the white shirt cooler to wear. See for yourself! You need a piece of black paper and a piece of white paper. You also need two thermometers and a lamp. Ask an adult to help you.
+Fold the black paper so it makes a pocket. Do the same thing to the white paper. Next, put a thermometer into the black pocket. Do the same thing to the white pocket. Then put the pockets under the lamp. Turn the lamp on, and wait for 10 minutes. Then check the thermometers.
+Which pocket got hotter — the black pocket or the white one? Do you know why?
+
+Using vocabulary and structure from examples, write a short paragraph about 'prehistory' targeting the same readability level (Early Elementary), limited to 200 words.",,"Example 1:
+Cat and Dog walk. They walk in their village. Then they see an egg. The egg is in the grass. The egg is alone in the grass. The egg is all alone. Cat and Dog walk to a bird. They ask the bird, ""Is this your egg?"" But the bird says, ""No, that is not my egg. Ask the owl. Maybe it is his egg."" Cat and Dog walk to the owl. They ask the owl, ""Is this your egg?"" But the owl says, ""No, that is not my egg. Ask the goose. Maybe it is her egg."" Cat and Dog walk to the goose. They ask the goose, ""Is this your egg?"" But the goose says, ""No, that is not my egg. Ask the two ducks. Maybe it is their egg."" Cat and Dog walk to the two ducks. They ask the two ducks, ""Is this your egg?"" But the two ducks say, ""No, that is not our egg."" Then the egg breaks.
+
+Example 2:
+The Sun’s light shines on Earth. The light makes our air, land, and water warm. But some things get
+warmer than others.
+Pretend it is a sunny day. If you wore a black shirt, you would feel hot. But if you wore a white shirt, you wouldn’t feel as hot. The dark color absorbs more of the Sun’s energy. That makes the black shirt warm.
+Light colors reflect more of the Sun’s energy. This makes the white shirt cooler to wear. See for yourself! You need a piece of black paper and a piece of white paper. You also need two thermometers and a lamp. Ask an adult to help you.
+Fold the black paper so it makes a pocket. Do the same thing to the white paper. Next, put a thermometer into the black pocket. Do the same thing to the white pocket. Then put the pockets under the lamp. Turn the lamp on, and wait for 10 minutes. Then check the thermometers.
+Which pocket got hotter — the black pocket or the white one? Do you know why?
+
+Using vocabulary and structure from examples, write a short paragraph about 'prehistory' targeting the same readability level (Early Elementary), limited to 200 words. 
+Prehistory is a long time ago. Before history, people didn’t write down anything. But, they made tools and homes. Our ancestors made clubs and stones to hunt. They also made fires to cook. Some people made homes in caves. Others built homes out of sticks and mud. A long, long time ago, people first learned to make tools out of metal. They made swords, knives, and axes. Some people made boats to sail. Others made wheels to move things. People built big homes and made big fires. They hunted big animals like mammoths and bison. A long, long time ago, people first learned to farm. They grew food like wheat and corn. This helped people live in one place. People started to live in cities. This was a big change. People made new tools and homes. They made new clothes. They even made jewelry! Prehistory is a long time ago, but we can still learn about it today. We can see the",1.5,97.8,1.8,6.1,4.09,2.73,2.41,2.1875
+Few-Shot,prehistory,Early Elementary,200,meta-llama/Llama-3.1-8B-Instruct,"Example 1:
+Cat and Dog walk. They walk in their village. Then they see an egg. The egg is in the grass. The egg is alone in the grass. The egg is all alone. Cat and Dog walk to a bird. They ask the bird, ""Is this your egg?"" But the bird says, ""No, that is not my egg. Ask the owl. Maybe it is his egg."" Cat and Dog walk to the owl. They ask the owl, ""Is this your egg?"" But the owl says, ""No, that is not my egg. Ask the goose. Maybe it is her egg."" Cat and Dog walk to the goose. They ask the goose, ""Is this your egg?"" But the goose says, ""No, that is not my egg. Ask the two ducks. Maybe it is their egg."" Cat and Dog walk to the two ducks. They ask the two ducks, ""Is this your egg?"" But the two ducks say, ""No, that is not our egg."" Then the egg breaks.
+
+Example 2:
+The Sun’s light shines on Earth. The light makes our air, land, and water warm. But some things get
+warmer than others.
+Pretend it is a sunny day. If you wore a black shirt, you would feel hot. But if you wore a white shirt, you wouldn’t feel as hot. The dark color absorbs more of the Sun’s energy. That makes the black shirt warm.
+Light colors reflect more of the Sun’s energy. This makes the white shirt cooler to wear. See for yourself! You need a piece of black paper and a piece of white paper. You also need two thermometers and a lamp. Ask an adult to help you.
+Fold the black paper so it makes a pocket. Do the same thing to the white paper. Next, put a thermometer into the black pocket. Do the same thing to the white pocket. Then put the pockets under the lamp. Turn the lamp on, and wait for 10 minutes. Then check the thermometers.
+Which pocket got hotter — the black pocket or the white one? Do you know why?
+
+Using vocabulary and structure from examples, write a short paragraph about 'prehistory' targeting the same readability level (Early Elementary), limited to 200 words.",,"Example 1:
+Cat and Dog walk. They walk in their village. Then they see an egg. The egg is in the grass. The egg is alone in the grass. The egg is all alone. Cat and Dog walk to a bird. They ask the bird, ""Is this your egg?"" But the bird says, ""No, that is not my egg. Ask the owl. Maybe it is his egg."" Cat and Dog walk to the owl. They ask the owl, ""Is this your egg?"" But the owl says, ""No, that is not my egg. Ask the goose. Maybe it is her egg."" Cat and Dog walk to the goose. They ask the goose, ""Is this your egg?"" But the goose says, ""No, that is not my egg. Ask the two ducks. Maybe it is their egg."" Cat and Dog walk to the two ducks. They ask the two ducks, ""Is this your egg?"" But the two ducks say, ""No, that is not our egg."" Then the egg breaks.
+
+Example 2:
+The Sun’s light shines on Earth. The light makes our air, land, and water warm. But some things get
+warmer than others.
+Pretend it is a sunny day. If you wore a black shirt, you would feel hot. But if you wore a white shirt, you wouldn’t feel as hot. The dark color absorbs more of the Sun’s energy. That makes the black shirt warm.
+Light colors reflect more of the Sun’s energy. This makes the white shirt cooler to wear. See for yourself! You need a piece of black paper and a piece of white paper. You also need two thermometers and a lamp. Ask an adult to help you.
+Fold the black paper so it makes a pocket. Do the same thing to the white paper. Next, put a thermometer into the black pocket. Do the same thing to the white pocket. Then put the pockets under the lamp. Turn the lamp on, and wait for 10 minutes. Then check the thermometers.
+Which pocket got hotter — the black pocket or the white one? Do you know why?
+
+Using vocabulary and structure from examples, write a short paragraph about 'prehistory' targeting the same readability level (Early Elementary), limited to 200 words.  A long, long time ago, before our parents and grandparents were born, there was a time called Prehistory. During this time, people did not write. They made pictures and left them on the walls of caves. These pictures show animals and people. They also show things that people did a long time ago.  Archaeologists are people who study these old pictures. They want to learn about the people who made them. They study the bones of animals and the tools that people made. They try to figure out how people lived a long time ago. People lived in small groups and hunted animals for food. They made fires and made clothes from animal skins. They were happy and sad, just like us. But they did not have cars or computers like we do today. We know about Prehistory from the pictures they left behind. We can learn a lot about how people lived a long time ago by looking at these old pictures. And we can be happy that we have things that make our",1.8,96.79,2.3,6.5,4.53,3.38,2.53,2.1875
+Few-Shot,prehistory,Early Elementary,200,meta-llama/Llama-3.1-8B-Instruct,"Example 1:
+Cat and Dog walk. They walk in their village. Then they see an egg. The egg is in the grass. The egg is alone in the grass. The egg is all alone. Cat and Dog walk to a bird. They ask the bird, ""Is this your egg?"" But the bird says, ""No, that is not my egg. Ask the owl. Maybe it is his egg."" Cat and Dog walk to the owl. They ask the owl, ""Is this your egg?"" But the owl says, ""No, that is not my egg. Ask the goose. Maybe it is her egg."" Cat and Dog walk to the goose. They ask the goose, ""Is this your egg?"" But the goose says, ""No, that is not my egg. Ask the two ducks. Maybe it is their egg."" Cat and Dog walk to the two ducks. They ask the two ducks, ""Is this your egg?"" But the two ducks say, ""No, that is not our egg."" Then the egg breaks.
+
+Example 2:
+The Sun’s light shines on Earth. The light makes our air, land, and water warm. But some things get
+warmer than others.
+Pretend it is a sunny day. If you wore a black shirt, you would feel hot. But if you wore a white shirt, you wouldn’t feel as hot. The dark color absorbs more of the Sun’s energy. That makes the black shirt warm.
+Light colors reflect more of the Sun’s energy. This makes the white shirt cooler to wear. See for yourself! You need a piece of black paper and a piece of white paper. You also need two thermometers and a lamp. Ask an adult to help you.
+Fold the black paper so it makes a pocket. Do the same thing to the white paper. Next, put a thermometer into the black pocket. Do the same thing to the white pocket. Then put the pockets under the lamp. Turn the lamp on, and wait for 10 minutes. Then check the thermometers.
+Which pocket got hotter — the black pocket or the white one? Do you know why?
+
+Using vocabulary and structure from examples, write a short paragraph about 'prehistory' targeting the same readability level (Early Elementary), limited to 200 words.",,"Example 1:
+Cat and Dog walk. They walk in their village. Then they see an egg. The egg is in the grass. The egg is alone in the grass. The egg is all alone. Cat and Dog walk to a bird. They ask the bird, ""Is this your egg?"" But the bird says, ""No, that is not my egg. Ask the owl. Maybe it is his egg."" Cat and Dog walk to the owl. They ask the owl, ""Is this your egg?"" But the owl says, ""No, that is not my egg. Ask the goose. Maybe it is her egg."" Cat and Dog walk to the goose. They ask the goose, ""Is this your egg?"" But the goose says, ""No, that is not my egg. Ask the two ducks. Maybe it is their egg."" Cat and Dog walk to the two ducks. They ask the two ducks, ""Is this your egg?"" But the two ducks say, ""No, that is not our egg."" Then the egg breaks.
+
+Example 2:
+The Sun’s light shines on Earth. The light makes our air, land, and water warm. But some things get
+warmer than others.
+Pretend it is a sunny day. If you wore a black shirt, you would feel hot. But if you wore a white shirt, you wouldn’t feel as hot. The dark color absorbs more of the Sun’s energy. That makes the black shirt warm.
+Light colors reflect more of the Sun’s energy. This makes the white shirt cooler to wear. See for yourself! You need a piece of black paper and a piece of white paper. You also need two thermometers and a lamp. Ask an adult to help you.
+Fold the black paper so it makes a pocket. Do the same thing to the white paper. Next, put a thermometer into the black pocket. Do the same thing to the white pocket. Then put the pockets under the lamp. Turn the lamp on, and wait for 10 minutes. Then check the thermometers.
+Which pocket got hotter — the black pocket or the white one? Do you know why?
+
+Using vocabulary and structure from examples, write a short paragraph about 'prehistory' targeting the same readability level (Early Elementary), limited to 200 words. 
+
+Long, long ago, in a time called prehistory, people lived in caves. They hunted animals to eat and made tools to use. The people who lived during this time didn't have any written language. They didn't know how to write or draw. They told stories by talking and making pictures. The prehistoric people also made homes in rock shelters and in the ground. They built fires to keep warm. People also found and used stones to make tools. They used these tools to cut and hunt animals. Some people even made their own clothes. The prehistoric people were very good at making and using tools. They lived during a time that was very different from today. They didn't have cars, computers, or buildings. They lived a very simple life. The prehistoric people made their own tools and clothes. They lived a long time ago, but we can still learn from them today.  (201 words) 
+
+Note: 
+Readability score for the example paragraph:",1.7,97.2,2.5,6.6,4.33,3.79,2.49,2.1875
+Few-Shot,prehistory,Early Elementary,200,meta-llama/Llama-3.1-8B-Instruct,"Example 1:
+Cat and Dog walk. They walk in their village. Then they see an egg. The egg is in the grass. The egg is alone in the grass. The egg is all alone. Cat and Dog walk to a bird. They ask the bird, ""Is this your egg?"" But the bird says, ""No, that is not my egg. Ask the owl. Maybe it is his egg."" Cat and Dog walk to the owl. They ask the owl, ""Is this your egg?"" But the owl says, ""No, that is not my egg. Ask the goose. Maybe it is her egg."" Cat and Dog walk to the goose. They ask the goose, ""Is this your egg?"" But the goose says, ""No, that is not my egg. Ask the two ducks. Maybe it is their egg."" Cat and Dog walk to the two ducks. They ask the two ducks, ""Is this your egg?"" But the two ducks say, ""No, that is not our egg."" Then the egg breaks.
+
+Example 2:
+The Sun’s light shines on Earth. The light makes our air, land, and water warm. But some things get
+warmer than others.
+Pretend it is a sunny day. If you wore a black shirt, you would feel hot. But if you wore a white shirt, you wouldn’t feel as hot. The dark color absorbs more of the Sun’s energy. That makes the black shirt warm.
+Light colors reflect more of the Sun’s energy. This makes the white shirt cooler to wear. See for yourself! You need a piece of black paper and a piece of white paper. You also need two thermometers and a lamp. Ask an adult to help you.
+Fold the black paper so it makes a pocket. Do the same thing to the white paper. Next, put a thermometer into the black pocket. Do the same thing to the white pocket. Then put the pockets under the lamp. Turn the lamp on, and wait for 10 minutes. Then check the thermometers.
+Which pocket got hotter — the black pocket or the white one? Do you know why?
+
+Using vocabulary and structure from examples, write a short paragraph about 'prehistory' targeting the same readability level (Early Elementary), limited to 200 words.",,"Example 1:
+Cat and Dog walk. They walk in their village. Then they see an egg. The egg is in the grass. The egg is alone in the grass. The egg is all alone. Cat and Dog walk to a bird. They ask the bird, ""Is this your egg?"" But the bird says, ""No, that is not my egg. Ask the owl. Maybe it is his egg."" Cat and Dog walk to the owl. They ask the owl, ""Is this your egg?"" But the owl says, ""No, that is not my egg. Ask the goose. Maybe it is her egg."" Cat and Dog walk to the goose. They ask the goose, ""Is this your egg?"" But the goose says, ""No, that is not my egg. Ask the two ducks. Maybe it is their egg."" Cat and Dog walk to the two ducks. They ask the two ducks, ""Is this your egg?"" But the two ducks say, ""No, that is not our egg."" Then the egg breaks.
+
+Example 2:
+The Sun’s light shines on Earth. The light makes our air, land, and water warm. But some things get
+warmer than others.
+Pretend it is a sunny day. If you wore a black shirt, you would feel hot. But if you wore a white shirt, you wouldn’t feel as hot. The dark color absorbs more of the Sun’s energy. That makes the black shirt warm.
+Light colors reflect more of the Sun’s energy. This makes the white shirt cooler to wear. See for yourself! You need a piece of black paper and a piece of white paper. You also need two thermometers and a lamp. Ask an adult to help you.
+Fold the black paper so it makes a pocket. Do the same thing to the white paper. Next, put a thermometer into the black pocket. Do the same thing to the white pocket. Then put the pockets under the lamp. Turn the lamp on, and wait for 10 minutes. Then check the thermometers.
+Which pocket got hotter — the black pocket or the white one? Do you know why?
+
+Using vocabulary and structure from examples, write a short paragraph about 'prehistory' targeting the same readability level (Early Elementary), limited to 200 words. 
+
+Prehistory is a long, long time ago. It is before history. History is what we know about the past. We learn about history from books, pictures, and people who tell us stories. But prehistory is before we had books, pictures, and people who told stories. It is like a big mystery. People lived in caves, hunted animals, and made tools from rocks. They did not have houses like we do. They did not have cars, televisions, or computers. They did not have money or stores. They made their own clothes from animal hides and furs. They made their own food from hunting and gathering. We know about prehistory from the things they left behind. We find their tools, their houses, and their art. It is like a puzzle, and we are still solving it. We are trying to learn more about the people who lived a long time ago. We want to know what they did, how they lived, and what they looked like",1.7,97.09,2.1,6.6,4.44,3.27,2.54,2.1875
+Few-Shot,prehistory,Early Elementary,200,meta-llama/Llama-3.1-8B-Instruct,"Example 1:
+Cat and Dog walk. They walk in their village. Then they see an egg. The egg is in the grass. The egg is alone in the grass. The egg is all alone. Cat and Dog walk to a bird. They ask the bird, ""Is this your egg?"" But the bird says, ""No, that is not my egg. Ask the owl. Maybe it is his egg."" Cat and Dog walk to the owl. They ask the owl, ""Is this your egg?"" But the owl says, ""No, that is not my egg. Ask the goose. Maybe it is her egg."" Cat and Dog walk to the goose. They ask the goose, ""Is this your egg?"" But the goose says, ""No, that is not my egg. Ask the two ducks. Maybe it is their egg."" Cat and Dog walk to the two ducks. They ask the two ducks, ""Is this your egg?"" But the two ducks say, ""No, that is not our egg."" Then the egg breaks.
+
+Example 2:
+The Sun’s light shines on Earth. The light makes our air, land, and water warm. But some things get
+warmer than others.
+Pretend it is a sunny day. If you wore a black shirt, you would feel hot. But if you wore a white shirt, you wouldn’t feel as hot. The dark color absorbs more of the Sun’s energy. That makes the black shirt warm.
+Light colors reflect more of the Sun’s energy. This makes the white shirt cooler to wear. See for yourself! You need a piece of black paper and a piece of white paper. You also need two thermometers and a lamp. Ask an adult to help you.
+Fold the black paper so it makes a pocket. Do the same thing to the white paper. Next, put a thermometer into the black pocket. Do the same thing to the white pocket. Then put the pockets under the lamp. Turn the lamp on, and wait for 10 minutes. Then check the thermometers.
+Which pocket got hotter — the black pocket or the white one? Do you know why?
+
+Using vocabulary and structure from examples, write a short paragraph about 'prehistory' targeting the same readability level (Early Elementary), limited to 200 words.",,"Example 1:
+Cat and Dog walk. They walk in their village. Then they see an egg. The egg is in the grass. The egg is alone in the grass. The egg is all alone. Cat and Dog walk to a bird. They ask the bird, ""Is this your egg?"" But the bird says, ""No, that is not my egg. Ask the owl. Maybe it is his egg."" Cat and Dog walk to the owl. They ask the owl, ""Is this your egg?"" But the owl says, ""No, that is not my egg. Ask the goose. Maybe it is her egg."" Cat and Dog walk to the goose. They ask the goose, ""Is this your egg?"" But the goose says, ""No, that is not my egg. Ask the two ducks. Maybe it is their egg."" Cat and Dog walk to the two ducks. They ask the two ducks, ""Is this your egg?"" But the two ducks say, ""No, that is not our egg."" Then the egg breaks.
+
+Example 2:
+The Sun’s light shines on Earth. The light makes our air, land, and water warm. But some things get
+warmer than others.
+Pretend it is a sunny day. If you wore a black shirt, you would feel hot. But if you wore a white shirt, you wouldn’t feel as hot. The dark color absorbs more of the Sun’s energy. That makes the black shirt warm.
+Light colors reflect more of the Sun’s energy. This makes the white shirt cooler to wear. See for yourself! You need a piece of black paper and a piece of white paper. You also need two thermometers and a lamp. Ask an adult to help you.
+Fold the black paper so it makes a pocket. Do the same thing to the white paper. Next, put a thermometer into the black pocket. Do the same thing to the white pocket. Then put the pockets under the lamp. Turn the lamp on, and wait for 10 minutes. Then check the thermometers.
+Which pocket got hotter — the black pocket or the white one? Do you know why?
+
+Using vocabulary and structure from examples, write a short paragraph about 'prehistory' targeting the same readability level (Early Elementary), limited to 200 words. 
+
+Prehistory is a long, long time ago. It is even before our grandfathers and grandmothers were born. Before that, people did not have cars, phones, or computers. They walked, and they hunted animals for food. People lived in caves, and some people lived in tents. They wore animal skins to keep warm. People also had very little food. They ate berries, nuts, and fish. People did not know how to write. But they made pictures on rocks and on walls. These pictures told stories about their lives. They showed us how people lived a long time ago. Some of the pictures show animals, like deer and rabbits. Some of the pictures show people hunting. They also show people living in their homes. We can still see these pictures today. They help us learn about prehistory. We can learn about how people lived, and what they did a long time ago. Prehistory is a very interesting time. We can learn a lot from the",1.6,97.5,2.2,6.5,4.28,3.26,2.44,2.1875
+Few-Shot,prehistory,Early Elementary,200,meta-llama/Llama-3.1-8B-Instruct,"Example 1:
+Cat and Dog walk. They walk in their village. Then they see an egg. The egg is in the grass. The egg is alone in the grass. The egg is all alone. Cat and Dog walk to a bird. They ask the bird, ""Is this your egg?"" But the bird says, ""No, that is not my egg. Ask the owl. Maybe it is his egg."" Cat and Dog walk to the owl. They ask the owl, ""Is this your egg?"" But the owl says, ""No, that is not my egg. Ask the goose. Maybe it is her egg."" Cat and Dog walk to the goose. They ask the goose, ""Is this your egg?"" But the goose says, ""No, that is not my egg. Ask the two ducks. Maybe it is their egg."" Cat and Dog walk to the two ducks. They ask the two ducks, ""Is this your egg?"" But the two ducks say, ""No, that is not our egg."" Then the egg breaks.
+
+Example 2:
+The Sun’s light shines on Earth. The light makes our air, land, and water warm. But some things get
+warmer than others.
+Pretend it is a sunny day. If you wore a black shirt, you would feel hot. But if you wore a white shirt, you wouldn’t feel as hot. The dark color absorbs more of the Sun’s energy. That makes the black shirt warm.
+Light colors reflect more of the Sun’s energy. This makes the white shirt cooler to wear. See for yourself! You need a piece of black paper and a piece of white paper. You also need two thermometers and a lamp. Ask an adult to help you.
+Fold the black paper so it makes a pocket. Do the same thing to the white paper. Next, put a thermometer into the black pocket. Do the same thing to the white pocket. Then put the pockets under the lamp. Turn the lamp on, and wait for 10 minutes. Then check the thermometers.
+Which pocket got hotter — the black pocket or the white one? Do you know why?
+
+Using vocabulary and structure from examples, write a short paragraph about 'prehistory' targeting the same readability level (Early Elementary), limited to 200 words.",,"Example 1:
+Cat and Dog walk. They walk in their village. Then they see an egg. The egg is in the grass. The egg is alone in the grass. The egg is all alone. Cat and Dog walk to a bird. They ask the bird, ""Is this your egg?"" But the bird says, ""No, that is not my egg. Ask the owl. Maybe it is his egg."" Cat and Dog walk to the owl. They ask the owl, ""Is this your egg?"" But the owl says, ""No, that is not my egg. Ask the goose. Maybe it is her egg."" Cat and Dog walk to the goose. They ask the goose, ""Is this your egg?"" But the goose says, ""No, that is not my egg. Ask the two ducks. Maybe it is their egg."" Cat and Dog walk to the two ducks. They ask the two ducks, ""Is this your egg?"" But the two ducks say, ""No, that is not our egg."" Then the egg breaks.
+
+Example 2:
+The Sun’s light shines on Earth. The light makes our air, land, and water warm. But some things get
+warmer than others.
+Pretend it is a sunny day. If you wore a black shirt, you would feel hot. But if you wore a white shirt, you wouldn’t feel as hot. The dark color absorbs more of the Sun’s energy. That makes the black shirt warm.
+Light colors reflect more of the Sun’s energy. This makes the white shirt cooler to wear. See for yourself! You need a piece of black paper and a piece of white paper. You also need two thermometers and a lamp. Ask an adult to help you.
+Fold the black paper so it makes a pocket. Do the same thing to the white paper. Next, put a thermometer into the black pocket. Do the same thing to the white pocket. Then put the pockets under the lamp. Turn the lamp on, and wait for 10 minutes. Then check the thermometers.
+Which pocket got hotter — the black pocket or the white one? Do you know why?
+
+Using vocabulary and structure from examples, write a short paragraph about 'prehistory' targeting the same readability level (Early Elementary), limited to 200 words. 
+
+Prehistory is very, very long ago. People were around, but we don’t know their names. They didn’t leave behind buildings like we do today. But they did leave behind tools. Those tools are made of rock and bone. The people used sticks to draw pictures on the walls of caves. Those pictures tell us about their lives. We can learn about their homes, food, and friends from those pictures. The people hunted animals to eat. They also gathered fruits and vegetables. They wore animal skins and made clothes from plants. They made fire and used it to cook their food. The people made their own houses, but they were made of branches and leaves. They were very simple. People in prehistory were very different from us today. But they are also similar. We all have families and friends. We all like to eat food and wear clothes. We all want to be safe and happy. So, even though people in prehistory are very different from us, they are",1.6,97.4,2.2,6.5,4.31,3.32,2.5,2.1875
+Few-Shot,prehistory,Early Elementary,200,meta-llama/Llama-3.1-8B-Instruct,"Example 1:
+Cat and Dog walk. They walk in their village. Then they see an egg. The egg is in the grass. The egg is alone in the grass. The egg is all alone. Cat and Dog walk to a bird. They ask the bird, ""Is this your egg?"" But the bird says, ""No, that is not my egg. Ask the owl. Maybe it is his egg."" Cat and Dog walk to the owl. They ask the owl, ""Is this your egg?"" But the owl says, ""No, that is not my egg. Ask the goose. Maybe it is her egg."" Cat and Dog walk to the goose. They ask the goose, ""Is this your egg?"" But the goose says, ""No, that is not my egg. Ask the two ducks. Maybe it is their egg."" Cat and Dog walk to the two ducks. They ask the two ducks, ""Is this your egg?"" But the two ducks say, ""No, that is not our egg."" Then the egg breaks.
+
+Example 2:
+The Sun’s light shines on Earth. The light makes our air, land, and water warm. But some things get
+warmer than others.
+Pretend it is a sunny day. If you wore a black shirt, you would feel hot. But if you wore a white shirt, you wouldn’t feel as hot. The dark color absorbs more of the Sun’s energy. That makes the black shirt warm.
+Light colors reflect more of the Sun’s energy. This makes the white shirt cooler to wear. See for yourself! You need a piece of black paper and a piece of white paper. You also need two thermometers and a lamp. Ask an adult to help you.
+Fold the black paper so it makes a pocket. Do the same thing to the white paper. Next, put a thermometer into the black pocket. Do the same thing to the white pocket. Then put the pockets under the lamp. Turn the lamp on, and wait for 10 minutes. Then check the thermometers.
+Which pocket got hotter — the black pocket or the white one? Do you know why?
+
+Using vocabulary and structure from examples, write a short paragraph about 'prehistory' targeting the same readability level (Early Elementary), limited to 200 words.",,"Example 1:
+Cat and Dog walk. They walk in their village. Then they see an egg. The egg is in the grass. The egg is alone in the grass. The egg is all alone. Cat and Dog walk to a bird. They ask the bird, ""Is this your egg?"" But the bird says, ""No, that is not my egg. Ask the owl. Maybe it is his egg."" Cat and Dog walk to the owl. They ask the owl, ""Is this your egg?"" But the owl says, ""No, that is not my egg. Ask the goose. Maybe it is her egg."" Cat and Dog walk to the goose. They ask the goose, ""Is this your egg?"" But the goose says, ""No, that is not my egg. Ask the two ducks. Maybe it is their egg."" Cat and Dog walk to the two ducks. They ask the two ducks, ""Is this your egg?"" But the two ducks say, ""No, that is not our egg."" Then the egg breaks.
+
+Example 2:
+The Sun’s light shines on Earth. The light makes our air, land, and water warm. But some things get
+warmer than others.
+Pretend it is a sunny day. If you wore a black shirt, you would feel hot. But if you wore a white shirt, you wouldn’t feel as hot. The dark color absorbs more of the Sun’s energy. That makes the black shirt warm.
+Light colors reflect more of the Sun’s energy. This makes the white shirt cooler to wear. See for yourself! You need a piece of black paper and a piece of white paper. You also need two thermometers and a lamp. Ask an adult to help you.
+Fold the black paper so it makes a pocket. Do the same thing to the white paper. Next, put a thermometer into the black pocket. Do the same thing to the white pocket. Then put the pockets under the lamp. Turn the lamp on, and wait for 10 minutes. Then check the thermometers.
+Which pocket got hotter — the black pocket or the white one? Do you know why?
+
+Using vocabulary and structure from examples, write a short paragraph about 'prehistory' targeting the same readability level (Early Elementary), limited to 200 words. Here is the definition of prehistory: ""the time before written history"".
+
+Example:
+A long time ago, there were people who did not write. They left behind rocks, bones, and footprints. People today are very interested in these things. We can learn about the people who came before us. They made tools, hunted, and gathered food. They made homes from sticks, mud, and leaves. They wore animal hides and furs to keep warm. Some people even drew pictures on rocks. These drawings can tell us what life was like a long time ago. We can learn from their mistakes and successes. We can learn about the world before written history. We call this time ""prehistoric"". We can still learn about the people who lived in this time. We can visit places where they lived and see their tools and homes. We can learn about the animals they hunted and the food they gathered. We can learn about the people who came before us. We can learn about the",1.7,97.2,2.4,6.5,4.39,3.62,2.51,2.1875
+Few-Shot,prehistory,Early Elementary,200,meta-llama/Llama-3.1-8B-Instruct,"Example 1:
+Cat and Dog walk. They walk in their village. Then they see an egg. The egg is in the grass. The egg is alone in the grass. The egg is all alone. Cat and Dog walk to a bird. They ask the bird, ""Is this your egg?"" But the bird says, ""No, that is not my egg. Ask the owl. Maybe it is his egg."" Cat and Dog walk to the owl. They ask the owl, ""Is this your egg?"" But the owl says, ""No, that is not my egg. Ask the goose. Maybe it is her egg."" Cat and Dog walk to the goose. They ask the goose, ""Is this your egg?"" But the goose says, ""No, that is not my egg. Ask the two ducks. Maybe it is their egg."" Cat and Dog walk to the two ducks. They ask the two ducks, ""Is this your egg?"" But the two ducks say, ""No, that is not our egg."" Then the egg breaks.
+
+Example 2:
+The Sun’s light shines on Earth. The light makes our air, land, and water warm. But some things get
+warmer than others.
+Pretend it is a sunny day. If you wore a black shirt, you would feel hot. But if you wore a white shirt, you wouldn’t feel as hot. The dark color absorbs more of the Sun’s energy. That makes the black shirt warm.
+Light colors reflect more of the Sun’s energy. This makes the white shirt cooler to wear. See for yourself! You need a piece of black paper and a piece of white paper. You also need two thermometers and a lamp. Ask an adult to help you.
+Fold the black paper so it makes a pocket. Do the same thing to the white paper. Next, put a thermometer into the black pocket. Do the same thing to the white pocket. Then put the pockets under the lamp. Turn the lamp on, and wait for 10 minutes. Then check the thermometers.
+Which pocket got hotter — the black pocket or the white one? Do you know why?
+
+Using vocabulary and structure from examples, write a short paragraph about 'prehistory' targeting the same readability level (Early Elementary), limited to 200 words.",,"Example 1:
+Cat and Dog walk. They walk in their village. Then they see an egg. The egg is in the grass. The egg is alone in the grass. The egg is all alone. Cat and Dog walk to a bird. They ask the bird, ""Is this your egg?"" But the bird says, ""No, that is not my egg. Ask the owl. Maybe it is his egg."" Cat and Dog walk to the owl. They ask the owl, ""Is this your egg?"" But the owl says, ""No, that is not my egg. Ask the goose. Maybe it is her egg."" Cat and Dog walk to the goose. They ask the goose, ""Is this your egg?"" But the goose says, ""No, that is not my egg. Ask the two ducks. Maybe it is their egg."" Cat and Dog walk to the two ducks. They ask the two ducks, ""Is this your egg?"" But the two ducks say, ""No, that is not our egg."" Then the egg breaks.
+
+Example 2:
+The Sun’s light shines on Earth. The light makes our air, land, and water warm. But some things get
+warmer than others.
+Pretend it is a sunny day. If you wore a black shirt, you would feel hot. But if you wore a white shirt, you wouldn’t feel as hot. The dark color absorbs more of the Sun’s energy. That makes the black shirt warm.
+Light colors reflect more of the Sun’s energy. This makes the white shirt cooler to wear. See for yourself! You need a piece of black paper and a piece of white paper. You also need two thermometers and a lamp. Ask an adult to help you.
+Fold the black paper so it makes a pocket. Do the same thing to the white paper. Next, put a thermometer into the black pocket. Do the same thing to the white pocket. Then put the pockets under the lamp. Turn the lamp on, and wait for 10 minutes. Then check the thermometers.
+Which pocket got hotter — the black pocket or the white one? Do you know why?
+
+Using vocabulary and structure from examples, write a short paragraph about 'prehistory' targeting the same readability level (Early Elementary), limited to 200 words. 
+Prehistory is a long time ago. People didn’t write books or make movies. They didn’t even have houses or clothes. But people still lived. They made tools from rocks. They used sticks to hunt. They made fires to cook their food. They made homes from grass and leaves. They had to work hard to survive. They didn’t have doctors or nurses. When they got sick, they didn’t know what to do. They had to use plants to make medicine. They had to use the sun and the stars to tell time. They had to be very good at hunting to eat. People from a long time ago were very brave. They had to be brave to survive. They had to be brave to hunt and to find food. They were good at using their bodies to help themselves. They were good at working together. They were good at using their brains. People from a long time ago were very smart.  They were good at making things. They were good at",1.5,97.7,1.5,5.8,3.89,2.62,2.41,2.1875
+Few-Shot,prehistory,Early Elementary,200,meta-llama/Llama-3.1-8B-Instruct,"Example 1:
+Cat and Dog walk. They walk in their village. Then they see an egg. The egg is in the grass. The egg is alone in the grass. The egg is all alone. Cat and Dog walk to a bird. They ask the bird, ""Is this your egg?"" But the bird says, ""No, that is not my egg. Ask the owl. Maybe it is his egg."" Cat and Dog walk to the owl. They ask the owl, ""Is this your egg?"" But the owl says, ""No, that is not my egg. Ask the goose. Maybe it is her egg."" Cat and Dog walk to the goose. They ask the goose, ""Is this your egg?"" But the goose says, ""No, that is not my egg. Ask the two ducks. Maybe it is their egg."" Cat and Dog walk to the two ducks. They ask the two ducks, ""Is this your egg?"" But the two ducks say, ""No, that is not our egg."" Then the egg breaks.
+
+Example 2:
+The Sun’s light shines on Earth. The light makes our air, land, and water warm. But some things get
+warmer than others.
+Pretend it is a sunny day. If you wore a black shirt, you would feel hot. But if you wore a white shirt, you wouldn’t feel as hot. The dark color absorbs more of the Sun’s energy. That makes the black shirt warm.
+Light colors reflect more of the Sun’s energy. This makes the white shirt cooler to wear. See for yourself! You need a piece of black paper and a piece of white paper. You also need two thermometers and a lamp. Ask an adult to help you.
+Fold the black paper so it makes a pocket. Do the same thing to the white paper. Next, put a thermometer into the black pocket. Do the same thing to the white pocket. Then put the pockets under the lamp. Turn the lamp on, and wait for 10 minutes. Then check the thermometers.
+Which pocket got hotter — the black pocket or the white one? Do you know why?
+
+Using vocabulary and structure from examples, write a short paragraph about 'prehistory' targeting the same readability level (Early Elementary), limited to 200 words.",,"Example 1:
+Cat and Dog walk. They walk in their village. Then they see an egg. The egg is in the grass. The egg is alone in the grass. The egg is all alone. Cat and Dog walk to a bird. They ask the bird, ""Is this your egg?"" But the bird says, ""No, that is not my egg. Ask the owl. Maybe it is his egg."" Cat and Dog walk to the owl. They ask the owl, ""Is this your egg?"" But the owl says, ""No, that is not my egg. Ask the goose. Maybe it is her egg."" Cat and Dog walk to the goose. They ask the goose, ""Is this your egg?"" But the goose says, ""No, that is not my egg. Ask the two ducks. Maybe it is their egg."" Cat and Dog walk to the two ducks. They ask the two ducks, ""Is this your egg?"" But the two ducks say, ""No, that is not our egg."" Then the egg breaks.
+
+Example 2:
+The Sun’s light shines on Earth. The light makes our air, land, and water warm. But some things get
+warmer than others.
+Pretend it is a sunny day. If you wore a black shirt, you would feel hot. But if you wore a white shirt, you wouldn’t feel as hot. The dark color absorbs more of the Sun’s energy. That makes the black shirt warm.
+Light colors reflect more of the Sun’s energy. This makes the white shirt cooler to wear. See for yourself! You need a piece of black paper and a piece of white paper. You also need two thermometers and a lamp. Ask an adult to help you.
+Fold the black paper so it makes a pocket. Do the same thing to the white paper. Next, put a thermometer into the black pocket. Do the same thing to the white pocket. Then put the pockets under the lamp. Turn the lamp on, and wait for 10 minutes. Then check the thermometers.
+Which pocket got hotter — the black pocket or the white one? Do you know why?
+
+Using vocabulary and structure from examples, write a short paragraph about 'prehistory' targeting the same readability level (Early Elementary), limited to 200 words. Here is a pre-draft of the example to follow:
+Title: The Time Before Written History
+
+Prehistory is a long time ago. Before people could write, they made history by drawing on walls, rocks, and cave walls. The drawings showed what they did. They drew pictures of animals they hunted and things they made. Some of these drawings are still on the walls today. We can learn about the past from these drawings.
+
+We don’t know much about the people who lived a long time ago. But we do know they made things like hammers, knives, and spears. They used rocks to make tools. They also made fires to cook their food and keep warm. People in prehistory also lived in groups, like families and friends. They worked together to survive. We can learn about their lives from the things they made and the places where they lived.
+
+Some of the things they made are still around today. We can see them in museums and in the ground. We can",1.8,96.79,2.4,6.6,4.47,3.5,2.54,2.1875
+Few-Shot,prehistory,Early Elementary,200,meta-llama/Llama-3.1-8B-Instruct,"Example 1:
+Cat and Dog walk. They walk in their village. Then they see an egg. The egg is in the grass. The egg is alone in the grass. The egg is all alone. Cat and Dog walk to a bird. They ask the bird, ""Is this your egg?"" But the bird says, ""No, that is not my egg. Ask the owl. Maybe it is his egg."" Cat and Dog walk to the owl. They ask the owl, ""Is this your egg?"" But the owl says, ""No, that is not my egg. Ask the goose. Maybe it is her egg."" Cat and Dog walk to the goose. They ask the goose, ""Is this your egg?"" But the goose says, ""No, that is not my egg. Ask the two ducks. Maybe it is their egg."" Cat and Dog walk to the two ducks. They ask the two ducks, ""Is this your egg?"" But the two ducks say, ""No, that is not our egg."" Then the egg breaks.
+
+Example 2:
+The Sun’s light shines on Earth. The light makes our air, land, and water warm. But some things get
+warmer than others.
+Pretend it is a sunny day. If you wore a black shirt, you would feel hot. But if you wore a white shirt, you wouldn’t feel as hot. The dark color absorbs more of the Sun’s energy. That makes the black shirt warm.
+Light colors reflect more of the Sun’s energy. This makes the white shirt cooler to wear. See for yourself! You need a piece of black paper and a piece of white paper. You also need two thermometers and a lamp. Ask an adult to help you.
+Fold the black paper so it makes a pocket. Do the same thing to the white paper. Next, put a thermometer into the black pocket. Do the same thing to the white pocket. Then put the pockets under the lamp. Turn the lamp on, and wait for 10 minutes. Then check the thermometers.
+Which pocket got hotter — the black pocket or the white one? Do you know why?
+
+Using vocabulary and structure from examples, write a short paragraph about 'prehistory' targeting the same readability level (Early Elementary), limited to 200 words.",,"Example 1:
+Cat and Dog walk. They walk in their village. Then they see an egg. The egg is in the grass. The egg is alone in the grass. The egg is all alone. Cat and Dog walk to a bird. They ask the bird, ""Is this your egg?"" But the bird says, ""No, that is not my egg. Ask the owl. Maybe it is his egg."" Cat and Dog walk to the owl. They ask the owl, ""Is this your egg?"" But the owl says, ""No, that is not my egg. Ask the goose. Maybe it is her egg."" Cat and Dog walk to the goose. They ask the goose, ""Is this your egg?"" But the goose says, ""No, that is not my egg. Ask the two ducks. Maybe it is their egg."" Cat and Dog walk to the two ducks. They ask the two ducks, ""Is this your egg?"" But the two ducks say, ""No, that is not our egg."" Then the egg breaks.
+
+Example 2:
+The Sun’s light shines on Earth. The light makes our air, land, and water warm. But some things get
+warmer than others.
+Pretend it is a sunny day. If you wore a black shirt, you would feel hot. But if you wore a white shirt, you wouldn’t feel as hot. The dark color absorbs more of the Sun’s energy. That makes the black shirt warm.
+Light colors reflect more of the Sun’s energy. This makes the white shirt cooler to wear. See for yourself! You need a piece of black paper and a piece of white paper. You also need two thermometers and a lamp. Ask an adult to help you.
+Fold the black paper so it makes a pocket. Do the same thing to the white paper. Next, put a thermometer into the black pocket. Do the same thing to the white pocket. Then put the pockets under the lamp. Turn the lamp on, and wait for 10 minutes. Then check the thermometers.
+Which pocket got hotter — the black pocket or the white one? Do you know why?
+
+Using vocabulary and structure from examples, write a short paragraph about 'prehistory' targeting the same readability level (Early Elementary), limited to 200 words. 
+Prehistory is a long time ago. It is before we had written records. It is before we knew how to write. We can’t write about that time. But we can learn from what people left behind. 
+Some of those things are tools. Tools are things that people used. They made things with them. People made stone tools. They made tools from bones and wood. Some of those tools were very good. They were very sharp. People used them to hunt and to gather food. They used them to make things. People also left behind pictures. They made pictures on walls and on rocks. Those pictures are very old. They tell us things about people a long time ago. We can learn a lot from them. People also left behind homes. They made homes from sticks and mud. They made homes from stones. Those homes are very old. They are very interesting. We can learn a lot from them. Prehistory is a long time ago. We can’t write about",1.3,98.11,1.5,5.8,3.73,2.56,2.24,2.1875

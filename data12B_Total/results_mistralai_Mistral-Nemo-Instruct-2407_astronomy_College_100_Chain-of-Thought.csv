@@ -1,0 +1,62 @@
+Technique,Topic,Target Level,Output Length,Model,Prompt,Rewrite Prompt,Text,Flesch-Kincaid,Flesch Ease,ARI,SMOG,Gunning Fog,Coleman-Liau,Spache,Linsear Write
+Chain-of-Thought,astronomy,College,100,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'astronomy' to someone reading at the College level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 100 words that follows your plan.",,"Step 1: Think about how to explain 'astronomy' to someone reading at the College level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 100 words that follows your plan. The paragraph should be well-organized and show your understanding of the topic.
+
+Astronomy, the scientific study of celestial bodies and phenomena that originate outside Earth's atmosphere, is a captivating and expansive field that delves into the mysteries of the universe. It encompasses a broad spectrum of topics, ranging from the study of stars, galaxies, and planets to the exploration of cosmic phenomena such as black holes and gravitational waves. Astronomy employs a multitude of scientific disciplines, including physics, mathematics, and chemistry, to unravel the intricate workings of the cosmos. Its history dates back thousands of years, with ancient civilizations making significant contributions to our understanding of the night sky. Today, astronomy continues to push the boundaries of human knowledge, fueled by technological advancements like powerful telescopes and space-based observatories that enable us to peer deeper into the universe than ever before.",13.3,34.66,15.6,14.9,14.89,15.26,6.23,11.333333333333334
+Chain-of-Thought,astronomy,College,100,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'astronomy' to someone reading at the College level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 100 words that follows your plan.",,"Step 1: Think about how to explain 'astronomy' to someone reading at the College level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 100 words that follows your plan. (The paragraph is provided for you.)
+Step 4: Review the paragraph for errors and make necessary revisions.
+
+Astronomy, a branch of physics, is the scientific study of celestial objects and phenomena that originate outside Earth's atmosphere. It encompasses a broad range of topics, from the motion of celestial bodies and their composition to the origin and evolution of the universe. Astronomy employs mathematical models and physical laws to explain the observed properties and behaviors of celestial objects, such as stars, planets, galaxies, and black holes. It also utilizes various observational techniques, including telescopes and satellites, to gather data about the cosmos.
+
+Your task is to review the paragraph for any errors, ensuring it's accurate, clear, and concise. Please make any necessary revisions.",10.0,48.5,11.9,12.6,12.09,13.16,5.32,7.5
+Chain-of-Thought,astronomy,College,100,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'astronomy' to someone reading at the College level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 100 words that follows your plan.",,"Step 1: Think about how to explain 'astronomy' to someone reading at the College level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 100 words that follows your plan.",6.7,68.06,8.4,8.8,8.11,9.72,3.96,5.833333333333333
+Chain-of-Thought,astronomy,College,100,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'astronomy' to someone reading at the College level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 100 words that follows your plan.",,"Step 1: Think about how to explain 'astronomy' to someone reading at the College level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 100 words that follows your plan. The paragraph should include the term 'astronomy'.
+
+Astronomy, a branch of science focused on celestial objects and phenomena, explores the universe beyond Earth's atmosphere. It encompasses the study of stars, planets, galaxies, and the physical laws that govern their interactions. Astronomy employs a range of techniques, including observations, theoretical modeling, and data analysis, to unravel the cosmos' mysteries. This discipline has significantly contributed to our understanding of the universe's origins, evolution, and potential fate.",12.1,32.29,13.6,13.6,14.61,15.3,5.99,8.125
+Chain-of-Thought,astronomy,College,100,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'astronomy' to someone reading at the College level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 100 words that follows your plan.",,"Step 1: Think about how to explain 'astronomy' to someone reading at the College level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 100 words that follows your plan.",6.7,68.06,8.4,8.8,8.11,9.72,3.96,5.833333333333333
+Chain-of-Thought,astronomy,College,100,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'astronomy' to someone reading at the College level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 100 words that follows your plan.",,"Step 1: Think about how to explain 'astronomy' to someone reading at the College level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 100 words that follows your plan. Astronomy, the scientific study of celestial objects and phenomena that originate outside Earth's atmosphere, is a captivating field that combines physics, mathematics, and chemistry. It encompasses the exploration of stars, planets, galaxies, and the universe's vast expanse, delving into their formation, evolution, and ultimate fate. Astronomy also investigates the fundamental laws governing these celestial bodies, seeking to understand the cosmos' origins and its ultimate destiny. This interdisciplinary approach makes astronomy an exciting pursuit that continually pushes the boundaries of human knowledge.",13.3,29.25,15.8,14.8,14.57,16.7,6.29,12.5
+Chain-of-Thought,astronomy,College,100,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'astronomy' to someone reading at the College level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 100 words that follows your plan.",,"Step 1: Think about how to explain 'astronomy' to someone reading at the College level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 100 words that follows your plan.",6.7,68.06,8.4,8.8,8.11,9.72,3.96,5.833333333333333
+Chain-of-Thought,astronomy,College,100,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'astronomy' to someone reading at the College level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 100 words that follows your plan.",,"Step 1: Think about how to explain 'astronomy' to someone reading at the College level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 100 words that follows your plan.",6.7,68.06,8.4,8.8,8.11,9.72,3.96,5.833333333333333
+Chain-of-Thought,astronomy,College,100,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'astronomy' to someone reading at the College level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 100 words that follows your plan.",,"Step 1: Think about how to explain 'astronomy' to someone reading at the College level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 100 words that follows your plan. Make sure it is clear and concise.
+
+Astronomy is the scientific study of celestial objects and phenomena that originate outside the Earth's atmosphere. It involves the observation and interpretation of data obtained from telescopes and other instruments, as well as theoretical modeling and simulation. This interdisciplinary field draws on physics, mathematics, and chemistry, among other subjects, to explain the origin, evolution, and ultimate fate of stars, galaxies, and the universe itself. Astronomers also study the properties and behavior of planets, moons, asteroids, comets, and other bodies within our solar system. By exploring the cosmos, astronomers seek to understand the fundamental laws that govern the universe and our place within it.",10.7,46.67,13.3,12.8,13.34,14.15,5.72,8.857142857142858
+Chain-of-Thought,astronomy,College,100,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'astronomy' to someone reading at the College level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 100 words that follows your plan.",,"Step 1: Think about how to explain 'astronomy' to someone reading at the College level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 100 words that follows your plan. Astronomy is the scientific study of celestial objects and phenomena that originate outside Earth's atmosphere. It involves observing, measuring, and interpreting data from the universe, with the aim of understanding its structure, evolution, and physical properties. Astronomy has greatly contributed to our understanding of the cosmos, from the discovery of exoplanets to the detection of gravitational waves.",11.6,39.03,13.5,14.3,15.25,14.61,5.81,11.5

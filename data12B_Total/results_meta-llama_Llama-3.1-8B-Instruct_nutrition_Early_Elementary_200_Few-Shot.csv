@@ -1,0 +1,276 @@
+Technique,Topic,Target Level,Output Length,Model,Prompt,Rewrite Prompt,Text,Flesch-Kincaid,Flesch Ease,ARI,SMOG,Gunning Fog,Coleman-Liau,Spache,Linsear Write
+Few-Shot,nutrition,Early Elementary,200,meta-llama/Llama-3.1-8B-Instruct,"Example 1:
+Cat and Dog walk. They walk in their village. Then they see an egg. The egg is in the grass. The egg is alone in the grass. The egg is all alone. Cat and Dog walk to a bird. They ask the bird, ""Is this your egg?"" But the bird says, ""No, that is not my egg. Ask the owl. Maybe it is his egg."" Cat and Dog walk to the owl. They ask the owl, ""Is this your egg?"" But the owl says, ""No, that is not my egg. Ask the goose. Maybe it is her egg."" Cat and Dog walk to the goose. They ask the goose, ""Is this your egg?"" But the goose says, ""No, that is not my egg. Ask the two ducks. Maybe it is their egg."" Cat and Dog walk to the two ducks. They ask the two ducks, ""Is this your egg?"" But the two ducks say, ""No, that is not our egg."" Then the egg breaks.
+
+Example 2:
+The Sun’s light shines on Earth. The light makes our air, land, and water warm. But some things get
+warmer than others.
+Pretend it is a sunny day. If you wore a black shirt, you would feel hot. But if you wore a white shirt, you wouldn’t feel as hot. The dark color absorbs more of the Sun’s energy. That makes the black shirt warm.
+Light colors reflect more of the Sun’s energy. This makes the white shirt cooler to wear. See for yourself! You need a piece of black paper and a piece of white paper. You also need two thermometers and a lamp. Ask an adult to help you.
+Fold the black paper so it makes a pocket. Do the same thing to the white paper. Next, put a thermometer into the black pocket. Do the same thing to the white pocket. Then put the pockets under the lamp. Turn the lamp on, and wait for 10 minutes. Then check the thermometers.
+Which pocket got hotter — the black pocket or the white one? Do you know why?
+
+Using vocabulary and structure from examples, write a short paragraph about 'nutrition' targeting the same readability level (Early Elementary), limited to 200 words.",,"Example 1:
+Cat and Dog walk. They walk in their village. Then they see an egg. The egg is in the grass. The egg is alone in the grass. The egg is all alone. Cat and Dog walk to a bird. They ask the bird, ""Is this your egg?"" But the bird says, ""No, that is not my egg. Ask the owl. Maybe it is his egg."" Cat and Dog walk to the owl. They ask the owl, ""Is this your egg?"" But the owl says, ""No, that is not my egg. Ask the goose. Maybe it is her egg."" Cat and Dog walk to the goose. They ask the goose, ""Is this your egg?"" But the goose says, ""No, that is not my egg. Ask the two ducks. Maybe it is their egg."" Cat and Dog walk to the two ducks. They ask the two ducks, ""Is this your egg?"" But the two ducks say, ""No, that is not our egg."" Then the egg breaks.
+
+Example 2:
+The Sun’s light shines on Earth. The light makes our air, land, and water warm. But some things get
+warmer than others.
+Pretend it is a sunny day. If you wore a black shirt, you would feel hot. But if you wore a white shirt, you wouldn’t feel as hot. The dark color absorbs more of the Sun’s energy. That makes the black shirt warm.
+Light colors reflect more of the Sun’s energy. This makes the white shirt cooler to wear. See for yourself! You need a piece of black paper and a piece of white paper. You also need two thermometers and a lamp. Ask an adult to help you.
+Fold the black paper so it makes a pocket. Do the same thing to the white paper. Next, put a thermometer into the black pocket. Do the same thing to the white pocket. Then put the pockets under the lamp. Turn the lamp on, and wait for 10 minutes. Then check the thermometers.
+Which pocket got hotter — the black pocket or the white one? Do you know why?
+
+Using vocabulary and structure from examples, write a short paragraph about 'nutrition' targeting the same readability level (Early Elementary), limited to 200 words. 
+
+Our bodies need food to live. We call this food ""nutrition."" We eat many different foods. They are fruits, vegetables, meats, and grains. Some foods are good for us. They make our bodies strong. Other foods are not good for us. They make us feel sick. We should eat lots of fruits and vegetables. They are good for our bodies. We can eat them raw or cooked. Apples, bananas, and carrots are good fruits and vegetables. We should also eat grains. They are good for our bodies too. We can eat them as bread or rice. We should not eat too many sweets. They are not good for us. They make us feel sick. We should eat only what is good for our bodies. Our bodies will be strong and healthy. We can run and play. We can be happy and healthy. We need good nutrition to live.
+
+Note: The readability level is estimated by the Flesch-Kincaid readability test. The test",1.4,97.91,1.6,6.4,3.97,2.56,2.35,2.1875
+Few-Shot,nutrition,Early Elementary,200,meta-llama/Llama-3.1-8B-Instruct,"Example 1:
+Cat and Dog walk. They walk in their village. Then they see an egg. The egg is in the grass. The egg is alone in the grass. The egg is all alone. Cat and Dog walk to a bird. They ask the bird, ""Is this your egg?"" But the bird says, ""No, that is not my egg. Ask the owl. Maybe it is his egg."" Cat and Dog walk to the owl. They ask the owl, ""Is this your egg?"" But the owl says, ""No, that is not my egg. Ask the goose. Maybe it is her egg."" Cat and Dog walk to the goose. They ask the goose, ""Is this your egg?"" But the goose says, ""No, that is not my egg. Ask the two ducks. Maybe it is their egg."" Cat and Dog walk to the two ducks. They ask the two ducks, ""Is this your egg?"" But the two ducks say, ""No, that is not our egg."" Then the egg breaks.
+
+Example 2:
+The Sun’s light shines on Earth. The light makes our air, land, and water warm. But some things get
+warmer than others.
+Pretend it is a sunny day. If you wore a black shirt, you would feel hot. But if you wore a white shirt, you wouldn’t feel as hot. The dark color absorbs more of the Sun’s energy. That makes the black shirt warm.
+Light colors reflect more of the Sun’s energy. This makes the white shirt cooler to wear. See for yourself! You need a piece of black paper and a piece of white paper. You also need two thermometers and a lamp. Ask an adult to help you.
+Fold the black paper so it makes a pocket. Do the same thing to the white paper. Next, put a thermometer into the black pocket. Do the same thing to the white pocket. Then put the pockets under the lamp. Turn the lamp on, and wait for 10 minutes. Then check the thermometers.
+Which pocket got hotter — the black pocket or the white one? Do you know why?
+
+Using vocabulary and structure from examples, write a short paragraph about 'nutrition' targeting the same readability level (Early Elementary), limited to 200 words.",,"Example 1:
+Cat and Dog walk. They walk in their village. Then they see an egg. The egg is in the grass. The egg is alone in the grass. The egg is all alone. Cat and Dog walk to a bird. They ask the bird, ""Is this your egg?"" But the bird says, ""No, that is not my egg. Ask the owl. Maybe it is his egg."" Cat and Dog walk to the owl. They ask the owl, ""Is this your egg?"" But the owl says, ""No, that is not my egg. Ask the goose. Maybe it is her egg."" Cat and Dog walk to the goose. They ask the goose, ""Is this your egg?"" But the goose says, ""No, that is not my egg. Ask the two ducks. Maybe it is their egg."" Cat and Dog walk to the two ducks. They ask the two ducks, ""Is this your egg?"" But the two ducks say, ""No, that is not our egg."" Then the egg breaks.
+
+Example 2:
+The Sun’s light shines on Earth. The light makes our air, land, and water warm. But some things get
+warmer than others.
+Pretend it is a sunny day. If you wore a black shirt, you would feel hot. But if you wore a white shirt, you wouldn’t feel as hot. The dark color absorbs more of the Sun’s energy. That makes the black shirt warm.
+Light colors reflect more of the Sun’s energy. This makes the white shirt cooler to wear. See for yourself! You need a piece of black paper and a piece of white paper. You also need two thermometers and a lamp. Ask an adult to help you.
+Fold the black paper so it makes a pocket. Do the same thing to the white paper. Next, put a thermometer into the black pocket. Do the same thing to the white pocket. Then put the pockets under the lamp. Turn the lamp on, and wait for 10 minutes. Then check the thermometers.
+Which pocket got hotter — the black pocket or the white one? Do you know why?
+
+Using vocabulary and structure from examples, write a short paragraph about 'nutrition' targeting the same readability level (Early Elementary), limited to 200 words. Use the same style of sentence structure and vocabulary. 
+
+Nutrition is food. Food gives us energy. But some foods give us more energy than others. Pretend you eat a big plate of pasta. You would feel full and happy. But if you ate a big plate of broccoli, you would feel full, but not as happy. The pasta has a lot of sugar and fat. That gives us energy. Broccoli has a lot of water and fiber. It helps our bodies stay healthy, but it doesn’t give us as much energy. 
+
+You need to eat foods with sugar and fat. But you also need to eat foods with water and fiber. That is why we need to eat a variety of foods. Ask your mom or dad to help you make a chart. Write down all the foods you eat for breakfast, lunch, and dinner. Then draw a picture of a food. If the food has a lot of sugar and fat, draw a red star. If the food has",1.7,97.3,1.2,6.3,4.12,2.1,2.4,2.1875
+Few-Shot,nutrition,Early Elementary,200,meta-llama/Llama-3.1-8B-Instruct,"Example 1:
+Cat and Dog walk. They walk in their village. Then they see an egg. The egg is in the grass. The egg is alone in the grass. The egg is all alone. Cat and Dog walk to a bird. They ask the bird, ""Is this your egg?"" But the bird says, ""No, that is not my egg. Ask the owl. Maybe it is his egg."" Cat and Dog walk to the owl. They ask the owl, ""Is this your egg?"" But the owl says, ""No, that is not my egg. Ask the goose. Maybe it is her egg."" Cat and Dog walk to the goose. They ask the goose, ""Is this your egg?"" But the goose says, ""No, that is not my egg. Ask the two ducks. Maybe it is their egg."" Cat and Dog walk to the two ducks. They ask the two ducks, ""Is this your egg?"" But the two ducks say, ""No, that is not our egg."" Then the egg breaks.
+
+Example 2:
+The Sun’s light shines on Earth. The light makes our air, land, and water warm. But some things get
+warmer than others.
+Pretend it is a sunny day. If you wore a black shirt, you would feel hot. But if you wore a white shirt, you wouldn’t feel as hot. The dark color absorbs more of the Sun’s energy. That makes the black shirt warm.
+Light colors reflect more of the Sun’s energy. This makes the white shirt cooler to wear. See for yourself! You need a piece of black paper and a piece of white paper. You also need two thermometers and a lamp. Ask an adult to help you.
+Fold the black paper so it makes a pocket. Do the same thing to the white paper. Next, put a thermometer into the black pocket. Do the same thing to the white pocket. Then put the pockets under the lamp. Turn the lamp on, and wait for 10 minutes. Then check the thermometers.
+Which pocket got hotter — the black pocket or the white one? Do you know why?
+
+Using vocabulary and structure from examples, write a short paragraph about 'nutrition' targeting the same readability level (Early Elementary), limited to 200 words.",,"Example 1:
+Cat and Dog walk. They walk in their village. Then they see an egg. The egg is in the grass. The egg is alone in the grass. The egg is all alone. Cat and Dog walk to a bird. They ask the bird, ""Is this your egg?"" But the bird says, ""No, that is not my egg. Ask the owl. Maybe it is his egg."" Cat and Dog walk to the owl. They ask the owl, ""Is this your egg?"" But the owl says, ""No, that is not my egg. Ask the goose. Maybe it is her egg."" Cat and Dog walk to the goose. They ask the goose, ""Is this your egg?"" But the goose says, ""No, that is not my egg. Ask the two ducks. Maybe it is their egg."" Cat and Dog walk to the two ducks. They ask the two ducks, ""Is this your egg?"" But the two ducks say, ""No, that is not our egg."" Then the egg breaks.
+
+Example 2:
+The Sun’s light shines on Earth. The light makes our air, land, and water warm. But some things get
+warmer than others.
+Pretend it is a sunny day. If you wore a black shirt, you would feel hot. But if you wore a white shirt, you wouldn’t feel as hot. The dark color absorbs more of the Sun’s energy. That makes the black shirt warm.
+Light colors reflect more of the Sun’s energy. This makes the white shirt cooler to wear. See for yourself! You need a piece of black paper and a piece of white paper. You also need two thermometers and a lamp. Ask an adult to help you.
+Fold the black paper so it makes a pocket. Do the same thing to the white paper. Next, put a thermometer into the black pocket. Do the same thing to the white pocket. Then put the pockets under the lamp. Turn the lamp on, and wait for 10 minutes. Then check the thermometers.
+Which pocket got hotter — the black pocket or the white one? Do you know why?
+
+Using vocabulary and structure from examples, write a short paragraph about 'nutrition' targeting the same readability level (Early Elementary), limited to 200 words. 
+
+Our body is like a car. We put fuel into the car to make it go. Our car is like our body. We need to put food into our body so it can work properly. This is called nutrition. We need to eat food that has good nutrients in it. Food like fruits and vegetables are good for us. They have things that help us stay healthy. Like apples, which are full of fiber, and carrots, which are good for our eyes. We also need to eat food that has protein in it. Like chicken and fish, which are good for our muscles. We need to eat food that has iron in it too. Like beans and spinach, which help make our blood. When we eat food that is good for us, we feel good and we stay healthy. Our body is happy and works properly. We can run, jump, and play without getting tired. We can even learn and grow. That is the importance of nutrition. We need to take care of",1.7,97.2,1.4,6.3,4.38,2.16,2.47,2.1875
+Few-Shot,nutrition,Early Elementary,200,meta-llama/Llama-3.1-8B-Instruct,"Example 1:
+Cat and Dog walk. They walk in their village. Then they see an egg. The egg is in the grass. The egg is alone in the grass. The egg is all alone. Cat and Dog walk to a bird. They ask the bird, ""Is this your egg?"" But the bird says, ""No, that is not my egg. Ask the owl. Maybe it is his egg."" Cat and Dog walk to the owl. They ask the owl, ""Is this your egg?"" But the owl says, ""No, that is not my egg. Ask the goose. Maybe it is her egg."" Cat and Dog walk to the goose. They ask the goose, ""Is this your egg?"" But the goose says, ""No, that is not my egg. Ask the two ducks. Maybe it is their egg."" Cat and Dog walk to the two ducks. They ask the two ducks, ""Is this your egg?"" But the two ducks say, ""No, that is not our egg."" Then the egg breaks.
+
+Example 2:
+The Sun’s light shines on Earth. The light makes our air, land, and water warm. But some things get
+warmer than others.
+Pretend it is a sunny day. If you wore a black shirt, you would feel hot. But if you wore a white shirt, you wouldn’t feel as hot. The dark color absorbs more of the Sun’s energy. That makes the black shirt warm.
+Light colors reflect more of the Sun’s energy. This makes the white shirt cooler to wear. See for yourself! You need a piece of black paper and a piece of white paper. You also need two thermometers and a lamp. Ask an adult to help you.
+Fold the black paper so it makes a pocket. Do the same thing to the white paper. Next, put a thermometer into the black pocket. Do the same thing to the white pocket. Then put the pockets under the lamp. Turn the lamp on, and wait for 10 minutes. Then check the thermometers.
+Which pocket got hotter — the black pocket or the white one? Do you know why?
+
+Using vocabulary and structure from examples, write a short paragraph about 'nutrition' targeting the same readability level (Early Elementary), limited to 200 words.",,"Example 1:
+Cat and Dog walk. They walk in their village. Then they see an egg. The egg is in the grass. The egg is alone in the grass. The egg is all alone. Cat and Dog walk to a bird. They ask the bird, ""Is this your egg?"" But the bird says, ""No, that is not my egg. Ask the owl. Maybe it is his egg."" Cat and Dog walk to the owl. They ask the owl, ""Is this your egg?"" But the owl says, ""No, that is not my egg. Ask the goose. Maybe it is her egg."" Cat and Dog walk to the goose. They ask the goose, ""Is this your egg?"" But the goose says, ""No, that is not my egg. Ask the two ducks. Maybe it is their egg."" Cat and Dog walk to the two ducks. They ask the two ducks, ""Is this your egg?"" But the two ducks say, ""No, that is not our egg."" Then the egg breaks.
+
+Example 2:
+The Sun’s light shines on Earth. The light makes our air, land, and water warm. But some things get
+warmer than others.
+Pretend it is a sunny day. If you wore a black shirt, you would feel hot. But if you wore a white shirt, you wouldn’t feel as hot. The dark color absorbs more of the Sun’s energy. That makes the black shirt warm.
+Light colors reflect more of the Sun’s energy. This makes the white shirt cooler to wear. See for yourself! You need a piece of black paper and a piece of white paper. You also need two thermometers and a lamp. Ask an adult to help you.
+Fold the black paper so it makes a pocket. Do the same thing to the white paper. Next, put a thermometer into the black pocket. Do the same thing to the white pocket. Then put the pockets under the lamp. Turn the lamp on, and wait for 10 minutes. Then check the thermometers.
+Which pocket got hotter — the black pocket or the white one? Do you know why?
+
+Using vocabulary and structure from examples, write a short paragraph about 'nutrition' targeting the same readability level (Early Elementary), limited to 200 words. 
+The food we eat helps keep our bodies strong. When we eat, our bodies take in the food. The food goes into our tummies. Then it comes out as energy. The energy makes us move. But some foods are better for us than others. Fruits and vegetables are good for us. They give us the nutrients we need. The nutrients help keep our bodies healthy. But some foods are not as good for us. Candy and chips are not good for us. They don’t give us the nutrients we need. They just give us empty calories. Empty calories don’t make us stronger. They make us fat. So, we need to eat the foods that are good for us. We need to eat fruits and vegetables. We need to eat the foods that give us the nutrients we need to stay healthy. 
+
+Note: The paragraph is written using the same vocabulary and structure as the provided examples. It is targeted at the Early Elementary readability level and limited to 200 words",1.6,97.4,1.8,6.8,4.23,2.86,2.4,2.1875
+Few-Shot,nutrition,Early Elementary,200,meta-llama/Llama-3.1-8B-Instruct,"Example 1:
+Cat and Dog walk. They walk in their village. Then they see an egg. The egg is in the grass. The egg is alone in the grass. The egg is all alone. Cat and Dog walk to a bird. They ask the bird, ""Is this your egg?"" But the bird says, ""No, that is not my egg. Ask the owl. Maybe it is his egg."" Cat and Dog walk to the owl. They ask the owl, ""Is this your egg?"" But the owl says, ""No, that is not my egg. Ask the goose. Maybe it is her egg."" Cat and Dog walk to the goose. They ask the goose, ""Is this your egg?"" But the goose says, ""No, that is not my egg. Ask the two ducks. Maybe it is their egg."" Cat and Dog walk to the two ducks. They ask the two ducks, ""Is this your egg?"" But the two ducks say, ""No, that is not our egg."" Then the egg breaks.
+
+Example 2:
+The Sun’s light shines on Earth. The light makes our air, land, and water warm. But some things get
+warmer than others.
+Pretend it is a sunny day. If you wore a black shirt, you would feel hot. But if you wore a white shirt, you wouldn’t feel as hot. The dark color absorbs more of the Sun’s energy. That makes the black shirt warm.
+Light colors reflect more of the Sun’s energy. This makes the white shirt cooler to wear. See for yourself! You need a piece of black paper and a piece of white paper. You also need two thermometers and a lamp. Ask an adult to help you.
+Fold the black paper so it makes a pocket. Do the same thing to the white paper. Next, put a thermometer into the black pocket. Do the same thing to the white pocket. Then put the pockets under the lamp. Turn the lamp on, and wait for 10 minutes. Then check the thermometers.
+Which pocket got hotter — the black pocket or the white one? Do you know why?
+
+Using vocabulary and structure from examples, write a short paragraph about 'nutrition' targeting the same readability level (Early Elementary), limited to 200 words.",,"Example 1:
+Cat and Dog walk. They walk in their village. Then they see an egg. The egg is in the grass. The egg is alone in the grass. The egg is all alone. Cat and Dog walk to a bird. They ask the bird, ""Is this your egg?"" But the bird says, ""No, that is not my egg. Ask the owl. Maybe it is his egg."" Cat and Dog walk to the owl. They ask the owl, ""Is this your egg?"" But the owl says, ""No, that is not my egg. Ask the goose. Maybe it is her egg."" Cat and Dog walk to the goose. They ask the goose, ""Is this your egg?"" But the goose says, ""No, that is not my egg. Ask the two ducks. Maybe it is their egg."" Cat and Dog walk to the two ducks. They ask the two ducks, ""Is this your egg?"" But the two ducks say, ""No, that is not our egg."" Then the egg breaks.
+
+Example 2:
+The Sun’s light shines on Earth. The light makes our air, land, and water warm. But some things get
+warmer than others.
+Pretend it is a sunny day. If you wore a black shirt, you would feel hot. But if you wore a white shirt, you wouldn’t feel as hot. The dark color absorbs more of the Sun’s energy. That makes the black shirt warm.
+Light colors reflect more of the Sun’s energy. This makes the white shirt cooler to wear. See for yourself! You need a piece of black paper and a piece of white paper. You also need two thermometers and a lamp. Ask an adult to help you.
+Fold the black paper so it makes a pocket. Do the same thing to the white paper. Next, put a thermometer into the black pocket. Do the same thing to the white pocket. Then put the pockets under the lamp. Turn the lamp on, and wait for 10 minutes. Then check the thermometers.
+Which pocket got hotter — the black pocket or the white one? Do you know why?
+
+Using vocabulary and structure from examples, write a short paragraph about 'nutrition' targeting the same readability level (Early Elementary), limited to 200 words. 
+
+The Body's Food: Nutrition
+Nutrition helps our body. It makes us strong and healthy. We need food to live. Food is our body’s fuel. It makes us run, play, and have fun. When we eat food, our body breaks it down. Then it makes the nutrients that we need. These nutrients make our body strong. They help us grow and have energy. Our body needs a little bit of each nutrient. If we eat a lot of one nutrient, it can be bad for us. It’s like when you eat too many cookies. You feel sick. But if you eat a little bit of cookies and some other foods, you feel happy and strong. The right foods help our body be happy and strong. Our body is like a car. It needs the right kind of fuel to run. If you put the wrong kind of fuel in a car, it won’t run. It’s the same with our body. We need the right kind of food",1.6,97.4,1.2,6.3,4.16,2.04,2.35,2.1875
+Few-Shot,nutrition,Early Elementary,200,meta-llama/Llama-3.1-8B-Instruct,"Example 1:
+Cat and Dog walk. They walk in their village. Then they see an egg. The egg is in the grass. The egg is alone in the grass. The egg is all alone. Cat and Dog walk to a bird. They ask the bird, ""Is this your egg?"" But the bird says, ""No, that is not my egg. Ask the owl. Maybe it is his egg."" Cat and Dog walk to the owl. They ask the owl, ""Is this your egg?"" But the owl says, ""No, that is not my egg. Ask the goose. Maybe it is her egg."" Cat and Dog walk to the goose. They ask the goose, ""Is this your egg?"" But the goose says, ""No, that is not my egg. Ask the two ducks. Maybe it is their egg."" Cat and Dog walk to the two ducks. They ask the two ducks, ""Is this your egg?"" But the two ducks say, ""No, that is not our egg."" Then the egg breaks.
+
+Example 2:
+The Sun’s light shines on Earth. The light makes our air, land, and water warm. But some things get
+warmer than others.
+Pretend it is a sunny day. If you wore a black shirt, you would feel hot. But if you wore a white shirt, you wouldn’t feel as hot. The dark color absorbs more of the Sun’s energy. That makes the black shirt warm.
+Light colors reflect more of the Sun’s energy. This makes the white shirt cooler to wear. See for yourself! You need a piece of black paper and a piece of white paper. You also need two thermometers and a lamp. Ask an adult to help you.
+Fold the black paper so it makes a pocket. Do the same thing to the white paper. Next, put a thermometer into the black pocket. Do the same thing to the white pocket. Then put the pockets under the lamp. Turn the lamp on, and wait for 10 minutes. Then check the thermometers.
+Which pocket got hotter — the black pocket or the white one? Do you know why?
+
+Using vocabulary and structure from examples, write a short paragraph about 'nutrition' targeting the same readability level (Early Elementary), limited to 200 words.",,"Example 1:
+Cat and Dog walk. They walk in their village. Then they see an egg. The egg is in the grass. The egg is alone in the grass. The egg is all alone. Cat and Dog walk to a bird. They ask the bird, ""Is this your egg?"" But the bird says, ""No, that is not my egg. Ask the owl. Maybe it is his egg."" Cat and Dog walk to the owl. They ask the owl, ""Is this your egg?"" But the owl says, ""No, that is not my egg. Ask the goose. Maybe it is her egg."" Cat and Dog walk to the goose. They ask the goose, ""Is this your egg?"" But the goose says, ""No, that is not my egg. Ask the two ducks. Maybe it is their egg."" Cat and Dog walk to the two ducks. They ask the two ducks, ""Is this your egg?"" But the two ducks say, ""No, that is not our egg."" Then the egg breaks.
+
+Example 2:
+The Sun’s light shines on Earth. The light makes our air, land, and water warm. But some things get
+warmer than others.
+Pretend it is a sunny day. If you wore a black shirt, you would feel hot. But if you wore a white shirt, you wouldn’t feel as hot. The dark color absorbs more of the Sun’s energy. That makes the black shirt warm.
+Light colors reflect more of the Sun’s energy. This makes the white shirt cooler to wear. See for yourself! You need a piece of black paper and a piece of white paper. You also need two thermometers and a lamp. Ask an adult to help you.
+Fold the black paper so it makes a pocket. Do the same thing to the white paper. Next, put a thermometer into the black pocket. Do the same thing to the white pocket. Then put the pockets under the lamp. Turn the lamp on, and wait for 10 minutes. Then check the thermometers.
+Which pocket got hotter — the black pocket or the white one? Do you know why?
+
+Using vocabulary and structure from examples, write a short paragraph about 'nutrition' targeting the same readability level (Early Elementary), limited to 200 words. 
+Our bodies need food to grow and be strong. Food gives us energy to move and play. Nutrition is what happens when we eat food. Our bodies use the food to grow and be healthy. But some foods are better for us than others. Fruits and vegetables are good for us. They give us vitamins and minerals that we need. Meat, like chicken and fish, gives us protein that helps us grow. Grains, like bread and rice, give us energy. But if we only eat junk food, we won’t get the good things we need. Junk food doesn’t have the vitamins and minerals that we need. We need to eat a variety of foods to be healthy. If we eat only one kind of food, we might not get all the good things we need. So let’s eat a rainbow of foods. Let’s eat fruits and vegetables, meat, grains, and dairy products. That way, we can grow strong and healthy bodies.
+
+**Please provide a short answer",1.7,97.09,1.8,6.6,4.43,2.92,2.51,2.1875
+Few-Shot,nutrition,Early Elementary,200,meta-llama/Llama-3.1-8B-Instruct,"Example 1:
+Cat and Dog walk. They walk in their village. Then they see an egg. The egg is in the grass. The egg is alone in the grass. The egg is all alone. Cat and Dog walk to a bird. They ask the bird, ""Is this your egg?"" But the bird says, ""No, that is not my egg. Ask the owl. Maybe it is his egg."" Cat and Dog walk to the owl. They ask the owl, ""Is this your egg?"" But the owl says, ""No, that is not my egg. Ask the goose. Maybe it is her egg."" Cat and Dog walk to the goose. They ask the goose, ""Is this your egg?"" But the goose says, ""No, that is not my egg. Ask the two ducks. Maybe it is their egg."" Cat and Dog walk to the two ducks. They ask the two ducks, ""Is this your egg?"" But the two ducks say, ""No, that is not our egg."" Then the egg breaks.
+
+Example 2:
+The Sun’s light shines on Earth. The light makes our air, land, and water warm. But some things get
+warmer than others.
+Pretend it is a sunny day. If you wore a black shirt, you would feel hot. But if you wore a white shirt, you wouldn’t feel as hot. The dark color absorbs more of the Sun’s energy. That makes the black shirt warm.
+Light colors reflect more of the Sun’s energy. This makes the white shirt cooler to wear. See for yourself! You need a piece of black paper and a piece of white paper. You also need two thermometers and a lamp. Ask an adult to help you.
+Fold the black paper so it makes a pocket. Do the same thing to the white paper. Next, put a thermometer into the black pocket. Do the same thing to the white pocket. Then put the pockets under the lamp. Turn the lamp on, and wait for 10 minutes. Then check the thermometers.
+Which pocket got hotter — the black pocket or the white one? Do you know why?
+
+Using vocabulary and structure from examples, write a short paragraph about 'nutrition' targeting the same readability level (Early Elementary), limited to 200 words.",,"Example 1:
+Cat and Dog walk. They walk in their village. Then they see an egg. The egg is in the grass. The egg is alone in the grass. The egg is all alone. Cat and Dog walk to a bird. They ask the bird, ""Is this your egg?"" But the bird says, ""No, that is not my egg. Ask the owl. Maybe it is his egg."" Cat and Dog walk to the owl. They ask the owl, ""Is this your egg?"" But the owl says, ""No, that is not my egg. Ask the goose. Maybe it is her egg."" Cat and Dog walk to the goose. They ask the goose, ""Is this your egg?"" But the goose says, ""No, that is not my egg. Ask the two ducks. Maybe it is their egg."" Cat and Dog walk to the two ducks. They ask the two ducks, ""Is this your egg?"" But the two ducks say, ""No, that is not our egg."" Then the egg breaks.
+
+Example 2:
+The Sun’s light shines on Earth. The light makes our air, land, and water warm. But some things get
+warmer than others.
+Pretend it is a sunny day. If you wore a black shirt, you would feel hot. But if you wore a white shirt, you wouldn’t feel as hot. The dark color absorbs more of the Sun’s energy. That makes the black shirt warm.
+Light colors reflect more of the Sun’s energy. This makes the white shirt cooler to wear. See for yourself! You need a piece of black paper and a piece of white paper. You also need two thermometers and a lamp. Ask an adult to help you.
+Fold the black paper so it makes a pocket. Do the same thing to the white paper. Next, put a thermometer into the black pocket. Do the same thing to the white pocket. Then put the pockets under the lamp. Turn the lamp on, and wait for 10 minutes. Then check the thermometers.
+Which pocket got hotter — the black pocket or the white one? Do you know why?
+
+Using vocabulary and structure from examples, write a short paragraph about 'nutrition' targeting the same readability level (Early Elementary), limited to 200 words. Here is the good news: You don’t need a lot of food to have good nutrition. You can get good nutrition from the food you eat every day. Fruits, vegetables, and grains give you the vitamins and minerals you need. But do you know how they do it? Grains have carbohydrates. Carbohydrates are a type of sugar. They help give you energy. Fruits and vegetables have fiber and vitamins. Fiber helps keep your stomach happy. Vitamins keep you from getting sick. Then you will be healthy. Eat a variety of foods every day. This way you will get the vitamins and minerals you need. You will feel happy and healthy. Your body will be strong. You will be able to do many things. Ask your parents to help you make healthy food choices. You can make good choices. You can have good nutrition. You can be happy and healthy. That is the good news. Do you know what to do to make it happen? Try it today.",1.5,97.7,1.7,6.8,4.27,2.91,2.4,2.1875
+Few-Shot,nutrition,Early Elementary,200,meta-llama/Llama-3.1-8B-Instruct,"Example 1:
+Cat and Dog walk. They walk in their village. Then they see an egg. The egg is in the grass. The egg is alone in the grass. The egg is all alone. Cat and Dog walk to a bird. They ask the bird, ""Is this your egg?"" But the bird says, ""No, that is not my egg. Ask the owl. Maybe it is his egg."" Cat and Dog walk to the owl. They ask the owl, ""Is this your egg?"" But the owl says, ""No, that is not my egg. Ask the goose. Maybe it is her egg."" Cat and Dog walk to the goose. They ask the goose, ""Is this your egg?"" But the goose says, ""No, that is not my egg. Ask the two ducks. Maybe it is their egg."" Cat and Dog walk to the two ducks. They ask the two ducks, ""Is this your egg?"" But the two ducks say, ""No, that is not our egg."" Then the egg breaks.
+
+Example 2:
+The Sun’s light shines on Earth. The light makes our air, land, and water warm. But some things get
+warmer than others.
+Pretend it is a sunny day. If you wore a black shirt, you would feel hot. But if you wore a white shirt, you wouldn’t feel as hot. The dark color absorbs more of the Sun’s energy. That makes the black shirt warm.
+Light colors reflect more of the Sun’s energy. This makes the white shirt cooler to wear. See for yourself! You need a piece of black paper and a piece of white paper. You also need two thermometers and a lamp. Ask an adult to help you.
+Fold the black paper so it makes a pocket. Do the same thing to the white paper. Next, put a thermometer into the black pocket. Do the same thing to the white pocket. Then put the pockets under the lamp. Turn the lamp on, and wait for 10 minutes. Then check the thermometers.
+Which pocket got hotter — the black pocket or the white one? Do you know why?
+
+Using vocabulary and structure from examples, write a short paragraph about 'nutrition' targeting the same readability level (Early Elementary), limited to 200 words.",,"Example 1:
+Cat and Dog walk. They walk in their village. Then they see an egg. The egg is in the grass. The egg is alone in the grass. The egg is all alone. Cat and Dog walk to a bird. They ask the bird, ""Is this your egg?"" But the bird says, ""No, that is not my egg. Ask the owl. Maybe it is his egg."" Cat and Dog walk to the owl. They ask the owl, ""Is this your egg?"" But the owl says, ""No, that is not my egg. Ask the goose. Maybe it is her egg."" Cat and Dog walk to the goose. They ask the goose, ""Is this your egg?"" But the goose says, ""No, that is not my egg. Ask the two ducks. Maybe it is their egg."" Cat and Dog walk to the two ducks. They ask the two ducks, ""Is this your egg?"" But the two ducks say, ""No, that is not our egg."" Then the egg breaks.
+
+Example 2:
+The Sun’s light shines on Earth. The light makes our air, land, and water warm. But some things get
+warmer than others.
+Pretend it is a sunny day. If you wore a black shirt, you would feel hot. But if you wore a white shirt, you wouldn’t feel as hot. The dark color absorbs more of the Sun’s energy. That makes the black shirt warm.
+Light colors reflect more of the Sun’s energy. This makes the white shirt cooler to wear. See for yourself! You need a piece of black paper and a piece of white paper. You also need two thermometers and a lamp. Ask an adult to help you.
+Fold the black paper so it makes a pocket. Do the same thing to the white paper. Next, put a thermometer into the black pocket. Do the same thing to the white pocket. Then put the pockets under the lamp. Turn the lamp on, and wait for 10 minutes. Then check the thermometers.
+Which pocket got hotter — the black pocket or the white one? Do you know why?
+
+Using vocabulary and structure from examples, write a short paragraph about 'nutrition' targeting the same readability level (Early Elementary), limited to 200 words. 
+Eating healthy is good for you. Nutrition is eating food that makes your body strong. Food is like a car’s gasoline. Gasoline helps the car move. Nutrition helps your body move. But some foods are like junk food for cars. They don’t help the car move well. They might even make the car break down. Some foods are good for you, like fruits and vegetables. They make you strong. They help you run fast. They help you play outside. But junk foods, like candy and chips, don’t help you. They might make you feel sick. So, eat healthy foods every day. They are like gasoline for your body. They help you move and play outside. Always choose foods that are good for you. Your body will thank you. It will be strong and healthy. You will feel good too. So, remember: eat healthy, and be healthy.",1.4,97.91,1.7,6.0,3.93,2.62,2.3,2.1875
+Few-Shot,nutrition,Early Elementary,200,meta-llama/Llama-3.1-8B-Instruct,"Example 1:
+Cat and Dog walk. They walk in their village. Then they see an egg. The egg is in the grass. The egg is alone in the grass. The egg is all alone. Cat and Dog walk to a bird. They ask the bird, ""Is this your egg?"" But the bird says, ""No, that is not my egg. Ask the owl. Maybe it is his egg."" Cat and Dog walk to the owl. They ask the owl, ""Is this your egg?"" But the owl says, ""No, that is not my egg. Ask the goose. Maybe it is her egg."" Cat and Dog walk to the goose. They ask the goose, ""Is this your egg?"" But the goose says, ""No, that is not my egg. Ask the two ducks. Maybe it is their egg."" Cat and Dog walk to the two ducks. They ask the two ducks, ""Is this your egg?"" But the two ducks say, ""No, that is not our egg."" Then the egg breaks.
+
+Example 2:
+The Sun’s light shines on Earth. The light makes our air, land, and water warm. But some things get
+warmer than others.
+Pretend it is a sunny day. If you wore a black shirt, you would feel hot. But if you wore a white shirt, you wouldn’t feel as hot. The dark color absorbs more of the Sun’s energy. That makes the black shirt warm.
+Light colors reflect more of the Sun’s energy. This makes the white shirt cooler to wear. See for yourself! You need a piece of black paper and a piece of white paper. You also need two thermometers and a lamp. Ask an adult to help you.
+Fold the black paper so it makes a pocket. Do the same thing to the white paper. Next, put a thermometer into the black pocket. Do the same thing to the white pocket. Then put the pockets under the lamp. Turn the lamp on, and wait for 10 minutes. Then check the thermometers.
+Which pocket got hotter — the black pocket or the white one? Do you know why?
+
+Using vocabulary and structure from examples, write a short paragraph about 'nutrition' targeting the same readability level (Early Elementary), limited to 200 words.",,"Example 1:
+Cat and Dog walk. They walk in their village. Then they see an egg. The egg is in the grass. The egg is alone in the grass. The egg is all alone. Cat and Dog walk to a bird. They ask the bird, ""Is this your egg?"" But the bird says, ""No, that is not my egg. Ask the owl. Maybe it is his egg."" Cat and Dog walk to the owl. They ask the owl, ""Is this your egg?"" But the owl says, ""No, that is not my egg. Ask the goose. Maybe it is her egg."" Cat and Dog walk to the goose. They ask the goose, ""Is this your egg?"" But the goose says, ""No, that is not my egg. Ask the two ducks. Maybe it is their egg."" Cat and Dog walk to the two ducks. They ask the two ducks, ""Is this your egg?"" But the two ducks say, ""No, that is not our egg."" Then the egg breaks.
+
+Example 2:
+The Sun’s light shines on Earth. The light makes our air, land, and water warm. But some things get
+warmer than others.
+Pretend it is a sunny day. If you wore a black shirt, you would feel hot. But if you wore a white shirt, you wouldn’t feel as hot. The dark color absorbs more of the Sun’s energy. That makes the black shirt warm.
+Light colors reflect more of the Sun’s energy. This makes the white shirt cooler to wear. See for yourself! You need a piece of black paper and a piece of white paper. You also need two thermometers and a lamp. Ask an adult to help you.
+Fold the black paper so it makes a pocket. Do the same thing to the white paper. Next, put a thermometer into the black pocket. Do the same thing to the white pocket. Then put the pockets under the lamp. Turn the lamp on, and wait for 10 minutes. Then check the thermometers.
+Which pocket got hotter — the black pocket or the white one? Do you know why?
+
+Using vocabulary and structure from examples, write a short paragraph about 'nutrition' targeting the same readability level (Early Elementary), limited to 200 words. 
+
+**Vocabulary:**
+
+- Food
+- Nutrients
+- Body
+- Healthy
+
+**Structure:**
+
+- Start with a basic statement
+- Use descriptive words
+- Introduce a problem
+- Offer a solution
+- End with a conclusion
+
+**Sample paragraph:**
+
+Food gives our body nutrients. Nutrients are like special helpers that keep our body healthy. But sometimes we don't eat enough food. Our body can start to feel weak. That is not healthy. To stay healthy, we need to eat good food every day. Good food is food that has lots of nutrients. Fruits, vegetables, and nuts are good food. They have lots of nutrients. We can eat them raw or cook them. Cooking food helps the nutrients get into our body better. Eating good food every day keeps our body healthy. If we eat good food, we will feel strong and happy. We will be able to run, play, and do many fun things. So, let's eat",1.7,97.2,2.5,6.8,4.52,3.5,2.56,2.1875
+Few-Shot,nutrition,Early Elementary,200,meta-llama/Llama-3.1-8B-Instruct,"Example 1:
+Cat and Dog walk. They walk in their village. Then they see an egg. The egg is in the grass. The egg is alone in the grass. The egg is all alone. Cat and Dog walk to a bird. They ask the bird, ""Is this your egg?"" But the bird says, ""No, that is not my egg. Ask the owl. Maybe it is his egg."" Cat and Dog walk to the owl. They ask the owl, ""Is this your egg?"" But the owl says, ""No, that is not my egg. Ask the goose. Maybe it is her egg."" Cat and Dog walk to the goose. They ask the goose, ""Is this your egg?"" But the goose says, ""No, that is not my egg. Ask the two ducks. Maybe it is their egg."" Cat and Dog walk to the two ducks. They ask the two ducks, ""Is this your egg?"" But the two ducks say, ""No, that is not our egg."" Then the egg breaks.
+
+Example 2:
+The Sun’s light shines on Earth. The light makes our air, land, and water warm. But some things get
+warmer than others.
+Pretend it is a sunny day. If you wore a black shirt, you would feel hot. But if you wore a white shirt, you wouldn’t feel as hot. The dark color absorbs more of the Sun’s energy. That makes the black shirt warm.
+Light colors reflect more of the Sun’s energy. This makes the white shirt cooler to wear. See for yourself! You need a piece of black paper and a piece of white paper. You also need two thermometers and a lamp. Ask an adult to help you.
+Fold the black paper so it makes a pocket. Do the same thing to the white paper. Next, put a thermometer into the black pocket. Do the same thing to the white pocket. Then put the pockets under the lamp. Turn the lamp on, and wait for 10 minutes. Then check the thermometers.
+Which pocket got hotter — the black pocket or the white one? Do you know why?
+
+Using vocabulary and structure from examples, write a short paragraph about 'nutrition' targeting the same readability level (Early Elementary), limited to 200 words.",,"Example 1:
+Cat and Dog walk. They walk in their village. Then they see an egg. The egg is in the grass. The egg is alone in the grass. The egg is all alone. Cat and Dog walk to a bird. They ask the bird, ""Is this your egg?"" But the bird says, ""No, that is not my egg. Ask the owl. Maybe it is his egg."" Cat and Dog walk to the owl. They ask the owl, ""Is this your egg?"" But the owl says, ""No, that is not my egg. Ask the goose. Maybe it is her egg."" Cat and Dog walk to the goose. They ask the goose, ""Is this your egg?"" But the goose says, ""No, that is not my egg. Ask the two ducks. Maybe it is their egg."" Cat and Dog walk to the two ducks. They ask the two ducks, ""Is this your egg?"" But the two ducks say, ""No, that is not our egg."" Then the egg breaks.
+
+Example 2:
+The Sun’s light shines on Earth. The light makes our air, land, and water warm. But some things get
+warmer than others.
+Pretend it is a sunny day. If you wore a black shirt, you would feel hot. But if you wore a white shirt, you wouldn’t feel as hot. The dark color absorbs more of the Sun’s energy. That makes the black shirt warm.
+Light colors reflect more of the Sun’s energy. This makes the white shirt cooler to wear. See for yourself! You need a piece of black paper and a piece of white paper. You also need two thermometers and a lamp. Ask an adult to help you.
+Fold the black paper so it makes a pocket. Do the same thing to the white paper. Next, put a thermometer into the black pocket. Do the same thing to the white pocket. Then put the pockets under the lamp. Turn the lamp on, and wait for 10 minutes. Then check the thermometers.
+Which pocket got hotter — the black pocket or the white one? Do you know why?
+
+Using vocabulary and structure from examples, write a short paragraph about 'nutrition' targeting the same readability level (Early Elementary), limited to 200 words. 
+
+Nutrition is important. Food gives us energy to move. It helps our bodies grow strong. We need to eat many different foods. We need fruits, vegetables, and whole grains. Fruits and vegetables have vitamins and minerals. These help us stay healthy. Whole grains have fiber. Fiber helps us digest our food. If we eat a lot of junk food, our bodies might get sick. We need to eat healthy food every day. Then we can run and play with our friends. We can even learn new things in school. Ask your parents to help you make a healthy meal. Choose foods that are colorful. Colorful foods have more vitamins and minerals. Try to eat a rainbow of foods. This will help you be strong and healthy.
+
+Note: The vocabulary and structure of the paragraph should be similar to the examples given, including short simple sentences and a narrative structure. The paragraph should also convey the importance of nutrition in a clear and accessible way. 
+
+Word count: 200 words",1.6,97.5,2.3,7.1,4.64,3.55,2.51,2.1875

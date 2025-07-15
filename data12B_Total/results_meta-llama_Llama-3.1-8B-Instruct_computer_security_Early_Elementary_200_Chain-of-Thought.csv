@@ -1,0 +1,101 @@
+Technique,Topic,Target Level,Output Length,Model,Prompt,Rewrite Prompt,Text,Flesch-Kincaid,Flesch Ease,ARI,SMOG,Gunning Fog,Coleman-Liau,Spache,Linsear Write
+Chain-of-Thought,computer security,Early Elementary,200,meta-llama/Llama-3.1-8B-Instruct,"Step 1: Think about how to explain 'computer security' to someone reading at the Early Elementary level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 200 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the Early Elementary level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 200 words that follows your plan. Use this paragraph as your main text. Do not include any images in the computer security paragraph.
+Step 4: Add a simple definition of the term 'computer security' at the top of your text.
+**Computer Security**
+**Definition:** Computer security is a way to keep our computers and devices safe from bad things that might happen to them.
+Our computers and devices are very important to us. We use them to play games, talk to our friends, and do lots of other fun things. But sometimes bad people try to get into our computers and do bad things. They might try to steal our secrets or make our computers break. That's why we need to make sure our computers are safe.
+We can keep our computers safe by using strong passwords. A password is like a secret code that only we know. We can also be careful about what we click on and what we download. Sometimes bad people will send us messages or emails that try to trick us into doing something bad. We should never",5.8,75.71,6.4,9.6,6.69,7.41,3.49,7.375
+Chain-of-Thought,computer security,Early Elementary,200,meta-llama/Llama-3.1-8B-Instruct,"Step 1: Think about how to explain 'computer security' to someone reading at the Early Elementary level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 200 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the Early Elementary level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 200 words that follows your plan. 
+Computer security is like keeping a treasure box safe. Imagine you have a special box where you keep your favorite toys and treasures. You want to make sure nobody else gets in and takes your things without asking. Computer security is like that, but for computers and the things we do on them, like playing games or sending messages to our friends.
+Just like how you lock your treasure box with a key, we use something called a password to keep our computers safe. A password is a secret word or code that only we know, and it helps keep our computers from getting hacked. A hacker is someone who tries to get into someone else's computer without permission.
+To keep our computers secure, we need to be careful about what we do online. We should never give out our passwords to anyone, and we should be careful about the websites we visit. Just like how you don't want someone to take your treasure, we don't want someone to take our personal information, like our name, address,",7.4,71.65,8.7,9.7,8.66,8.64,4.29,7.571428571428571
+Chain-of-Thought,computer security,Early Elementary,200,meta-llama/Llama-3.1-8B-Instruct,"Step 1: Think about how to explain 'computer security' to someone reading at the Early Elementary level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 200 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the Early Elementary level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 200 words that follows your plan. 
+Step 4: Review your paragraph to make sure it meets your goals.
+
+Here is my attempt:
+Imagine you have a secret box where you keep your toys. You want to keep those toys safe, right? A computer is like that box. Computer security is like keeping that box safe. It means protecting the computer and the information on it from bad people who might try to take it or hurt it. Just like how you lock your toy box, a computer has its own lock called a password. When you type in the right password, you can open the box and play with your toys...I mean, use the computer. But if you forget your password, you might get locked out! And just like how you need to be careful not to share your secret toy box with your friends, you should be careful not to share your password with anyone. That way, only you can open the box and use the computer.
+
+I reviewed my paragraph to make sure it meets the goals:
+* I",4.9,83.46,5.6,8.5,6.99,6.08,3.39,5.777777777777778
+Chain-of-Thought,computer security,Early Elementary,200,meta-llama/Llama-3.1-8B-Instruct,"Step 1: Think about how to explain 'computer security' to someone reading at the Early Elementary level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 200 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the Early Elementary level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 200 words that follows your plan. 
+Step 4: Review and refine your writing.
+
+## Step 1: Think about how to explain 'computer security' to someone reading at the Early Elementary level.
+To explain 'computer security' to someone reading at the Early Elementary level, I need to use simple vocabulary and concepts that they can understand. I can compare it to keeping a safe at home, where we store important things like money and valuable objects. Just like how we lock the safe to keep our belongings safe, computers need protection too.
+
+## Step 2: Select appropriate vocabulary and sentence structure.
+For Early Elementary readers, I should use short sentences and simple vocabulary. I can use phrases like ""keeping our computers safe"" instead of ""computer security."" I can also use examples that are relatable to their daily lives, such as playing games or chatting with friends online.
+
+## Step 3: Write a paragraph of 200 words that follows your plan.
+Here is a paragraph that explains computer security in a way that Early Elementary",8.9,56.86,9.8,11.4,8.15,10.55,3.98,8.142857142857142
+Chain-of-Thought,computer security,Early Elementary,200,meta-llama/Llama-3.1-8B-Instruct,"Step 1: Think about how to explain 'computer security' to someone reading at the Early Elementary level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 200 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the Early Elementary level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 200 words that follows your plan. (Note: Do not use technical jargon, and do not make the paragraph too long.)
+Step 4: Edit the paragraph for grammar, punctuation, and sentence structure.
+Step 5: Consider the purpose of this paragraph: Is it meant to inform, entertain, or persuade? Make any necessary adjustments.
+Here is the paragraph after the editing process:
+**Early Elementary Level Paragraph**
+Imagine you have a secret box in your house where you keep your favorite toys and treasures. You don't want anyone to get into that box and take your things, do you? That's like what happens when someone hacks into a computer. A hacker is someone who tries to get into a computer to do bad things. Computer security is like having a special lock on your secret box that only you can open. It helps keep your computer safe from hackers. It's like having a superhero cape that protects your computer from bad guys. When you have good computer security, you can feel safe knowing that your computer is locked",7.5,66.03,8.3,10.0,8.21,9.21,4.11,6.75
+Chain-of-Thought,computer security,Early Elementary,200,meta-llama/Llama-3.1-8B-Instruct,"Step 1: Think about how to explain 'computer security' to someone reading at the Early Elementary level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 200 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the Early Elementary level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 200 words that follows your plan. 
+Computer security is like keeping your home safe from bad guys. Just like how you lock your door, computers have passwords to keep bad people out. But it's not just about passwords, it's also about being careful what you do on the computer. Imagine you're playing with a toy, and someone takes it away from you. You wouldn't be happy, right? That's how it feels when someone takes your computer files or pictures. It's like they're taking something that belongs to you.
+You can keep your computer safe by not clicking on weird links or opening strange emails. It's like not letting a stranger into your home without asking your parents first. If you're not sure about something, you should ask a grown-up for help. They can show you how to stay safe on the computer. Just like how you keep your toys organized and tidy, you can keep your computer files organized and safe. This way, you can play and have fun on the computer without worrying about bad",6.0,75.3,7.2,9.0,7.09,8.11,3.62,6.375
+Chain-of-Thought,computer security,Early Elementary,200,meta-llama/Llama-3.1-8B-Instruct,"Step 1: Think about how to explain 'computer security' to someone reading at the Early Elementary level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 200 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the Early Elementary level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 200 words that follows your plan. 
+Step 4: Revise your paragraph to make sure it flows well and is easy to understand.
+Step 5: Edit your paragraph for spelling and grammar errors.
+
+## Step 1: Think about how to explain 'computer security' to someone reading at the Early Elementary level.
+Computer security is a way to protect our computers and the things we do on them from people who might want to hurt them. It's like keeping our house safe from burglars. We lock the doors and windows, and we don't let strangers in. With computers, we use passwords, which are like secret codes, to keep our stuff safe.
+
+## Step 2: Select appropriate vocabulary and sentence structure.
+I will use simple vocabulary and short sentences that are easy to understand. I will also use examples that children can relate to, like locking doors and windows.
+
+## Step 3: Write a paragraph of 200 words that follows your plan.
+Computer security is like keeping our house safe from burglars. We",7.3,66.54,8.1,9.7,7.1,8.86,3.7,7.857142857142858
+Chain-of-Thought,computer security,Early Elementary,200,meta-llama/Llama-3.1-8B-Instruct,"Step 1: Think about how to explain 'computer security' to someone reading at the Early Elementary level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 200 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the Early Elementary level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 200 words that follows your plan. Here's an example:
+""Imagine you have a secret box where you keep your favorite toys. You don't want anyone else to open the box and take your toys without asking you first, right? Computer security is like keeping your toys in a secret box. It's a way to protect the information on your computer from people who might want to look at it without your permission. Just like you lock your door at home to keep strangers out, we use special codes and passwords to keep our computers safe. We also use something called a firewall, which is like a strong shield that keeps bad people from getting into our computer. And just like you teach your friends how to behave around your toys, we teach people how to be safe on the computer by not opening emails from strangers or downloading things from the internet without asking a grown-up. By being careful and using special tools, we can keep our computers and the information on them safe and sound.""
+
+### Step 4: Consider the following questions when reviewing",7.9,70.23,9.8,10.7,9.95,8.99,4.45,7.571428571428571
+Chain-of-Thought,computer security,Early Elementary,200,meta-llama/Llama-3.1-8B-Instruct,"Step 1: Think about how to explain 'computer security' to someone reading at the Early Elementary level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 200 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the Early Elementary level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 200 words that follows your plan. Here is a possible draft:
+Imagine you have a secret box where you keep all your favorite things. You don't want anyone else to open it and look at what's inside, right? That's kind of like what computer security is. It's like having a special lock on your box to keep people from getting in and changing things. When you're on the computer, you have to make sure that people can't open your box and see your secrets. This means you have to be careful about who you let into your box, like when you type in a password. You also have to be careful about what you click on and what you download. Some things might look like fun games or pictures, but they might be like sneaky thieves who want to get into your box and steal your secrets. So, you have to be careful and only let trusted people in, like your parents or a teacher. That way, you can keep your secrets safe and have fun on the computer at the same",6.1,80.21,7.2,8.1,7.87,6.78,3.92,6.375
+Chain-of-Thought,computer security,Early Elementary,200,meta-llama/Llama-3.1-8B-Instruct,"Step 1: Think about how to explain 'computer security' to someone reading at the Early Elementary level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 200 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the Early Elementary level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 200 words that follows your plan. 
+Computer security is like keeping your toys safe from others. Imagine you have a toy box full of your favorite toys. You don't want anyone else to take your toys without asking, do you? That's what computer security does. It keeps the bad guys from getting into your computer and taking your information or doing bad things to your computer. It's like a lock on your toy box that only you can open. When you use a password to log in to your computer, that's like giving yourself the key to the lock. Only you know the password, so only you can get into your computer. Computer security also helps keep viruses and malware from getting into your computer. These are like bad germs that can hurt your computer. Just like how you wash your hands to stay healthy, computer security helps keep your computer healthy and safe from bad guys. It's like having a special protector for your computer that keeps it safe from harm.
+
+Step 4: Read your paragraph to ensure it meets",6.1,74.9,7.1,10.0,7.02,7.93,3.6,5.888888888888889

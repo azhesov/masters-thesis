@@ -1,0 +1,77 @@
+Technique,Topic,Target Level,Output Length,Model,Prompt,Rewrite Prompt,Text,Flesch-Kincaid,Flesch Ease,ARI,SMOG,Gunning Fog,Coleman-Liau,Spache,Linsear Write
+Chain-of-Thought,astronomy,High School,200,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'astronomy' to someone reading at the High School level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 200 words that follows your plan.",,"Step 1: Think about how to explain 'astronomy' to someone reading at the High School level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 200 words that follows your plan. (Step 1)
+Step 4: Review your paragraph and make sure you've used clear, concise, and age-appropriate language. (Step 2)
+Step 5: Check that your paragraph is about 200 words in length. (Step 3)
+Step 6: Revise your paragraph if necessary to ensure it meets all the requirements. (Step 4, Step 5)
+
+Astronomy is the scientific study of celestial objects and phenomena that originate outside the Earth's atmosphere. It involves observing and understanding the universe, including stars, planets, galaxies, and other heavenly bodies. By using telescopes and other advanced technologies, astronomers can gather data and make discoveries about the cosmos. This field of study also explores the physical and chemical properties of celestial objects, as well as their origins and evolution. In essence, astronomy helps us understand our place in the vast and mysterious universe.",9.3,55.74,11.7,12.1,11.61,12.29,5.09,7.7142857142857135
+Chain-of-Thought,astronomy,High School,200,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'astronomy' to someone reading at the High School level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 200 words that follows your plan.",,"Step 1: Think about how to explain 'astronomy' to someone reading at the High School level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 200 words that follows your plan. Use the word 'astronomy' in the first sentence.
+Astronomy is the scientific study of celestial objects, phenomena, and processes that originate outside Earth's atmosphere. It involves observing and analyzing data about stars, planets, galaxies, and other bodies in space. Astronomers, the scientists who study astronomy, use various tools like telescopes and spacecraft to gather information. They also develop theories and models to explain the universe's behavior and history. This fascinating field allows us to explore the cosmos, understand our place in it, and learn about the origins and evolution of the universe.",10.0,48.6,11.8,12.8,12.56,13.1,5.4,7.75
+Chain-of-Thought,astronomy,High School,200,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'astronomy' to someone reading at the High School level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 200 words that follows your plan.",,"Step 1: Think about how to explain 'astronomy' to someone reading at the High School level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 200 words that follows your plan. Include the phrase ""The sky is the limit"" to incorporate a figurative language element.
+Step 4: Proofread and edit your paragraph to ensure it is clear and concise.
+
+Astronomy, the study of the universe and its contents, is like a journey into the mysteries of the cosmos. It's all about exploring the vastness of space, from our own planet Earth to the farthest galaxies. Imagine gazing up at the night sky, filled with twinkling stars, and knowing that each one is a sun, lighting up its own planet or system. That's the wonder of astronomy! It's not just about learning facts and figures, though; it's also about asking big questions, like ""Are we alone in the universe?"" or ""How did everything begin?"" With every discovery, every new theory, astronomy pushes our understanding further, proving that, indeed, the sky is the limit.",7.9,64.91,9.2,9.7,8.86,9.33,4.86,7.571428571428571
+Chain-of-Thought,astronomy,High School,200,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'astronomy' to someone reading at the High School level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 200 words that follows your plan.",,"Step 1: Think about how to explain 'astronomy' to someone reading at the High School level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 200 words that follows your plan. Avoid scientific jargon.
+Step 4: Review your paragraph to ensure it is accurate and clear.
+Step 5: Make any necessary revisions.
+
+Astronomy is the study of celestial bodies like stars, planets, and galaxies. It involves observing these objects and understanding their origins, movements, and effects on each other. Scientists called astronomers use powerful telescopes to see far away places in space. They also use math and physics to make sense of what they see. This helps us learn about the universe and our place in it. For example, by studying light from distant stars, we can figure out how old they are. This helps us understand the history of the universe. Astronomy also helps us predict events like eclipses and when comets will appear. It's a fascinating field that connects us to the vast, mysterious universe around us.",6.6,68.16,8.1,9.7,8.32,9.72,4.16,5.4
+Chain-of-Thought,astronomy,High School,200,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'astronomy' to someone reading at the High School level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 200 words that follows your plan.",,"Step 1: Think about how to explain 'astronomy' to someone reading at the High School level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 200 words that follows your plan.",6.8,67.76,8.3,8.8,8.13,9.73,3.96,6.0
+Chain-of-Thought,astronomy,High School,200,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'astronomy' to someone reading at the High School level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 200 words that follows your plan.",,"Step 1: Think about how to explain 'astronomy' to someone reading at the High School level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 200 words that follows your plan.",6.8,67.76,8.3,8.8,8.13,9.73,3.96,6.0
+Chain-of-Thought,astronomy,High School,200,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'astronomy' to someone reading at the High School level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 200 words that follows your plan.",,"Step 1: Think about how to explain 'astronomy' to someone reading at the High School level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 200 words that follows your plan. Check it against the rubric to make sure you've met all the requirements. Your paragraph should include:
+
+- a definition of the word 'astronomy'
+- an explanation of how it differs from 'astrology'
+- a brief mention of the history of astronomy
+- a brief mention of a famous astronomer
+
+Astronomy is the scientific study of celestial objects and phenomena that originate outside the Earth's atmosphere. Unlike astrology, which is based on beliefs and superstitions, astronomy uses the scientific method to explore the universe, making it a reliable and factual field of study. Astronomy has been around for thousands of years, with ancient civilizations like the Greeks and Egyptians making significant contributions to our understanding of the cosmos. One notable astronomer is Galileo Galilei, an Italian scientist who made groundbreaking observations of the night sky using the newly invented telescope, leading to a better understanding of the solar system and the nature of the universe.",13.6,39.26,15.8,14.6,14.71,13.58,6.53,13.0
+Chain-of-Thought,astronomy,High School,200,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'astronomy' to someone reading at the High School level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 200 words that follows your plan.",,"Step 1: Think about how to explain 'astronomy' to someone reading at the High School level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 200 words that follows your plan. Make sure to include the main idea in the first sentence, and to use transitional phrases and connectives to keep the reader's attention.
+
+Astronomy is the study of celestial objects, phenomena, and processes that originate outside the Earth's atmosphere. This fascinating field explores everything from the smallest subatomic particles to the largest structures in the universe. It is a branch of science that combines both physics and mathematics, allowing scientists to understand and predict the movements and behaviors of celestial bodies. Astronomers study a wide range of topics, including stars, galaxies, black holes, and exoplanets. They use powerful telescopes and other advanced technologies to observe and analyze the universe, which has led to many groundbreaking discoveries. For instance, the detection of gravitational waves and the observation of the first image of a black hole's event horizon have revolutionized our understanding of the cosmos. Additionally, astronomy has played a significant role in the development of other scientific disciplines, such as astrophysics and cosmology. Overall",11.5,44.64,14.4,14.4,14.68,14.56,6.07,8.428571428571429
+Chain-of-Thought,astronomy,High School,200,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'astronomy' to someone reading at the High School level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 200 words that follows your plan.",,"Step 1: Think about how to explain 'astronomy' to someone reading at the High School level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 200 words that follows your plan. Include transitions to show how one idea relates to the next. Furthermore, be sure to include a specific example to illustrate the concept.
+
+Astronomy, the scientific study of celestial objects, is the oldest of all natural sciences. Imagine gazing up at the night sky, filled with countless stars, planets, and galaxies. This vast expanse is what astronomers, scientists who study space, observe and analyze. They use powerful telescopes to peer into the depths of the universe, capturing light that has traveled through space for millions or even billions of years. One fascinating example is the Hubble Space Telescope, which has sent back stunning images of distant galaxies, providing astronomers with invaluable data about the formation and evolution of the universe. Through their work, astronomers help us understand our place in the cosmos, unraveling the mysteries of the universe one star at a time.",9.6,54.93,11.7,12.1,11.66,12.18,5.58,7.125
+Chain-of-Thought,astronomy,High School,200,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'astronomy' to someone reading at the High School level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 200 words that follows your plan.",,"Step 1: Think about how to explain 'astronomy' to someone reading at the High School level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 200 words that follows your plan. Be sure to include an interesting fact or two.
+
+Astronomy is the science that studies everything in the universe. This includes planets, stars, and galaxies that are billions of miles away. People who study astronomy are called astronomers. They use telescopes to look at objects in space and learn more about them. One interesting fact is that the sun is the closest star to Earth. Another fact is that the universe is so big, we can't see the end of it! Astronomy is a fascinating field that helps us understand more about our place in the universe.",5.6,76.11,7.1,9.3,6.64,8.63,3.84,5.555555555555555

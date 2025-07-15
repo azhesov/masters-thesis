@@ -1,0 +1,67 @@
+Technique,Topic,Target Level,Output Length,Model,Prompt,Rewrite Prompt,Text,Flesch-Kincaid,Flesch Ease,ARI,SMOG,Gunning Fog,Coleman-Liau,Spache,Linsear Write
+Chain-of-Thought,computer security,Graduate,100,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'computer security' to someone reading at the Graduate level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 100 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the Graduate level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 100 words that follows your plan. Here is the paragraph:
+
+""Computer security, a critical field in our digitally interconnected world, encompasses measures and practices to protect digital assets from unauthorized access, use, disruption, or destruction. At the graduate level, this involves understanding complex threats such as advanced persistent threats (APTs), zero-day exploits, and insider threats. It requires proficiency in cryptography, secure software development, and risk management strategies. Moreover, it demands an understanding of legal and ethical implications, such as privacy laws and cybercrime investigations. Graduates should be equipped to design, implement, and manage security systems, and respond to security incidents effectively.""",13.2,29.45,16.1,15.2,16.03,17.05,6.69,10.571428571428571
+Chain-of-Thought,computer security,Graduate,100,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'computer security' to someone reading at the Graduate level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 100 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the Graduate level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 100 words that follows your plan.",8.0,59.3,8.9,10.5,10.36,10.48,4.44,6.666666666666667
+Chain-of-Thought,computer security,Graduate,100,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'computer security' to someone reading at the Graduate level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 100 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the Graduate level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 100 words that follows your plan. Make sure you include the key words: 'computer security', 'threats', 'protect', 'vulnerabilities', 'countermeasures','resilient'.
+Step 4: Review your paragraph and make any necessary edits.
+
+Here's the paragraph:
+
+""Computer security, a critical aspect of modern digital life, involves safeguarding computer systems and data from threats. These threats, ranging from malware to unauthorized access, exploit vulnerabilities in software or user behavior. To protect against these, computer security employs countermeasures such as encryption, firewalls, and user training. The goal is not merely to prevent attacks but to build resilient systems that can withstand and quickly recover from incidents, minimizing potential damage.""",11.4,39.53,14.8,13.0,12.54,15.71,6.03,7.875
+Chain-of-Thought,computer security,Graduate,100,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'computer security' to someone reading at the Graduate level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 100 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the Graduate level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 100 words that follows your plan. Review and edit for clarity, conciseness, and correctness.
+Step 4: Share your work.
+
+Here's my attempt:
+
+**Computer security**, at the graduate level, encompasses the protection of computer systems, networks, and data from threats, damage, or unauthorized access. It involves understanding and implementing strategies to mitigate risks associated with cyber attacks, such as malware, phishing, and denial-of-service attacks. This includes knowledge of cryptography for secure communication, intrusion detection systems for identifying and responding to threats, and secure software development practices to prevent vulnerabilities. Graduate-level understanding also delves into the socio-technical aspects, exploring human factors influencing security, and the legal and ethical implications of security measures.",14.1,21.8,16.4,14.7,14.81,17.8,6.6,7.875
+Chain-of-Thought,computer security,Graduate,100,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'computer security' to someone reading at the Graduate level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 100 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the Graduate level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 100 words that follows your plan.",8.0,59.3,8.9,10.5,10.36,10.48,4.44,6.666666666666667
+Chain-of-Thought,computer security,Graduate,100,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'computer security' to someone reading at the Graduate level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 100 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the Graduate level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 100 words that follows your plan. Be sure to include at least 5 specific technologies or concepts.
+
+Computer security, at its core, is a multidisciplinary field dedicated to protecting digital assets from unauthorized access, use, disruption, or destruction. At the graduate level, this involves a deep understanding of cryptography, intrusion detection systems, secure programming practices, and network security protocols like TCP/IP and SSL/TLS. Additionally, knowledge of access control models such as Discretionary Access Control (DAC) and Role-Based Access Control (RBAC) is crucial. Finally, understanding of secure system design principles, such as those outlined in the Bell-LaPadula model, and familiarity with threat modeling processes are essential for holistic security.",13.6,28.54,15.6,15.1,15.62,16.01,6.45,10.714285714285714
+Chain-of-Thought,computer security,Graduate,100,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'computer security' to someone reading at the Graduate level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 100 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the Graduate level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 100 words that follows your plan.",8.0,59.3,8.9,10.5,10.36,10.48,4.44,6.666666666666667
+Chain-of-Thought,computer security,Graduate,100,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'computer security' to someone reading at the Graduate level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 100 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the Graduate level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 100 words that follows your plan. Do not exceed the word limit.
+
+Computer security, at the graduate level, is the study of protecting digital systems, data, and users from cyber threats. It encompasses confidentiality, integrity, and availability, ensuring only authorized access, accurate and complete data, and reliable services. Key aspects include cryptography for secure communication, intrusion detection to identify unauthorized access, and secure software development to prevent vulnerabilities. It also involves understanding and mitigating risks, such as those posed by malware, phishing, and social engineering attacks.",12.5,31.38,14.3,14.0,15.46,15.88,6.52,10.857142857142858
+Chain-of-Thought,computer security,Graduate,100,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'computer security' to someone reading at the Graduate level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 100 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the Graduate level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 100 words that follows your plan.",8.0,59.3,8.9,10.5,10.36,10.48,4.44,6.666666666666667
+Chain-of-Thought,computer security,Graduate,100,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'computer security' to someone reading at the Graduate level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 100 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the Graduate level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 100 words that follows your plan.",8.0,59.3,8.9,10.5,10.36,10.48,4.44,6.666666666666667

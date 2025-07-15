@@ -1,0 +1,65 @@
+Technique,Topic,Target Level,Output Length,Model,Prompt,Rewrite Prompt,Text,Flesch-Kincaid,Flesch Ease,ARI,SMOG,Gunning Fog,Coleman-Liau,Spache,Linsear Write
+Two-Step,astronomy,Graduate,50,mistralai/Mistral-Nemo-Instruct-2407,Write a summary about 'astronomy'. Limit the output to 50 words.,"Rewrite the following text to match the readability level of Graduate and limit the output to 50 words:
+
+Write a summary about 'astronomy'. Limit the output to 50 words. Astronomy is the scientific study of celestial objects, spaces, and phenomena that originate outside Earth's atmosphere. It uses physics, mathematics, and chemistry to explain the universe.","Rewrite the following text to match the readability level of Graduate and limit the output to 50 words:
+
+Write a summary about 'astronomy'. Limit the output to 50 words. Astronomy is the scientific study of celestial objects, spaces, and phenomena that originate outside Earth's atmosphere. It uses physics, mathematics, and chemistry to explain the universe. Astronomy explores various phenomena like stars, galaxies, black holes, and more. It also investigates the origin, evolution, and potential future of the universe. Astronomy has led to significant advancements in our understanding of the universe, including the discovery of exoplanets and the expansion of the universe.
+
+Astronomy, the scientific study of celestial objects and phenomena, employs physics, mathematics, and chemistry to understand the universe. It explores stars, galaxies, black holes, and other phenomena, and investigates the universe's origin, evolution, and future. Key advancements include the discovery of exoplanets and the confirmation of the universe's expansion.",12.7,30.87,14.3,15.1,12.67,15.48,5.13,11.0
+Two-Step,astronomy,Graduate,50,mistralai/Mistral-Nemo-Instruct-2407,Write a summary about 'astronomy'. Limit the output to 50 words.,"Rewrite the following text to match the readability level of Graduate and limit the output to 50 words:
+
+Write a summary about 'astronomy'. Limit the output to 50 words. Astronomy is the scientific study of celestial objects, spaces, and phenomena. It uses mathematics, physics, and chemistry to explain their origins and evolution.","Rewrite the following text to match the readability level of Graduate and limit the output to 50 words:
+
+Write a summary about 'astronomy'. Limit the output to 50 words. Astronomy is the scientific study of celestial objects, spaces, and phenomena. It uses mathematics, physics, and chemistry to explain their origins and evolution. Key areas include observing and studying stars, galaxies, and planets, along with understanding the universe's large-scale structure and dynamics.
+
+Astronomy is also interested in the nature of black holes and the search for life beyond our planet. To conduct research, astronomers use various techniques and tools like telescopes, satellites, and supercomputers. They analyze data to make discoveries and predictions, contributing to our understanding of the cosmos.
+
+Astronomy's history dates back thousands of years, with significant contributions from ancient civilizations. It continues to evolve, driven by technological advancements that enable us to explore deeper into space and time. Astronomy inspires curiosity and fuels our desire to understand our place in the universe.",11.4,39.53,13.5,13.5,13.04,14.96,6.15,8.857142857142858
+Two-Step,astronomy,Graduate,50,mistralai/Mistral-Nemo-Instruct-2407,Write a summary about 'astronomy'. Limit the output to 50 words.,"Rewrite the following text to match the readability level of Graduate and limit the output to 50 words:
+
+Write a summary about 'astronomy'. Limit the output to 50 words. Astronomy is the scientific study of celestial objects, spaces, and phenomena. It explores the physical and chemical properties of objects in the universe, their interactions, and evolution.","Rewrite the following text to match the readability level of Graduate and limit the output to 50 words:
+
+Write a summary about 'astronomy'. Limit the output to 50 words. Astronomy is the scientific study of celestial objects, spaces, and phenomena. It explores the physical and chemical properties of objects in the universe, their interactions, and evolution. Astronomy uses physics, mathematics, and chemistry to understand the cosmos, making it an interdisciplinary field. It has significantly contributed to our understanding of the universe's origins, structure, and evolution, including the discovery of exoplanets and dark matter.
+
+""",12.9,30.36,13.9,15.0,15.66,15.08,6.17,12.166666666666666
+Two-Step,astronomy,Graduate,50,mistralai/Mistral-Nemo-Instruct-2407,Write a summary about 'astronomy'. Limit the output to 50 words.,"Rewrite the following text to match the readability level of Graduate and limit the output to 50 words:
+
+Write a summary about 'astronomy'. Limit the output to 50 words. Astronomy is the scientific study of celestial objects and phenomena. It uses mathematics, physics, and chemistry to explain the origin, evolution, and nature of objects like stars, galaxies, and planets.","Rewrite the following text to match the readability level of Graduate and limit the output to 50 words:
+
+Write a summary about 'astronomy'. Limit the output to 50 words. Astronomy is the scientific study of celestial objects and phenomena. It uses mathematics, physics, and chemistry to explain the origin, evolution, and nature of objects like stars, galaxies, and planets.",10.2,47.99,11.1,13.0,13.38,11.82,5.83,10.375
+Two-Step,astronomy,Graduate,50,mistralai/Mistral-Nemo-Instruct-2407,Write a summary about 'astronomy'. Limit the output to 50 words.,"Rewrite the following text to match the readability level of Graduate and limit the output to 50 words:
+
+Write a summary about 'astronomy'. Limit the output to 50 words. Astronomy is the scientific study of celestial objects and phenomena that originate outside Earth's atmosphere. It uses mathematics, physics, and chemistry to explain the universe's origin, structure, and evolution.","Rewrite the following text to match the readability level of Graduate and limit the output to 50 words:
+
+Write a summary about 'astronomy'. Limit the output to 50 words. Astronomy is the scientific study of celestial objects and phenomena that originate outside Earth's atmosphere. It uses mathematics, physics, and chemistry to explain the universe's origin, structure, and evolution. Key areas include observing and analyzing the Sun, stars, planets, galaxies, and cosmic phenomena like black holes and exoplanets.
+
+Astronomy: The scientific exploration of celestial objects and phenomena, employing mathematics, physics, and chemistry to understand the universe's origin, evolution, and structure. Focus areas encompass the Sun, stars, planets, galaxies, and cosmic events such as black holes and exoplanets.",13.3,29.25,15.0,15.3,13.54,15.6,5.62,13.166666666666666
+Two-Step,astronomy,Graduate,50,mistralai/Mistral-Nemo-Instruct-2407,Write a summary about 'astronomy'. Limit the output to 50 words.,"Rewrite the following text to match the readability level of Graduate and limit the output to 50 words:
+
+Write a summary about 'astronomy'. Limit the output to 50 words. Astronomy is the scientific study of celestial objects and phenomena that originate outside Earth's atmosphere. It involves physics, mathematics, and chemistry to explain the universe's structure and evolution.","Rewrite the following text to match the readability level of Graduate and limit the output to 50 words:
+
+Write a summary about 'astronomy'. Limit the output to 50 words. Astronomy is the scientific study of celestial objects and phenomena that originate outside Earth's atmosphere. It involves physics, mathematics, and chemistry to explain the universe's structure and evolution. Key areas include solar system exploration, exoplanet discovery, and understanding dark matter.",12.2,32.09,13.3,14.0,15.38,15.19,6.27,10.5
+Two-Step,astronomy,Graduate,50,mistralai/Mistral-Nemo-Instruct-2407,Write a summary about 'astronomy'. Limit the output to 50 words.,"Rewrite the following text to match the readability level of Graduate and limit the output to 50 words:
+
+Write a summary about 'astronomy'. Limit the output to 50 words. Astronomy is the scientific study of celestial objects and phenomena that originate outside Earth's atmosphere. It involves physics, mathematics, and chemistry.","Rewrite the following text to match the readability level of Graduate and limit the output to 50 words:
+
+Write a summary about 'astronomy'. Limit the output to 50 words. Astronomy is the scientific study of celestial objects and phenomena that originate outside Earth's atmosphere. It involves physics, mathematics, and chemistry. Observational astronomy uses telescopes to study light from stars and galaxies. Theoretical astronomy develops models to explain phenomena. Both types aim to understand the universe's origin, evolution, and ultimate fate.
+
+Astronomy is the scientific study of celestial objects and phenomena that originate outside Earth's atmosphere. It combines physics, mathematics, and chemistry to understand the universe's origin, evolution, and ultimate fate.",12.8,25.25,13.3,14.2,11.43,15.82,4.83,7.888888888888889
+Two-Step,astronomy,Graduate,50,mistralai/Mistral-Nemo-Instruct-2407,Write a summary about 'astronomy'. Limit the output to 50 words.,"Rewrite the following text to match the readability level of Graduate and limit the output to 50 words:
+
+Write a summary about 'astronomy'. Limit the output to 50 words. Astronomy is the scientific study of celestial objects and phenomena that originate outside the Earth's atmosphere.","Rewrite the following text to match the readability level of Graduate and limit the output to 50 words:
+
+Write a summary about 'astronomy'. Limit the output to 50 words. Astronomy is the scientific study of celestial objects and phenomena that originate outside the Earth's atmosphere. It is a branch of physics and uses mathematics to describe the position, motion, and properties of celestial bodies, such as stars, galaxies, and planets.",11.3,45.25,12.2,14.6,15.0,12.0,5.89,12.75
+Two-Step,astronomy,Graduate,50,mistralai/Mistral-Nemo-Instruct-2407,Write a summary about 'astronomy'. Limit the output to 50 words.,"Rewrite the following text to match the readability level of Graduate and limit the output to 50 words:
+
+Write a summary about 'astronomy'. Limit the output to 50 words. Astronomy is the scientific study of celestial objects and phenomena that originate outside the Earth's atmosphere. It involves the observation, description, measurement, and interpretation of phenomena in the universe beyond Earth's atmosphere.","Rewrite the following text to match the readability level of Graduate and limit the output to 50 words:
+
+Write a summary about 'astronomy'. Limit the output to 50 words. Astronomy is the scientific study of celestial objects and phenomena that originate outside the Earth's atmosphere. It involves the observation, description, measurement, and interpretation of phenomena in the universe beyond Earth's atmosphere. Astronomy is a branch of physical science and applies principles of physics and chemistry to explain the nature of celestial bodies and their interactions.",12.3,37.3,14.0,15.1,14.8,14.67,6.07,12.9
+Two-Step,astronomy,Graduate,50,mistralai/Mistral-Nemo-Instruct-2407,Write a summary about 'astronomy'. Limit the output to 50 words.,"Rewrite the following text to match the readability level of Graduate and limit the output to 50 words:
+
+Write a summary about 'astronomy'. Limit the output to 50 words. Astronomy is the scientific study of celestial objects and phenomena that originate outside Earth's atmosphere. It involves observing, measuring, and analyzing light and other forms of electromagnetic radiation from stars, galaxies, and other celestial bodies.","Rewrite the following text to match the readability level of Graduate and limit the output to 50 words:
+
+Write a summary about 'astronomy'. Limit the output to 50 words. Astronomy is the scientific study of celestial objects and phenomena that originate outside Earth's atmosphere. It involves observing, measuring, and analyzing light and other forms of electromagnetic radiation from stars, galaxies, and other celestial bodies. The field is divided into several sub-disciplines, including astrophysics, cosmology, and planetary science.
+
+Astronomy is the scientific study of celestial objects and phenomena that originate outside Earth's atmosphere. It involves observing, measuring, and analyzing light and other forms of electromagnetic radiation from stars, galaxies, and other celestial bodies. The field is divided into several sub-disciplines, including astrophysics, cosmology, and planetary science.",15.3,13.34,15.9,16.7,13.28,17.46,4.97,12.0

@@ -1,0 +1,162 @@
+Technique,Topic,Target Level,Output Length,Model,Prompt,Rewrite Prompt,Text,Flesch-Kincaid,Flesch Ease,ARI,SMOG,Gunning Fog,Coleman-Liau,Spache,Linsear Write
+Chain-of-Thought-Advanced,computer security,Early Elementary,150,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'computer security' in 150 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 2. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph.",,"Step 1: Think about how to explain 'computer security' in 150 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 2. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph. Here it is:
+""Keep your computer safe from harm. This is computer security. It means protecting your computer from bad guys who might steal your info. You should use strong passwords, update your software, and never open strange emails. That's how you keep your computer safe.""",5.8,70.29,8.2,9.5,7.31,9.6,3.91,5.4
+Chain-of-Thought-Advanced,computer security,Early Elementary,150,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'computer security' in 150 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 2. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph.",,"Step 1: Think about how to explain 'computer security' in 150 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 2. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph. (Do not write the output here; just write the plan.)
+
+Plan:
+1. Start with a simple definition of 'computer security'.
+2. Explain the importance of computer security.
+3. Provide an example of a computer security issue.
+4. End with a brief statement about what computer security does to protect us.
+
+Sentences:
+1. Computer security is like a lock on your computer door.
+2. It keeps bad guys out and your important stuff safe.
+3. Like when your bank account gets hacked.
+4. Computer security helps stop that from happening.",7.1,61.53,7.5,10.6,7.23,8.91,3.59,5.4
+Chain-of-Thought-Advanced,computer security,Early Elementary,150,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'computer security' in 150 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 2. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph.",,"Step 1: Think about how to explain 'computer security' in 150 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 2. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph. After writing, calculate the Flesch-Kincaid Grade Level of the output.
+
+Plan:
+1. Explain the concept of computer security in simple terms.
+2. Use short, simple sentences.
+3. Limit the use of complex vocabulary.
+4. Ensure the text has around 30 words per sentence.
+
+Output:
+
+Computer security is like locking your house. It's about keeping bad guys out. Computers store important things, like secrets. Bad guys might want these secrets. So, we need to protect computers. We use special tools, like passwords and firewalls. These tools stop bad guys from getting in. It's like having a strong door and alarm at your house.
+
+Flesch-Kincaid Grade Level calculation:
+- Total words: 34
+- Total sentences: 5
+- Total syllables: 65 (approx., using an online syllable counter)
+
+Flesch-Kincaid Grade Level = 0.39 × (34 / 5)",6.6,62.85,8.1,9.0,6.07,9.53,3.58,5.3
+Chain-of-Thought-Advanced,computer security,Early Elementary,150,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'computer security' in 150 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 2. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph.",,"Step 1: Think about how to explain 'computer security' in 150 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 2. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph. The output should be:
+""Computer security is like protecting a house. We lock doors and windows to keep bad guys out. For computers, we use passwords, updates, and firewalls. These are like digital locks. They stop hackers from breaking in and stealing our stuff.""",6.9,62.04,8.1,9.3,8.01,9.54,4.31,5.3
+Chain-of-Thought-Advanced,computer security,Early Elementary,150,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'computer security' in 150 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 2. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph.",,"Step 1: Think about how to explain 'computer security' in 150 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 2. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph. Review and edit it for clarity, grammar, punctuation, and spelling.
+
+**Final Paragraph:**
+""Computer security keeps your computer safe from bad guys. It's like a lock on your front door, but for your computer. You use passwords, updates, and firewalls to lock out hackers. It's important to keep your computer secure so your personal stuff, like photos and important documents, stays safe.""
+
+**Flesch-Kincaid Grade Level Calculation:**
+- Total words: 32
+- Total sentences: 2
+- Total syllables: 51
+- Grade Level: 0.39 × (32 / 2) + 11.8 × (51 / 32) - 15.59 ≈ 2.1",7.2,61.22,9.5,10.2,7.72,10.07,4.02,5.4
+Chain-of-Thought-Advanced,computer security,Early Elementary,150,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'computer security' in 150 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 2. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph.",,"Step 1: Think about how to explain 'computer security' in 150 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 2. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph. The output should have the required readability grade.
+
+Computer security is like keeping your home safe. It means protecting computers and the information they hold from harm. Harm can come from people trying to steal data or damage computers. To keep your computer secure, you should use strong passwords, update software often, and be careful with emails and downloads. This helps stop bad people from breaking into your computer. It's important to learn and follow these rules to keep your computer safe.",7.5,60.61,8.9,10.0,7.75,10.83,4.18,5.5
+Chain-of-Thought-Advanced,computer security,Early Elementary,150,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'computer security' in 150 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 2. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph.",,"Step 1: Think about how to explain 'computer security' in 150 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 2. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph. If the metric value is not correct, return to step 2 and revise your choice of vocabulary and sentence structure.
+
+**Final Output:**
+
+Computer security is like a fortress protecting your digital world. It keeps your personal information safe from bad guys who want to steal or misuse it. This protection comes from using strong passwords, keeping your software up-to-date, and being careful about clicking on unknown links or files. It's like having a wise guard at your fortress gate, letting only trusted visitors in.",8.2,58.58,9.9,10.3,9.03,10.83,4.44,5.888888888888889
+Chain-of-Thought-Advanced,computer security,Early Elementary,150,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'computer security' in 150 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 2. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph.",,"Step 1: Think about how to explain 'computer security' in 150 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 2. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph. If the metric value is not correct, adjust and repeat step 3.
+
+Here's the final paragraph:
+
+""Computer security is like a secret guard for your computer. It keeps bad guys away and protects your stuff, just like how a real guard protects a bank. This guard uses rules, called passwords, to check who's coming in. It also watches out for tricks, like sneaky emails that could hurt your computer. It's important to have a good guard, so you can use your computer safely.""
+
+Flesch-Kincaid Grade Level: 2.01 (117 words, 7 sentences, 61 syllables)",6.3,69.07,7.8,9.2,6.52,9.09,3.63,5.888888888888889
+Chain-of-Thought-Advanced,computer security,Early Elementary,150,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'computer security' in 150 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 2. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph.",,"Step 1: Think about how to explain 'computer security' in 150 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 2. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph. Use the selected vocabulary and sentence structure to write a paragraph about 'computer security'.
+Step 5: Calculate the Flesch-Kincaid Grade Level of the written paragraph. If it is not correct, go back to Step 2 and select different vocabulary and sentence structure.
+
+**Final Paragraph:**
+""Computer security, or cybersecurity, is like protecting your home. It's keeping bad guys out. We use passwords, like locks, to stop them. Updates, like fixing broken windows, keep our computers safe. But be careful, sharing passwords, like giving keys to strangers, can let them in. Always use strong passwords, change them often, and don't share.""
+
+**Flesch-Kincaid Grade Level Calculation:**
+- Total words: 48
+- Total sentences: 5
+- Total syllables: 116
+- Flesch-Kincaid Grade Level: 0.39 × (48 / 5) + 11.",7.3,60.92,10.0,10.0,7.37,10.99,3.68,6.222222222222222
+Chain-of-Thought-Advanced,computer security,Early Elementary,150,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'computer security' in 150 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 2. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph.",,"Step 1: Think about how to explain 'computer security' in 150 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 2. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph. Here is an example of how you could explain 'computer security' in 150 words, with a Flesch-Kincaid Grade Level of approximately 2:
+
+""Computer security is like protecting a house. You lock doors and windows to stop thieves. Computers need similar protection. This means using strong passwords, updating software, and being careful with emails. This is called cybersecurity. It's about keeping computers and the information on them safe. This can stop bad people from getting into computers and causing problems. It's like having a good lock on your front door.""
+
+The Flesch-Kincaid Grade Level of this paragraph is calculated as follows:
+
+- Total words: 56
+- Total sentences: 5
+- Total syllables: 214
+- Grade Level: 0.39 × (56 / 5) + 11.8 × (214 / 56) - 15.59 ≈",7.3,61.02,9.1,10.3,7.78,10.24,3.87,7.25

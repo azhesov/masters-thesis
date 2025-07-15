@@ -1,0 +1,95 @@
+Technique,Topic,Target Level,Output Length,Model,Prompt,Rewrite Prompt,Text,Flesch-Kincaid,Flesch Ease,ARI,SMOG,Gunning Fog,Coleman-Liau,Spache,Linsear Write
+Chain-of-Thought,computer security,Middle School,200,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'computer security' to someone reading at the Middle School level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 200 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the Middle School level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 200 words that follows your plan. Remember to include a clear introduction and conclusion.
+Step 4: Proofread your paragraph and make any necessary revisions.
+
+Computer security is like a secret password that keeps your information safe from people who want to steal it. Imagine you have a special clubhouse where you keep all your cool drawings and toys. You wouldn't want anyone to just walk in and take them, would you? So, you make a special knock that only your best friends know. That's what computer security does. It's like a secret knock that only your computer and you know. When you want to use your computer, you give the secret knock, and it lets you in. But if someone else tries to get in, the computer won't let them because they don't know the secret knock. This is how computer security keeps your information safe, just like your clubhouse keeps your stuff safe. So, it's important to always use strong secret knocks, or passwords, to protect your computer and the cool things you",6.3,74.49,8.1,10.0,7.63,9.04,3.69,6.75
+Chain-of-Thought,computer security,Middle School,200,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'computer security' to someone reading at the Middle School level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 200 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the Middle School level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 200 words that follows your plan.  Check it for clarity and accuracy.
+
+Answer:
+
+Step 1: Explain computer security as protecting computers and their information from bad guys who want to steal, change, or stop them from working.
+
+Step 2: Use words like protect, bad guys, steal, change, stop, computers, information, and working.
+
+Step 3: ""Imagine you have a secret message that you don't want anyone else to read. You'd probably hide it in a safe place, right? Computer security is like that safe place for computers. It's a way to protect computers and the important information they hold from bad guys who might want to steal it, change it, or even stop the computer from working. Just like you'd keep your message safe, computer security helps keep digital information safe too.""",7.8,65.01,9.4,11.7,9.09,9.68,3.87,8.0
+Chain-of-Thought,computer security,Middle School,200,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'computer security' to someone reading at the Middle School level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 200 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the Middle School level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 200 words that follows your plan.",8.1,58.99,8.9,9.7,9.24,10.37,4.21,6.5
+Chain-of-Thought,computer security,Middle School,200,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'computer security' to someone reading at the Middle School level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 200 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the Middle School level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 200 words that follows your plan. Check the paragraph for clarity, appropriate vocabulary, and sentence structure.
+Step 4: Compare your paragraph to the provided example to see if you've achieved the goal of writing a clear, concise explanation for a middle school reader.
+
+---
+
+**Sample Paragraph:**
+
+Computer security is like having a secret password to protect your stuff. You know how you have a locker at school, and only you know the combination? Computer security is like that, but for computers. It's about keeping bad guys out and making sure only the right people can use or see what's on your computer. Just like you wouldn't want anyone to open your locker and steal your things, you don't want anyone messing with your computer. So, computer security helps keep your stuff safe, both on your computer and online. It's like a secret guard that makes sure everything is okay.
+
+**My Paragraph:**
+
+Computer security is like having a secret code to keep your stuff safe. Just like you have a special password to unlock your",7.8,65.12,9.3,10.6,8.19,9.68,3.91,7.857142857142858
+Chain-of-Thought,computer security,Middle School,200,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'computer security' to someone reading at the Middle School level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 200 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the Middle School level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 200 words that follows your plan. Use clear language and avoid jargon.
+Step 4: Review your work for grammar, punctuation, and spelling errors.
+
+Computer security is like having a secret password that protects your personal information on a computer. This password is like a special key that only you have. It helps keep your files safe from people who might want to look at them without your permission. This is important because computers can hold many personal things like photos, messages, and even your homework. A good password is hard to guess, so it's important to choose one that's not easy for others to figure out. Sometimes, there are also special programs called 'firewalls' that help protect your computer from bad guys on the internet. These programs work like security guards, making sure only good things can come into your computer. So, in simple terms, computer security is like having a secret clubhouse where only you and your friends are allowed to play.",7.9,64.81,9.7,10.4,8.43,10.32,4.23,6.625
+Chain-of-Thought,computer security,Middle School,200,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'computer security' to someone reading at the Middle School level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 200 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the Middle School level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 200 words that follows your plan. Include a clear topic sentence and supporting details.
+Step 4: Review your paragraph and make sure it's easy to read and understand.
+
+Sure, let's break this down:
+
+**Step 1: Explain 'Computer Security'**
+Computer security is about protecting computers and the information they hold from bad guys who might want to steal or damage it. It's like having a secret clubhouse where you keep your most precious toys, and you want to make sure no one else can get in without your permission.
+
+**Step 2: Choose Appropriate Vocabulary and Sentence Structure**
+We should use simple, everyday words that a middle school student would understand. Short, clear sentences will make the paragraph easier to read and comprehend.
+
+**Step 3: Write the Paragraph**
+
+Computer security is like having a secret clubhouse. You keep your most precious toys there, and you want to make sure no one else can get in without your permission. To protect your clubhouse, you have a special",8.5,63.39,10.5,11.0,9.19,10.44,4.19,8.0
+Chain-of-Thought,computer security,Middle School,200,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'computer security' to someone reading at the Middle School level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 200 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the Middle School level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 200 words that follows your plan. Step 4: Review your work for accuracy and readability.
+
+Computer security, or cybersecurity, is like having a secret password to protect your personal information. Just like you have a special code to unlock your locker at school, computers have special codes to keep bad guys out. These codes are called passwords, and they help keep your information safe from people who might want to steal it or use it in wrong ways.
+
+To keep your computer secure, you should never share your password with anyone. Also, it's important to use different passwords for different websites. This way, if one password gets stolen, all your other accounts are still safe. Another good habit is to regularly update your passwords. This means changing them every few months to make sure they're still strong and hard to guess.
+
+Computer security is like a game of hide and seek. The bad guys are trying to find your information, and you're trying to hide it from them. By using strong passwords and keeping them secret, you can stay",7.6,65.73,8.6,10.0,8.08,9.56,4.0,8.0
+Chain-of-Thought,computer security,Middle School,200,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'computer security' to someone reading at the Middle School level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 200 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the Middle School level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 200 words that follows your plan.",8.1,58.99,8.9,9.7,9.24,10.37,4.21,6.5
+Chain-of-Thought,computer security,Middle School,200,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'computer security' to someone reading at the Middle School level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 200 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the Middle School level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 200 words that follows your plan.",8.1,58.99,8.9,9.7,9.24,10.37,4.21,6.5
+Chain-of-Thought,computer security,Middle School,200,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'computer security' to someone reading at the Middle School level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 200 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the Middle School level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 200 words that follows your plan.",8.1,58.99,8.9,9.7,9.24,10.37,4.21,6.5

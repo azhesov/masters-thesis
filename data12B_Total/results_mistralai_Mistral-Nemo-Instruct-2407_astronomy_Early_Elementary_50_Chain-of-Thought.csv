@@ -1,0 +1,79 @@
+Technique,Topic,Target Level,Output Length,Model,Prompt,Rewrite Prompt,Text,Flesch-Kincaid,Flesch Ease,ARI,SMOG,Gunning Fog,Coleman-Liau,Spache,Linsear Write
+Chain-of-Thought,astronomy,Early Elementary,50,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'astronomy' to someone reading at the Early Elementary level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 50 words that follows your plan.",,"Step 1: Think about how to explain 'astronomy' to someone reading at the Early Elementary level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 50 words that follows your plan. Include the word 'astronomy' in your paragraph.
+Step 4: Review your paragraph. Make sure it has a beginning, middle, and end. Make sure it has a clear topic sentence.
+Step 5: Read your paragraph aloud. Does it sound natural? Does it sound like it's for an Early Elementary level reader? If not, make any necessary changes.
+Step 6: Add a fun fact about astronomy to your paragraph, if you can. Make sure it's simple and interesting.
+Step 7: Proofread your paragraph. Make sure there are no spelling or grammar errors.
+
+**Final Paragraph:**
+
+Astronomy is like a big game of 'I Spy' in the night sky! It's the study of stars, planets, and everything out there. You use telescopes to see far away. Did you know that there are over 100 billion galaxies in the universe? That's like having 100 billion night skies to explore!",4.4,79.26,5.5,7.9,5.38,7.1,3.16,4.0
+Chain-of-Thought,astronomy,Early Elementary,50,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'astronomy' to someone reading at the Early Elementary level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 50 words that follows your plan.",,"Step 1: Think about how to explain 'astronomy' to someone reading at the Early Elementary level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 50 words that follows your plan. Here is my attempt:
+
+Astronomy is looking at the sky to learn about stars, planets, and the moon. We use telescopes to see far away places in space. Astronomy helps us understand how the world works.
+
+Would you please evaluate my paragraph? Thank you!
+
+Your paragraph is well-written and clear, and it effectively explains astronomy to an Early Elementary reader. Here are a few suggestions to make it even better:
+
+1. **Sentence structure**: Consider breaking up the first sentence into two simpler sentences to make it easier to read. For example:
+   - ""When we look at the sky, we can learn about stars, planets, and the moon.""
+   - ""This is what astronomers do.""
+
+2. **Word choice**: Instead of ""far away places,"" you could use ""far-off places"" to make it a bit simpler.
+
+3. **Clarity**: The sentence ""Astronomy helps us understand how the world works"" is great, but it might be",6.0,75.1,8.3,9.8,7.85,8.45,3.81,5.888888888888889
+Chain-of-Thought,astronomy,Early Elementary,50,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'astronomy' to someone reading at the Early Elementary level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 50 words that follows your plan.",,"Step 1: Think about how to explain 'astronomy' to someone reading at the Early Elementary level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 50 words that follows your plan.",8.0,59.3,8.8,9.7,9.24,10.37,4.2,6.333333333333333
+Chain-of-Thought,astronomy,Early Elementary,50,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'astronomy' to someone reading at the Early Elementary level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 50 words that follows your plan.",,"Step 1: Think about how to explain 'astronomy' to someone reading at the Early Elementary level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 50 words that follows your plan.",8.0,59.3,8.8,9.7,9.24,10.37,4.2,6.333333333333333
+Chain-of-Thought,astronomy,Early Elementary,50,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'astronomy' to someone reading at the Early Elementary level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 50 words that follows your plan.",,"Step 1: Think about how to explain 'astronomy' to someone reading at the Early Elementary level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 50 words that follows your plan.",8.0,59.3,8.8,9.7,9.24,10.37,4.2,6.333333333333333
+Chain-of-Thought,astronomy,Early Elementary,50,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'astronomy' to someone reading at the Early Elementary level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 50 words that follows your plan.",,"Step 1: Think about how to explain 'astronomy' to someone reading at the Early Elementary level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 50 words that follows your plan.",8.0,59.3,8.8,9.7,9.24,10.37,4.2,6.333333333333333
+Chain-of-Thought,astronomy,Early Elementary,50,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'astronomy' to someone reading at the Early Elementary level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 50 words that follows your plan.",,"Step 1: Think about how to explain 'astronomy' to someone reading at the Early Elementary level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 50 words that follows your plan.",8.0,59.3,8.8,9.7,9.24,10.37,4.2,6.333333333333333
+Chain-of-Thought,astronomy,Early Elementary,50,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'astronomy' to someone reading at the Early Elementary level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 50 words that follows your plan.",,"Step 1: Think about how to explain 'astronomy' to someone reading at the Early Elementary level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 50 words that follows your plan. Here is your paragraph: ""Astronomy is like a big, outdoor science class. It's about looking up at the sky to learn about stars, planets, and the moon. You can use a telescope to see them better. It's fun and interesting!""
+
+Step 4: Now, write a second paragraph using the same rules. This time, you'll describe one of the topics from the first paragraph. Here is your paragraph: ""The moon is one of our closest neighbors in space. It's a big, round rock that orbits the Earth. You can see it in the sky at night, changing shape from a tiny sliver to a big, bright circle.""
+
+Step 5: Finally, write a third paragraph that continues the topic from the second paragraph. Here is your paragraph: ""The moon's phases are like a monthly calendar in the sky. It starts as a new moon, invisible to our eyes. Then it grows bigger and bigger, becoming a full moon. After that",5.6,76.11,6.2,7.9,6.28,7.0,3.66,5.222222222222222
+Chain-of-Thought,astronomy,Early Elementary,50,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'astronomy' to someone reading at the Early Elementary level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 50 words that follows your plan.",,"Step 1: Think about how to explain 'astronomy' to someone reading at the Early Elementary level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 50 words that follows your plan.",8.0,59.3,8.8,9.7,9.24,10.37,4.2,6.333333333333333
+Chain-of-Thought,astronomy,Early Elementary,50,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'astronomy' to someone reading at the Early Elementary level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 50 words that follows your plan.",,"Step 1: Think about how to explain 'astronomy' to someone reading at the Early Elementary level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 50 words that follows your plan. Remember to include the definition, the topic, and a relatable example.
+
+Astronomy is looking at stars, planets, and other things in space. It's like when you look at the moon at night. Astronomy helps us learn about the universe.",7.5,60.61,7.5,10.0,8.55,9.32,4.18,5.785714285714286

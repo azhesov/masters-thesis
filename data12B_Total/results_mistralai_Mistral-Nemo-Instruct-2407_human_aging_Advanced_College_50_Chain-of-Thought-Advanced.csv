@@ -1,0 +1,147 @@
+Technique,Topic,Target Level,Output Length,Model,Prompt,Rewrite Prompt,Text,Flesch-Kincaid,Flesch Ease,ARI,SMOG,Gunning Fog,Coleman-Liau,Spache,Linsear Write
+Chain-of-Thought-Advanced,human aging,Advanced College,50,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'human aging' in 50 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 15. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph.",,"Step 1: Think about how to explain 'human aging' in 50 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 15. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph. The paragraph should be 50 words exactly.
+Step 5: Calculate the Flesch-Kincaid Grade Level of the paragraph to ensure it meets the target level.
+
+**Output:**
+
+Human aging is a gradual process where our bodies and minds change over time. Cells divide more slowly, muscles weaken, bones become brittle, and memory can decline. This happens due to damage from daily living, genetics, and environment. It's a natural part of life, but understanding it can help us age better.
+
+**Flesch-Kincaid Grade Level:**
+
+The paragraph has a total of 24 words, 1 sentence, and 85 syllables. Plugging these values into the formula, we get:
+
+0.39 × (24 / 1) + 11.8 × (85 / 24) - 15.59 ≈ 14.5
+
+The Flesch-Kincaid Grade Level of the paragraph is approximately",7.3,61.02,8.4,9.3,7.13,9.25,3.87,5.666666666666667
+Chain-of-Thought-Advanced,human aging,Advanced College,50,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'human aging' in 50 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 15. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph.",,"Step 1: Think about how to explain 'human aging' in 50 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 15. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph. It should include at least 50 words.
+
+Human aging is a complex process involving many changes in the body over time. This includes biological and psychological alterations, such as wrinkling skin, graying hair, and decreasing physical and mental abilities. Scientists believe these changes are caused by a combination of genetics, lifestyle, and environment. The process begins in our mid-20s, but becomes more noticeable after age 40. It's a natural part of life, but understanding and managing it can help maintain health and quality of life into older age.",8.0,59.3,9.8,10.7,10.18,11.3,5.01,5.0
+Chain-of-Thought-Advanced,human aging,Advanced College,50,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'human aging' in 50 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 15. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph.",,"Step 1: Think about how to explain 'human aging' in 50 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 15. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph. Evaluate the paragraph for correctness and make necessary revisions. Check the Flesch-Kincaid Grade Level again to ensure it meets the required grade level.
+
+Step 1: Human aging involves changes over time, including physical, mental, and social transformations. These changes are complex and gradual, starting from birth until death.
+
+Step 2: Vocabulary and sentence structure:
+- Use simpler words like 'change', 'time', 'physical','mental','social', 'complex', 'gradual', 'birth', 'death'.
+- Use simple sentence structure, avoid complex sentences and jargon.
+- Use contractions to make it more casual and easier to read (e.g., 'it's', 'don't').
+
+Step 3: Calculate the Flesch-Kincaid Grade Level:
+- Total words: 36
+- Total sentences: 1
+- Total syllables: 55 (using an online syllable counter)
+
+Flesch-Kincaid Grade Level =",9.2,50.84,12.5,10.8,9.24,12.98,4.78,5.2
+Chain-of-Thought-Advanced,human aging,Advanced College,50,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'human aging' in 50 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 15. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph.",,"Step 1: Think about how to explain 'human aging' in 50 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 15. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph. If the result doesn't match the target grade level, revise and repeat steps 2-4.
+
+Final Paragraph:
+""Human aging is a complex process involving multiple biological changes over time. Cells accumulate damage, leading to reduced function and increased susceptibility to disease. Key factors include telomere shortening, epigenetic alterations, and declining immune function. This natural process is influenced by genetics, lifestyle, and environment.""
+
+Flesch-Kincaid Grade Level Calculation:
+- Total words: 50
+- Total sentences: 1
+- Total syllables: 72
+- FKGL = 0.39 × (50 / 1) + 11.8 × (72 / 50) - 15.59 ≈ 15.1",8.4,52.76,11.0,10.2,9.07,12.33,4.82,5.666666666666667
+Chain-of-Thought-Advanced,human aging,Advanced College,50,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'human aging' in 50 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 15. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph.",,"Step 1: Think about how to explain 'human aging' in 50 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 15. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph. If the text is too simple or too complex, adjust it and repeat step 3.
+
+Human aging is a gradual process where our body and mind change over time. As we grow older, our cells divide more slowly, and we become more prone to diseases. Our skin wrinkles, hair turns gray, and bones lose density. Memory may decline, and reactions might slow down. This happens due to the accumulation of damage to our cells and tissues over time, influenced by our genes and lifestyle.",6.7,68.06,7.5,8.8,7.57,8.45,4.35,5.444444444444445
+Chain-of-Thought-Advanced,human aging,Advanced College,50,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'human aging' in 50 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 15. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph.",,"Step 1: Think about how to explain 'human aging' in 50 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 15. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph. Use the following text to help you: 'Aging is a natural, progressive decline in the function of the body's organs and tissues over time. It's caused by many factors, including wear and tear on the body, genetic changes, and damage from harmful molecules called free radicals. As we age, our cells divide more slowly, and we become more susceptible to diseases like cancer, heart disease, and Alzheimer's. Our senses also decline, and we may have more difficulty seeing, hearing, and tasting things.'
+
+**Final Output:**
+
+Human aging is a gradual process where our body's parts, like organs and tissues, work less well over time. This happens due to several reasons: our body wears out, genes change, and harmful molecules called free radicals cause damage. As we get older, cells divide less quickly, and we're more likely to get diseases like cancer, heart problems, and Alzheimer's. Our senses also worsen, making it harder to see, hear, and taste things",8.0,64.71,10.4,9.7,8.49,10.2,4.67,6.5
+Chain-of-Thought-Advanced,human aging,Advanced College,50,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'human aging' in 50 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 15. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph.",,"Step 1: Think about how to explain 'human aging' in 50 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 15. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph.",7.1,61.63,8.7,8.8,6.82,10.01,4.23,5.285714285714286
+Chain-of-Thought-Advanced,human aging,Advanced College,50,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'human aging' in 50 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 15. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph.",,"Step 1: Think about how to explain 'human aging' in 50 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 15. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph. It should start with ""Human aging is..."" and end with a period.
+
+Human aging is a complex biological process involving progressive functional decline and increased risk of diseases. As we age, our cells divide more slowly, and waste products accumulate. Organs like the heart and kidneys become less efficient, and the brain may experience a decline in cognitive function. This process is influenced by both genetic and environmental factors, and it's a universal experience for all humans.",7.7,60.11,9.4,10.4,9.45,10.94,4.84,5.2
+Chain-of-Thought-Advanced,human aging,Advanced College,50,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'human aging' in 50 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 15. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph.",,"Step 1: Think about how to explain 'human aging' in 50 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 15. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph. Make sure it is 50 words and the Flesch-Kincaid Grade Level is approximately 15.
+Step 5: Test the paragraph with the Flesch-Kincaid Grade Level formula and adjust the text accordingly until it meets the requirements.
+
+Here's a possible final paragraph:
+""Aging in humans involves progressive changes over time. These include biological modifications like cellular damage, tissue degradation, and reduced organ function. Psychological shifts, such as cognitive decline and mood changes, also occur. The process is influenced by genetics and lifestyle, with factors like diet, exercise, and environment playing significant roles.""
+
+Flesch-Kincaid Grade Level of this paragraph is approximately 15.0.",9.1,50.94,11.6,11.2,9.55,13.44,4.84,5.777777777777778
+Chain-of-Thought-Advanced,human aging,Advanced College,50,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'human aging' in 50 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 15. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph.",,"Step 1: Think about how to explain 'human aging' in 50 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 15. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph. Make sure you have the correct amount of syllables and words. Use the calculator to verify.
+Step 5: Proofread your work to ensure the content is accurate, clear, and concise.
+
+Final Output:
+""Human aging is a progressive process, primarily caused by accumulated damage to cells and tissues over time. It's characterized by physical changes like wrinkles, gray hair, and loss of muscle mass, as well as increased risk of diseases like cancer and heart disease. This process is influenced by both genetics and lifestyle factors."" (Flesch-Kincaid Grade Level: 15)",7.7,60.11,9.2,9.8,8.3,10.59,4.67,5.0

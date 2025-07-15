@@ -1,0 +1,268 @@
+Technique,Topic,Target Level,Output Length,Model,Prompt,Rewrite Prompt,Text,Flesch-Kincaid,Flesch Ease,ARI,SMOG,Gunning Fog,Coleman-Liau,Spache,Linsear Write
+Few-Shot,nutrition,College,200,meta-llama/Llama-3.1-8B-Instruct,"Example 1:
+Protective tariffs are tariffs that are enacted with the aim of protecting a domestic industry. Tariffs are also imposed in order to raise government revenue, or to reduce an undesirable activity (sin tax). Although a tariff can simultaneously protect domestic industry and earn government revenue, the goals of protection and revenue maximization suggest different tariff rates, entailing a tradeoff between the two aims. 
+A tariff is a tax added onto goods imported into a country; protective tariffs are taxes that render the cost of a foreign import higher than the cost of the initially costlier domestic good. For example, if a piece of cloth cost $4 in Britain and $4 in the United States, the American government would have to impose a tariff to make the price of British cloth higher for Americans. The underlying goal for a protective tariff is to protect domestic industry from foreign competition.
+
+Example 2:
+Armed neutrality, in international politics, is the posture of a state or group of states which makes no alliance with either side in a war, but asserts that it will defend itself against resulting incursions from all parties. This may include:
+Military preparedness without commitment, especially as the expressed policy of a neutral nation in wartime; readiness to counter with force an invasion of rights by any belligerent power.
+Armed neutrality is a term used in international politics, which is the attitude of a state or group of states which makes no alliance with either side in a war. It is the condition of a neutral power, at war, which holds itself ready to resist by force any aggression of either belligerent. Such states assert that they will defend themselves against resulting incursions from all parties.
+Neutrality maintained while weapons are kept available.
+Armed Neutrality: A seemingly neutral state takes up arms for protection to maintain its neutrality
+
+Using vocabulary and structure from examples, write a short paragraph about 'nutrition' targeting the same readability level (College), limited to 200 words.",,"Example 1:
+Protective tariffs are tariffs that are enacted with the aim of protecting a domestic industry. Tariffs are also imposed in order to raise government revenue, or to reduce an undesirable activity (sin tax). Although a tariff can simultaneously protect domestic industry and earn government revenue, the goals of protection and revenue maximization suggest different tariff rates, entailing a tradeoff between the two aims. 
+A tariff is a tax added onto goods imported into a country; protective tariffs are taxes that render the cost of a foreign import higher than the cost of the initially costlier domestic good. For example, if a piece of cloth cost $4 in Britain and $4 in the United States, the American government would have to impose a tariff to make the price of British cloth higher for Americans. The underlying goal for a protective tariff is to protect domestic industry from foreign competition.
+
+Example 2:
+Armed neutrality, in international politics, is the posture of a state or group of states which makes no alliance with either side in a war, but asserts that it will defend itself against resulting incursions from all parties. This may include:
+Military preparedness without commitment, especially as the expressed policy of a neutral nation in wartime; readiness to counter with force an invasion of rights by any belligerent power.
+Armed neutrality is a term used in international politics, which is the attitude of a state or group of states which makes no alliance with either side in a war. It is the condition of a neutral power, at war, which holds itself ready to resist by force any aggression of either belligerent. Such states assert that they will defend themselves against resulting incursions from all parties.
+Neutrality maintained while weapons are kept available.
+Armed Neutrality: A seemingly neutral state takes up arms for protection to maintain its neutrality
+
+Using vocabulary and structure from examples, write a short paragraph about 'nutrition' targeting the same readability level (College), limited to 200 words. 
+
+Balanced nutrition, in the context of dietary choices, is the posture of a person or group of individuals which makes no extreme choice in food intake, but asserts that it will maintain health through a variety of nutrient-dense foods. This may include nutritional preparedness without commitment, especially as the expressed policy of a healthy nation in a food environment; readiness to counter with wellness an imbalance of nutrients by any dietary power. Balanced nutrition is a term used in the field of nutrition, which is the attitude of a healthy individual or group which makes no extreme choice in food intake. It is the condition of a well-nourished person, at risk of nutrient imbalance, which holds itself ready to resist by healthful eating any nutritional aggression of either unhealthy food or dietary habit. Such individuals assert that they will maintain health through a variety of nutrient-dense foods and physical activity. A balanced diet maintained while healthy habits are kept available. 
+
+Note: The paragraph is intentionally written to be a bit awkward and unnatural",13.2,45.8,16.0,15.4,14.16,12.83,6.07,17.75
+Few-Shot,nutrition,College,200,meta-llama/Llama-3.1-8B-Instruct,"Example 1:
+Protective tariffs are tariffs that are enacted with the aim of protecting a domestic industry. Tariffs are also imposed in order to raise government revenue, or to reduce an undesirable activity (sin tax). Although a tariff can simultaneously protect domestic industry and earn government revenue, the goals of protection and revenue maximization suggest different tariff rates, entailing a tradeoff between the two aims. 
+A tariff is a tax added onto goods imported into a country; protective tariffs are taxes that render the cost of a foreign import higher than the cost of the initially costlier domestic good. For example, if a piece of cloth cost $4 in Britain and $4 in the United States, the American government would have to impose a tariff to make the price of British cloth higher for Americans. The underlying goal for a protective tariff is to protect domestic industry from foreign competition.
+
+Example 2:
+Armed neutrality, in international politics, is the posture of a state or group of states which makes no alliance with either side in a war, but asserts that it will defend itself against resulting incursions from all parties. This may include:
+Military preparedness without commitment, especially as the expressed policy of a neutral nation in wartime; readiness to counter with force an invasion of rights by any belligerent power.
+Armed neutrality is a term used in international politics, which is the attitude of a state or group of states which makes no alliance with either side in a war. It is the condition of a neutral power, at war, which holds itself ready to resist by force any aggression of either belligerent. Such states assert that they will defend themselves against resulting incursions from all parties.
+Neutrality maintained while weapons are kept available.
+Armed Neutrality: A seemingly neutral state takes up arms for protection to maintain its neutrality
+
+Using vocabulary and structure from examples, write a short paragraph about 'nutrition' targeting the same readability level (College), limited to 200 words.",,"Example 1:
+Protective tariffs are tariffs that are enacted with the aim of protecting a domestic industry. Tariffs are also imposed in order to raise government revenue, or to reduce an undesirable activity (sin tax). Although a tariff can simultaneously protect domestic industry and earn government revenue, the goals of protection and revenue maximization suggest different tariff rates, entailing a tradeoff between the two aims. 
+A tariff is a tax added onto goods imported into a country; protective tariffs are taxes that render the cost of a foreign import higher than the cost of the initially costlier domestic good. For example, if a piece of cloth cost $4 in Britain and $4 in the United States, the American government would have to impose a tariff to make the price of British cloth higher for Americans. The underlying goal for a protective tariff is to protect domestic industry from foreign competition.
+
+Example 2:
+Armed neutrality, in international politics, is the posture of a state or group of states which makes no alliance with either side in a war, but asserts that it will defend itself against resulting incursions from all parties. This may include:
+Military preparedness without commitment, especially as the expressed policy of a neutral nation in wartime; readiness to counter with force an invasion of rights by any belligerent power.
+Armed neutrality is a term used in international politics, which is the attitude of a state or group of states which makes no alliance with either side in a war. It is the condition of a neutral power, at war, which holds itself ready to resist by force any aggression of either belligerent. Such states assert that they will defend themselves against resulting incursions from all parties.
+Neutrality maintained while weapons are kept available.
+Armed Neutrality: A seemingly neutral state takes up arms for protection to maintain its neutrality
+
+Using vocabulary and structure from examples, write a short paragraph about 'nutrition' targeting the same readability level (College), limited to 200 words. Here is the example:
+A tariff is a tax added onto goods imported into a country; protective tariffs are taxes that render the cost of a foreign import higher than the cost of the initially costlier domestic good. For example, if a piece of cloth cost $4 in Britain and $4 in the United States, the American government would have to impose a tariff to make the price of British cloth higher for Americans. The underlying goal for a protective tariff is to protect domestic industry from foreign competition.
+Armed neutrality, in international politics, is the posture of a state or group of states which makes no alliance with either side in a war, but asserts that it will defend itself against resulting incursions from all parties. This may include military preparedness without commitment, especially as the expressed policy of a neutral nation in wartime; readiness to counter with force an invasion of rights by any belligerent power.
+Nutrition, in the context of human health, is the intake of nutrients, vitamins, and",13.6,44.58,16.0,15.7,13.93,12.13,5.93,17.75
+Few-Shot,nutrition,College,200,meta-llama/Llama-3.1-8B-Instruct,"Example 1:
+Protective tariffs are tariffs that are enacted with the aim of protecting a domestic industry. Tariffs are also imposed in order to raise government revenue, or to reduce an undesirable activity (sin tax). Although a tariff can simultaneously protect domestic industry and earn government revenue, the goals of protection and revenue maximization suggest different tariff rates, entailing a tradeoff between the two aims. 
+A tariff is a tax added onto goods imported into a country; protective tariffs are taxes that render the cost of a foreign import higher than the cost of the initially costlier domestic good. For example, if a piece of cloth cost $4 in Britain and $4 in the United States, the American government would have to impose a tariff to make the price of British cloth higher for Americans. The underlying goal for a protective tariff is to protect domestic industry from foreign competition.
+
+Example 2:
+Armed neutrality, in international politics, is the posture of a state or group of states which makes no alliance with either side in a war, but asserts that it will defend itself against resulting incursions from all parties. This may include:
+Military preparedness without commitment, especially as the expressed policy of a neutral nation in wartime; readiness to counter with force an invasion of rights by any belligerent power.
+Armed neutrality is a term used in international politics, which is the attitude of a state or group of states which makes no alliance with either side in a war. It is the condition of a neutral power, at war, which holds itself ready to resist by force any aggression of either belligerent. Such states assert that they will defend themselves against resulting incursions from all parties.
+Neutrality maintained while weapons are kept available.
+Armed Neutrality: A seemingly neutral state takes up arms for protection to maintain its neutrality
+
+Using vocabulary and structure from examples, write a short paragraph about 'nutrition' targeting the same readability level (College), limited to 200 words.",,"Example 1:
+Protective tariffs are tariffs that are enacted with the aim of protecting a domestic industry. Tariffs are also imposed in order to raise government revenue, or to reduce an undesirable activity (sin tax). Although a tariff can simultaneously protect domestic industry and earn government revenue, the goals of protection and revenue maximization suggest different tariff rates, entailing a tradeoff between the two aims. 
+A tariff is a tax added onto goods imported into a country; protective tariffs are taxes that render the cost of a foreign import higher than the cost of the initially costlier domestic good. For example, if a piece of cloth cost $4 in Britain and $4 in the United States, the American government would have to impose a tariff to make the price of British cloth higher for Americans. The underlying goal for a protective tariff is to protect domestic industry from foreign competition.
+
+Example 2:
+Armed neutrality, in international politics, is the posture of a state or group of states which makes no alliance with either side in a war, but asserts that it will defend itself against resulting incursions from all parties. This may include:
+Military preparedness without commitment, especially as the expressed policy of a neutral nation in wartime; readiness to counter with force an invasion of rights by any belligerent power.
+Armed neutrality is a term used in international politics, which is the attitude of a state or group of states which makes no alliance with either side in a war. It is the condition of a neutral power, at war, which holds itself ready to resist by force any aggression of either belligerent. Such states assert that they will defend themselves against resulting incursions from all parties.
+Neutrality maintained while weapons are kept available.
+Armed Neutrality: A seemingly neutral state takes up arms for protection to maintain its neutrality
+
+Using vocabulary and structure from examples, write a short paragraph about 'nutrition' targeting the same readability level (College), limited to 200 words. 
+
+The aim of a balanced diet is to ensure that an individual receives a sufficient amount of the necessary nutrients. Balanced diets are recommended in order to reduce the risk of disease and promote general health. Although a diet can simultaneously support overall health and earn an individual a sense of satisfaction, the goals of health promotion and satisfaction suggest different dietary habits, entailing a tradeoff between the two aims. 
+Nutrition is the study of the relationship between diet and health. A balanced diet is a mix of the six basic food groups: carbohydrates, proteins, fats, vitamins, minerals and water. The underlying goal of nutrition is to provide the body with the necessary nutrients to maintain overall health and prevent disease. The trade-off in nutrition is between consuming a variety of foods to maintain health and feeling satisfied with the food consumed. An example of a balanced diet is a combination of fruits, vegetables, whole grains, lean meats, and low-fat dairy products.
+
+Note: The word count for the paragraph is 199.",13.4,39.77,14.6,14.8,13.61,12.6,5.89,17.75
+Few-Shot,nutrition,College,200,meta-llama/Llama-3.1-8B-Instruct,"Example 1:
+Protective tariffs are tariffs that are enacted with the aim of protecting a domestic industry. Tariffs are also imposed in order to raise government revenue, or to reduce an undesirable activity (sin tax). Although a tariff can simultaneously protect domestic industry and earn government revenue, the goals of protection and revenue maximization suggest different tariff rates, entailing a tradeoff between the two aims. 
+A tariff is a tax added onto goods imported into a country; protective tariffs are taxes that render the cost of a foreign import higher than the cost of the initially costlier domestic good. For example, if a piece of cloth cost $4 in Britain and $4 in the United States, the American government would have to impose a tariff to make the price of British cloth higher for Americans. The underlying goal for a protective tariff is to protect domestic industry from foreign competition.
+
+Example 2:
+Armed neutrality, in international politics, is the posture of a state or group of states which makes no alliance with either side in a war, but asserts that it will defend itself against resulting incursions from all parties. This may include:
+Military preparedness without commitment, especially as the expressed policy of a neutral nation in wartime; readiness to counter with force an invasion of rights by any belligerent power.
+Armed neutrality is a term used in international politics, which is the attitude of a state or group of states which makes no alliance with either side in a war. It is the condition of a neutral power, at war, which holds itself ready to resist by force any aggression of either belligerent. Such states assert that they will defend themselves against resulting incursions from all parties.
+Neutrality maintained while weapons are kept available.
+Armed Neutrality: A seemingly neutral state takes up arms for protection to maintain its neutrality
+
+Using vocabulary and structure from examples, write a short paragraph about 'nutrition' targeting the same readability level (College), limited to 200 words.",,"Example 1:
+Protective tariffs are tariffs that are enacted with the aim of protecting a domestic industry. Tariffs are also imposed in order to raise government revenue, or to reduce an undesirable activity (sin tax). Although a tariff can simultaneously protect domestic industry and earn government revenue, the goals of protection and revenue maximization suggest different tariff rates, entailing a tradeoff between the two aims. 
+A tariff is a tax added onto goods imported into a country; protective tariffs are taxes that render the cost of a foreign import higher than the cost of the initially costlier domestic good. For example, if a piece of cloth cost $4 in Britain and $4 in the United States, the American government would have to impose a tariff to make the price of British cloth higher for Americans. The underlying goal for a protective tariff is to protect domestic industry from foreign competition.
+
+Example 2:
+Armed neutrality, in international politics, is the posture of a state or group of states which makes no alliance with either side in a war, but asserts that it will defend itself against resulting incursions from all parties. This may include:
+Military preparedness without commitment, especially as the expressed policy of a neutral nation in wartime; readiness to counter with force an invasion of rights by any belligerent power.
+Armed neutrality is a term used in international politics, which is the attitude of a state or group of states which makes no alliance with either side in a war. It is the condition of a neutral power, at war, which holds itself ready to resist by force any aggression of either belligerent. Such states assert that they will defend themselves against resulting incursions from all parties.
+Neutrality maintained while weapons are kept available.
+Armed Neutrality: A seemingly neutral state takes up arms for protection to maintain its neutrality
+
+Using vocabulary and structure from examples, write a short paragraph about 'nutrition' targeting the same readability level (College), limited to 200 words. 
+
+Nutrition can be defined as the science of the body's need for and use of food and other nutrients to maintain good health. A well-balanced diet provides the necessary fuel for growth, maintenance, and repair of the body. Nutritional goals suggest different dietary patterns, entailing a tradeoff between the aims of weight management and maximizing nutritional value. A nutrition plan is a tax on bad habits, imposing penalties on the body for an overindulgent lifestyle. The underlying goal for a nutrition plan is to protect the body from malnutrition. Just as a protective tariff is imposed to make a foreign import higher than the cost of a domestically produced good, a protective nutrition plan makes the cost of unhealthy food options higher than the cost of healthy food. This may include armed nutrition, which is the posture of a body or group of bodies which makes no unhealthy choices with either side of the nutritional spectrum, but asserts that it will defend itself against resulting malnutrition by any belligerent food choice",13.1,45.9,15.6,15.1,13.98,12.48,6.06,17.75
+Few-Shot,nutrition,College,200,meta-llama/Llama-3.1-8B-Instruct,"Example 1:
+Protective tariffs are tariffs that are enacted with the aim of protecting a domestic industry. Tariffs are also imposed in order to raise government revenue, or to reduce an undesirable activity (sin tax). Although a tariff can simultaneously protect domestic industry and earn government revenue, the goals of protection and revenue maximization suggest different tariff rates, entailing a tradeoff between the two aims. 
+A tariff is a tax added onto goods imported into a country; protective tariffs are taxes that render the cost of a foreign import higher than the cost of the initially costlier domestic good. For example, if a piece of cloth cost $4 in Britain and $4 in the United States, the American government would have to impose a tariff to make the price of British cloth higher for Americans. The underlying goal for a protective tariff is to protect domestic industry from foreign competition.
+
+Example 2:
+Armed neutrality, in international politics, is the posture of a state or group of states which makes no alliance with either side in a war, but asserts that it will defend itself against resulting incursions from all parties. This may include:
+Military preparedness without commitment, especially as the expressed policy of a neutral nation in wartime; readiness to counter with force an invasion of rights by any belligerent power.
+Armed neutrality is a term used in international politics, which is the attitude of a state or group of states which makes no alliance with either side in a war. It is the condition of a neutral power, at war, which holds itself ready to resist by force any aggression of either belligerent. Such states assert that they will defend themselves against resulting incursions from all parties.
+Neutrality maintained while weapons are kept available.
+Armed Neutrality: A seemingly neutral state takes up arms for protection to maintain its neutrality
+
+Using vocabulary and structure from examples, write a short paragraph about 'nutrition' targeting the same readability level (College), limited to 200 words.",,"Example 1:
+Protective tariffs are tariffs that are enacted with the aim of protecting a domestic industry. Tariffs are also imposed in order to raise government revenue, or to reduce an undesirable activity (sin tax). Although a tariff can simultaneously protect domestic industry and earn government revenue, the goals of protection and revenue maximization suggest different tariff rates, entailing a tradeoff between the two aims. 
+A tariff is a tax added onto goods imported into a country; protective tariffs are taxes that render the cost of a foreign import higher than the cost of the initially costlier domestic good. For example, if a piece of cloth cost $4 in Britain and $4 in the United States, the American government would have to impose a tariff to make the price of British cloth higher for Americans. The underlying goal for a protective tariff is to protect domestic industry from foreign competition.
+
+Example 2:
+Armed neutrality, in international politics, is the posture of a state or group of states which makes no alliance with either side in a war, but asserts that it will defend itself against resulting incursions from all parties. This may include:
+Military preparedness without commitment, especially as the expressed policy of a neutral nation in wartime; readiness to counter with force an invasion of rights by any belligerent power.
+Armed neutrality is a term used in international politics, which is the attitude of a state or group of states which makes no alliance with either side in a war. It is the condition of a neutral power, at war, which holds itself ready to resist by force any aggression of either belligerent. Such states assert that they will defend themselves against resulting incursions from all parties.
+Neutrality maintained while weapons are kept available.
+Armed Neutrality: A seemingly neutral state takes up arms for protection to maintain its neutrality
+
+Using vocabulary and structure from examples, write a short paragraph about 'nutrition' targeting the same readability level (College), limited to 200 words. 
+Proper nutrition is a protective measure for human health, acting as a shield against the negative effects of an unbalanced diet. A well-balanced diet is a tax on the negative effects of poor nutrition. Proper nutrition is a protective measure for human health, acting as a shield against the negative effects of an unbalanced diet. For example, if a person's diet lacks essential nutrients, the body would have to pay a price for the negative effects. In order to avoid this, the body would need to impose a tax on the negative effects by consuming a well-balanced diet, making the price of poor nutrition higher than the cost of proper nutrition. This underlying goal for proper nutrition is to protect human health from the negative effects of poor nutrition. Therefore, nutrition is a tax added onto the negative effects of poor nutrition, making the price of an unbalanced diet higher for the body. A balanced diet is a protective measure for human health.  
+In conclusion, nutrition is a protective measure",12.2,48.33,14.2,15.0,12.79,12.13,5.55,17.75
+Few-Shot,nutrition,College,200,meta-llama/Llama-3.1-8B-Instruct,"Example 1:
+Protective tariffs are tariffs that are enacted with the aim of protecting a domestic industry. Tariffs are also imposed in order to raise government revenue, or to reduce an undesirable activity (sin tax). Although a tariff can simultaneously protect domestic industry and earn government revenue, the goals of protection and revenue maximization suggest different tariff rates, entailing a tradeoff between the two aims. 
+A tariff is a tax added onto goods imported into a country; protective tariffs are taxes that render the cost of a foreign import higher than the cost of the initially costlier domestic good. For example, if a piece of cloth cost $4 in Britain and $4 in the United States, the American government would have to impose a tariff to make the price of British cloth higher for Americans. The underlying goal for a protective tariff is to protect domestic industry from foreign competition.
+
+Example 2:
+Armed neutrality, in international politics, is the posture of a state or group of states which makes no alliance with either side in a war, but asserts that it will defend itself against resulting incursions from all parties. This may include:
+Military preparedness without commitment, especially as the expressed policy of a neutral nation in wartime; readiness to counter with force an invasion of rights by any belligerent power.
+Armed neutrality is a term used in international politics, which is the attitude of a state or group of states which makes no alliance with either side in a war. It is the condition of a neutral power, at war, which holds itself ready to resist by force any aggression of either belligerent. Such states assert that they will defend themselves against resulting incursions from all parties.
+Neutrality maintained while weapons are kept available.
+Armed Neutrality: A seemingly neutral state takes up arms for protection to maintain its neutrality
+
+Using vocabulary and structure from examples, write a short paragraph about 'nutrition' targeting the same readability level (College), limited to 200 words.",,"Example 1:
+Protective tariffs are tariffs that are enacted with the aim of protecting a domestic industry. Tariffs are also imposed in order to raise government revenue, or to reduce an undesirable activity (sin tax). Although a tariff can simultaneously protect domestic industry and earn government revenue, the goals of protection and revenue maximization suggest different tariff rates, entailing a tradeoff between the two aims. 
+A tariff is a tax added onto goods imported into a country; protective tariffs are taxes that render the cost of a foreign import higher than the cost of the initially costlier domestic good. For example, if a piece of cloth cost $4 in Britain and $4 in the United States, the American government would have to impose a tariff to make the price of British cloth higher for Americans. The underlying goal for a protective tariff is to protect domestic industry from foreign competition.
+
+Example 2:
+Armed neutrality, in international politics, is the posture of a state or group of states which makes no alliance with either side in a war, but asserts that it will defend itself against resulting incursions from all parties. This may include:
+Military preparedness without commitment, especially as the expressed policy of a neutral nation in wartime; readiness to counter with force an invasion of rights by any belligerent power.
+Armed neutrality is a term used in international politics, which is the attitude of a state or group of states which makes no alliance with either side in a war. It is the condition of a neutral power, at war, which holds itself ready to resist by force any aggression of either belligerent. Such states assert that they will defend themselves against resulting incursions from all parties.
+Neutrality maintained while weapons are kept available.
+Armed Neutrality: A seemingly neutral state takes up arms for protection to maintain its neutrality
+
+Using vocabulary and structure from examples, write a short paragraph about 'nutrition' targeting the same readability level (College), limited to 200 words. 
+The term nutrition refers to the science of feeding and eating, specifically the consumption of nutrients to support growth, health, and body functions. This concept involves a tradeoff between nutritional value and taste, as well as a balance between food preferences and health requirements. A balanced diet is often the goal of nutrition, which suggests that there may be a tradeoff between the enjoyment of food and the pursuit of optimal nutrition. 
+Nutrition is a discipline that deals with the intake of nutrients, which are substances that provide energy and promote growth and repair in the body. The underlying goal of nutrition is to promote health and prevent disease. 
+In essence, nutrition is about finding a balance between the nutrients we eat and the health benefits we seek. While certain foods may be high in nutritional value, they may not be as appealing to our taste buds. On the other hand, some foods may be very tasty, but they may not provide the necessary nutrients for optimal health.  (200 words) 
+
+Note:",12.2,48.23,14.3,14.6,13.37,12.25,5.88,17.75
+Few-Shot,nutrition,College,200,meta-llama/Llama-3.1-8B-Instruct,"Example 1:
+Protective tariffs are tariffs that are enacted with the aim of protecting a domestic industry. Tariffs are also imposed in order to raise government revenue, or to reduce an undesirable activity (sin tax). Although a tariff can simultaneously protect domestic industry and earn government revenue, the goals of protection and revenue maximization suggest different tariff rates, entailing a tradeoff between the two aims. 
+A tariff is a tax added onto goods imported into a country; protective tariffs are taxes that render the cost of a foreign import higher than the cost of the initially costlier domestic good. For example, if a piece of cloth cost $4 in Britain and $4 in the United States, the American government would have to impose a tariff to make the price of British cloth higher for Americans. The underlying goal for a protective tariff is to protect domestic industry from foreign competition.
+
+Example 2:
+Armed neutrality, in international politics, is the posture of a state or group of states which makes no alliance with either side in a war, but asserts that it will defend itself against resulting incursions from all parties. This may include:
+Military preparedness without commitment, especially as the expressed policy of a neutral nation in wartime; readiness to counter with force an invasion of rights by any belligerent power.
+Armed neutrality is a term used in international politics, which is the attitude of a state or group of states which makes no alliance with either side in a war. It is the condition of a neutral power, at war, which holds itself ready to resist by force any aggression of either belligerent. Such states assert that they will defend themselves against resulting incursions from all parties.
+Neutrality maintained while weapons are kept available.
+Armed Neutrality: A seemingly neutral state takes up arms for protection to maintain its neutrality
+
+Using vocabulary and structure from examples, write a short paragraph about 'nutrition' targeting the same readability level (College), limited to 200 words.",,"Example 1:
+Protective tariffs are tariffs that are enacted with the aim of protecting a domestic industry. Tariffs are also imposed in order to raise government revenue, or to reduce an undesirable activity (sin tax). Although a tariff can simultaneously protect domestic industry and earn government revenue, the goals of protection and revenue maximization suggest different tariff rates, entailing a tradeoff between the two aims. 
+A tariff is a tax added onto goods imported into a country; protective tariffs are taxes that render the cost of a foreign import higher than the cost of the initially costlier domestic good. For example, if a piece of cloth cost $4 in Britain and $4 in the United States, the American government would have to impose a tariff to make the price of British cloth higher for Americans. The underlying goal for a protective tariff is to protect domestic industry from foreign competition.
+
+Example 2:
+Armed neutrality, in international politics, is the posture of a state or group of states which makes no alliance with either side in a war, but asserts that it will defend itself against resulting incursions from all parties. This may include:
+Military preparedness without commitment, especially as the expressed policy of a neutral nation in wartime; readiness to counter with force an invasion of rights by any belligerent power.
+Armed neutrality is a term used in international politics, which is the attitude of a state or group of states which makes no alliance with either side in a war. It is the condition of a neutral power, at war, which holds itself ready to resist by force any aggression of either belligerent. Such states assert that they will defend themselves against resulting incursions from all parties.
+Neutrality maintained while weapons are kept available.
+Armed Neutrality: A seemingly neutral state takes up arms for protection to maintain its neutrality
+
+Using vocabulary and structure from examples, write a short paragraph about 'nutrition' targeting the same readability level (College), limited to 200 words.  Nutritional goals are entailing a tradeoff between competing interests, such as maximizing caloric intake and maintaining a healthy diet. For example, if a person is trying to gain muscle mass, they must consume a diet rich in protein, but this can lead to a higher caloric intake, which may contribute to weight gain. The underlying goal for nutrition is to consume a balanced diet that provides the body with the necessary nutrients to function properly. However, the pursuit of nutrition goals suggests different dietary approaches, entailing a tradeoff between the aims of health and caloric intake. A balanced diet is a tax added onto the body; nutritional goals are taxes that render the cost of unhealthy eating higher for the body. The underlying goal for nutrition is to protect the body from the negative effects of poor eating habits. Armed neutrality, in nutrition, is the posture of a person who maintains a balanced diet by avoiding extreme eating habits. This may include preparedness to counter with healthy eating any unhealthy dietary choices.",12.7,47.12,15.1,14.8,13.65,12.6,6.0,17.75
+Few-Shot,nutrition,College,200,meta-llama/Llama-3.1-8B-Instruct,"Example 1:
+Protective tariffs are tariffs that are enacted with the aim of protecting a domestic industry. Tariffs are also imposed in order to raise government revenue, or to reduce an undesirable activity (sin tax). Although a tariff can simultaneously protect domestic industry and earn government revenue, the goals of protection and revenue maximization suggest different tariff rates, entailing a tradeoff between the two aims. 
+A tariff is a tax added onto goods imported into a country; protective tariffs are taxes that render the cost of a foreign import higher than the cost of the initially costlier domestic good. For example, if a piece of cloth cost $4 in Britain and $4 in the United States, the American government would have to impose a tariff to make the price of British cloth higher for Americans. The underlying goal for a protective tariff is to protect domestic industry from foreign competition.
+
+Example 2:
+Armed neutrality, in international politics, is the posture of a state or group of states which makes no alliance with either side in a war, but asserts that it will defend itself against resulting incursions from all parties. This may include:
+Military preparedness without commitment, especially as the expressed policy of a neutral nation in wartime; readiness to counter with force an invasion of rights by any belligerent power.
+Armed neutrality is a term used in international politics, which is the attitude of a state or group of states which makes no alliance with either side in a war. It is the condition of a neutral power, at war, which holds itself ready to resist by force any aggression of either belligerent. Such states assert that they will defend themselves against resulting incursions from all parties.
+Neutrality maintained while weapons are kept available.
+Armed Neutrality: A seemingly neutral state takes up arms for protection to maintain its neutrality
+
+Using vocabulary and structure from examples, write a short paragraph about 'nutrition' targeting the same readability level (College), limited to 200 words.",,"Example 1:
+Protective tariffs are tariffs that are enacted with the aim of protecting a domestic industry. Tariffs are also imposed in order to raise government revenue, or to reduce an undesirable activity (sin tax). Although a tariff can simultaneously protect domestic industry and earn government revenue, the goals of protection and revenue maximization suggest different tariff rates, entailing a tradeoff between the two aims. 
+A tariff is a tax added onto goods imported into a country; protective tariffs are taxes that render the cost of a foreign import higher than the cost of the initially costlier domestic good. For example, if a piece of cloth cost $4 in Britain and $4 in the United States, the American government would have to impose a tariff to make the price of British cloth higher for Americans. The underlying goal for a protective tariff is to protect domestic industry from foreign competition.
+
+Example 2:
+Armed neutrality, in international politics, is the posture of a state or group of states which makes no alliance with either side in a war, but asserts that it will defend itself against resulting incursions from all parties. This may include:
+Military preparedness without commitment, especially as the expressed policy of a neutral nation in wartime; readiness to counter with force an invasion of rights by any belligerent power.
+Armed neutrality is a term used in international politics, which is the attitude of a state or group of states which makes no alliance with either side in a war. It is the condition of a neutral power, at war, which holds itself ready to resist by force any aggression of either belligerent. Such states assert that they will defend themselves against resulting incursions from all parties.
+Neutrality maintained while weapons are kept available.
+Armed Neutrality: A seemingly neutral state takes up arms for protection to maintain its neutrality
+
+Using vocabulary and structure from examples, write a short paragraph about 'nutrition' targeting the same readability level (College), limited to 200 words. 
+
+Example Paragraph:
+
+A nutritional tax is a tax on certain foods and beverages that are deemed unhealthy by the government. The goal of a nutritional tax is to encourage consumers to make healthier choices by increasing the price of unhealthy foods. The tax is typically levied on products high in sugar, salt, and saturated fats. The revenue generated from the tax is often used to fund public health programs or to support research on nutrition and disease prevention. A nutritional tax is a type of sin tax, which aims to discourage undesirable behaviors by making them more expensive. The tax is designed to create a trade-off between the desire for unhealthy foods and the desire to save money. In essence, the tax encourages consumers to choose healthier options by making them more affordable. The nutritional tax is a policy tool used by governments to promote public health and well-being. 
+
+The above paragraph has been written using vocabulary and structure from examples 1 and 2, and is limited to 200 words. It targets the same readability level as",11.9,49.04,13.9,14.6,13.16,11.89,5.68,17.75
+Few-Shot,nutrition,College,200,meta-llama/Llama-3.1-8B-Instruct,"Example 1:
+Protective tariffs are tariffs that are enacted with the aim of protecting a domestic industry. Tariffs are also imposed in order to raise government revenue, or to reduce an undesirable activity (sin tax). Although a tariff can simultaneously protect domestic industry and earn government revenue, the goals of protection and revenue maximization suggest different tariff rates, entailing a tradeoff between the two aims. 
+A tariff is a tax added onto goods imported into a country; protective tariffs are taxes that render the cost of a foreign import higher than the cost of the initially costlier domestic good. For example, if a piece of cloth cost $4 in Britain and $4 in the United States, the American government would have to impose a tariff to make the price of British cloth higher for Americans. The underlying goal for a protective tariff is to protect domestic industry from foreign competition.
+
+Example 2:
+Armed neutrality, in international politics, is the posture of a state or group of states which makes no alliance with either side in a war, but asserts that it will defend itself against resulting incursions from all parties. This may include:
+Military preparedness without commitment, especially as the expressed policy of a neutral nation in wartime; readiness to counter with force an invasion of rights by any belligerent power.
+Armed neutrality is a term used in international politics, which is the attitude of a state or group of states which makes no alliance with either side in a war. It is the condition of a neutral power, at war, which holds itself ready to resist by force any aggression of either belligerent. Such states assert that they will defend themselves against resulting incursions from all parties.
+Neutrality maintained while weapons are kept available.
+Armed Neutrality: A seemingly neutral state takes up arms for protection to maintain its neutrality
+
+Using vocabulary and structure from examples, write a short paragraph about 'nutrition' targeting the same readability level (College), limited to 200 words.",,"Example 1:
+Protective tariffs are tariffs that are enacted with the aim of protecting a domestic industry. Tariffs are also imposed in order to raise government revenue, or to reduce an undesirable activity (sin tax). Although a tariff can simultaneously protect domestic industry and earn government revenue, the goals of protection and revenue maximization suggest different tariff rates, entailing a tradeoff between the two aims. 
+A tariff is a tax added onto goods imported into a country; protective tariffs are taxes that render the cost of a foreign import higher than the cost of the initially costlier domestic good. For example, if a piece of cloth cost $4 in Britain and $4 in the United States, the American government would have to impose a tariff to make the price of British cloth higher for Americans. The underlying goal for a protective tariff is to protect domestic industry from foreign competition.
+
+Example 2:
+Armed neutrality, in international politics, is the posture of a state or group of states which makes no alliance with either side in a war, but asserts that it will defend itself against resulting incursions from all parties. This may include:
+Military preparedness without commitment, especially as the expressed policy of a neutral nation in wartime; readiness to counter with force an invasion of rights by any belligerent power.
+Armed neutrality is a term used in international politics, which is the attitude of a state or group of states which makes no alliance with either side in a war. It is the condition of a neutral power, at war, which holds itself ready to resist by force any aggression of either belligerent. Such states assert that they will defend themselves against resulting incursions from all parties.
+Neutrality maintained while weapons are kept available.
+Armed Neutrality: A seemingly neutral state takes up arms for protection to maintain its neutrality
+
+Using vocabulary and structure from examples, write a short paragraph about 'nutrition' targeting the same readability level (College), limited to 200 words. 
+
+Nutritional sufficiency, or the adequate consumption of nutrients for optimal health, is a fundamental goal of nutritional science. Adequate nutrition is often achieved through a balanced diet that includes a variety of foods, such as fruits, vegetables, whole grains, and lean proteins. The underlying goal of nutritional science is to protect human health and well-being. However, the goals of nutritional sufficiency and health maximization suggest different nutritional strategies, entailing a tradeoff between the two aims. For example, if a person requires a certain amount of calories to maintain their weight, a high-calorie diet may be necessary, but this may also lead to an excessive intake of fat. The tradeoff between nutritional sufficiency and health maximization is a common challenge in nutritional science. As a result, a balanced diet that is tailored to an individual's specific needs is essential for achieving optimal health. Armed with knowledge of nutritional science, individuals can make informed choices to protect their health and well-being.  |
+
+In this",13.6,39.16,15.7,15.6,13.86,13.47,6.03,17.75
+Few-Shot,nutrition,College,200,meta-llama/Llama-3.1-8B-Instruct,"Example 1:
+Protective tariffs are tariffs that are enacted with the aim of protecting a domestic industry. Tariffs are also imposed in order to raise government revenue, or to reduce an undesirable activity (sin tax). Although a tariff can simultaneously protect domestic industry and earn government revenue, the goals of protection and revenue maximization suggest different tariff rates, entailing a tradeoff between the two aims. 
+A tariff is a tax added onto goods imported into a country; protective tariffs are taxes that render the cost of a foreign import higher than the cost of the initially costlier domestic good. For example, if a piece of cloth cost $4 in Britain and $4 in the United States, the American government would have to impose a tariff to make the price of British cloth higher for Americans. The underlying goal for a protective tariff is to protect domestic industry from foreign competition.
+
+Example 2:
+Armed neutrality, in international politics, is the posture of a state or group of states which makes no alliance with either side in a war, but asserts that it will defend itself against resulting incursions from all parties. This may include:
+Military preparedness without commitment, especially as the expressed policy of a neutral nation in wartime; readiness to counter with force an invasion of rights by any belligerent power.
+Armed neutrality is a term used in international politics, which is the attitude of a state or group of states which makes no alliance with either side in a war. It is the condition of a neutral power, at war, which holds itself ready to resist by force any aggression of either belligerent. Such states assert that they will defend themselves against resulting incursions from all parties.
+Neutrality maintained while weapons are kept available.
+Armed Neutrality: A seemingly neutral state takes up arms for protection to maintain its neutrality
+
+Using vocabulary and structure from examples, write a short paragraph about 'nutrition' targeting the same readability level (College), limited to 200 words.",,"Example 1:
+Protective tariffs are tariffs that are enacted with the aim of protecting a domestic industry. Tariffs are also imposed in order to raise government revenue, or to reduce an undesirable activity (sin tax). Although a tariff can simultaneously protect domestic industry and earn government revenue, the goals of protection and revenue maximization suggest different tariff rates, entailing a tradeoff between the two aims. 
+A tariff is a tax added onto goods imported into a country; protective tariffs are taxes that render the cost of a foreign import higher than the cost of the initially costlier domestic good. For example, if a piece of cloth cost $4 in Britain and $4 in the United States, the American government would have to impose a tariff to make the price of British cloth higher for Americans. The underlying goal for a protective tariff is to protect domestic industry from foreign competition.
+
+Example 2:
+Armed neutrality, in international politics, is the posture of a state or group of states which makes no alliance with either side in a war, but asserts that it will defend itself against resulting incursions from all parties. This may include:
+Military preparedness without commitment, especially as the expressed policy of a neutral nation in wartime; readiness to counter with force an invasion of rights by any belligerent power.
+Armed neutrality is a term used in international politics, which is the attitude of a state or group of states which makes no alliance with either side in a war. It is the condition of a neutral power, at war, which holds itself ready to resist by force any aggression of either belligerent. Such states assert that they will defend themselves against resulting incursions from all parties.
+Neutrality maintained while weapons are kept available.
+Armed Neutrality: A seemingly neutral state takes up arms for protection to maintain its neutrality
+
+Using vocabulary and structure from examples, write a short paragraph about 'nutrition' targeting the same readability level (College), limited to 200 words. 
+
+Nutrition is a balance of nutrients taken in from foods consumed and used by the body to sustain life. This delicate balance is often disrupted by consuming excessive amounts of certain nutrients, which can lead to conditions such as obesity and diabetes. Nutrition is also impacted by eating patterns, such as overeating or skipping meals. An ideal diet is one that meets the body's requirements for nutrients while minimizing the intake of excessive calories and sugars.
+
+The goal of a balanced diet is to provide the body with the necessary nutrients to maintain optimal health. Nutritional deficiencies can have a significant impact on a person's overall well-being, leading to conditions such as anemia and fatigue. A well-planned diet can help prevent these conditions and promote overall health.
+
+In terms of nutritional goals, there is often a tradeoff between achieving a balanced diet and enjoying certain foods. For example, while a diet rich in fruits and vegetables is essential for optimal health, it may not be as enjoyable as consuming high-calorie foods. This",12.2,48.23,14.7,15.1,13.92,12.71,6.07,17.75

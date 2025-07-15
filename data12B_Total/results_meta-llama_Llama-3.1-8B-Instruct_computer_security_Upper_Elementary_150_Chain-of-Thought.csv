@@ -1,0 +1,106 @@
+Technique,Topic,Target Level,Output Length,Model,Prompt,Rewrite Prompt,Text,Flesch-Kincaid,Flesch Ease,ARI,SMOG,Gunning Fog,Coleman-Liau,Spache,Linsear Write
+Chain-of-Thought,computer security,Upper Elementary,150,meta-llama/Llama-3.1-8B-Instruct,"Step 1: Think about how to explain 'computer security' to someone reading at the Upper Elementary level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 150 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the Upper Elementary level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 150 words that follows your plan. Be sure to include at least one analogy.
+Imagine you have a secret box where you keep all your most precious things, like your favorite toys or your family photos. To keep them safe, you lock the box with a combination lock. This is kind of like what computer security is. It's like locking a virtual box to keep your computer safe from bad people who might want to steal your information or damage your computer. Computer security helps keep your computer and the information on it safe from people who might want to hurt it. Just like you would use a strong combination lock on your secret box, computer security uses special codes and passwords to protect your computer. It also uses special software to watch out for any bad people who might try to get into your computer. This way, you can feel safe knowing that your computer and your information are protected.
+
+Step 4: Read your paragraph out loud to ensure it sounds natural and clear.
+Reads as clear and natural, but could use some slight adjustments for",8.2,64.1,8.5,11.4,8.81,9.05,4.14,6.75
+Chain-of-Thought,computer security,Upper Elementary,150,meta-llama/Llama-3.1-8B-Instruct,"Step 1: Think about how to explain 'computer security' to someone reading at the Upper Elementary level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 150 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the Upper Elementary level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 150 words that follows your plan. Here it is:
+Computer security is like locking your house. Imagine you have a computer in your room and you want to keep your stuff safe. If you leave your door open, anyone can walk in and take your toys or your computer. That's what hackers do - they try to find ways to get into other people's computers without permission. Just like you lock your door to keep your toys safe, we have special ways to lock our computers. We use passwords and special codes to keep our computers safe. It's like a secret code that only you know. If someone tries to guess the code, they will fail because it's too hard. So, we need to be careful and keep our passwords secret. If we don't, someone might be able to get into our computer and see our pictures or our games.
+Step 4: Read your paragraph and see if it makes sense.
+Step 5: Make any necessary changes to your paragraph. Here is the revised paragraph:
+Computer security is",6.0,75.2,6.3,9.0,7.12,7.0,3.54,7.7142857142857135
+Chain-of-Thought,computer security,Upper Elementary,150,meta-llama/Llama-3.1-8B-Instruct,"Step 1: Think about how to explain 'computer security' to someone reading at the Upper Elementary level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 150 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the Upper Elementary level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 150 words that follows your plan. Use proper grammar, spelling, and punctuation.
+Step 4: Review your paragraph for completeness and clarity.
+Computer security is like keeping your house safe. Just as you lock your doors and windows to protect your home and belongings, computers need protection from bad people who want to harm them. These bad people, called hackers, try to get into computers to steal information or cause trouble. To keep computers safe, people use special tools like passwords and firewalls. A password is like a secret code that only you know, and it helps keep your computer locked so that only you can get in. A firewall is like a strong wall that keeps hackers out of your computer. It helps keep your computer safe from bad people who try to get in. By using passwords and firewalls, you can help keep your computer safe and protect your personal information.
+Step 5: Consider revising your paragraph to make it even clearer and more engaging.
+Revised paragraph:
+Imagine your house is like a computer. Just as",7.5,65.83,8.7,10.7,9.02,9.79,4.2,7.125
+Chain-of-Thought,computer security,Upper Elementary,150,meta-llama/Llama-3.1-8B-Instruct,"Step 1: Think about how to explain 'computer security' to someone reading at the Upper Elementary level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 150 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the Upper Elementary level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 150 words that follows your plan. Make sure it's accurate and easy to understand.
+Imagine someone wanted to steal your lunch from your backpack. They might try to pick your lock or sneak a peek when you're not looking. But what if your backpack had a secret code that only you knew? You could lock it with a special key, and only you would have it. That's kind of like what computer security does. It's a way to keep your computer and the information on it safe from people who might want to hurt it or steal it. Just like your backpack, computers have passwords and locks to keep things safe. But instead of a key, you use a password or a special code to get in. Computer security is like having a super-powerful, magic lock that keeps your computer and its secrets safe. It helps keep your information private and protects you from people who might want to cause harm.
+Step 4: Read your paragraph out loud to make sure it sounds natural and easy to understand.
+Step 5:",6.4,74.08,6.9,9.6,7.73,7.53,3.84,5.333333333333333
+Chain-of-Thought,computer security,Upper Elementary,150,meta-llama/Llama-3.1-8B-Instruct,"Step 1: Think about how to explain 'computer security' to someone reading at the Upper Elementary level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 150 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the Upper Elementary level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 150 words that follows your plan. 
+Here is a paragraph about computer security for an Upper Elementary reader: 
+Imagine you have a secret box where you keep your favorite toys. You lock the box when you're not looking at it so that no one else can get in and take your toys. Computer security is like locking the box. It helps keep your computer and the information on it safe from people who might want to harm it. Just like you wouldn't want someone to take your toys, you wouldn't want someone to take your computer files or hack into your email. Computer security has many different kinds of locks, like passwords and firewalls, that help keep your computer safe. When you use a password to log in, it's like putting a lock on your secret box. And when you turn on a firewall, it's like putting a guard in front of your box to keep anyone from getting in without permission. This helps keep your computer and the information on it safe and secure. 
+Step 4: Read your paragraph",7.2,71.95,8.2,10.2,8.19,8.12,3.94,7.857142857142858
+Chain-of-Thought,computer security,Upper Elementary,150,meta-llama/Llama-3.1-8B-Instruct,"Step 1: Think about how to explain 'computer security' to someone reading at the Upper Elementary level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 150 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the Upper Elementary level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 150 words that follows your plan. 
+
+Here's my first draft:
+
+""Imagine you're at a library, and you want to check out a really cool book. But, you don't want anyone else to read it until you're done. That's kind of like what computer security does. It helps keep the information on your computer safe from people who shouldn't see it. Just like how the library locks the bookshelves at night, computer security locks down your computer so only you can access it. It's like having a secret password or a special lock that only you know. That way, even if someone tries to break in, they won't be able to read your private information. Computer security is like having a guardian for your computer, keeping it safe from bad guys who want to cause trouble.""
+
+Step 4: Revise your paragraph to make sure it's 150 words.
+
+Here's my revised paragraph:
+
+""Imagine you're at a library, and you want to check out a really cool book. But,",6.9,72.97,8.1,9.9,7.7,7.88,3.85,6.5
+Chain-of-Thought,computer security,Upper Elementary,150,meta-llama/Llama-3.1-8B-Instruct,"Step 1: Think about how to explain 'computer security' to someone reading at the Upper Elementary level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 150 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the Upper Elementary level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 150 words that follows your plan. Make sure the computer security is explained in a way that is both clear and interesting for an Upper Elementary level reader.
+
+## Step 1: Think about how to explain 'computer security' to someone reading at the Upper Elementary level.
+To explain 'computer security' to someone reading at the Upper Elementary level, I need to use simple vocabulary and concepts that they can understand. I can compare it to a lock on a door or a safe. Just like how we lock our doors and safes to keep our belongings safe, computer security is like a lock for our computers and the information on them. It helps keep our personal data, like passwords and pictures, safe from people who might try to access them without permission.
+
+## Step 2: Select appropriate vocabulary and sentence structure.
+I will use vocabulary like ""lock,"" ""safe,"" ""belongings,"" and ""permission"" which are familiar to Upper Elementary readers. I will also use short sentences to make it easy to understand. Here's an example",9.3,55.74,9.8,12.2,8.97,10.15,4.09,11.0
+Chain-of-Thought,computer security,Upper Elementary,150,meta-llama/Llama-3.1-8B-Instruct,"Step 1: Think about how to explain 'computer security' to someone reading at the Upper Elementary level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 150 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the Upper Elementary level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 150 words that follows your plan. 
+
+Here is a paragraph that explains computer security at an upper elementary level:
+
+Imagine you have a secret box where you keep all your most precious things. Just like how you want to keep your toys and treasures safe, computers also need a way to keep their information safe. This is called computer security. It's like putting a lock on your box to keep it from being opened by someone who shouldn't be there. Computer security is a set of rules and tools that help keep a computer and its information safe from people who might want to hurt it or take its information. Just like how you might use a combination lock or a password to keep your box safe, computers use passwords and firewalls to keep their information safe. This way, only the people who are supposed to have access to the computer can get in and use it.
+
+Here is the rewritten text:
+
+Imagine your computer is like a secret box where you keep your most precious things. Just like how you want to keep your toys and treasures safe",8.1,69.82,9.3,10.9,9.14,8.65,4.32,7.857142857142858
+Chain-of-Thought,computer security,Upper Elementary,150,meta-llama/Llama-3.1-8B-Instruct,"Step 1: Think about how to explain 'computer security' to someone reading at the Upper Elementary level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 150 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the Upper Elementary level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 150 words that follows your plan. 
+
+## Step 1: Think about how to explain 'computer security' to someone reading at the Upper Elementary level.
+To explain 'computer security' to someone reading at the Upper Elementary level, I would need to use simple vocabulary and concepts that they can easily understand. I would explain that computer security is like protecting your house from bad people who might try to break in. Just like how you lock your door and keep valuables safe, computers have security measures to keep them safe from hackers who might try to get into them and steal information.
+
+## Step 2: Select appropriate vocabulary and sentence structure.
+To make the explanation clear and easy to understand, I would use simple vocabulary such as ""hackers"" instead of ""cyber attackers"" and ""password"" instead of ""authentication credentials"". I would also use short sentences and concepts that Upper Elementary readers can relate to, such as ""lock your door"" and ""keep valuables safe"".
+
+## Step 3: Write a paragraph of 150",10.3,53.31,12.0,12.4,10.21,11.19,4.54,11.166666666666666
+Chain-of-Thought,computer security,Upper Elementary,150,meta-llama/Llama-3.1-8B-Instruct,"Step 1: Think about how to explain 'computer security' to someone reading at the Upper Elementary level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 150 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the Upper Elementary level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 150 words that follows your plan. Here is my attempt:
+Imagine you have a secret box where you keep your most precious treasures. You want to make sure that only you and people you trust can open the box and get the treasures out. That's kind of like what computer security is. It's like putting a lock on your box to keep bad people from getting in and stealing your information. Computers are like boxes that hold information, like your name, address, and favorite games. Just like how you want to keep your treasures safe, computer security helps keep the information on computers safe from people who might want to harm you or use your information for bad things. Just like how you would use a key to unlock your box, computers use special codes to unlock them, and computer security helps make sure those codes are safe.
+Step 4: Review and revise your paragraph as needed.
+Step 5: Check your paragraph for completeness, clarity, and concision.
+My paragraph does a good job of explaining computer security in a way that",7.3,71.85,9.1,10.9,8.97,9.16,4.15,7.142857142857142

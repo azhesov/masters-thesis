@@ -1,0 +1,113 @@
+Technique,Topic,Target Level,Output Length,Model,Prompt,Rewrite Prompt,Text,Flesch-Kincaid,Flesch Ease,ARI,SMOG,Gunning Fog,Coleman-Liau,Spache,Linsear Write
+Chain-of-Thought,astronomy,Upper Elementary,100,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'astronomy' to someone reading at the Upper Elementary level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 100 words that follows your plan.",,"Step 1: Think about how to explain 'astronomy' to someone reading at the Upper Elementary level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 100 words that follows your plan. (If you're unsure, try drafting the paragraph first and then counting the words. Otherwise, you can set your word processor to count the words as you write.)
+Step 4: Review your work. Make sure you've stayed within the word limit and that your sentences are clear and correct.
+Step 5: If you're happy with your work, you're done. If not, revise and improve it. Keep checking the word count as you make changes.
+Step 6: Repeat the process until you're satisfied with your work.
+
+Here's a sample paragraph that explains 'astronomy' at the Upper Elementary level:
+
+""Have you ever looked up at the night sky and wondered about the stars, planets, and galaxies? Astronomy is the science that studies these celestial objects. It's like being a detective, solving mysteries about the universe. Astronomers use powerful telescopes to see far-off objects, and they use math to understand how they move and behave. They also make predictions",6.8,67.86,8.2,9.0,7.27,9.67,4.05,5.222222222222222
+Chain-of-Thought,astronomy,Upper Elementary,100,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'astronomy' to someone reading at the Upper Elementary level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 100 words that follows your plan.",,"Step 1: Think about how to explain 'astronomy' to someone reading at the Upper Elementary level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 100 words that follows your plan. (Do not use the word 'astronomy' in your paragraph.)
+
+Looking up at the night sky, we see a vast canvas painted with countless twinkling dots. These are stars, just like our Sun, but much farther away. They are part of galaxies, huge collections of stars, gas, and dark matter. Some galaxies are spiral-shaped, like whirlpools in space. Others are elliptical, stretched out like ovals. Scientists study these stars and galaxies to learn about the universe. They use powerful telescopes, even ones that fly high above Earth. This helps us understand how the universe began and how it changes over time.",5.3,76.93,8.0,9.3,6.87,9.49,3.7,5.666666666666667
+Chain-of-Thought,astronomy,Upper Elementary,100,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'astronomy' to someone reading at the Upper Elementary level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 100 words that follows your plan.",,"Step 1: Think about how to explain 'astronomy' to someone reading at the Upper Elementary level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 100 words that follows your plan. Use the word bank provided.
+
+Astronomy is the science of learning about the universe. This includes stars, planets, and other celestial bodies. An astronomer is someone who studies these objects. They observe the sky using powerful telescopes. Astronomy helps us understand the vastness of space. It also helps us learn about our place in the universe. We can look back in time by observing distant galaxies. This helps us learn about the history of the universe. Astronomy is a fascinating field. It inspires us to explore the unknown. It also helps us appreciate the beauty of the night sky.
+
+Word Bank:
+- universe
+- celestial bodies
+- astronomy
+- astronomer
+- observe
+- telescope
+- vastness
+- space
+- inspire
+- appreciate",6.9,62.04,8.3,9.4,6.69,10.47,3.94,4.545454545454546
+Chain-of-Thought,astronomy,Upper Elementary,100,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'astronomy' to someone reading at the Upper Elementary level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 100 words that follows your plan.",,"Step 1: Think about how to explain 'astronomy' to someone reading at the Upper Elementary level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 100 words that follows your plan. Be sure to use the vocabulary you chose.
+Step 4: Read your paragraph aloud to check for appropriate reading level and make revisions if necessary.
+
+**Vocabulary:**
+- Look (verb)
+- Sky (noun)
+- Stars (noun)
+- Telescope (noun)
+- Moon (noun)
+- Earth (noun)
+- Mysterious (adjective)
+- Fascinating (adjective)
+- Galaxy (noun)
+- Universe (noun)
+
+**Paragraph:**
+
+""Have you ever looked up at the sky and wondered about the stars? Astronomy is the study of the mysterious and fascinating things in space. Using a telescope, scientists can see far away galaxies and even the moon that circles our Earth. Isn't it amazing to think about the vast universe out there, waiting to be explored?""",8.2,64.1,11.5,11.2,9.67,10.96,4.51,10.5
+Chain-of-Thought,astronomy,Upper Elementary,100,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'astronomy' to someone reading at the Upper Elementary level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 100 words that follows your plan.",,"Step 1: Think about how to explain 'astronomy' to someone reading at the Upper Elementary level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 100 words that follows your plan. Be sure to include some facts and to use transitions.
+Step 4: Review your work, and revise it as needed.
+
+Step 1: Explain 'astronomy' to someone reading at the Upper Elementary level.
+- Astronomy is the science of studying celestial objects and phenomena that originate outside the Earth's atmosphere.
+
+Step 2: Select appropriate vocabulary and sentence structure.
+- Use simple, clear language.
+- Avoid technical terms.
+- Use transition words to connect ideas.
+
+Step 3: Write a paragraph of 100 words that follows your plan.
+Astronomy is like exploring the universe. It's the science of studying objects and events in space, beyond our Earth's atmosphere. Astronomy helps us learn about stars, planets, and galaxies. Scientists called astronomers use powerful telescopes to see these things. They also study how objects move and change in the sky. This helps us understand the universe better. Astronomy is fascinating because it helps us answer big questions about space",7.1,61.53,8.8,9.8,7.36,11.17,3.65,6.111111111111111
+Chain-of-Thought,astronomy,Upper Elementary,100,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'astronomy' to someone reading at the Upper Elementary level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 100 words that follows your plan.",,"Step 1: Think about how to explain 'astronomy' to someone reading at the Upper Elementary level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 100 words that follows your plan. (Remember that you need to have a topic sentence, supporting details, and a closing sentence.)
+Step 4: Read your paragraph out loud to check for accuracy and flow.
+Step 5: Revise your paragraph if necessary.
+
+**Paragraph:**
+
+Astronomy is the study of space and everything in it. Imagine looking up at the night sky, seeing stars, planets, and even galaxies far away. Astronomy helps us understand these objects and their movements. It uses special tools like telescopes and satellites to look at things we can't see with just our eyes. Astronomers are the scientists who do this work, helping us learn more about the universe every day.",7.1,66.84,8.8,9.6,7.98,9.73,4.42,5.888888888888889
+Chain-of-Thought,astronomy,Upper Elementary,100,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'astronomy' to someone reading at the Upper Elementary level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 100 words that follows your plan.",,"Step 1: Think about how to explain 'astronomy' to someone reading at the Upper Elementary level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 100 words that follows your plan.",8.0,59.3,8.9,9.7,9.24,10.48,4.2,6.333333333333333
+Chain-of-Thought,astronomy,Upper Elementary,100,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'astronomy' to someone reading at the Upper Elementary level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 100 words that follows your plan.",,"Step 1: Think about how to explain 'astronomy' to someone reading at the Upper Elementary level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 100 words that follows your plan. Be sure to use your chosen vocabulary and sentence structure.
+
+Astronomy is the study of everything in the sky. This includes stars, planets, and other celestial bodies. It's like exploring the universe! Scientists called astronomers look through big telescopes to learn about these objects. They use math to understand their movements. Astronomy helps us know more about our home, Earth. It's exciting to learn about space!",5.7,70.5,8.3,9.3,6.86,10.7,3.66,4.7272727272727275
+Chain-of-Thought,astronomy,Upper Elementary,100,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'astronomy' to someone reading at the Upper Elementary level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 100 words that follows your plan.",,"Step 1: Think about how to explain 'astronomy' to someone reading at the Upper Elementary level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 100 words that follows your plan.",8.0,59.3,8.9,9.7,9.24,10.48,4.2,6.333333333333333
+Chain-of-Thought,astronomy,Upper Elementary,100,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'astronomy' to someone reading at the Upper Elementary level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 100 words that follows your plan.",,"Step 1: Think about how to explain 'astronomy' to someone reading at the Upper Elementary level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 100 words that follows your plan. Use the first person perspective to make it engaging.
+
+Astronomy is like being a detective in space. When I look up at the night sky, I see millions of stars, each one a sun to another planet. Some are big and bright, like the North Star that helps sailors navigate. Others are small and dim, hiding their secrets. As an astronomer, I use powerful telescopes to see these stars clearly and learn their stories. I study their colors, sizes, and how they move. Sometimes, I even discover new stars! It's like reading a mystery book written in the language of light.",5.4,76.82,6.6,8.8,7.19,7.87,3.83,5.777777777777778

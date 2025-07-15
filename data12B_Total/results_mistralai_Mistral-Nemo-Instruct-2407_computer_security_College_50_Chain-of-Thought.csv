@@ -1,0 +1,63 @@
+Technique,Topic,Target Level,Output Length,Model,Prompt,Rewrite Prompt,Text,Flesch-Kincaid,Flesch Ease,ARI,SMOG,Gunning Fog,Coleman-Liau,Spache,Linsear Write
+Chain-of-Thought,computer security,College,50,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'computer security' to someone reading at the College level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 50 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the College level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 50 words that follows your plan.",8.0,59.3,8.6,9.7,9.24,10.19,4.2,6.333333333333333
+Chain-of-Thought,computer security,College,50,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'computer security' to someone reading at the College level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 50 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the College level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 50 words that follows your plan.",8.0,59.3,8.6,9.7,9.24,10.19,4.2,6.333333333333333
+Chain-of-Thought,computer security,College,50,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'computer security' to someone reading at the College level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 50 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the College level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 50 words that follows your plan. (Do not include the words'security' or 'computer'.)
+
+""Imagine protecting your digital fortress, where data is your treasure. Cyber threats, like hackers and viruses, are constant invaders. To defend, employ robust passwords, keep software updated, and use secure networks. Your digital safety depends on your vigilance.""",8.4,52.76,10.3,9.8,8.98,12.15,5.24,5.4375
+Chain-of-Thought,computer security,College,50,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'computer security' to someone reading at the College level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 50 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the College level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 50 words that follows your plan. (Note: The last sentence must be an imperative.)
+
+Computer security, in essence, is the safeguarding of data and systems from malicious actors. It encompasses both preventive measures, such as firewalls and encryption, and responsive strategies like incident management and recovery plans. Understanding this field requires familiarity with terms like'malware', 'phishing', and 'cyber attack'. Ultimately, it's crucial to stay informed and vigilant to protect against evolving threats. **Therefore, always keep your software up-to-date.**",10.3,42.38,12.9,12.1,12.58,14.72,5.64,7.875
+Chain-of-Thought,computer security,College,50,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'computer security' to someone reading at the College level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 50 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the College level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 50 words that follows your plan.",8.0,59.3,8.6,9.7,9.24,10.19,4.2,6.333333333333333
+Chain-of-Thought,computer security,College,50,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'computer security' to someone reading at the College level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 50 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the College level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 50 words that follows your plan.",8.0,59.3,8.6,9.7,9.24,10.19,4.2,6.333333333333333
+Chain-of-Thought,computer security,College,50,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'computer security' to someone reading at the College level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 50 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the College level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 50 words that follows your plan. Use the word ""vulnerability"" at least once.
+Step 4: Check your work for clarity, conciseness, and correct usage of the word ""vulnerability"".
+Step 5: If necessary, revise your paragraph to meet the requirements.
+
+**Paragraph:**
+
+""Computer security, a critical aspect of modern digital life, entails safeguarding data and systems from unauthorized access, damage, or disruption. This involves identifying and mitigating 'vulnerabilities'—weaknesses in software, hardware, or user practices that hackers exploit. By implementing robust security measures, such as strong passwords, firewalls, and regular software updates, we can significantly reduce these vulnerabilities, thus protecting our digital assets.""",12.4,31.48,14.6,13.0,13.45,15.65,6.12,7.75
+Chain-of-Thought,computer security,College,50,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'computer security' to someone reading at the College level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 50 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the College level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 50 words that follows your plan. Here's a possible solution:
+
+Computer security, at the college level, involves protecting digital systems from unauthorized access, damage, or disruption. It encompasses principles like confidentiality, integrity, and availability of data. Students learn to identify and mitigate cyber threats, implement secure protocols, and understand legal and ethical aspects of online activities. This field prepares graduates for careers in information security, network administration, and cyber defense.",13.6,23.12,14.7,14.6,15.72,16.41,6.38,11.142857142857142
+Chain-of-Thought,computer security,College,50,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'computer security' to someone reading at the College level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 50 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the College level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 50 words that follows your plan.",8.0,59.3,8.6,9.7,9.24,10.19,4.2,6.333333333333333
+Chain-of-Thought,computer security,College,50,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'computer security' to someone reading at the College level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 50 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the College level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 50 words that follows your plan.",8.0,59.3,8.6,9.7,9.24,10.19,4.2,6.333333333333333

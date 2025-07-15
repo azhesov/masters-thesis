@@ -1,0 +1,280 @@
+Technique,Topic,Target Level,Output Length,Model,Prompt,Rewrite Prompt,Text,Flesch-Kincaid,Flesch Ease,ARI,SMOG,Gunning Fog,Coleman-Liau,Spache,Linsear Write
+Few-Shot,computer security,College,150,meta-llama/Llama-3.1-8B-Instruct,"Example 1:
+Protective tariffs are tariffs that are enacted with the aim of protecting a domestic industry. Tariffs are also imposed in order to raise government revenue, or to reduce an undesirable activity (sin tax). Although a tariff can simultaneously protect domestic industry and earn government revenue, the goals of protection and revenue maximization suggest different tariff rates, entailing a tradeoff between the two aims. 
+A tariff is a tax added onto goods imported into a country; protective tariffs are taxes that render the cost of a foreign import higher than the cost of the initially costlier domestic good. For example, if a piece of cloth cost $4 in Britain and $4 in the United States, the American government would have to impose a tariff to make the price of British cloth higher for Americans. The underlying goal for a protective tariff is to protect domestic industry from foreign competition.
+
+Example 2:
+Armed neutrality, in international politics, is the posture of a state or group of states which makes no alliance with either side in a war, but asserts that it will defend itself against resulting incursions from all parties. This may include:
+Military preparedness without commitment, especially as the expressed policy of a neutral nation in wartime; readiness to counter with force an invasion of rights by any belligerent power.
+Armed neutrality is a term used in international politics, which is the attitude of a state or group of states which makes no alliance with either side in a war. It is the condition of a neutral power, at war, which holds itself ready to resist by force any aggression of either belligerent. Such states assert that they will defend themselves against resulting incursions from all parties.
+Neutrality maintained while weapons are kept available.
+Armed Neutrality: A seemingly neutral state takes up arms for protection to maintain its neutrality
+
+Using vocabulary and structure from examples, write a short paragraph about 'computer security' targeting the same readability level (College), limited to 150 words.",,"Example 1:
+Protective tariffs are tariffs that are enacted with the aim of protecting a domestic industry. Tariffs are also imposed in order to raise government revenue, or to reduce an undesirable activity (sin tax). Although a tariff can simultaneously protect domestic industry and earn government revenue, the goals of protection and revenue maximization suggest different tariff rates, entailing a tradeoff between the two aims. 
+A tariff is a tax added onto goods imported into a country; protective tariffs are taxes that render the cost of a foreign import higher than the cost of the initially costlier domestic good. For example, if a piece of cloth cost $4 in Britain and $4 in the United States, the American government would have to impose a tariff to make the price of British cloth higher for Americans. The underlying goal for a protective tariff is to protect domestic industry from foreign competition.
+
+Example 2:
+Armed neutrality, in international politics, is the posture of a state or group of states which makes no alliance with either side in a war, but asserts that it will defend itself against resulting incursions from all parties. This may include:
+Military preparedness without commitment, especially as the expressed policy of a neutral nation in wartime; readiness to counter with force an invasion of rights by any belligerent power.
+Armed neutrality is a term used in international politics, which is the attitude of a state or group of states which makes no alliance with either side in a war. It is the condition of a neutral power, at war, which holds itself ready to resist by force any aggression of either belligerent. Such states assert that they will defend themselves against resulting incursions from all parties.
+Neutrality maintained while weapons are kept available.
+Armed Neutrality: A seemingly neutral state takes up arms for protection to maintain its neutrality
+
+Using vocabulary and structure from examples, write a short paragraph about 'computer security' targeting the same readability level (College), limited to 150 words. 
+Computer security is a posture of a system or group of systems which makes no vulnerability to either side of a cyber attack, but asserts that it will protect itself against resulting incursions from all parties. This may include network security, access control, and cryptography, all of which are measures that are used to counter with force any hacking or malware attack. A system that is armed with computer security is always ready to resist by force any malicious activity of either cyber belligerent. Such systems assert that they will defend themselves against resulting data breaches or system intrusions from all parties. Armed computer security is a term used in the field of information technology, which is the condition of a secure system, at risk, which holds itself ready to resist by force any cyber threat. The goal of computer security is to maintain a state of security while keeping the system prepared to counter any attack. 
+
+Here's a rewritten version of the paragraph that is within the 150-word limit and more concise:
+
+Computer security",13.2,45.69,15.7,15.1,13.94,12.42,6.13,17.75
+Few-Shot,computer security,College,150,meta-llama/Llama-3.1-8B-Instruct,"Example 1:
+Protective tariffs are tariffs that are enacted with the aim of protecting a domestic industry. Tariffs are also imposed in order to raise government revenue, or to reduce an undesirable activity (sin tax). Although a tariff can simultaneously protect domestic industry and earn government revenue, the goals of protection and revenue maximization suggest different tariff rates, entailing a tradeoff between the two aims. 
+A tariff is a tax added onto goods imported into a country; protective tariffs are taxes that render the cost of a foreign import higher than the cost of the initially costlier domestic good. For example, if a piece of cloth cost $4 in Britain and $4 in the United States, the American government would have to impose a tariff to make the price of British cloth higher for Americans. The underlying goal for a protective tariff is to protect domestic industry from foreign competition.
+
+Example 2:
+Armed neutrality, in international politics, is the posture of a state or group of states which makes no alliance with either side in a war, but asserts that it will defend itself against resulting incursions from all parties. This may include:
+Military preparedness without commitment, especially as the expressed policy of a neutral nation in wartime; readiness to counter with force an invasion of rights by any belligerent power.
+Armed neutrality is a term used in international politics, which is the attitude of a state or group of states which makes no alliance with either side in a war. It is the condition of a neutral power, at war, which holds itself ready to resist by force any aggression of either belligerent. Such states assert that they will defend themselves against resulting incursions from all parties.
+Neutrality maintained while weapons are kept available.
+Armed Neutrality: A seemingly neutral state takes up arms for protection to maintain its neutrality
+
+Using vocabulary and structure from examples, write a short paragraph about 'computer security' targeting the same readability level (College), limited to 150 words.",,"Example 1:
+Protective tariffs are tariffs that are enacted with the aim of protecting a domestic industry. Tariffs are also imposed in order to raise government revenue, or to reduce an undesirable activity (sin tax). Although a tariff can simultaneously protect domestic industry and earn government revenue, the goals of protection and revenue maximization suggest different tariff rates, entailing a tradeoff between the two aims. 
+A tariff is a tax added onto goods imported into a country; protective tariffs are taxes that render the cost of a foreign import higher than the cost of the initially costlier domestic good. For example, if a piece of cloth cost $4 in Britain and $4 in the United States, the American government would have to impose a tariff to make the price of British cloth higher for Americans. The underlying goal for a protective tariff is to protect domestic industry from foreign competition.
+
+Example 2:
+Armed neutrality, in international politics, is the posture of a state or group of states which makes no alliance with either side in a war, but asserts that it will defend itself against resulting incursions from all parties. This may include:
+Military preparedness without commitment, especially as the expressed policy of a neutral nation in wartime; readiness to counter with force an invasion of rights by any belligerent power.
+Armed neutrality is a term used in international politics, which is the attitude of a state or group of states which makes no alliance with either side in a war. It is the condition of a neutral power, at war, which holds itself ready to resist by force any aggression of either belligerent. Such states assert that they will defend themselves against resulting incursions from all parties.
+Neutrality maintained while weapons are kept available.
+Armed Neutrality: A seemingly neutral state takes up arms for protection to maintain its neutrality
+
+Using vocabulary and structure from examples, write a short paragraph about 'computer security' targeting the same readability level (College), limited to 150 words. 
+Computer security, in the context of information technology, refers to the posture of a system or group of systems which makes no vulnerability to attack by hackers, but asserts that it will defend itself against resulting breaches from all malicious actors. This may include:
+Implementing robust security protocols without compromise, especially as the expressed policy of a secure network in online warfare; readiness to counter with force an invasion of rights by any malicious power.
+Computer security is a term used in IT, which is the condition of a secure power, at risk, which holds itself ready to resist by force any aggression of either malicious party.
+Secure posture maintained while security measures are kept available. 
+In this context, armed neutrality is a seemingly secure system that takes up measures for protection to maintain its security. Computer security is a term used in the IT industry to describe a system or network that is protected from cyber threats. It is the posture of a system that asserts it will defend itself against breaches from all malicious actors. This can include",14.0,38.25,15.3,15.2,13.66,12.6,5.91,17.75
+Few-Shot,computer security,College,150,meta-llama/Llama-3.1-8B-Instruct,"Example 1:
+Protective tariffs are tariffs that are enacted with the aim of protecting a domestic industry. Tariffs are also imposed in order to raise government revenue, or to reduce an undesirable activity (sin tax). Although a tariff can simultaneously protect domestic industry and earn government revenue, the goals of protection and revenue maximization suggest different tariff rates, entailing a tradeoff between the two aims. 
+A tariff is a tax added onto goods imported into a country; protective tariffs are taxes that render the cost of a foreign import higher than the cost of the initially costlier domestic good. For example, if a piece of cloth cost $4 in Britain and $4 in the United States, the American government would have to impose a tariff to make the price of British cloth higher for Americans. The underlying goal for a protective tariff is to protect domestic industry from foreign competition.
+
+Example 2:
+Armed neutrality, in international politics, is the posture of a state or group of states which makes no alliance with either side in a war, but asserts that it will defend itself against resulting incursions from all parties. This may include:
+Military preparedness without commitment, especially as the expressed policy of a neutral nation in wartime; readiness to counter with force an invasion of rights by any belligerent power.
+Armed neutrality is a term used in international politics, which is the attitude of a state or group of states which makes no alliance with either side in a war. It is the condition of a neutral power, at war, which holds itself ready to resist by force any aggression of either belligerent. Such states assert that they will defend themselves against resulting incursions from all parties.
+Neutrality maintained while weapons are kept available.
+Armed Neutrality: A seemingly neutral state takes up arms for protection to maintain its neutrality
+
+Using vocabulary and structure from examples, write a short paragraph about 'computer security' targeting the same readability level (College), limited to 150 words.",,"Example 1:
+Protective tariffs are tariffs that are enacted with the aim of protecting a domestic industry. Tariffs are also imposed in order to raise government revenue, or to reduce an undesirable activity (sin tax). Although a tariff can simultaneously protect domestic industry and earn government revenue, the goals of protection and revenue maximization suggest different tariff rates, entailing a tradeoff between the two aims. 
+A tariff is a tax added onto goods imported into a country; protective tariffs are taxes that render the cost of a foreign import higher than the cost of the initially costlier domestic good. For example, if a piece of cloth cost $4 in Britain and $4 in the United States, the American government would have to impose a tariff to make the price of British cloth higher for Americans. The underlying goal for a protective tariff is to protect domestic industry from foreign competition.
+
+Example 2:
+Armed neutrality, in international politics, is the posture of a state or group of states which makes no alliance with either side in a war, but asserts that it will defend itself against resulting incursions from all parties. This may include:
+Military preparedness without commitment, especially as the expressed policy of a neutral nation in wartime; readiness to counter with force an invasion of rights by any belligerent power.
+Armed neutrality is a term used in international politics, which is the attitude of a state or group of states which makes no alliance with either side in a war. It is the condition of a neutral power, at war, which holds itself ready to resist by force any aggression of either belligerent. Such states assert that they will defend themselves against resulting incursions from all parties.
+Neutrality maintained while weapons are kept available.
+Armed Neutrality: A seemingly neutral state takes up arms for protection to maintain its neutrality
+
+Using vocabulary and structure from examples, write a short paragraph about 'computer security' targeting the same readability level (College), limited to 150 words. 
+
+**Computer Security**
+Computer security is the posture of a system which makes no compromise with malware, but asserts that it will defend itself against resulting incursions from all vectors. This may include:
+Implementing software updates without delay, especially as the expressed policy of a secure network in the digital age; readiness to counter with firewalls an invasion of rights by any malicious power.
+Computer security is a term used in cyber security, which is the condition of a secure network, at risk, which holds itself ready to resist by force any aggression of either hacker or virus. Such systems assert that they will defend themselves against resulting incursions from all parties.
+Maintaining security while software patches are kept available. Computer security is a vital aspect of digital protection. 
+
+This text is a reproduction of the provided examples in the same style and structure. However, to improve readability and clarity, I made some adjustments. Here's a rewritten paragraph that adheres to a college readability level and is within the 150-word limit",13.4,39.77,15.0,15.2,13.22,13.0,5.84,17.75
+Few-Shot,computer security,College,150,meta-llama/Llama-3.1-8B-Instruct,"Example 1:
+Protective tariffs are tariffs that are enacted with the aim of protecting a domestic industry. Tariffs are also imposed in order to raise government revenue, or to reduce an undesirable activity (sin tax). Although a tariff can simultaneously protect domestic industry and earn government revenue, the goals of protection and revenue maximization suggest different tariff rates, entailing a tradeoff between the two aims. 
+A tariff is a tax added onto goods imported into a country; protective tariffs are taxes that render the cost of a foreign import higher than the cost of the initially costlier domestic good. For example, if a piece of cloth cost $4 in Britain and $4 in the United States, the American government would have to impose a tariff to make the price of British cloth higher for Americans. The underlying goal for a protective tariff is to protect domestic industry from foreign competition.
+
+Example 2:
+Armed neutrality, in international politics, is the posture of a state or group of states which makes no alliance with either side in a war, but asserts that it will defend itself against resulting incursions from all parties. This may include:
+Military preparedness without commitment, especially as the expressed policy of a neutral nation in wartime; readiness to counter with force an invasion of rights by any belligerent power.
+Armed neutrality is a term used in international politics, which is the attitude of a state or group of states which makes no alliance with either side in a war. It is the condition of a neutral power, at war, which holds itself ready to resist by force any aggression of either belligerent. Such states assert that they will defend themselves against resulting incursions from all parties.
+Neutrality maintained while weapons are kept available.
+Armed Neutrality: A seemingly neutral state takes up arms for protection to maintain its neutrality
+
+Using vocabulary and structure from examples, write a short paragraph about 'computer security' targeting the same readability level (College), limited to 150 words.",,"Example 1:
+Protective tariffs are tariffs that are enacted with the aim of protecting a domestic industry. Tariffs are also imposed in order to raise government revenue, or to reduce an undesirable activity (sin tax). Although a tariff can simultaneously protect domestic industry and earn government revenue, the goals of protection and revenue maximization suggest different tariff rates, entailing a tradeoff between the two aims. 
+A tariff is a tax added onto goods imported into a country; protective tariffs are taxes that render the cost of a foreign import higher than the cost of the initially costlier domestic good. For example, if a piece of cloth cost $4 in Britain and $4 in the United States, the American government would have to impose a tariff to make the price of British cloth higher for Americans. The underlying goal for a protective tariff is to protect domestic industry from foreign competition.
+
+Example 2:
+Armed neutrality, in international politics, is the posture of a state or group of states which makes no alliance with either side in a war, but asserts that it will defend itself against resulting incursions from all parties. This may include:
+Military preparedness without commitment, especially as the expressed policy of a neutral nation in wartime; readiness to counter with force an invasion of rights by any belligerent power.
+Armed neutrality is a term used in international politics, which is the attitude of a state or group of states which makes no alliance with either side in a war. It is the condition of a neutral power, at war, which holds itself ready to resist by force any aggression of either belligerent. Such states assert that they will defend themselves against resulting incursions from all parties.
+Neutrality maintained while weapons are kept available.
+Armed Neutrality: A seemingly neutral state takes up arms for protection to maintain its neutrality
+
+Using vocabulary and structure from examples, write a short paragraph about 'computer security' targeting the same readability level (College), limited to 150 words. 
+Computer security is a posture that involves no alliance with malicious actors, but asserts that it will defend itself against resulting cyber-attacks from all sources. This may include network preparedness without commitment, especially as the expressed policy of a secure network in cyber warfare; readiness to counter with cybersecurity measures an invasion of rights by any malicious power. Computer security is a term used to describe the attitude of a system or group of systems which makes no alliance with malicious actors in cyber space. It is the condition of a secure network, at risk, which holds itself ready to resist by force any aggression of either malicious party. Such systems assert that they will defend themselves against resulting cyber-attacks from all parties. Computer security maintained while cybersecurity measures are kept available. Armed computer security: a seemingly secure system takes up cybersecurity measures for protection to maintain its security. 
+Tags: #ComputerSecurity #ArmedNeutrality #ProtectiveTariffs #Cybersecurity #CyberWarfare #NetworkSecurity #InformationSecurity",14.7,30.91,16.2,15.7,13.4,14.28,5.78,17.75
+Few-Shot,computer security,College,150,meta-llama/Llama-3.1-8B-Instruct,"Example 1:
+Protective tariffs are tariffs that are enacted with the aim of protecting a domestic industry. Tariffs are also imposed in order to raise government revenue, or to reduce an undesirable activity (sin tax). Although a tariff can simultaneously protect domestic industry and earn government revenue, the goals of protection and revenue maximization suggest different tariff rates, entailing a tradeoff between the two aims. 
+A tariff is a tax added onto goods imported into a country; protective tariffs are taxes that render the cost of a foreign import higher than the cost of the initially costlier domestic good. For example, if a piece of cloth cost $4 in Britain and $4 in the United States, the American government would have to impose a tariff to make the price of British cloth higher for Americans. The underlying goal for a protective tariff is to protect domestic industry from foreign competition.
+
+Example 2:
+Armed neutrality, in international politics, is the posture of a state or group of states which makes no alliance with either side in a war, but asserts that it will defend itself against resulting incursions from all parties. This may include:
+Military preparedness without commitment, especially as the expressed policy of a neutral nation in wartime; readiness to counter with force an invasion of rights by any belligerent power.
+Armed neutrality is a term used in international politics, which is the attitude of a state or group of states which makes no alliance with either side in a war. It is the condition of a neutral power, at war, which holds itself ready to resist by force any aggression of either belligerent. Such states assert that they will defend themselves against resulting incursions from all parties.
+Neutrality maintained while weapons are kept available.
+Armed Neutrality: A seemingly neutral state takes up arms for protection to maintain its neutrality
+
+Using vocabulary and structure from examples, write a short paragraph about 'computer security' targeting the same readability level (College), limited to 150 words.",,"Example 1:
+Protective tariffs are tariffs that are enacted with the aim of protecting a domestic industry. Tariffs are also imposed in order to raise government revenue, or to reduce an undesirable activity (sin tax). Although a tariff can simultaneously protect domestic industry and earn government revenue, the goals of protection and revenue maximization suggest different tariff rates, entailing a tradeoff between the two aims. 
+A tariff is a tax added onto goods imported into a country; protective tariffs are taxes that render the cost of a foreign import higher than the cost of the initially costlier domestic good. For example, if a piece of cloth cost $4 in Britain and $4 in the United States, the American government would have to impose a tariff to make the price of British cloth higher for Americans. The underlying goal for a protective tariff is to protect domestic industry from foreign competition.
+
+Example 2:
+Armed neutrality, in international politics, is the posture of a state or group of states which makes no alliance with either side in a war, but asserts that it will defend itself against resulting incursions from all parties. This may include:
+Military preparedness without commitment, especially as the expressed policy of a neutral nation in wartime; readiness to counter with force an invasion of rights by any belligerent power.
+Armed neutrality is a term used in international politics, which is the attitude of a state or group of states which makes no alliance with either side in a war. It is the condition of a neutral power, at war, which holds itself ready to resist by force any aggression of either belligerent. Such states assert that they will defend themselves against resulting incursions from all parties.
+Neutrality maintained while weapons are kept available.
+Armed Neutrality: A seemingly neutral state takes up arms for protection to maintain its neutrality
+
+Using vocabulary and structure from examples, write a short paragraph about 'computer security' targeting the same readability level (College), limited to 150 words. Here it is: 
+Computer security is the posture of a system or network that makes no alliance with malicious software or hackers, but asserts that it will defend itself against resulting cyber-attacks from all parties. This may include technical preparedness without commitment, especially as the expressed policy of a computer system in cyberspace; readiness to counter with force any unauthorized invasion of rights by any malicious power. Computer security is a term used in information technology, which is the condition of a secure computer, at risk, which holds itself ready to resist by force any cyber-aggression of either hacker or virus. Such systems assert that they will defend themselves against resulting incursions from all malicious parties. Neutrality maintained while firewalls are kept available. 
+Note that I have written in the same structure and vocabulary as the examples given. However, the content is not very useful and is somewhat confusing. This is because computer security is not well described as ""posture of a system"" or ""armed neutrality."" Computer",13.8,38.86,15.5,15.4,13.36,13.12,5.85,17.75
+Few-Shot,computer security,College,150,meta-llama/Llama-3.1-8B-Instruct,"Example 1:
+Protective tariffs are tariffs that are enacted with the aim of protecting a domestic industry. Tariffs are also imposed in order to raise government revenue, or to reduce an undesirable activity (sin tax). Although a tariff can simultaneously protect domestic industry and earn government revenue, the goals of protection and revenue maximization suggest different tariff rates, entailing a tradeoff between the two aims. 
+A tariff is a tax added onto goods imported into a country; protective tariffs are taxes that render the cost of a foreign import higher than the cost of the initially costlier domestic good. For example, if a piece of cloth cost $4 in Britain and $4 in the United States, the American government would have to impose a tariff to make the price of British cloth higher for Americans. The underlying goal for a protective tariff is to protect domestic industry from foreign competition.
+
+Example 2:
+Armed neutrality, in international politics, is the posture of a state or group of states which makes no alliance with either side in a war, but asserts that it will defend itself against resulting incursions from all parties. This may include:
+Military preparedness without commitment, especially as the expressed policy of a neutral nation in wartime; readiness to counter with force an invasion of rights by any belligerent power.
+Armed neutrality is a term used in international politics, which is the attitude of a state or group of states which makes no alliance with either side in a war. It is the condition of a neutral power, at war, which holds itself ready to resist by force any aggression of either belligerent. Such states assert that they will defend themselves against resulting incursions from all parties.
+Neutrality maintained while weapons are kept available.
+Armed Neutrality: A seemingly neutral state takes up arms for protection to maintain its neutrality
+
+Using vocabulary and structure from examples, write a short paragraph about 'computer security' targeting the same readability level (College), limited to 150 words.",,"Example 1:
+Protective tariffs are tariffs that are enacted with the aim of protecting a domestic industry. Tariffs are also imposed in order to raise government revenue, or to reduce an undesirable activity (sin tax). Although a tariff can simultaneously protect domestic industry and earn government revenue, the goals of protection and revenue maximization suggest different tariff rates, entailing a tradeoff between the two aims. 
+A tariff is a tax added onto goods imported into a country; protective tariffs are taxes that render the cost of a foreign import higher than the cost of the initially costlier domestic good. For example, if a piece of cloth cost $4 in Britain and $4 in the United States, the American government would have to impose a tariff to make the price of British cloth higher for Americans. The underlying goal for a protective tariff is to protect domestic industry from foreign competition.
+
+Example 2:
+Armed neutrality, in international politics, is the posture of a state or group of states which makes no alliance with either side in a war, but asserts that it will defend itself against resulting incursions from all parties. This may include:
+Military preparedness without commitment, especially as the expressed policy of a neutral nation in wartime; readiness to counter with force an invasion of rights by any belligerent power.
+Armed neutrality is a term used in international politics, which is the attitude of a state or group of states which makes no alliance with either side in a war. It is the condition of a neutral power, at war, which holds itself ready to resist by force any aggression of either belligerent. Such states assert that they will defend themselves against resulting incursions from all parties.
+Neutrality maintained while weapons are kept available.
+Armed Neutrality: A seemingly neutral state takes up arms for protection to maintain its neutrality
+
+Using vocabulary and structure from examples, write a short paragraph about 'computer security' targeting the same readability level (College), limited to 150 words. 
+
+Computer security refers to the posture of a system or network that protects its resources against cyber threats. A system that asserts its ability to defend itself against resulting incursions from all malicious actors is said to be in a state of armed computer security. This may include readiness to counter with firewalls and antivirus software an invasion of rights by any hacker power. Computer security maintained while firewalls and intrusion detection systems are kept available. Armed computer security is a term used in computer science, which is the attitude of a system or network that makes no alliance with any malware, but asserts that it will defend itself against resulting attacks from all parties. Such systems assert that they will defend their resources against resulting incursions from all malicious actors. This posture is also known as a robust computer security. 
+
+Answer: 
+
+Computer security refers to the posture of a system or network that protects its resources against cyber threats. A system that asserts its ability to defend itself against resulting incursions from all malicious actors is said to be",13.6,39.37,15.0,14.9,12.91,12.94,5.72,17.75
+Few-Shot,computer security,College,150,meta-llama/Llama-3.1-8B-Instruct,"Example 1:
+Protective tariffs are tariffs that are enacted with the aim of protecting a domestic industry. Tariffs are also imposed in order to raise government revenue, or to reduce an undesirable activity (sin tax). Although a tariff can simultaneously protect domestic industry and earn government revenue, the goals of protection and revenue maximization suggest different tariff rates, entailing a tradeoff between the two aims. 
+A tariff is a tax added onto goods imported into a country; protective tariffs are taxes that render the cost of a foreign import higher than the cost of the initially costlier domestic good. For example, if a piece of cloth cost $4 in Britain and $4 in the United States, the American government would have to impose a tariff to make the price of British cloth higher for Americans. The underlying goal for a protective tariff is to protect domestic industry from foreign competition.
+
+Example 2:
+Armed neutrality, in international politics, is the posture of a state or group of states which makes no alliance with either side in a war, but asserts that it will defend itself against resulting incursions from all parties. This may include:
+Military preparedness without commitment, especially as the expressed policy of a neutral nation in wartime; readiness to counter with force an invasion of rights by any belligerent power.
+Armed neutrality is a term used in international politics, which is the attitude of a state or group of states which makes no alliance with either side in a war. It is the condition of a neutral power, at war, which holds itself ready to resist by force any aggression of either belligerent. Such states assert that they will defend themselves against resulting incursions from all parties.
+Neutrality maintained while weapons are kept available.
+Armed Neutrality: A seemingly neutral state takes up arms for protection to maintain its neutrality
+
+Using vocabulary and structure from examples, write a short paragraph about 'computer security' targeting the same readability level (College), limited to 150 words.",,"Example 1:
+Protective tariffs are tariffs that are enacted with the aim of protecting a domestic industry. Tariffs are also imposed in order to raise government revenue, or to reduce an undesirable activity (sin tax). Although a tariff can simultaneously protect domestic industry and earn government revenue, the goals of protection and revenue maximization suggest different tariff rates, entailing a tradeoff between the two aims. 
+A tariff is a tax added onto goods imported into a country; protective tariffs are taxes that render the cost of a foreign import higher than the cost of the initially costlier domestic good. For example, if a piece of cloth cost $4 in Britain and $4 in the United States, the American government would have to impose a tariff to make the price of British cloth higher for Americans. The underlying goal for a protective tariff is to protect domestic industry from foreign competition.
+
+Example 2:
+Armed neutrality, in international politics, is the posture of a state or group of states which makes no alliance with either side in a war, but asserts that it will defend itself against resulting incursions from all parties. This may include:
+Military preparedness without commitment, especially as the expressed policy of a neutral nation in wartime; readiness to counter with force an invasion of rights by any belligerent power.
+Armed neutrality is a term used in international politics, which is the attitude of a state or group of states which makes no alliance with either side in a war. It is the condition of a neutral power, at war, which holds itself ready to resist by force any aggression of either belligerent. Such states assert that they will defend themselves against resulting incursions from all parties.
+Neutrality maintained while weapons are kept available.
+Armed Neutrality: A seemingly neutral state takes up arms for protection to maintain its neutrality
+
+Using vocabulary and structure from examples, write a short paragraph about 'computer security' targeting the same readability level (College), limited to 150 words. 
+Computer security, a subset of information security, is the posture of an organization or individual which makes no compromise with malicious cyber threats, but asserts that it will protect itself against resulting breaches from all parties. This may include
+Firewall preparedness without compromise, especially as the expressed policy of a secure network in the digital world; readiness to counter with firewalls an invasion of rights by any malicious power.
+Computer security is a term used in information technology, which is the attitude of an organization or individual which makes no alliance with malicious cyber threats. It is the condition of a secure network, at risk, which holds itself ready to resist by firewalls any aggression of either malicious actor. Such organizations assert that they will protect themselves against resulting breaches from all parties.
+Neutrality maintained while computer systems are kept secure. 
+Computer security: A seemingly secure system takes up firewalls for protection to maintain its security. 
+
+The final answer is: There is no specific answer to this question as it is",13.8,38.66,15.7,15.7,13.65,13.29,5.86,17.75
+Few-Shot,computer security,College,150,meta-llama/Llama-3.1-8B-Instruct,"Example 1:
+Protective tariffs are tariffs that are enacted with the aim of protecting a domestic industry. Tariffs are also imposed in order to raise government revenue, or to reduce an undesirable activity (sin tax). Although a tariff can simultaneously protect domestic industry and earn government revenue, the goals of protection and revenue maximization suggest different tariff rates, entailing a tradeoff between the two aims. 
+A tariff is a tax added onto goods imported into a country; protective tariffs are taxes that render the cost of a foreign import higher than the cost of the initially costlier domestic good. For example, if a piece of cloth cost $4 in Britain and $4 in the United States, the American government would have to impose a tariff to make the price of British cloth higher for Americans. The underlying goal for a protective tariff is to protect domestic industry from foreign competition.
+
+Example 2:
+Armed neutrality, in international politics, is the posture of a state or group of states which makes no alliance with either side in a war, but asserts that it will defend itself against resulting incursions from all parties. This may include:
+Military preparedness without commitment, especially as the expressed policy of a neutral nation in wartime; readiness to counter with force an invasion of rights by any belligerent power.
+Armed neutrality is a term used in international politics, which is the attitude of a state or group of states which makes no alliance with either side in a war. It is the condition of a neutral power, at war, which holds itself ready to resist by force any aggression of either belligerent. Such states assert that they will defend themselves against resulting incursions from all parties.
+Neutrality maintained while weapons are kept available.
+Armed Neutrality: A seemingly neutral state takes up arms for protection to maintain its neutrality
+
+Using vocabulary and structure from examples, write a short paragraph about 'computer security' targeting the same readability level (College), limited to 150 words.",,"Example 1:
+Protective tariffs are tariffs that are enacted with the aim of protecting a domestic industry. Tariffs are also imposed in order to raise government revenue, or to reduce an undesirable activity (sin tax). Although a tariff can simultaneously protect domestic industry and earn government revenue, the goals of protection and revenue maximization suggest different tariff rates, entailing a tradeoff between the two aims. 
+A tariff is a tax added onto goods imported into a country; protective tariffs are taxes that render the cost of a foreign import higher than the cost of the initially costlier domestic good. For example, if a piece of cloth cost $4 in Britain and $4 in the United States, the American government would have to impose a tariff to make the price of British cloth higher for Americans. The underlying goal for a protective tariff is to protect domestic industry from foreign competition.
+
+Example 2:
+Armed neutrality, in international politics, is the posture of a state or group of states which makes no alliance with either side in a war, but asserts that it will defend itself against resulting incursions from all parties. This may include:
+Military preparedness without commitment, especially as the expressed policy of a neutral nation in wartime; readiness to counter with force an invasion of rights by any belligerent power.
+Armed neutrality is a term used in international politics, which is the attitude of a state or group of states which makes no alliance with either side in a war. It is the condition of a neutral power, at war, which holds itself ready to resist by force any aggression of either belligerent. Such states assert that they will defend themselves against resulting incursions from all parties.
+Neutrality maintained while weapons are kept available.
+Armed Neutrality: A seemingly neutral state takes up arms for protection to maintain its neutrality
+
+Using vocabulary and structure from examples, write a short paragraph about 'computer security' targeting the same readability level (College), limited to 150 words. 
+
+Active defense, in computer security, is a posture of a system or network that actively monitors and responds to potential security threats, rather than simply relying on passive security measures. This may include:
+Implementing intrusion detection systems (IDS) and intrusion prevention systems (IPS) to identify and block malicious traffic;
+Deploying firewalls and other network security appliances to filter and control network traffic;
+Active defense is a term used in computer security, which is the condition of a system or network that actively monitors and responds to potential security threats. Such systems assert that they will defend themselves against resulting incursions from all parties. In other words, a system under active defense is ready to counter with measures any attack that may occur. Active defense aims to prevent attacks by detecting and blocking threats early on. This posture allows a system to maintain its security posture and protect its resources from unauthorized access. In essence, active defense is a proactive approach to computer security. 
+
+The above paragraph has a similar structure to the examples",13.9,38.55,15.9,15.5,14.15,13.41,6.14,17.75
+Few-Shot,computer security,College,150,meta-llama/Llama-3.1-8B-Instruct,"Example 1:
+Protective tariffs are tariffs that are enacted with the aim of protecting a domestic industry. Tariffs are also imposed in order to raise government revenue, or to reduce an undesirable activity (sin tax). Although a tariff can simultaneously protect domestic industry and earn government revenue, the goals of protection and revenue maximization suggest different tariff rates, entailing a tradeoff between the two aims. 
+A tariff is a tax added onto goods imported into a country; protective tariffs are taxes that render the cost of a foreign import higher than the cost of the initially costlier domestic good. For example, if a piece of cloth cost $4 in Britain and $4 in the United States, the American government would have to impose a tariff to make the price of British cloth higher for Americans. The underlying goal for a protective tariff is to protect domestic industry from foreign competition.
+
+Example 2:
+Armed neutrality, in international politics, is the posture of a state or group of states which makes no alliance with either side in a war, but asserts that it will defend itself against resulting incursions from all parties. This may include:
+Military preparedness without commitment, especially as the expressed policy of a neutral nation in wartime; readiness to counter with force an invasion of rights by any belligerent power.
+Armed neutrality is a term used in international politics, which is the attitude of a state or group of states which makes no alliance with either side in a war. It is the condition of a neutral power, at war, which holds itself ready to resist by force any aggression of either belligerent. Such states assert that they will defend themselves against resulting incursions from all parties.
+Neutrality maintained while weapons are kept available.
+Armed Neutrality: A seemingly neutral state takes up arms for protection to maintain its neutrality
+
+Using vocabulary and structure from examples, write a short paragraph about 'computer security' targeting the same readability level (College), limited to 150 words.",,"Example 1:
+Protective tariffs are tariffs that are enacted with the aim of protecting a domestic industry. Tariffs are also imposed in order to raise government revenue, or to reduce an undesirable activity (sin tax). Although a tariff can simultaneously protect domestic industry and earn government revenue, the goals of protection and revenue maximization suggest different tariff rates, entailing a tradeoff between the two aims. 
+A tariff is a tax added onto goods imported into a country; protective tariffs are taxes that render the cost of a foreign import higher than the cost of the initially costlier domestic good. For example, if a piece of cloth cost $4 in Britain and $4 in the United States, the American government would have to impose a tariff to make the price of British cloth higher for Americans. The underlying goal for a protective tariff is to protect domestic industry from foreign competition.
+
+Example 2:
+Armed neutrality, in international politics, is the posture of a state or group of states which makes no alliance with either side in a war, but asserts that it will defend itself against resulting incursions from all parties. This may include:
+Military preparedness without commitment, especially as the expressed policy of a neutral nation in wartime; readiness to counter with force an invasion of rights by any belligerent power.
+Armed neutrality is a term used in international politics, which is the attitude of a state or group of states which makes no alliance with either side in a war. It is the condition of a neutral power, at war, which holds itself ready to resist by force any aggression of either belligerent. Such states assert that they will defend themselves against resulting incursions from all parties.
+Neutrality maintained while weapons are kept available.
+Armed Neutrality: A seemingly neutral state takes up arms for protection to maintain its neutrality
+
+Using vocabulary and structure from examples, write a short paragraph about 'computer security' targeting the same readability level (College), limited to 150 words. 
+Armed neutrality in computer security means that a system or network maintains its neutrality by being prepared to defend itself against any type of attack or malicious activity. This is achieved through a combination of preventive measures, such as firewalls and intrusion detection systems, as well as reactive measures, like incident response plans and antivirus software. Armed neutrality in computer security is not about taking a side, but rather about being prepared to defend against any potential threat. This posture allows a system or network to maintain its neutrality while still being protected from cyber attacks and malicious activities. By being armed with the necessary security measures, a system or network can effectively defend itself and maintain its integrity. Armed neutrality in computer security is a proactive approach to protecting against cyber threats. 
+
+Note: The vocabulary and structure are inspired by the given examples to create a paragraph that targets the same readability level as the examples. The paragraph uses similar sentence structures and vocabulary to convey the concept of 'armed neutrality' in the context of computer security. The paragraph",14.0,38.25,16.1,15.7,14.2,13.52,6.19,17.75
+Few-Shot,computer security,College,150,meta-llama/Llama-3.1-8B-Instruct,"Example 1:
+Protective tariffs are tariffs that are enacted with the aim of protecting a domestic industry. Tariffs are also imposed in order to raise government revenue, or to reduce an undesirable activity (sin tax). Although a tariff can simultaneously protect domestic industry and earn government revenue, the goals of protection and revenue maximization suggest different tariff rates, entailing a tradeoff between the two aims. 
+A tariff is a tax added onto goods imported into a country; protective tariffs are taxes that render the cost of a foreign import higher than the cost of the initially costlier domestic good. For example, if a piece of cloth cost $4 in Britain and $4 in the United States, the American government would have to impose a tariff to make the price of British cloth higher for Americans. The underlying goal for a protective tariff is to protect domestic industry from foreign competition.
+
+Example 2:
+Armed neutrality, in international politics, is the posture of a state or group of states which makes no alliance with either side in a war, but asserts that it will defend itself against resulting incursions from all parties. This may include:
+Military preparedness without commitment, especially as the expressed policy of a neutral nation in wartime; readiness to counter with force an invasion of rights by any belligerent power.
+Armed neutrality is a term used in international politics, which is the attitude of a state or group of states which makes no alliance with either side in a war. It is the condition of a neutral power, at war, which holds itself ready to resist by force any aggression of either belligerent. Such states assert that they will defend themselves against resulting incursions from all parties.
+Neutrality maintained while weapons are kept available.
+Armed Neutrality: A seemingly neutral state takes up arms for protection to maintain its neutrality
+
+Using vocabulary and structure from examples, write a short paragraph about 'computer security' targeting the same readability level (College), limited to 150 words.",,"Example 1:
+Protective tariffs are tariffs that are enacted with the aim of protecting a domestic industry. Tariffs are also imposed in order to raise government revenue, or to reduce an undesirable activity (sin tax). Although a tariff can simultaneously protect domestic industry and earn government revenue, the goals of protection and revenue maximization suggest different tariff rates, entailing a tradeoff between the two aims. 
+A tariff is a tax added onto goods imported into a country; protective tariffs are taxes that render the cost of a foreign import higher than the cost of the initially costlier domestic good. For example, if a piece of cloth cost $4 in Britain and $4 in the United States, the American government would have to impose a tariff to make the price of British cloth higher for Americans. The underlying goal for a protective tariff is to protect domestic industry from foreign competition.
+
+Example 2:
+Armed neutrality, in international politics, is the posture of a state or group of states which makes no alliance with either side in a war, but asserts that it will defend itself against resulting incursions from all parties. This may include:
+Military preparedness without commitment, especially as the expressed policy of a neutral nation in wartime; readiness to counter with force an invasion of rights by any belligerent power.
+Armed neutrality is a term used in international politics, which is the attitude of a state or group of states which makes no alliance with either side in a war. It is the condition of a neutral power, at war, which holds itself ready to resist by force any aggression of either belligerent. Such states assert that they will defend themselves against resulting incursions from all parties.
+Neutrality maintained while weapons are kept available.
+Armed Neutrality: A seemingly neutral state takes up arms for protection to maintain its neutrality
+
+Using vocabulary and structure from examples, write a short paragraph about 'computer security' targeting the same readability level (College), limited to 150 words. 
+Computer security, also known as cyber security, is a posture adopted by entities to protect their computer systems and networks from cyber threats. This posture is characterized by readiness to counter with technology and measures any intrusion or hacking attempt by malicious actors. The underlying goal for computer security is to defend against unauthorized access to sensitive data and maintain confidentiality, integrity, and availability of computer systems and networks. A computer security posture can be adopted without making any alliance with a particular entity or interest group. It is the condition of a secure state, at risk, which holds itself ready to resist by technology any cyber aggression of malicious actors. Such entities assert that they will defend themselves against resulting cyber threats from all parties. This posture is maintained while security measures are kept available and up to date. The computer security posture is a crucial aspect of modern digital society. 
+
+Here is a revised paragraph, within the 150-word limit:
+Computer security, also known as cyber security, is a posture adopted by entities to protect their",13.5,39.47,15.3,15.4,13.75,13.29,5.93,17.75

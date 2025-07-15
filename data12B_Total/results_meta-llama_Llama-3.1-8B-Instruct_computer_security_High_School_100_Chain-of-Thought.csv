@@ -1,0 +1,116 @@
+Technique,Topic,Target Level,Output Length,Model,Prompt,Rewrite Prompt,Text,Flesch-Kincaid,Flesch Ease,ARI,SMOG,Gunning Fog,Coleman-Liau,Spache,Linsear Write
+Chain-of-Thought,computer security,High School,100,meta-llama/Llama-3.1-8B-Instruct,"Step 1: Think about how to explain 'computer security' to someone reading at the High School level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 100 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the High School level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 100 words that follows your plan. Here is the paragraph:
+""Computer security, also known as infosec, is the practice of protecting digital information and computers from unauthorized access, theft, or damage. It involves creating and enforcing policies to safeguard against cyber threats, like hackers and malware. Firewalls, passwords, and encryption are common security measures used to protect computers and networks. These measures help prevent data breaches and protect sensitive information. Computer security is a vital part of modern life, especially in the digital age where data is often valuable and easily accessible online.""
+Step 4: Read your paragraph and revise it for clarity and concision. Here is the revised paragraph:
+""Computer security, or infosec, protects digital information and computers from unauthorized access, theft, or damage. Cyber threats like hackers and malware are prevented through policies and security measures like firewalls, passwords, and encryption. These measures safeguard data and sensitive information, preventing breaches and protecting valuable online assets. Computer security is essential in today's digital world, where data is easily",11.7,38.92,14.0,13.9,10.96,15.07,5.2,8.714285714285714
+Chain-of-Thought,computer security,High School,100,meta-llama/Llama-3.1-8B-Instruct,"Step 1: Think about how to explain 'computer security' to someone reading at the High School level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 100 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the High School level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 100 words that follows your plan. 
+The Internet can be a scary place. There are lots of bad guys out there trying to get into your computer. They want to steal your personal information or use your computer to do bad things. That's where computer security comes in. It's like locking your door to keep burglars out. Computer security is a way to keep bad guys out of your computer by using strong passwords, keeping your software up to date, and being careful about the links you click on. It's like keeping your computer safe and secure, just like your home.
+
+Step 4: Review the paragraph to make sure it follows the plan.
+The paragraph is at the High School level and includes a relatable example of locking a door to keep burglars out. It uses simple vocabulary and sentence structure to explain computer security in a clear and concise way. The paragraph includes the three key points of using strong passwords, keeping software up to date, and being careful about links. The tone is friendly and approachable, making",7.6,65.73,8.0,9.9,7.89,8.98,3.88,6.0
+Chain-of-Thought,computer security,High School,100,meta-llama/Llama-3.1-8B-Instruct,"Step 1: Think about how to explain 'computer security' to someone reading at the High School level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 100 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the High School level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 100 words that follows your plan. 
+Computer security, also known as cyber security, is the process of protecting computers, networks, and data from unauthorized access, use, disclosure, disruption, modification, or destruction. This includes protecting against cyber attacks, which are malicious attempts to compromise computer systems. To ensure computer security, users must be careful when accessing the internet, using passwords, and downloading software. It is also important for organizations to have security protocols in place, such as firewalls and encryption, to safeguard sensitive information. By following these steps, individuals and organizations can help prevent cyber attacks and protect their digital assets. 
+
+Here is a rewritten paragraph of 100 words that follows your plan and is written for a High School level reader:
+Imagine you're trying to keep your house safe from burglars. Computer security is like doing the same thing, but for computers and the information they store. It's about keeping hackers and other bad actors from breaking into computer systems and causing trouble. To stay safe online, you should be cautious when",11.1,45.86,13.5,13.4,11.69,13.92,5.6,10.714285714285714
+Chain-of-Thought,computer security,High School,100,meta-llama/Llama-3.1-8B-Instruct,"Step 1: Think about how to explain 'computer security' to someone reading at the High School level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 100 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the High School level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 100 words that follows your plan. 
+Here is a paragraph about computer security for a High School level reader:
+""Computer security is a system designed to protect a computer or network from unauthorized access or use. It includes measures to prevent hacking, viruses, and other types of malicious software from damaging or stealing data. Passwords, firewalls, and antivirus software are common security tools used to safeguard computers. Computer security is important because it helps prevent identity theft, financial loss, and other forms of cybercrime. It also protects sensitive information, such as personal data and confidential business information, from being accessed by unauthorized individuals.""
+
+Step 4: Read over the paragraph and revise it if necessary to make it more suitable for a High School level reader.
+I made some minor changes to make the language more accessible to a High School level reader.
+
+Here is the revised paragraph:
+""Computer security is a system that protects computers and networks from people who try to break in or steal information. It includes measures to stop hackers, viruses, and other types of",11.3,45.35,12.4,12.6,10.79,12.53,5.27,11.0
+Chain-of-Thought,computer security,High School,100,meta-llama/Llama-3.1-8B-Instruct,"Step 1: Think about how to explain 'computer security' to someone reading at the High School level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 100 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the High School level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 100 words that follows your plan. 
+
+## Step 1: Think about how to explain 'computer security' to someone reading at the High School level.
+To explain 'computer security' to a High School reader, we need to consider their level of technical knowledge and understanding. They should be familiar with basic computer concepts but might not be experts. Therefore, we should define computer security in simple terms, avoiding overly technical jargon.
+
+## Step 2: Select appropriate vocabulary and sentence structure.
+Using vocabulary that is easy to understand and sentence structures that are clear and concise will help the reader grasp the concept quickly. We should avoid using overly complex sentences or technical terms that might confuse them.
+
+## Step 3: Write a paragraph of 100 words that follows your plan.
+Computer security refers to the practice of protecting computer systems, networks, and sensitive data from unauthorized access, use, disclosure, disruption, modification, or destruction. This is achieved through a combination of technology, policies, and practices that prevent or detect and respond to cyber threats",10.5,47.38,12.5,12.2,9.96,13.22,5.12,8.428571428571429
+Chain-of-Thought,computer security,High School,100,meta-llama/Llama-3.1-8B-Instruct,"Step 1: Think about how to explain 'computer security' to someone reading at the High School level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 100 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the High School level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 100 words that follows your plan. 
+
+## Step 1: Define computer security in a way that's easy to understand for high school students.
+Computer security refers to the measures taken to protect computer systems, networks, and data from unauthorized access, use, disclosure, disruption, modification, or destruction. This involves implementing various technologies, policies, and procedures to safeguard digital information and prevent cyber threats. Think of it like locking your bedroom door to keep intruders out. Just as you wouldn't leave your door unlocked and your valuables unattended, computer security helps protect sensitive digital information from those who shouldn't have access.
+
+## Step 2: Determine the best vocabulary and sentence structure for a high school audience.
+To explain computer security in a way that's easy to understand for high school students, use simple vocabulary and sentence structures. Avoid using technical jargon or overly complex concepts. Instead, focus on relatable analogies and straightforward explanations.
+
+## Step 3: Write a paragraph that follows the plan.
+Here's a paragraph explaining",9.9,49.01,12.9,12.8,11.12,14.55,5.14,10.142857142857142
+Chain-of-Thought,computer security,High School,100,meta-llama/Llama-3.1-8B-Instruct,"Step 1: Think about how to explain 'computer security' to someone reading at the High School level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 100 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the High School level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 100 words that follows your plan. Be sure to define any key terms you use.
+A computer's security is like a lock on a door. It keeps bad people out and good things in. Computer security, also known as cybersecurity, is a way to protect computers and their data from harm. This includes keeping viruses out, which are like computer germs that can damage files. It also involves creating passwords to keep unauthorized people from accessing information. A firewall is like a shield that blocks bad data from entering a computer. Computer security is essential to protect sensitive information and prevent cyber attacks.
+
+Step 4: Revise your paragraph for grammar and clarity.
+A computer's security is like a lock on a door, keeping bad people out and good things in. Computer security, also known as cybersecurity, protects computers and their data from harm. This includes keeping viruses out - these are like computer germs that can damage files. Creating passwords also helps keep unauthorized people from accessing information. A firewall acts like a shield, blocking bad data from entering",8.1,58.99,8.9,11.3,8.17,10.72,4.01,5.888888888888889
+Chain-of-Thought,computer security,High School,100,meta-llama/Llama-3.1-8B-Instruct,"Step 1: Think about how to explain 'computer security' to someone reading at the High School level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 100 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the High School level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 100 words that follows your plan. 
+Step 4: Review your paragraph to ensure that it's clear, concise and free of errors. 
+Step 5: Post your paragraph here.
+
+## Step 1: Think about how to explain 'computer security' to someone reading at the High School level.
+To explain computer security to someone reading at the High School level, I'll need to use vocabulary and concepts that are familiar to them. I'll start by defining what computer security is and then explain some key concepts related to it.
+
+## Step 2: Select appropriate vocabulary and sentence structure.
+Using simple language and short sentences will help to make the explanation clear and easy to understand. I'll also try to use analogies or examples that High School students can relate to.
+
+## Step 3: Write a paragraph of 100 words that follows your plan.
+Computer security is like locking your house to keep it safe from intruders. It's a set of rules and practices that help protect computers, phones, and other devices from",7.6,65.62,9.0,10.3,8.08,9.79,4.05,7.571428571428571
+Chain-of-Thought,computer security,High School,100,meta-llama/Llama-3.1-8B-Instruct,"Step 1: Think about how to explain 'computer security' to someone reading at the High School level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 100 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the High School level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 100 words that follows your plan. Here is a paragraph about computer security:
+Computer security, or cybersecurity, is like locking your house. Imagine your house as a computer with sensitive information, like your bank account number. A cyber attacker is like a thief who tries to break into your house by guessing your lock combination or picking the lock. To keep your information safe, you need to use strong passwords, update your computer's software regularly, and be careful what links you click on. Just like a lock, strong computer security can keep your information safe from cyber attackers.
+Step 4: Review your paragraph for clarity and flow. Make sure it's easy to understand and that it flows well.
+Step 5: Make sure to include the main points of the topic. In this case, the main points are strong passwords, updating software regularly, and being careful with links. Step 6: Consider adding a visual or a question to make the topic more engaging. Here is a revised paragraph:
+Imagine your house as a computer with sensitive information",7.9,64.91,9.5,11.5,9.4,10.2,4.29,8.285714285714286
+Chain-of-Thought,computer security,High School,100,meta-llama/Llama-3.1-8B-Instruct,"Step 1: Think about how to explain 'computer security' to someone reading at the High School level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 100 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the High School level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 100 words that follows your plan. 
+Here's my explanation of computer security for someone reading at the High School level:
+
+Computer security is like locking the doors of your house. Just like how you want to keep your belongings safe, computer security helps protect information and systems from being accessed or damaged by unauthorized people. Hackers and viruses can try to break into computers, but security measures like passwords, firewalls, and antivirus software help prevent this from happening. Just like how you wouldn't leave your house unlocked, computer users should use strong passwords and keep their software up to date to stay safe online.
+
+## Step 1: Think about how to explain 'computer security' to someone reading at the High School level.
+To explain computer security to someone reading at the High School level, I need to use vocabulary and concepts that are familiar to them. I should relate computer security to a real-life scenario that they can understand, such as locking the doors of a house.
+
+## Step 2: Select appropriate vocabulary and sentence structure.
+To make",10.6,52.39,12.5,12.6,10.03,11.89,4.86,11.0

@@ -1,0 +1,83 @@
+Technique,Topic,Target Level,Output Length,Model,Prompt,Rewrite Prompt,Text,Flesch-Kincaid,Flesch Ease,ARI,SMOG,Gunning Fog,Coleman-Liau,Spache,Linsear Write
+Chain-of-Thought,computer security,High School,200,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'computer security' to someone reading at the High School level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 200 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the High School level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 200 words that follows your plan. Review it to make sure it is accessible to a reader at the High School level.
+
+**Sample Paragraph:**
+
+Computer security is like having a super smart bodyguard for your computer. Just like you wouldn't let a stranger into your house without knowing who they are, you shouldn't let just anyone into your computer either. This bodyguard, or security software, checks everyone who tries to get into your computer, making sure they have the right 'password' or 'invitation'. It also keeps an eye out for sneaky 'hackers' who might try to break in without being invited. If it spots any trouble, it quickly shouts for help and tries to kick the intruder out. This way, your computer and all the important stuff inside it, like your schoolwork and photos, stay safe and sound.",8.7,62.78,10.0,10.6,9.13,9.45,4.34,7.7142857142857135
+Chain-of-Thought,computer security,High School,200,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'computer security' to someone reading at the High School level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 200 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the High School level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 200 words that follows your plan. Include a hook, an explanation of computer security, and an example.
+
+Sure, imagine you're riding your bike. You lock it up to keep it safe from thieves, right? Now, think about your computer. It's like a super fast bike that stores all your important information. Computer security is like that lock - it's the stuff we do to protect our computers and the data inside. This could be anything from using strong passwords to keeping your software up-to-date. For example, let's say you're using a public Wi-Fi at a coffee shop. A hacker could try to steal your information if you're not careful. But if you use a Virtual Private Network (VPN), it's like a secret tunnel between your computer and the internet. The hacker can't see what you're doing, so your data stays safe.",6.9,67.55,7.4,10.0,7.69,8.4,3.92,6.111111111111111
+Chain-of-Thought,computer security,High School,200,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'computer security' to someone reading at the High School level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 200 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the High School level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 200 words that follows your plan.",6.9,67.45,8.7,9.7,9.24,10.02,4.21,6.5
+Chain-of-Thought,computer security,High School,200,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'computer security' to someone reading at the High School level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 200 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the High School level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 200 words that follows your plan. Review it to ensure it is clear and concise.
+
+Computer security, or cybersecurity, is like protecting your house from burglars. Just as you lock your doors and windows to keep thieves out, computers need protection from digital intruders. These intruders can be people who want to steal your personal information, like passwords or credit card numbers, or they could be viruses that damage your computer. To protect your computer, you need to use strong passwords, keep your software up-to-date, and be careful about which websites you visit and files you download. This is because outdated software can have weaknesses that hackers can exploit, and some websites or files might contain hidden viruses. It's also important to use secure connections when entering sensitive information online, like when shopping or banking. This ensures that your information is encrypted, which means it's scrambled and unreadable to anyone who might intercept it. In short, computer security is about making your digital life as safe and secure as your physical one.",9.9,54.32,11.9,12.6,11.29,12.12,5.13,8.285714285714286
+Chain-of-Thought,computer security,High School,200,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'computer security' to someone reading at the High School level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 200 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the High School level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 200 words that follows your plan.",6.9,67.45,8.7,9.7,9.24,10.02,4.21,6.5
+Chain-of-Thought,computer security,High School,200,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'computer security' to someone reading at the High School level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 200 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the High School level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 200 words that follows your plan. Be sure to include the following concepts: password, hacker, firewall, encryption, virus, malware, and software update.
+
+In the digital world, keeping your computer safe is like locking your front door at night. It's called computer security. Imagine you have a secret password that only you and your friends know. This password is like your front door lock, it helps keep unwanted visitors, or 'hackers', out of your computer. Hackers are like sneaky thieves who try to break into computers to steal or damage information. A firewall is like a security guard at your door. It checks everyone who tries to enter your computer and only lets the good guys in. Sometimes, hackers can create fake identities or 'viruses' to trick your computer into letting them in. These viruses can cause trouble, like deleting your homework or slowing down your computer. They can also bring along unwanted friends, known as'malware'. To protect against this, it's important to use strong",7.2,66.74,9.2,10.4,8.07,10.31,4.26,6.75
+Chain-of-Thought,computer security,High School,200,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'computer security' to someone reading at the High School level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 200 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the High School level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 200 words that follows your plan. Step 4: Review and edit your paragraph.
+
+**Your Task:**
+
+1. **Plan:** To explain computer security, I will use simple terms and compare it to real-life security measures. I will mention common threats like hackers and viruses, and explain how security software and updates protect computers.
+
+2. **Vocabulary:** everyday language, real-life examples, basic computer terms, and simple explanations.
+
+3. **Paragraph:**
+
+   ""Imagine your home has a door and windows. You lock them to keep out unwanted visitors, right? That's what computer security does for your computer. It's like having a digital lock system.
+
+   You might have heard about 'hackers' who try to break into computers, like someone trying to pick your lock. They can cause trouble, just like a burglar in your home. Similarly, 'viruses' can sneak in and mess up your computer's files, similar to how a real virus makes you sick.
+
+   To protect your computer, you",7.7,59.9,8.8,10.6,7.84,9.72,4.05,6.333333333333333
+Chain-of-Thought,computer security,High School,200,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'computer security' to someone reading at the High School level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 200 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the High School level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 200 words that follows your plan. Remember that the paragraph must have a topic sentence, body, and conclusion.
+
+Computer security is like having a strong lock on your front door to keep unwanted guests out of your house. When you think about computers, imagine that they are like your home, storing all sorts of personal and important information. Just as you wouldn't want strangers walking into your house and rummaging through your things, you don't want others to access your computer's data without your permission. This is where computer security comes in. It's a set of rules and practices that protect your computer and its information from harm. Some of these practices include using strong passwords, keeping your software up to date, and being careful about which websites you visit and what emails you open. By following these rules, you can help keep your computer safe and protect your personal information.",8.5,63.19,11.0,11.6,9.68,11.19,4.64,8.0
+Chain-of-Thought,computer security,High School,200,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'computer security' to someone reading at the High School level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 200 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the High School level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 200 words that follows your plan. Here is my attempt:
+
+Computer security, or cybersecurity, is like protecting your home. Imagine your house has many windows and doors, which are like the ways people can access your computer. You wouldn't leave them all open when you're not home, right? That's why we use passwords, firewalls, and other tools to close those 'doors' and keep our computers safe. Hackers, who are like burglars in the cyber world, are always looking for ways to break in. So, we need to keep our software up to date, be careful with emails and downloads, and never share our passwords. Just like having a good lock on your door, these steps help protect our computers from hackers.",6.9,72.97,9.0,9.1,8.45,8.98,4.34,6.5
+Chain-of-Thought,computer security,High School,200,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'computer security' to someone reading at the High School level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 200 words that follows your plan.",,"Step 1: Think about how to explain 'computer security' to someone reading at the High School level.
+Step 2: Select appropriate vocabulary and sentence structure.
+Step 3: Write a paragraph of 200 words that follows your plan. Check it for grammar and punctuation.
+
+**Answer:**
+
+Computer security, simply put, is like protecting your home from unwanted visitors. Just as you lock your doors and windows to keep strangers out, computers need protection too. This protection is from harmful software, known as malware, and from people who might try to access your computer without permission. Just like a strong lock keeps burglars out, strong passwords and updated software can keep cyber threats at bay. Moreover, using safe websites and avoiding suspicious links is like walking down a well-lit street instead of a dark alley. It's all about being cautious and taking necessary precautions to keep your computer, and the information on it, safe.",8.0,64.61,10.8,11.4,10.81,11.36,5.08,7.125

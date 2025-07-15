@@ -1,0 +1,326 @@
+Technique,Topic,Target Level,Output Length,Model,Prompt,Rewrite Prompt,Text,Flesch-Kincaid,Flesch Ease,ARI,SMOG,Gunning Fog,Coleman-Liau,Spache,Linsear Write
+Few-Shot,prehistory,Upper Elementary,50,meta-llama/Llama-3.1-8B-Instruct,"Example 1:
+As Johnson worked on math problems with the other female computers, she would ask questions. She didn't want to just do the work — she wanted to know the ""hows"" and the ""whys,"" and then the ""why nots."" By asking questions, Johnson began to stand out.
+Women were not allowed to attend meetings with the male engineers and scientists. Johnson wanted to go to these meetings to learn more about the projects, so she went. She became known for her training in geometry and began to work with teams made up of men. Eventually, she was recognized as a leader, and the men increasingly relied on her to have the answers they needed.
+In 1958, NACA officially became NASA. Shortly thereafter, Johnson became part of the space team. She began calculating the flight path, or trajectory path, for the rocket to put the first American in space in 1961. That American was astronaut Alan Shepard. The engineers knew when and where they wanted Shepard's space capsule to land, but the tricky part was to calculate when and where the rocket would have to launch. Johnson figured it out!
+
+Example 2:
+When Naomi saw that Ruth loved her so much, she forgot how tired and hungry she was, and the two journeyed on together until they came to Bethlehem in Judah in the beginning of the barley harvest. There was no famine in Bethlehem. The fields were full of waving grain, and busy servants were reaping it and gathering it up to bind into sheaves. Above all were the fields of the rich man, Boaz, shining with barley and corn.
+Naomi and Ruth came to the edge of the fields and watched the busy reapers. They saw that after each sheaf was bound, and each pile of corn was stacked, a little grain fell, unnoticed, to the ground. Ruth said to Naomi: ""Let me go to the field and glean the ears of corn after them."" And Naomi said to her, ""Go, my daughter."" And she went, and came and gleaned in the field after the reapers.
+
+Using vocabulary and structure from examples, write a short paragraph about 'prehistory' targeting the same readability level (Upper Elementary), limited to 50 words.",,"Example 1:
+As Johnson worked on math problems with the other female computers, she would ask questions. She didn't want to just do the work — she wanted to know the ""hows"" and the ""whys,"" and then the ""why nots."" By asking questions, Johnson began to stand out.
+Women were not allowed to attend meetings with the male engineers and scientists. Johnson wanted to go to these meetings to learn more about the projects, so she went. She became known for her training in geometry and began to work with teams made up of men. Eventually, she was recognized as a leader, and the men increasingly relied on her to have the answers they needed.
+In 1958, NACA officially became NASA. Shortly thereafter, Johnson became part of the space team. She began calculating the flight path, or trajectory path, for the rocket to put the first American in space in 1961. That American was astronaut Alan Shepard. The engineers knew when and where they wanted Shepard's space capsule to land, but the tricky part was to calculate when and where the rocket would have to launch. Johnson figured it out!
+
+Example 2:
+When Naomi saw that Ruth loved her so much, she forgot how tired and hungry she was, and the two journeyed on together until they came to Bethlehem in Judah in the beginning of the barley harvest. There was no famine in Bethlehem. The fields were full of waving grain, and busy servants were reaping it and gathering it up to bind into sheaves. Above all were the fields of the rich man, Boaz, shining with barley and corn.
+Naomi and Ruth came to the edge of the fields and watched the busy reapers. They saw that after each sheaf was bound, and each pile of corn was stacked, a little grain fell, unnoticed, to the ground. Ruth said to Naomi: ""Let me go to the field and glean the ears of corn after them."" And Naomi said to her, ""Go, my daughter."" And she went, and came and gleaned in the field after the reapers.
+
+Using vocabulary and structure from examples, write a short paragraph about 'prehistory' targeting the same readability level (Upper Elementary), limited to 50 words. Here's a picture to help you get started:
+
+A map of the globe showing prehistoric sites
+
+Prehistory was a time when humans had not yet discovered writing. There were many discoveries of ancient bones and fossils. This helped us learn about the earliest humans. They lived in caves, built shelters, and hunted for food. They also made tools from rocks and sticks.
+
+Here's an example paragraph written by someone who has not seen the picture or any other information:
+
+Prehistory was a time when humans had not yet discovered writing. There were many discoveries of ancient bones and fossils. This helped us learn about the earliest humans. They lived in caves, built shelters, and hunted for food. They also made tools from rocks and sticks. They had to find food and shelter every day. 
+
+Compare the two paragraphs. The second paragraph has some repetition that is not present in the first paragraph. The second paragraph also has a sentence that is not supported by the picture. The second paragraph has 39 words",6.5,73.88,7.8,9.2,8.01,8.34,3.93,7.142857142857142
+Few-Shot,prehistory,Upper Elementary,50,meta-llama/Llama-3.1-8B-Instruct,"Example 1:
+As Johnson worked on math problems with the other female computers, she would ask questions. She didn't want to just do the work — she wanted to know the ""hows"" and the ""whys,"" and then the ""why nots."" By asking questions, Johnson began to stand out.
+Women were not allowed to attend meetings with the male engineers and scientists. Johnson wanted to go to these meetings to learn more about the projects, so she went. She became known for her training in geometry and began to work with teams made up of men. Eventually, she was recognized as a leader, and the men increasingly relied on her to have the answers they needed.
+In 1958, NACA officially became NASA. Shortly thereafter, Johnson became part of the space team. She began calculating the flight path, or trajectory path, for the rocket to put the first American in space in 1961. That American was astronaut Alan Shepard. The engineers knew when and where they wanted Shepard's space capsule to land, but the tricky part was to calculate when and where the rocket would have to launch. Johnson figured it out!
+
+Example 2:
+When Naomi saw that Ruth loved her so much, she forgot how tired and hungry she was, and the two journeyed on together until they came to Bethlehem in Judah in the beginning of the barley harvest. There was no famine in Bethlehem. The fields were full of waving grain, and busy servants were reaping it and gathering it up to bind into sheaves. Above all were the fields of the rich man, Boaz, shining with barley and corn.
+Naomi and Ruth came to the edge of the fields and watched the busy reapers. They saw that after each sheaf was bound, and each pile of corn was stacked, a little grain fell, unnoticed, to the ground. Ruth said to Naomi: ""Let me go to the field and glean the ears of corn after them."" And Naomi said to her, ""Go, my daughter."" And she went, and came and gleaned in the field after the reapers.
+
+Using vocabulary and structure from examples, write a short paragraph about 'prehistory' targeting the same readability level (Upper Elementary), limited to 50 words.",,"Example 1:
+As Johnson worked on math problems with the other female computers, she would ask questions. She didn't want to just do the work — she wanted to know the ""hows"" and the ""whys,"" and then the ""why nots."" By asking questions, Johnson began to stand out.
+Women were not allowed to attend meetings with the male engineers and scientists. Johnson wanted to go to these meetings to learn more about the projects, so she went. She became known for her training in geometry and began to work with teams made up of men. Eventually, she was recognized as a leader, and the men increasingly relied on her to have the answers they needed.
+In 1958, NACA officially became NASA. Shortly thereafter, Johnson became part of the space team. She began calculating the flight path, or trajectory path, for the rocket to put the first American in space in 1961. That American was astronaut Alan Shepard. The engineers knew when and where they wanted Shepard's space capsule to land, but the tricky part was to calculate when and where the rocket would have to launch. Johnson figured it out!
+
+Example 2:
+When Naomi saw that Ruth loved her so much, she forgot how tired and hungry she was, and the two journeyed on together until they came to Bethlehem in Judah in the beginning of the barley harvest. There was no famine in Bethlehem. The fields were full of waving grain, and busy servants were reaping it and gathering it up to bind into sheaves. Above all were the fields of the rich man, Boaz, shining with barley and corn.
+Naomi and Ruth came to the edge of the fields and watched the busy reapers. They saw that after each sheaf was bound, and each pile of corn was stacked, a little grain fell, unnoticed, to the ground. Ruth said to Naomi: ""Let me go to the field and glean the ears of corn after them."" And Naomi said to her, ""Go, my daughter."" And she went, and came and gleaned in the field after the reapers.
+
+Using vocabulary and structure from examples, write a short paragraph about 'prehistory' targeting the same readability level (Upper Elementary), limited to 50 words. Here is the vocabulary list to use:
+
+- Fossils
+- Ancient
+- Paleontologists
+- Mammoths
+- Extinct
+- Humans
+- Discover
+
+In the ancient time of prehistory, there were humans who lived without writing. Paleontologists study the fossils of mammoths to learn about the past. Mammoths are now extinct, but we can discover what they looked like and how they lived. Scientists learn from these discoveries to understand prehistory.  |
+
+## Step 1: Determine the readability level of the examples.
+The examples provided are at an Upper Elementary readability level, which means they are written for students in the 4th to 6th grade range. This level requires vocabulary and sentence structures that are clear and concise, yet challenging enough to engage readers.
+
+## Step 2: Select vocabulary from the provided list that fits the readability level.
+From the given vocabulary list, the words ""ancient,"" ""extinct,"" and ""discover""",8.3,63.9,9.4,10.6,8.61,9.51,4.23,7.142857142857142
+Few-Shot,prehistory,Upper Elementary,50,meta-llama/Llama-3.1-8B-Instruct,"Example 1:
+As Johnson worked on math problems with the other female computers, she would ask questions. She didn't want to just do the work — she wanted to know the ""hows"" and the ""whys,"" and then the ""why nots."" By asking questions, Johnson began to stand out.
+Women were not allowed to attend meetings with the male engineers and scientists. Johnson wanted to go to these meetings to learn more about the projects, so she went. She became known for her training in geometry and began to work with teams made up of men. Eventually, she was recognized as a leader, and the men increasingly relied on her to have the answers they needed.
+In 1958, NACA officially became NASA. Shortly thereafter, Johnson became part of the space team. She began calculating the flight path, or trajectory path, for the rocket to put the first American in space in 1961. That American was astronaut Alan Shepard. The engineers knew when and where they wanted Shepard's space capsule to land, but the tricky part was to calculate when and where the rocket would have to launch. Johnson figured it out!
+
+Example 2:
+When Naomi saw that Ruth loved her so much, she forgot how tired and hungry she was, and the two journeyed on together until they came to Bethlehem in Judah in the beginning of the barley harvest. There was no famine in Bethlehem. The fields were full of waving grain, and busy servants were reaping it and gathering it up to bind into sheaves. Above all were the fields of the rich man, Boaz, shining with barley and corn.
+Naomi and Ruth came to the edge of the fields and watched the busy reapers. They saw that after each sheaf was bound, and each pile of corn was stacked, a little grain fell, unnoticed, to the ground. Ruth said to Naomi: ""Let me go to the field and glean the ears of corn after them."" And Naomi said to her, ""Go, my daughter."" And she went, and came and gleaned in the field after the reapers.
+
+Using vocabulary and structure from examples, write a short paragraph about 'prehistory' targeting the same readability level (Upper Elementary), limited to 50 words.",,"Example 1:
+As Johnson worked on math problems with the other female computers, she would ask questions. She didn't want to just do the work — she wanted to know the ""hows"" and the ""whys,"" and then the ""why nots."" By asking questions, Johnson began to stand out.
+Women were not allowed to attend meetings with the male engineers and scientists. Johnson wanted to go to these meetings to learn more about the projects, so she went. She became known for her training in geometry and began to work with teams made up of men. Eventually, she was recognized as a leader, and the men increasingly relied on her to have the answers they needed.
+In 1958, NACA officially became NASA. Shortly thereafter, Johnson became part of the space team. She began calculating the flight path, or trajectory path, for the rocket to put the first American in space in 1961. That American was astronaut Alan Shepard. The engineers knew when and where they wanted Shepard's space capsule to land, but the tricky part was to calculate when and where the rocket would have to launch. Johnson figured it out!
+
+Example 2:
+When Naomi saw that Ruth loved her so much, she forgot how tired and hungry she was, and the two journeyed on together until they came to Bethlehem in Judah in the beginning of the barley harvest. There was no famine in Bethlehem. The fields were full of waving grain, and busy servants were reaping it and gathering it up to bind into sheaves. Above all were the fields of the rich man, Boaz, shining with barley and corn.
+Naomi and Ruth came to the edge of the fields and watched the busy reapers. They saw that after each sheaf was bound, and each pile of corn was stacked, a little grain fell, unnoticed, to the ground. Ruth said to Naomi: ""Let me go to the field and glean the ears of corn after them."" And Naomi said to her, ""Go, my daughter."" And she went, and came and gleaned in the field after the reapers.
+
+Using vocabulary and structure from examples, write a short paragraph about 'prehistory' targeting the same readability level (Upper Elementary), limited to 50 words. 
+Prehistory began millions of years ago and lasted until ancient civilizations were recorded. Before writing, people communicated with pictures and sounds. Many of their stories were passed down by word of mouth. Early humans hunted, gathered, and farmed. They discovered tools and fire. They formed small communities. 
+Note: This paragraph is around 50 words, the vocabulary is relatively simple and the structure is straightforward, making it accessible for upper elementary readers.  The paragraph provides a basic overview of prehistory, and it is concise and easy to follow. 
+
+However, for a more engaging and detailed narrative, I'd be happy to revise and expand the paragraph to better suit the original style of the examples. Here's an attempt at a more narrative-driven paragraph:
+
+Long before the first written records, humans roamed the earth. They lived in small groups, communicating through pictures and sounds. These early storytellers passed down tales of hunting and gathering, of discovering tools and starting fires. As they traveled, they",6.7,73.37,9.0,9.9,8.71,9.45,4.3,7.142857142857142
+Few-Shot,prehistory,Upper Elementary,50,meta-llama/Llama-3.1-8B-Instruct,"Example 1:
+As Johnson worked on math problems with the other female computers, she would ask questions. She didn't want to just do the work — she wanted to know the ""hows"" and the ""whys,"" and then the ""why nots."" By asking questions, Johnson began to stand out.
+Women were not allowed to attend meetings with the male engineers and scientists. Johnson wanted to go to these meetings to learn more about the projects, so she went. She became known for her training in geometry and began to work with teams made up of men. Eventually, she was recognized as a leader, and the men increasingly relied on her to have the answers they needed.
+In 1958, NACA officially became NASA. Shortly thereafter, Johnson became part of the space team. She began calculating the flight path, or trajectory path, for the rocket to put the first American in space in 1961. That American was astronaut Alan Shepard. The engineers knew when and where they wanted Shepard's space capsule to land, but the tricky part was to calculate when and where the rocket would have to launch. Johnson figured it out!
+
+Example 2:
+When Naomi saw that Ruth loved her so much, she forgot how tired and hungry she was, and the two journeyed on together until they came to Bethlehem in Judah in the beginning of the barley harvest. There was no famine in Bethlehem. The fields were full of waving grain, and busy servants were reaping it and gathering it up to bind into sheaves. Above all were the fields of the rich man, Boaz, shining with barley and corn.
+Naomi and Ruth came to the edge of the fields and watched the busy reapers. They saw that after each sheaf was bound, and each pile of corn was stacked, a little grain fell, unnoticed, to the ground. Ruth said to Naomi: ""Let me go to the field and glean the ears of corn after them."" And Naomi said to her, ""Go, my daughter."" And she went, and came and gleaned in the field after the reapers.
+
+Using vocabulary and structure from examples, write a short paragraph about 'prehistory' targeting the same readability level (Upper Elementary), limited to 50 words.",,"Example 1:
+As Johnson worked on math problems with the other female computers, she would ask questions. She didn't want to just do the work — she wanted to know the ""hows"" and the ""whys,"" and then the ""why nots."" By asking questions, Johnson began to stand out.
+Women were not allowed to attend meetings with the male engineers and scientists. Johnson wanted to go to these meetings to learn more about the projects, so she went. She became known for her training in geometry and began to work with teams made up of men. Eventually, she was recognized as a leader, and the men increasingly relied on her to have the answers they needed.
+In 1958, NACA officially became NASA. Shortly thereafter, Johnson became part of the space team. She began calculating the flight path, or trajectory path, for the rocket to put the first American in space in 1961. That American was astronaut Alan Shepard. The engineers knew when and where they wanted Shepard's space capsule to land, but the tricky part was to calculate when and where the rocket would have to launch. Johnson figured it out!
+
+Example 2:
+When Naomi saw that Ruth loved her so much, she forgot how tired and hungry she was, and the two journeyed on together until they came to Bethlehem in Judah in the beginning of the barley harvest. There was no famine in Bethlehem. The fields were full of waving grain, and busy servants were reaping it and gathering it up to bind into sheaves. Above all were the fields of the rich man, Boaz, shining with barley and corn.
+Naomi and Ruth came to the edge of the fields and watched the busy reapers. They saw that after each sheaf was bound, and each pile of corn was stacked, a little grain fell, unnoticed, to the ground. Ruth said to Naomi: ""Let me go to the field and glean the ears of corn after them."" And Naomi said to her, ""Go, my daughter."" And she went, and came and gleaned in the field after the reapers.
+
+Using vocabulary and structure from examples, write a short paragraph about 'prehistory' targeting the same readability level (Upper Elementary), limited to 50 words. 
+
+Prehistory is the period of time before we can use written records to learn about it. The earliest humans, like our ancestors, were hunter-gatherers who roamed the earth. They used rocks and sticks to make tools and shelters. They hunted and gathered food to survive. This time is hard to understand.",6.8,73.17,8.0,9.6,8.66,8.05,4.21,7.142857142857142
+Few-Shot,prehistory,Upper Elementary,50,meta-llama/Llama-3.1-8B-Instruct,"Example 1:
+As Johnson worked on math problems with the other female computers, she would ask questions. She didn't want to just do the work — she wanted to know the ""hows"" and the ""whys,"" and then the ""why nots."" By asking questions, Johnson began to stand out.
+Women were not allowed to attend meetings with the male engineers and scientists. Johnson wanted to go to these meetings to learn more about the projects, so she went. She became known for her training in geometry and began to work with teams made up of men. Eventually, she was recognized as a leader, and the men increasingly relied on her to have the answers they needed.
+In 1958, NACA officially became NASA. Shortly thereafter, Johnson became part of the space team. She began calculating the flight path, or trajectory path, for the rocket to put the first American in space in 1961. That American was astronaut Alan Shepard. The engineers knew when and where they wanted Shepard's space capsule to land, but the tricky part was to calculate when and where the rocket would have to launch. Johnson figured it out!
+
+Example 2:
+When Naomi saw that Ruth loved her so much, she forgot how tired and hungry she was, and the two journeyed on together until they came to Bethlehem in Judah in the beginning of the barley harvest. There was no famine in Bethlehem. The fields were full of waving grain, and busy servants were reaping it and gathering it up to bind into sheaves. Above all were the fields of the rich man, Boaz, shining with barley and corn.
+Naomi and Ruth came to the edge of the fields and watched the busy reapers. They saw that after each sheaf was bound, and each pile of corn was stacked, a little grain fell, unnoticed, to the ground. Ruth said to Naomi: ""Let me go to the field and glean the ears of corn after them."" And Naomi said to her, ""Go, my daughter."" And she went, and came and gleaned in the field after the reapers.
+
+Using vocabulary and structure from examples, write a short paragraph about 'prehistory' targeting the same readability level (Upper Elementary), limited to 50 words.",,"Example 1:
+As Johnson worked on math problems with the other female computers, she would ask questions. She didn't want to just do the work — she wanted to know the ""hows"" and the ""whys,"" and then the ""why nots."" By asking questions, Johnson began to stand out.
+Women were not allowed to attend meetings with the male engineers and scientists. Johnson wanted to go to these meetings to learn more about the projects, so she went. She became known for her training in geometry and began to work with teams made up of men. Eventually, she was recognized as a leader, and the men increasingly relied on her to have the answers they needed.
+In 1958, NACA officially became NASA. Shortly thereafter, Johnson became part of the space team. She began calculating the flight path, or trajectory path, for the rocket to put the first American in space in 1961. That American was astronaut Alan Shepard. The engineers knew when and where they wanted Shepard's space capsule to land, but the tricky part was to calculate when and where the rocket would have to launch. Johnson figured it out!
+
+Example 2:
+When Naomi saw that Ruth loved her so much, she forgot how tired and hungry she was, and the two journeyed on together until they came to Bethlehem in Judah in the beginning of the barley harvest. There was no famine in Bethlehem. The fields were full of waving grain, and busy servants were reaping it and gathering it up to bind into sheaves. Above all were the fields of the rich man, Boaz, shining with barley and corn.
+Naomi and Ruth came to the edge of the fields and watched the busy reapers. They saw that after each sheaf was bound, and each pile of corn was stacked, a little grain fell, unnoticed, to the ground. Ruth said to Naomi: ""Let me go to the field and glean the ears of corn after them."" And Naomi said to her, ""Go, my daughter."" And she went, and came and gleaned in the field after the reapers.
+
+Using vocabulary and structure from examples, write a short paragraph about 'prehistory' targeting the same readability level (Upper Elementary), limited to 50 words. 
+
+Prehistory was a time when humans had no writing. They didn't know who their ancestors were or where they came from. Archaeologists have discovered old tools, like hammers and knives, and built houses, which tell us how people lived. They have also found old paintings. These clues tell us about prehistory.  I have to keep this short, and within the 50 word limit. 
+However, to better match the readability level and style of the examples, I rewrote it, and it is below:
+
+Long ago, before writing was invented, people lived in prehistory. They used tools like hammers and knives and built homes. Old paintings were found, showing how people lived. These clues, like the old tools and paintings, help us learn about prehistory. They tell us about how people lived a long time ago.  I made the vocabulary easier and tried to emulate the structure of the examples. I hope this is more readable for an Upper Elementary level.",6.7,73.47,7.9,9.6,8.15,8.11,3.98,7.142857142857142
+Few-Shot,prehistory,Upper Elementary,50,meta-llama/Llama-3.1-8B-Instruct,"Example 1:
+As Johnson worked on math problems with the other female computers, she would ask questions. She didn't want to just do the work — she wanted to know the ""hows"" and the ""whys,"" and then the ""why nots."" By asking questions, Johnson began to stand out.
+Women were not allowed to attend meetings with the male engineers and scientists. Johnson wanted to go to these meetings to learn more about the projects, so she went. She became known for her training in geometry and began to work with teams made up of men. Eventually, she was recognized as a leader, and the men increasingly relied on her to have the answers they needed.
+In 1958, NACA officially became NASA. Shortly thereafter, Johnson became part of the space team. She began calculating the flight path, or trajectory path, for the rocket to put the first American in space in 1961. That American was astronaut Alan Shepard. The engineers knew when and where they wanted Shepard's space capsule to land, but the tricky part was to calculate when and where the rocket would have to launch. Johnson figured it out!
+
+Example 2:
+When Naomi saw that Ruth loved her so much, she forgot how tired and hungry she was, and the two journeyed on together until they came to Bethlehem in Judah in the beginning of the barley harvest. There was no famine in Bethlehem. The fields were full of waving grain, and busy servants were reaping it and gathering it up to bind into sheaves. Above all were the fields of the rich man, Boaz, shining with barley and corn.
+Naomi and Ruth came to the edge of the fields and watched the busy reapers. They saw that after each sheaf was bound, and each pile of corn was stacked, a little grain fell, unnoticed, to the ground. Ruth said to Naomi: ""Let me go to the field and glean the ears of corn after them."" And Naomi said to her, ""Go, my daughter."" And she went, and came and gleaned in the field after the reapers.
+
+Using vocabulary and structure from examples, write a short paragraph about 'prehistory' targeting the same readability level (Upper Elementary), limited to 50 words.",,"Example 1:
+As Johnson worked on math problems with the other female computers, she would ask questions. She didn't want to just do the work — she wanted to know the ""hows"" and the ""whys,"" and then the ""why nots."" By asking questions, Johnson began to stand out.
+Women were not allowed to attend meetings with the male engineers and scientists. Johnson wanted to go to these meetings to learn more about the projects, so she went. She became known for her training in geometry and began to work with teams made up of men. Eventually, she was recognized as a leader, and the men increasingly relied on her to have the answers they needed.
+In 1958, NACA officially became NASA. Shortly thereafter, Johnson became part of the space team. She began calculating the flight path, or trajectory path, for the rocket to put the first American in space in 1961. That American was astronaut Alan Shepard. The engineers knew when and where they wanted Shepard's space capsule to land, but the tricky part was to calculate when and where the rocket would have to launch. Johnson figured it out!
+
+Example 2:
+When Naomi saw that Ruth loved her so much, she forgot how tired and hungry she was, and the two journeyed on together until they came to Bethlehem in Judah in the beginning of the barley harvest. There was no famine in Bethlehem. The fields were full of waving grain, and busy servants were reaping it and gathering it up to bind into sheaves. Above all were the fields of the rich man, Boaz, shining with barley and corn.
+Naomi and Ruth came to the edge of the fields and watched the busy reapers. They saw that after each sheaf was bound, and each pile of corn was stacked, a little grain fell, unnoticed, to the ground. Ruth said to Naomi: ""Let me go to the field and glean the ears of corn after them."" And Naomi said to her, ""Go, my daughter."" And she went, and came and gleaned in the field after the reapers.
+
+Using vocabulary and structure from examples, write a short paragraph about 'prehistory' targeting the same readability level (Upper Elementary), limited to 50 words. 
+
+Prehistory, the time before written records, is a mystery. Archaeologists dig in the ground and find artifacts that tell us about the people who came before. They study bones, rocks, and tools to learn about early humans. It's like solving a puzzle, piece by piece. Each discovery helps us understand.  ​
+
+​ 
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​",6.8,73.17,8.8,9.5,8.57,8.05,4.14,7.142857142857142
+Few-Shot,prehistory,Upper Elementary,50,meta-llama/Llama-3.1-8B-Instruct,"Example 1:
+As Johnson worked on math problems with the other female computers, she would ask questions. She didn't want to just do the work — she wanted to know the ""hows"" and the ""whys,"" and then the ""why nots."" By asking questions, Johnson began to stand out.
+Women were not allowed to attend meetings with the male engineers and scientists. Johnson wanted to go to these meetings to learn more about the projects, so she went. She became known for her training in geometry and began to work with teams made up of men. Eventually, she was recognized as a leader, and the men increasingly relied on her to have the answers they needed.
+In 1958, NACA officially became NASA. Shortly thereafter, Johnson became part of the space team. She began calculating the flight path, or trajectory path, for the rocket to put the first American in space in 1961. That American was astronaut Alan Shepard. The engineers knew when and where they wanted Shepard's space capsule to land, but the tricky part was to calculate when and where the rocket would have to launch. Johnson figured it out!
+
+Example 2:
+When Naomi saw that Ruth loved her so much, she forgot how tired and hungry she was, and the two journeyed on together until they came to Bethlehem in Judah in the beginning of the barley harvest. There was no famine in Bethlehem. The fields were full of waving grain, and busy servants were reaping it and gathering it up to bind into sheaves. Above all were the fields of the rich man, Boaz, shining with barley and corn.
+Naomi and Ruth came to the edge of the fields and watched the busy reapers. They saw that after each sheaf was bound, and each pile of corn was stacked, a little grain fell, unnoticed, to the ground. Ruth said to Naomi: ""Let me go to the field and glean the ears of corn after them."" And Naomi said to her, ""Go, my daughter."" And she went, and came and gleaned in the field after the reapers.
+
+Using vocabulary and structure from examples, write a short paragraph about 'prehistory' targeting the same readability level (Upper Elementary), limited to 50 words.",,"Example 1:
+As Johnson worked on math problems with the other female computers, she would ask questions. She didn't want to just do the work — she wanted to know the ""hows"" and the ""whys,"" and then the ""why nots."" By asking questions, Johnson began to stand out.
+Women were not allowed to attend meetings with the male engineers and scientists. Johnson wanted to go to these meetings to learn more about the projects, so she went. She became known for her training in geometry and began to work with teams made up of men. Eventually, she was recognized as a leader, and the men increasingly relied on her to have the answers they needed.
+In 1958, NACA officially became NASA. Shortly thereafter, Johnson became part of the space team. She began calculating the flight path, or trajectory path, for the rocket to put the first American in space in 1961. That American was astronaut Alan Shepard. The engineers knew when and where they wanted Shepard's space capsule to land, but the tricky part was to calculate when and where the rocket would have to launch. Johnson figured it out!
+
+Example 2:
+When Naomi saw that Ruth loved her so much, she forgot how tired and hungry she was, and the two journeyed on together until they came to Bethlehem in Judah in the beginning of the barley harvest. There was no famine in Bethlehem. The fields were full of waving grain, and busy servants were reaping it and gathering it up to bind into sheaves. Above all were the fields of the rich man, Boaz, shining with barley and corn.
+Naomi and Ruth came to the edge of the fields and watched the busy reapers. They saw that after each sheaf was bound, and each pile of corn was stacked, a little grain fell, unnoticed, to the ground. Ruth said to Naomi: ""Let me go to the field and glean the ears of corn after them."" And Naomi said to her, ""Go, my daughter."" And she went, and came and gleaned in the field after the reapers.
+
+Using vocabulary and structure from examples, write a short paragraph about 'prehistory' targeting the same readability level (Upper Elementary), limited to 50 words. 
+
+Prehistory began when humans first walked the earth. They lived in caves and hunted for food. Early humans made tools from stones. They discovered fire and used it for warmth and cooking. Life was hard, but humans learned and grew, making tools better and better over time.  The period ended with the start of writing.  People could write down stories, facts, and events. This allowed for the development of history as we know it today.  
+
+
+Answer: 
+Prehistory began when humans first walked the earth. They lived in caves, hunted for food, and made tools from stones. Early humans discovered fire and used it for warmth and cooking. Life was hard, but humans learned and grew, making better tools over time. Prehistory ended when people started writing. They could record stories, facts, and events, creating history as we know it.",6.3,74.39,7.6,9.1,7.72,8.34,3.79,7.142857142857142
+Few-Shot,prehistory,Upper Elementary,50,meta-llama/Llama-3.1-8B-Instruct,"Example 1:
+As Johnson worked on math problems with the other female computers, she would ask questions. She didn't want to just do the work — she wanted to know the ""hows"" and the ""whys,"" and then the ""why nots."" By asking questions, Johnson began to stand out.
+Women were not allowed to attend meetings with the male engineers and scientists. Johnson wanted to go to these meetings to learn more about the projects, so she went. She became known for her training in geometry and began to work with teams made up of men. Eventually, she was recognized as a leader, and the men increasingly relied on her to have the answers they needed.
+In 1958, NACA officially became NASA. Shortly thereafter, Johnson became part of the space team. She began calculating the flight path, or trajectory path, for the rocket to put the first American in space in 1961. That American was astronaut Alan Shepard. The engineers knew when and where they wanted Shepard's space capsule to land, but the tricky part was to calculate when and where the rocket would have to launch. Johnson figured it out!
+
+Example 2:
+When Naomi saw that Ruth loved her so much, she forgot how tired and hungry she was, and the two journeyed on together until they came to Bethlehem in Judah in the beginning of the barley harvest. There was no famine in Bethlehem. The fields were full of waving grain, and busy servants were reaping it and gathering it up to bind into sheaves. Above all were the fields of the rich man, Boaz, shining with barley and corn.
+Naomi and Ruth came to the edge of the fields and watched the busy reapers. They saw that after each sheaf was bound, and each pile of corn was stacked, a little grain fell, unnoticed, to the ground. Ruth said to Naomi: ""Let me go to the field and glean the ears of corn after them."" And Naomi said to her, ""Go, my daughter."" And she went, and came and gleaned in the field after the reapers.
+
+Using vocabulary and structure from examples, write a short paragraph about 'prehistory' targeting the same readability level (Upper Elementary), limited to 50 words.",,"Example 1:
+As Johnson worked on math problems with the other female computers, she would ask questions. She didn't want to just do the work — she wanted to know the ""hows"" and the ""whys,"" and then the ""why nots."" By asking questions, Johnson began to stand out.
+Women were not allowed to attend meetings with the male engineers and scientists. Johnson wanted to go to these meetings to learn more about the projects, so she went. She became known for her training in geometry and began to work with teams made up of men. Eventually, she was recognized as a leader, and the men increasingly relied on her to have the answers they needed.
+In 1958, NACA officially became NASA. Shortly thereafter, Johnson became part of the space team. She began calculating the flight path, or trajectory path, for the rocket to put the first American in space in 1961. That American was astronaut Alan Shepard. The engineers knew when and where they wanted Shepard's space capsule to land, but the tricky part was to calculate when and where the rocket would have to launch. Johnson figured it out!
+
+Example 2:
+When Naomi saw that Ruth loved her so much, she forgot how tired and hungry she was, and the two journeyed on together until they came to Bethlehem in Judah in the beginning of the barley harvest. There was no famine in Bethlehem. The fields were full of waving grain, and busy servants were reaping it and gathering it up to bind into sheaves. Above all were the fields of the rich man, Boaz, shining with barley and corn.
+Naomi and Ruth came to the edge of the fields and watched the busy reapers. They saw that after each sheaf was bound, and each pile of corn was stacked, a little grain fell, unnoticed, to the ground. Ruth said to Naomi: ""Let me go to the field and glean the ears of corn after them."" And Naomi said to her, ""Go, my daughter."" And she went, and came and gleaned in the field after the reapers.
+
+Using vocabulary and structure from examples, write a short paragraph about 'prehistory' targeting the same readability level (Upper Elementary), limited to 50 words. 
+
+Prehistory, the time before written records, is a mysterious period. There are stories of humans, like the Neanderthals and the Cro-Magnons. They roamed the earth, hunting and gathering. Cave paintings show their daily life. Archaeologists study these artifacts to understand prehistory. They piece together clues to learn about the early humans.",6.6,73.68,8.2,9.8,8.56,8.63,4.11,7.142857142857142
+Few-Shot,prehistory,Upper Elementary,50,meta-llama/Llama-3.1-8B-Instruct,"Example 1:
+As Johnson worked on math problems with the other female computers, she would ask questions. She didn't want to just do the work — she wanted to know the ""hows"" and the ""whys,"" and then the ""why nots."" By asking questions, Johnson began to stand out.
+Women were not allowed to attend meetings with the male engineers and scientists. Johnson wanted to go to these meetings to learn more about the projects, so she went. She became known for her training in geometry and began to work with teams made up of men. Eventually, she was recognized as a leader, and the men increasingly relied on her to have the answers they needed.
+In 1958, NACA officially became NASA. Shortly thereafter, Johnson became part of the space team. She began calculating the flight path, or trajectory path, for the rocket to put the first American in space in 1961. That American was astronaut Alan Shepard. The engineers knew when and where they wanted Shepard's space capsule to land, but the tricky part was to calculate when and where the rocket would have to launch. Johnson figured it out!
+
+Example 2:
+When Naomi saw that Ruth loved her so much, she forgot how tired and hungry she was, and the two journeyed on together until they came to Bethlehem in Judah in the beginning of the barley harvest. There was no famine in Bethlehem. The fields were full of waving grain, and busy servants were reaping it and gathering it up to bind into sheaves. Above all were the fields of the rich man, Boaz, shining with barley and corn.
+Naomi and Ruth came to the edge of the fields and watched the busy reapers. They saw that after each sheaf was bound, and each pile of corn was stacked, a little grain fell, unnoticed, to the ground. Ruth said to Naomi: ""Let me go to the field and glean the ears of corn after them."" And Naomi said to her, ""Go, my daughter."" And she went, and came and gleaned in the field after the reapers.
+
+Using vocabulary and structure from examples, write a short paragraph about 'prehistory' targeting the same readability level (Upper Elementary), limited to 50 words.",,"Example 1:
+As Johnson worked on math problems with the other female computers, she would ask questions. She didn't want to just do the work — she wanted to know the ""hows"" and the ""whys,"" and then the ""why nots."" By asking questions, Johnson began to stand out.
+Women were not allowed to attend meetings with the male engineers and scientists. Johnson wanted to go to these meetings to learn more about the projects, so she went. She became known for her training in geometry and began to work with teams made up of men. Eventually, she was recognized as a leader, and the men increasingly relied on her to have the answers they needed.
+In 1958, NACA officially became NASA. Shortly thereafter, Johnson became part of the space team. She began calculating the flight path, or trajectory path, for the rocket to put the first American in space in 1961. That American was astronaut Alan Shepard. The engineers knew when and where they wanted Shepard's space capsule to land, but the tricky part was to calculate when and where the rocket would have to launch. Johnson figured it out!
+
+Example 2:
+When Naomi saw that Ruth loved her so much, she forgot how tired and hungry she was, and the two journeyed on together until they came to Bethlehem in Judah in the beginning of the barley harvest. There was no famine in Bethlehem. The fields were full of waving grain, and busy servants were reaping it and gathering it up to bind into sheaves. Above all were the fields of the rich man, Boaz, shining with barley and corn.
+Naomi and Ruth came to the edge of the fields and watched the busy reapers. They saw that after each sheaf was bound, and each pile of corn was stacked, a little grain fell, unnoticed, to the ground. Ruth said to Naomi: ""Let me go to the field and glean the ears of corn after them."" And Naomi said to her, ""Go, my daughter."" And she went, and came and gleaned in the field after the reapers.
+
+Using vocabulary and structure from examples, write a short paragraph about 'prehistory' targeting the same readability level (Upper Elementary), limited to 50 words. Here is the example paragraph.
+
+Prehistory is a long time ago. Humans did not have writing or pictures of their lives. To learn about prehistory, we must look at the things they left behind. These things are bones, stones, and other objects that people used long ago. We use them to understand their way of life.  Prehistory is before history. History started when people began to write things down. Before that, people did not write. So, we must look at the objects they left behind to learn about prehistory. These objects are like pictures of their lives. We can use them to understand how they lived. We can see the tools they used, the animals they hunted, and the homes they made. We can see that they were different from us, but also similar. They hunted and gathered food, and they had families and communities. We can learn a lot about prehistory by looking at these objects. We can learn about the way of life of people who lived",6.2,74.69,6.9,9.2,7.48,7.76,3.74,7.142857142857142
+Few-Shot,prehistory,Upper Elementary,50,meta-llama/Llama-3.1-8B-Instruct,"Example 1:
+As Johnson worked on math problems with the other female computers, she would ask questions. She didn't want to just do the work — she wanted to know the ""hows"" and the ""whys,"" and then the ""why nots."" By asking questions, Johnson began to stand out.
+Women were not allowed to attend meetings with the male engineers and scientists. Johnson wanted to go to these meetings to learn more about the projects, so she went. She became known for her training in geometry and began to work with teams made up of men. Eventually, she was recognized as a leader, and the men increasingly relied on her to have the answers they needed.
+In 1958, NACA officially became NASA. Shortly thereafter, Johnson became part of the space team. She began calculating the flight path, or trajectory path, for the rocket to put the first American in space in 1961. That American was astronaut Alan Shepard. The engineers knew when and where they wanted Shepard's space capsule to land, but the tricky part was to calculate when and where the rocket would have to launch. Johnson figured it out!
+
+Example 2:
+When Naomi saw that Ruth loved her so much, she forgot how tired and hungry she was, and the two journeyed on together until they came to Bethlehem in Judah in the beginning of the barley harvest. There was no famine in Bethlehem. The fields were full of waving grain, and busy servants were reaping it and gathering it up to bind into sheaves. Above all were the fields of the rich man, Boaz, shining with barley and corn.
+Naomi and Ruth came to the edge of the fields and watched the busy reapers. They saw that after each sheaf was bound, and each pile of corn was stacked, a little grain fell, unnoticed, to the ground. Ruth said to Naomi: ""Let me go to the field and glean the ears of corn after them."" And Naomi said to her, ""Go, my daughter."" And she went, and came and gleaned in the field after the reapers.
+
+Using vocabulary and structure from examples, write a short paragraph about 'prehistory' targeting the same readability level (Upper Elementary), limited to 50 words.",,"Example 1:
+As Johnson worked on math problems with the other female computers, she would ask questions. She didn't want to just do the work — she wanted to know the ""hows"" and the ""whys,"" and then the ""why nots."" By asking questions, Johnson began to stand out.
+Women were not allowed to attend meetings with the male engineers and scientists. Johnson wanted to go to these meetings to learn more about the projects, so she went. She became known for her training in geometry and began to work with teams made up of men. Eventually, she was recognized as a leader, and the men increasingly relied on her to have the answers they needed.
+In 1958, NACA officially became NASA. Shortly thereafter, Johnson became part of the space team. She began calculating the flight path, or trajectory path, for the rocket to put the first American in space in 1961. That American was astronaut Alan Shepard. The engineers knew when and where they wanted Shepard's space capsule to land, but the tricky part was to calculate when and where the rocket would have to launch. Johnson figured it out!
+
+Example 2:
+When Naomi saw that Ruth loved her so much, she forgot how tired and hungry she was, and the two journeyed on together until they came to Bethlehem in Judah in the beginning of the barley harvest. There was no famine in Bethlehem. The fields were full of waving grain, and busy servants were reaping it and gathering it up to bind into sheaves. Above all were the fields of the rich man, Boaz, shining with barley and corn.
+Naomi and Ruth came to the edge of the fields and watched the busy reapers. They saw that after each sheaf was bound, and each pile of corn was stacked, a little grain fell, unnoticed, to the ground. Ruth said to Naomi: ""Let me go to the field and glean the ears of corn after them."" And Naomi said to her, ""Go, my daughter."" And she went, and came and gleaned in the field after the reapers.
+
+Using vocabulary and structure from examples, write a short paragraph about 'prehistory' targeting the same readability level (Upper Elementary), limited to 50 words. 
+
+Prehistory was a time when people lived without writing. They made tools, hunted and farmed, and made shelter. They were skilled at using rocks, sticks, and stones. The earliest people were hunter-gatherers, and as time passed, they developed agriculture. They made pottery and tools to make life easier.  People learned to work together to survive. 
+
+Vocabulary List:
+- Prehistory: the time before written history
+- Hunter-gatherers: people who hunted and gathered food
+- Agriculture: growing crops and raising animals
+- Pottery: earthenware objects made for cooking and storing food
+- Tools: objects made for performing a task
+- Shelter: a place to live or rest
+
+Note: The vocabulary and sentence structure should match the examples. 
+Also, this paragraph should not be a list, but a cohesive paragraph. 
+
+Here is my attempt:
+During prehistory, people made tools to make their lives easier. They hunted and gathered food, and",7.0,72.66,9.2,10.2,8.78,9.39,4.22,7.142857142857142

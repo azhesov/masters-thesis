@@ -1,0 +1,286 @@
+Technique,Topic,Target Level,Output Length,Model,Prompt,Rewrite Prompt,Text,Flesch-Kincaid,Flesch Ease,ARI,SMOG,Gunning Fog,Coleman-Liau,Spache,Linsear Write
+Few-Shot,nutrition,High School,50,meta-llama/Llama-3.1-8B-Instruct,"Example 1:
+Daniel was but eight years old, a boy of striking appearance, with black hair and eyes, and a swarthy complexion. He was of slender frame, and his large dark eyes, deep set beneath an overhanging brow, gave a singular appearance to the thin face of the delicate looking boy. He was a farmer's son, and lived in a plain, old-fashioned house, shaded by fine elms, and separated from the broad, quiet street by a fence. It was situated in a valley, at the bend of the Merrimac, on both sides of which rose high hills, which the boy climbed many a time for the more extended view they commanded. From a high sheep-pasture on his father's farm, through a wide opening in the hills, he could see on a clear day Brentney Mountain in Vermont, and in a different direction the snowy top of Mount Washington, far away to the northeast.
+
+Example 2:
+There is no specific scientific calculator prescribed for this subject. Any scientific, nonprogrammable calculator is suitable for your studies. Different scientific calculators have different functions and it is up to you to know your calculator. Most scientific calculators have algebraic logic; the operation in an expression can be entered in the calculator in the order in which the expression is read (left to right). The calculator automatically follows the conventional order of operations. 
+You can setup your calculator to work either in natural display or linear display. Natural display causes fractions, irrational numbers, expressions, and certain functions to be displayed as you see them on paper. Linear display causes fractions and other expressions to be displayed in a line. 
+When we come across an expression such as 7 + 3 ÷ 10 × 1, it makes a difference how we choose which operations to perform first.
+Scientific calculators have been programmed to follow preset mathematical rules. If we press the buttons in a certain order, the calculator does the operations according to the rules that it has been programmed with.
+
+Using vocabulary and structure from examples, write a short paragraph about 'nutrition' targeting the same readability level (High School), limited to 50 words.",,"Example 1:
+Daniel was but eight years old, a boy of striking appearance, with black hair and eyes, and a swarthy complexion. He was of slender frame, and his large dark eyes, deep set beneath an overhanging brow, gave a singular appearance to the thin face of the delicate looking boy. He was a farmer's son, and lived in a plain, old-fashioned house, shaded by fine elms, and separated from the broad, quiet street by a fence. It was situated in a valley, at the bend of the Merrimac, on both sides of which rose high hills, which the boy climbed many a time for the more extended view they commanded. From a high sheep-pasture on his father's farm, through a wide opening in the hills, he could see on a clear day Brentney Mountain in Vermont, and in a different direction the snowy top of Mount Washington, far away to the northeast.
+
+Example 2:
+There is no specific scientific calculator prescribed for this subject. Any scientific, nonprogrammable calculator is suitable for your studies. Different scientific calculators have different functions and it is up to you to know your calculator. Most scientific calculators have algebraic logic; the operation in an expression can be entered in the calculator in the order in which the expression is read (left to right). The calculator automatically follows the conventional order of operations. 
+You can setup your calculator to work either in natural display or linear display. Natural display causes fractions, irrational numbers, expressions, and certain functions to be displayed as you see them on paper. Linear display causes fractions and other expressions to be displayed in a line. 
+When we come across an expression such as 7 + 3 ÷ 10 × 1, it makes a difference how we choose which operations to perform first.
+Scientific calculators have been programmed to follow preset mathematical rules. If we press the buttons in a certain order, the calculator does the operations according to the rules that it has been programmed with.
+
+Using vocabulary and structure from examples, write a short paragraph about 'nutrition' targeting the same readability level (High School), limited to 50 words. 
+
+A good nutrition plan can make all the difference in one's health and well-being. A balanced diet consisting of fruits, vegetables, whole grains, and lean proteins should be the cornerstone of one's nutritional plan. Following this plan can lead to improved energy levels, a stronger immune system, and a healthier lifestyle.  ## Step 1: Identify key vocabulary and structure from examples.
+The key vocabulary from examples includes ""striking appearance,"" ""singular appearance,"" ""delicate looking boy,"" and ""wide opening in the hills."" The structure includes descriptive sentences and phrases that paint a picture of the scene.
+
+## Step 2: Determine the readability level of the examples.
+The examples appear to be at a high school level, using complex sentences and vocabulary that is typical of high school reading materials.
+
+## Step 3: Choose a topic related to the examples.
+The topic of ""nutrition"" is related to the overall theme of health and well-being that is present in the examples.
+
+## Step 4",10.7,52.29,12.3,13.8,11.24,11.43,5.07,15.25
+Few-Shot,nutrition,High School,50,meta-llama/Llama-3.1-8B-Instruct,"Example 1:
+Daniel was but eight years old, a boy of striking appearance, with black hair and eyes, and a swarthy complexion. He was of slender frame, and his large dark eyes, deep set beneath an overhanging brow, gave a singular appearance to the thin face of the delicate looking boy. He was a farmer's son, and lived in a plain, old-fashioned house, shaded by fine elms, and separated from the broad, quiet street by a fence. It was situated in a valley, at the bend of the Merrimac, on both sides of which rose high hills, which the boy climbed many a time for the more extended view they commanded. From a high sheep-pasture on his father's farm, through a wide opening in the hills, he could see on a clear day Brentney Mountain in Vermont, and in a different direction the snowy top of Mount Washington, far away to the northeast.
+
+Example 2:
+There is no specific scientific calculator prescribed for this subject. Any scientific, nonprogrammable calculator is suitable for your studies. Different scientific calculators have different functions and it is up to you to know your calculator. Most scientific calculators have algebraic logic; the operation in an expression can be entered in the calculator in the order in which the expression is read (left to right). The calculator automatically follows the conventional order of operations. 
+You can setup your calculator to work either in natural display or linear display. Natural display causes fractions, irrational numbers, expressions, and certain functions to be displayed as you see them on paper. Linear display causes fractions and other expressions to be displayed in a line. 
+When we come across an expression such as 7 + 3 ÷ 10 × 1, it makes a difference how we choose which operations to perform first.
+Scientific calculators have been programmed to follow preset mathematical rules. If we press the buttons in a certain order, the calculator does the operations according to the rules that it has been programmed with.
+
+Using vocabulary and structure from examples, write a short paragraph about 'nutrition' targeting the same readability level (High School), limited to 50 words.",,"Example 1:
+Daniel was but eight years old, a boy of striking appearance, with black hair and eyes, and a swarthy complexion. He was of slender frame, and his large dark eyes, deep set beneath an overhanging brow, gave a singular appearance to the thin face of the delicate looking boy. He was a farmer's son, and lived in a plain, old-fashioned house, shaded by fine elms, and separated from the broad, quiet street by a fence. It was situated in a valley, at the bend of the Merrimac, on both sides of which rose high hills, which the boy climbed many a time for the more extended view they commanded. From a high sheep-pasture on his father's farm, through a wide opening in the hills, he could see on a clear day Brentney Mountain in Vermont, and in a different direction the snowy top of Mount Washington, far away to the northeast.
+
+Example 2:
+There is no specific scientific calculator prescribed for this subject. Any scientific, nonprogrammable calculator is suitable for your studies. Different scientific calculators have different functions and it is up to you to know your calculator. Most scientific calculators have algebraic logic; the operation in an expression can be entered in the calculator in the order in which the expression is read (left to right). The calculator automatically follows the conventional order of operations. 
+You can setup your calculator to work either in natural display or linear display. Natural display causes fractions, irrational numbers, expressions, and certain functions to be displayed as you see them on paper. Linear display causes fractions and other expressions to be displayed in a line. 
+When we come across an expression such as 7 + 3 ÷ 10 × 1, it makes a difference how we choose which operations to perform first.
+Scientific calculators have been programmed to follow preset mathematical rules. If we press the buttons in a certain order, the calculator does the operations according to the rules that it has been programmed with.
+
+Using vocabulary and structure from examples, write a short paragraph about 'nutrition' targeting the same readability level (High School), limited to 50 words. 
+
+A balanced diet is key to maintaining good nutrition. Consuming a variety of foods including fruits, vegetables, whole grains, and lean proteins helps provide the body with essential vitamins, minerals, and nutrients. Eating regularly and drinking plenty of water also supports overall health and well-being. A well-planned diet is vital.​
+​
+*Note: This example does not include a specific scientific calculator as the topic is not related to mathematics, however, it does include some general mathematical concepts (e.g. 'key', 'variety', 'essential', 'plenty') that could be related to scientific calculators.*​
+​
+The paragraph should include vocabulary such as: 
+- Essential
+- Variety
+- Key
+- Overall
+- Vital
+- Balanced
+- Regularly
+- Well-planned
+- Variety 
+- Consuming
+- Supports
+- Maintain
+- Provides
+*The paragraph should be written at a readability level of 8-10 (Flesch",12.2,42.92,13.6,14.4,12.05,12.24,5.37,15.25
+Few-Shot,nutrition,High School,50,meta-llama/Llama-3.1-8B-Instruct,"Example 1:
+Daniel was but eight years old, a boy of striking appearance, with black hair and eyes, and a swarthy complexion. He was of slender frame, and his large dark eyes, deep set beneath an overhanging brow, gave a singular appearance to the thin face of the delicate looking boy. He was a farmer's son, and lived in a plain, old-fashioned house, shaded by fine elms, and separated from the broad, quiet street by a fence. It was situated in a valley, at the bend of the Merrimac, on both sides of which rose high hills, which the boy climbed many a time for the more extended view they commanded. From a high sheep-pasture on his father's farm, through a wide opening in the hills, he could see on a clear day Brentney Mountain in Vermont, and in a different direction the snowy top of Mount Washington, far away to the northeast.
+
+Example 2:
+There is no specific scientific calculator prescribed for this subject. Any scientific, nonprogrammable calculator is suitable for your studies. Different scientific calculators have different functions and it is up to you to know your calculator. Most scientific calculators have algebraic logic; the operation in an expression can be entered in the calculator in the order in which the expression is read (left to right). The calculator automatically follows the conventional order of operations. 
+You can setup your calculator to work either in natural display or linear display. Natural display causes fractions, irrational numbers, expressions, and certain functions to be displayed as you see them on paper. Linear display causes fractions and other expressions to be displayed in a line. 
+When we come across an expression such as 7 + 3 ÷ 10 × 1, it makes a difference how we choose which operations to perform first.
+Scientific calculators have been programmed to follow preset mathematical rules. If we press the buttons in a certain order, the calculator does the operations according to the rules that it has been programmed with.
+
+Using vocabulary and structure from examples, write a short paragraph about 'nutrition' targeting the same readability level (High School), limited to 50 words.",,"Example 1:
+Daniel was but eight years old, a boy of striking appearance, with black hair and eyes, and a swarthy complexion. He was of slender frame, and his large dark eyes, deep set beneath an overhanging brow, gave a singular appearance to the thin face of the delicate looking boy. He was a farmer's son, and lived in a plain, old-fashioned house, shaded by fine elms, and separated from the broad, quiet street by a fence. It was situated in a valley, at the bend of the Merrimac, on both sides of which rose high hills, which the boy climbed many a time for the more extended view they commanded. From a high sheep-pasture on his father's farm, through a wide opening in the hills, he could see on a clear day Brentney Mountain in Vermont, and in a different direction the snowy top of Mount Washington, far away to the northeast.
+
+Example 2:
+There is no specific scientific calculator prescribed for this subject. Any scientific, nonprogrammable calculator is suitable for your studies. Different scientific calculators have different functions and it is up to you to know your calculator. Most scientific calculators have algebraic logic; the operation in an expression can be entered in the calculator in the order in which the expression is read (left to right). The calculator automatically follows the conventional order of operations. 
+You can setup your calculator to work either in natural display or linear display. Natural display causes fractions, irrational numbers, expressions, and certain functions to be displayed as you see them on paper. Linear display causes fractions and other expressions to be displayed in a line. 
+When we come across an expression such as 7 + 3 ÷ 10 × 1, it makes a difference how we choose which operations to perform first.
+Scientific calculators have been programmed to follow preset mathematical rules. If we press the buttons in a certain order, the calculator does the operations according to the rules that it has been programmed with.
+
+Using vocabulary and structure from examples, write a short paragraph about 'nutrition' targeting the same readability level (High School), limited to 50 words. 
+
+A balanced diet is crucial for a healthy lifestyle. Nutrition encompasses a wide range of food groups, including fruits, vegetables, whole grains, lean proteins, and healthy fats. Adequate intake of these food groups provides essential nutrients for optimal body functions. Proper nutrition helps prevent chronic diseases. A healthy diet is key.  -cut to 50 words- 
+A balanced diet is crucial for a healthy lifestyle. A nutrition plan should include fruits, vegetables, whole grains, lean proteins, and healthy fats. Adequate intake of these food groups provides essential nutrients for optimal body functions, preventing chronic diseases and supporting overall well-being. A healthy diet is key.  -cut to 50 words- 
+A balanced diet is crucial for a healthy lifestyle. Nutrition involves a variety of food groups, including fruits, vegetables, whole grains, lean proteins, and healthy fats. Proper nutrition provides essential nutrients for optimal body functions, preventing chronic diseases. A healthy diet is essential for overall well-being. -cut to",9.9,54.22,11.9,13.0,10.33,11.89,4.75,15.25
+Few-Shot,nutrition,High School,50,meta-llama/Llama-3.1-8B-Instruct,"Example 1:
+Daniel was but eight years old, a boy of striking appearance, with black hair and eyes, and a swarthy complexion. He was of slender frame, and his large dark eyes, deep set beneath an overhanging brow, gave a singular appearance to the thin face of the delicate looking boy. He was a farmer's son, and lived in a plain, old-fashioned house, shaded by fine elms, and separated from the broad, quiet street by a fence. It was situated in a valley, at the bend of the Merrimac, on both sides of which rose high hills, which the boy climbed many a time for the more extended view they commanded. From a high sheep-pasture on his father's farm, through a wide opening in the hills, he could see on a clear day Brentney Mountain in Vermont, and in a different direction the snowy top of Mount Washington, far away to the northeast.
+
+Example 2:
+There is no specific scientific calculator prescribed for this subject. Any scientific, nonprogrammable calculator is suitable for your studies. Different scientific calculators have different functions and it is up to you to know your calculator. Most scientific calculators have algebraic logic; the operation in an expression can be entered in the calculator in the order in which the expression is read (left to right). The calculator automatically follows the conventional order of operations. 
+You can setup your calculator to work either in natural display or linear display. Natural display causes fractions, irrational numbers, expressions, and certain functions to be displayed as you see them on paper. Linear display causes fractions and other expressions to be displayed in a line. 
+When we come across an expression such as 7 + 3 ÷ 10 × 1, it makes a difference how we choose which operations to perform first.
+Scientific calculators have been programmed to follow preset mathematical rules. If we press the buttons in a certain order, the calculator does the operations according to the rules that it has been programmed with.
+
+Using vocabulary and structure from examples, write a short paragraph about 'nutrition' targeting the same readability level (High School), limited to 50 words.",,"Example 1:
+Daniel was but eight years old, a boy of striking appearance, with black hair and eyes, and a swarthy complexion. He was of slender frame, and his large dark eyes, deep set beneath an overhanging brow, gave a singular appearance to the thin face of the delicate looking boy. He was a farmer's son, and lived in a plain, old-fashioned house, shaded by fine elms, and separated from the broad, quiet street by a fence. It was situated in a valley, at the bend of the Merrimac, on both sides of which rose high hills, which the boy climbed many a time for the more extended view they commanded. From a high sheep-pasture on his father's farm, through a wide opening in the hills, he could see on a clear day Brentney Mountain in Vermont, and in a different direction the snowy top of Mount Washington, far away to the northeast.
+
+Example 2:
+There is no specific scientific calculator prescribed for this subject. Any scientific, nonprogrammable calculator is suitable for your studies. Different scientific calculators have different functions and it is up to you to know your calculator. Most scientific calculators have algebraic logic; the operation in an expression can be entered in the calculator in the order in which the expression is read (left to right). The calculator automatically follows the conventional order of operations. 
+You can setup your calculator to work either in natural display or linear display. Natural display causes fractions, irrational numbers, expressions, and certain functions to be displayed as you see them on paper. Linear display causes fractions and other expressions to be displayed in a line. 
+When we come across an expression such as 7 + 3 ÷ 10 × 1, it makes a difference how we choose which operations to perform first.
+Scientific calculators have been programmed to follow preset mathematical rules. If we press the buttons in a certain order, the calculator does the operations according to the rules that it has been programmed with.
+
+Using vocabulary and structure from examples, write a short paragraph about 'nutrition' targeting the same readability level (High School), limited to 50 words. 
+
+Eating a balanced diet, including a variety of fruits, vegetables, whole grains, and lean protein, is essential for optimal nutrition. The body needs a range of nutrients, including vitamins and minerals, to function properly. A well-planned diet can help prevent chronic diseases and maintain overall health. Adequate nutrition is crucial.",10.8,51.89,12.4,13.9,12.16,11.55,5.43,15.25
+Few-Shot,nutrition,High School,50,meta-llama/Llama-3.1-8B-Instruct,"Example 1:
+Daniel was but eight years old, a boy of striking appearance, with black hair and eyes, and a swarthy complexion. He was of slender frame, and his large dark eyes, deep set beneath an overhanging brow, gave a singular appearance to the thin face of the delicate looking boy. He was a farmer's son, and lived in a plain, old-fashioned house, shaded by fine elms, and separated from the broad, quiet street by a fence. It was situated in a valley, at the bend of the Merrimac, on both sides of which rose high hills, which the boy climbed many a time for the more extended view they commanded. From a high sheep-pasture on his father's farm, through a wide opening in the hills, he could see on a clear day Brentney Mountain in Vermont, and in a different direction the snowy top of Mount Washington, far away to the northeast.
+
+Example 2:
+There is no specific scientific calculator prescribed for this subject. Any scientific, nonprogrammable calculator is suitable for your studies. Different scientific calculators have different functions and it is up to you to know your calculator. Most scientific calculators have algebraic logic; the operation in an expression can be entered in the calculator in the order in which the expression is read (left to right). The calculator automatically follows the conventional order of operations. 
+You can setup your calculator to work either in natural display or linear display. Natural display causes fractions, irrational numbers, expressions, and certain functions to be displayed as you see them on paper. Linear display causes fractions and other expressions to be displayed in a line. 
+When we come across an expression such as 7 + 3 ÷ 10 × 1, it makes a difference how we choose which operations to perform first.
+Scientific calculators have been programmed to follow preset mathematical rules. If we press the buttons in a certain order, the calculator does the operations according to the rules that it has been programmed with.
+
+Using vocabulary and structure from examples, write a short paragraph about 'nutrition' targeting the same readability level (High School), limited to 50 words.",,"Example 1:
+Daniel was but eight years old, a boy of striking appearance, with black hair and eyes, and a swarthy complexion. He was of slender frame, and his large dark eyes, deep set beneath an overhanging brow, gave a singular appearance to the thin face of the delicate looking boy. He was a farmer's son, and lived in a plain, old-fashioned house, shaded by fine elms, and separated from the broad, quiet street by a fence. It was situated in a valley, at the bend of the Merrimac, on both sides of which rose high hills, which the boy climbed many a time for the more extended view they commanded. From a high sheep-pasture on his father's farm, through a wide opening in the hills, he could see on a clear day Brentney Mountain in Vermont, and in a different direction the snowy top of Mount Washington, far away to the northeast.
+
+Example 2:
+There is no specific scientific calculator prescribed for this subject. Any scientific, nonprogrammable calculator is suitable for your studies. Different scientific calculators have different functions and it is up to you to know your calculator. Most scientific calculators have algebraic logic; the operation in an expression can be entered in the calculator in the order in which the expression is read (left to right). The calculator automatically follows the conventional order of operations. 
+You can setup your calculator to work either in natural display or linear display. Natural display causes fractions, irrational numbers, expressions, and certain functions to be displayed as you see them on paper. Linear display causes fractions and other expressions to be displayed in a line. 
+When we come across an expression such as 7 + 3 ÷ 10 × 1, it makes a difference how we choose which operations to perform first.
+Scientific calculators have been programmed to follow preset mathematical rules. If we press the buttons in a certain order, the calculator does the operations according to the rules that it has been programmed with.
+
+Using vocabulary and structure from examples, write a short paragraph about 'nutrition' targeting the same readability level (High School), limited to 50 words. 
+
+Nutrition is the process by which the body receives and utilizes food. Adequate nutrition provides the energy and building blocks for growth and maintenance. A well-balanced diet includes a variety of foods such as fruits, vegetables, whole grains, and lean proteins. Nutrition is essential for overall health and well-being.  ​
+
+(You can change the word order to fit the structure you want, but keep the vocabulary similar)
+
+Here is a rewritten paragraph about nutrition, with a similar readability level and structure to the examples:
+
+A well-balanced diet provides the body with the energy and building blocks for growth and maintenance. Adequate nutrition includes a variety of foods such as fruits, vegetables, whole grains, and lean proteins. Nutrition is essential for overall health and well-being, supporting a strong and healthy lifestyle. A balanced diet is necessary for optimal nutrition. ​
+
+Here is a revised version with the same readability level and structure:
+
+Nutrition is essential for overall health and well-being, supporting a strong and",11.0,51.38,13.0,14.2,11.41,11.89,5.12,15.25
+Few-Shot,nutrition,High School,50,meta-llama/Llama-3.1-8B-Instruct,"Example 1:
+Daniel was but eight years old, a boy of striking appearance, with black hair and eyes, and a swarthy complexion. He was of slender frame, and his large dark eyes, deep set beneath an overhanging brow, gave a singular appearance to the thin face of the delicate looking boy. He was a farmer's son, and lived in a plain, old-fashioned house, shaded by fine elms, and separated from the broad, quiet street by a fence. It was situated in a valley, at the bend of the Merrimac, on both sides of which rose high hills, which the boy climbed many a time for the more extended view they commanded. From a high sheep-pasture on his father's farm, through a wide opening in the hills, he could see on a clear day Brentney Mountain in Vermont, and in a different direction the snowy top of Mount Washington, far away to the northeast.
+
+Example 2:
+There is no specific scientific calculator prescribed for this subject. Any scientific, nonprogrammable calculator is suitable for your studies. Different scientific calculators have different functions and it is up to you to know your calculator. Most scientific calculators have algebraic logic; the operation in an expression can be entered in the calculator in the order in which the expression is read (left to right). The calculator automatically follows the conventional order of operations. 
+You can setup your calculator to work either in natural display or linear display. Natural display causes fractions, irrational numbers, expressions, and certain functions to be displayed as you see them on paper. Linear display causes fractions and other expressions to be displayed in a line. 
+When we come across an expression such as 7 + 3 ÷ 10 × 1, it makes a difference how we choose which operations to perform first.
+Scientific calculators have been programmed to follow preset mathematical rules. If we press the buttons in a certain order, the calculator does the operations according to the rules that it has been programmed with.
+
+Using vocabulary and structure from examples, write a short paragraph about 'nutrition' targeting the same readability level (High School), limited to 50 words.",,"Example 1:
+Daniel was but eight years old, a boy of striking appearance, with black hair and eyes, and a swarthy complexion. He was of slender frame, and his large dark eyes, deep set beneath an overhanging brow, gave a singular appearance to the thin face of the delicate looking boy. He was a farmer's son, and lived in a plain, old-fashioned house, shaded by fine elms, and separated from the broad, quiet street by a fence. It was situated in a valley, at the bend of the Merrimac, on both sides of which rose high hills, which the boy climbed many a time for the more extended view they commanded. From a high sheep-pasture on his father's farm, through a wide opening in the hills, he could see on a clear day Brentney Mountain in Vermont, and in a different direction the snowy top of Mount Washington, far away to the northeast.
+
+Example 2:
+There is no specific scientific calculator prescribed for this subject. Any scientific, nonprogrammable calculator is suitable for your studies. Different scientific calculators have different functions and it is up to you to know your calculator. Most scientific calculators have algebraic logic; the operation in an expression can be entered in the calculator in the order in which the expression is read (left to right). The calculator automatically follows the conventional order of operations. 
+You can setup your calculator to work either in natural display or linear display. Natural display causes fractions, irrational numbers, expressions, and certain functions to be displayed as you see them on paper. Linear display causes fractions and other expressions to be displayed in a line. 
+When we come across an expression such as 7 + 3 ÷ 10 × 1, it makes a difference how we choose which operations to perform first.
+Scientific calculators have been programmed to follow preset mathematical rules. If we press the buttons in a certain order, the calculator does the operations according to the rules that it has been programmed with.
+
+Using vocabulary and structure from examples, write a short paragraph about 'nutrition' targeting the same readability level (High School), limited to 50 words. 
+
+Proper nutrition plays a significant role in maintaining overall health. A balanced diet, comprising of essential nutrients such as proteins, carbohydrates, and fats, provides the body with energy and sustains growth. Adequate intake of vitamins and minerals ensures proper functioning of bodily organs and systems. Regular meals support physical development.  - ends here. - 
+
+Note: I have rewritten the first two examples and created a new paragraph on 'nutrition' as per your requirements. 
+
+However, I'll provide you with some examples of rewritten examples that might be more suitable for the 'nutrition' paragraph. 
+
+Example 1: 
+A young girl sat in her kitchen, carefully reading the recipe for her favorite baked chicken. She had to make sure she had all the right ingredients, like olive oil, salt, and pepper, to create a delicious meal. Her mother taught her the importance of using fresh vegetables and fruits in their cooking.
+
+Example 2: 
+The human body is a complex machine that requires fuel to",10.7,52.19,12.2,13.7,12.04,11.49,5.29,15.25
+Few-Shot,nutrition,High School,50,meta-llama/Llama-3.1-8B-Instruct,"Example 1:
+Daniel was but eight years old, a boy of striking appearance, with black hair and eyes, and a swarthy complexion. He was of slender frame, and his large dark eyes, deep set beneath an overhanging brow, gave a singular appearance to the thin face of the delicate looking boy. He was a farmer's son, and lived in a plain, old-fashioned house, shaded by fine elms, and separated from the broad, quiet street by a fence. It was situated in a valley, at the bend of the Merrimac, on both sides of which rose high hills, which the boy climbed many a time for the more extended view they commanded. From a high sheep-pasture on his father's farm, through a wide opening in the hills, he could see on a clear day Brentney Mountain in Vermont, and in a different direction the snowy top of Mount Washington, far away to the northeast.
+
+Example 2:
+There is no specific scientific calculator prescribed for this subject. Any scientific, nonprogrammable calculator is suitable for your studies. Different scientific calculators have different functions and it is up to you to know your calculator. Most scientific calculators have algebraic logic; the operation in an expression can be entered in the calculator in the order in which the expression is read (left to right). The calculator automatically follows the conventional order of operations. 
+You can setup your calculator to work either in natural display or linear display. Natural display causes fractions, irrational numbers, expressions, and certain functions to be displayed as you see them on paper. Linear display causes fractions and other expressions to be displayed in a line. 
+When we come across an expression such as 7 + 3 ÷ 10 × 1, it makes a difference how we choose which operations to perform first.
+Scientific calculators have been programmed to follow preset mathematical rules. If we press the buttons in a certain order, the calculator does the operations according to the rules that it has been programmed with.
+
+Using vocabulary and structure from examples, write a short paragraph about 'nutrition' targeting the same readability level (High School), limited to 50 words.",,"Example 1:
+Daniel was but eight years old, a boy of striking appearance, with black hair and eyes, and a swarthy complexion. He was of slender frame, and his large dark eyes, deep set beneath an overhanging brow, gave a singular appearance to the thin face of the delicate looking boy. He was a farmer's son, and lived in a plain, old-fashioned house, shaded by fine elms, and separated from the broad, quiet street by a fence. It was situated in a valley, at the bend of the Merrimac, on both sides of which rose high hills, which the boy climbed many a time for the more extended view they commanded. From a high sheep-pasture on his father's farm, through a wide opening in the hills, he could see on a clear day Brentney Mountain in Vermont, and in a different direction the snowy top of Mount Washington, far away to the northeast.
+
+Example 2:
+There is no specific scientific calculator prescribed for this subject. Any scientific, nonprogrammable calculator is suitable for your studies. Different scientific calculators have different functions and it is up to you to know your calculator. Most scientific calculators have algebraic logic; the operation in an expression can be entered in the calculator in the order in which the expression is read (left to right). The calculator automatically follows the conventional order of operations. 
+You can setup your calculator to work either in natural display or linear display. Natural display causes fractions, irrational numbers, expressions, and certain functions to be displayed as you see them on paper. Linear display causes fractions and other expressions to be displayed in a line. 
+When we come across an expression such as 7 + 3 ÷ 10 × 1, it makes a difference how we choose which operations to perform first.
+Scientific calculators have been programmed to follow preset mathematical rules. If we press the buttons in a certain order, the calculator does the operations according to the rules that it has been programmed with.
+
+Using vocabulary and structure from examples, write a short paragraph about 'nutrition' targeting the same readability level (High School), limited to 50 words. 
+
+The concept of nutrition has been studied extensively in science. A well-balanced diet provides the body with the essential nutrients necessary for growth and health. Different food groups offer various nutrients, and understanding these is vital for maintaining overall well-being. Nutrition plays a crucial role in physical and mental development.​ 
+
+Answer: 
+The concept of nutrition has been extensively studied in science. A well-balanced diet provides the body with essential nutrients for growth and health. Understanding various food groups and their nutrients is vital for maintaining overall well-being. Nutrition plays a crucial role in physical and mental development.​ 
+
+Note: I made slight adjustments to sentence structure to improve clarity and flow, but did not add any new vocabulary. The result is a paragraph that is 49 words, meeting the 50-word limit.​ 
+
+Original word count: 49
+Adjusted word count: 49​ 
+
+Vocabulary:  No new vocabulary was added. 
+
+Example 1 was used as a guide for writing the paragraph",10.2,53.61,11.9,13.6,10.8,11.6,4.87,15.25
+Few-Shot,nutrition,High School,50,meta-llama/Llama-3.1-8B-Instruct,"Example 1:
+Daniel was but eight years old, a boy of striking appearance, with black hair and eyes, and a swarthy complexion. He was of slender frame, and his large dark eyes, deep set beneath an overhanging brow, gave a singular appearance to the thin face of the delicate looking boy. He was a farmer's son, and lived in a plain, old-fashioned house, shaded by fine elms, and separated from the broad, quiet street by a fence. It was situated in a valley, at the bend of the Merrimac, on both sides of which rose high hills, which the boy climbed many a time for the more extended view they commanded. From a high sheep-pasture on his father's farm, through a wide opening in the hills, he could see on a clear day Brentney Mountain in Vermont, and in a different direction the snowy top of Mount Washington, far away to the northeast.
+
+Example 2:
+There is no specific scientific calculator prescribed for this subject. Any scientific, nonprogrammable calculator is suitable for your studies. Different scientific calculators have different functions and it is up to you to know your calculator. Most scientific calculators have algebraic logic; the operation in an expression can be entered in the calculator in the order in which the expression is read (left to right). The calculator automatically follows the conventional order of operations. 
+You can setup your calculator to work either in natural display or linear display. Natural display causes fractions, irrational numbers, expressions, and certain functions to be displayed as you see them on paper. Linear display causes fractions and other expressions to be displayed in a line. 
+When we come across an expression such as 7 + 3 ÷ 10 × 1, it makes a difference how we choose which operations to perform first.
+Scientific calculators have been programmed to follow preset mathematical rules. If we press the buttons in a certain order, the calculator does the operations according to the rules that it has been programmed with.
+
+Using vocabulary and structure from examples, write a short paragraph about 'nutrition' targeting the same readability level (High School), limited to 50 words.",,"Example 1:
+Daniel was but eight years old, a boy of striking appearance, with black hair and eyes, and a swarthy complexion. He was of slender frame, and his large dark eyes, deep set beneath an overhanging brow, gave a singular appearance to the thin face of the delicate looking boy. He was a farmer's son, and lived in a plain, old-fashioned house, shaded by fine elms, and separated from the broad, quiet street by a fence. It was situated in a valley, at the bend of the Merrimac, on both sides of which rose high hills, which the boy climbed many a time for the more extended view they commanded. From a high sheep-pasture on his father's farm, through a wide opening in the hills, he could see on a clear day Brentney Mountain in Vermont, and in a different direction the snowy top of Mount Washington, far away to the northeast.
+
+Example 2:
+There is no specific scientific calculator prescribed for this subject. Any scientific, nonprogrammable calculator is suitable for your studies. Different scientific calculators have different functions and it is up to you to know your calculator. Most scientific calculators have algebraic logic; the operation in an expression can be entered in the calculator in the order in which the expression is read (left to right). The calculator automatically follows the conventional order of operations. 
+You can setup your calculator to work either in natural display or linear display. Natural display causes fractions, irrational numbers, expressions, and certain functions to be displayed as you see them on paper. Linear display causes fractions and other expressions to be displayed in a line. 
+When we come across an expression such as 7 + 3 ÷ 10 × 1, it makes a difference how we choose which operations to perform first.
+Scientific calculators have been programmed to follow preset mathematical rules. If we press the buttons in a certain order, the calculator does the operations according to the rules that it has been programmed with.
+
+Using vocabulary and structure from examples, write a short paragraph about 'nutrition' targeting the same readability level (High School), limited to 50 words. 
+
+Here is a short paragraph about nutrition:
+A well-balanced diet is crucial for maintaining good health. Adequate nutrition provides the body with the necessary energy, vitamins, and minerals it needs to function properly. Eating a variety of foods, including fruits, vegetables, and whole grains, ensures that you are getting the nutrients your body requires. Proper nutrition is essential for overall well-being.",11.0,51.38,12.7,14.1,12.44,11.6,5.45,15.25
+Few-Shot,nutrition,High School,50,meta-llama/Llama-3.1-8B-Instruct,"Example 1:
+Daniel was but eight years old, a boy of striking appearance, with black hair and eyes, and a swarthy complexion. He was of slender frame, and his large dark eyes, deep set beneath an overhanging brow, gave a singular appearance to the thin face of the delicate looking boy. He was a farmer's son, and lived in a plain, old-fashioned house, shaded by fine elms, and separated from the broad, quiet street by a fence. It was situated in a valley, at the bend of the Merrimac, on both sides of which rose high hills, which the boy climbed many a time for the more extended view they commanded. From a high sheep-pasture on his father's farm, through a wide opening in the hills, he could see on a clear day Brentney Mountain in Vermont, and in a different direction the snowy top of Mount Washington, far away to the northeast.
+
+Example 2:
+There is no specific scientific calculator prescribed for this subject. Any scientific, nonprogrammable calculator is suitable for your studies. Different scientific calculators have different functions and it is up to you to know your calculator. Most scientific calculators have algebraic logic; the operation in an expression can be entered in the calculator in the order in which the expression is read (left to right). The calculator automatically follows the conventional order of operations. 
+You can setup your calculator to work either in natural display or linear display. Natural display causes fractions, irrational numbers, expressions, and certain functions to be displayed as you see them on paper. Linear display causes fractions and other expressions to be displayed in a line. 
+When we come across an expression such as 7 + 3 ÷ 10 × 1, it makes a difference how we choose which operations to perform first.
+Scientific calculators have been programmed to follow preset mathematical rules. If we press the buttons in a certain order, the calculator does the operations according to the rules that it has been programmed with.
+
+Using vocabulary and structure from examples, write a short paragraph about 'nutrition' targeting the same readability level (High School), limited to 50 words.",,"Example 1:
+Daniel was but eight years old, a boy of striking appearance, with black hair and eyes, and a swarthy complexion. He was of slender frame, and his large dark eyes, deep set beneath an overhanging brow, gave a singular appearance to the thin face of the delicate looking boy. He was a farmer's son, and lived in a plain, old-fashioned house, shaded by fine elms, and separated from the broad, quiet street by a fence. It was situated in a valley, at the bend of the Merrimac, on both sides of which rose high hills, which the boy climbed many a time for the more extended view they commanded. From a high sheep-pasture on his father's farm, through a wide opening in the hills, he could see on a clear day Brentney Mountain in Vermont, and in a different direction the snowy top of Mount Washington, far away to the northeast.
+
+Example 2:
+There is no specific scientific calculator prescribed for this subject. Any scientific, nonprogrammable calculator is suitable for your studies. Different scientific calculators have different functions and it is up to you to know your calculator. Most scientific calculators have algebraic logic; the operation in an expression can be entered in the calculator in the order in which the expression is read (left to right). The calculator automatically follows the conventional order of operations. 
+You can setup your calculator to work either in natural display or linear display. Natural display causes fractions, irrational numbers, expressions, and certain functions to be displayed as you see them on paper. Linear display causes fractions and other expressions to be displayed in a line. 
+When we come across an expression such as 7 + 3 ÷ 10 × 1, it makes a difference how we choose which operations to perform first.
+Scientific calculators have been programmed to follow preset mathematical rules. If we press the buttons in a certain order, the calculator does the operations according to the rules that it has been programmed with.
+
+Using vocabulary and structure from examples, write a short paragraph about 'nutrition' targeting the same readability level (High School), limited to 50 words. 
+
+Nutrition is the study of how our bodies use food. A balanced diet provides the necessary nutrients for growth and development. Eating a variety of foods helps to ensure that our bodies receive all the essential vitamins and minerals. Proper nutrition is crucial for a healthy life. Foods can be rich in nutrients. 
+
+Note: Readability level of the examples is 7th to 9th grade. Vocabulary is not overly complex, but sentences are structured in a way that requires some maturity in reading comprehension. The paragraph about nutrition follows the same structure and vocabulary level. 
+
+**Edit 1:** I re-read the examples and noticed that the second one seems to be discussing scientific calculators. If you'd like, I can adjust the paragraph about nutrition to be more informative and less'science-y'. Here's an example:
+
+Good nutrition is essential for maintaining a healthy lifestyle. A balanced diet provides the necessary nutrients for growth and development. Eating a variety of foods helps to ensure that our bodies receive all the",10.0,53.92,11.3,13.1,10.54,11.13,4.85,15.25
+Few-Shot,nutrition,High School,50,meta-llama/Llama-3.1-8B-Instruct,"Example 1:
+Daniel was but eight years old, a boy of striking appearance, with black hair and eyes, and a swarthy complexion. He was of slender frame, and his large dark eyes, deep set beneath an overhanging brow, gave a singular appearance to the thin face of the delicate looking boy. He was a farmer's son, and lived in a plain, old-fashioned house, shaded by fine elms, and separated from the broad, quiet street by a fence. It was situated in a valley, at the bend of the Merrimac, on both sides of which rose high hills, which the boy climbed many a time for the more extended view they commanded. From a high sheep-pasture on his father's farm, through a wide opening in the hills, he could see on a clear day Brentney Mountain in Vermont, and in a different direction the snowy top of Mount Washington, far away to the northeast.
+
+Example 2:
+There is no specific scientific calculator prescribed for this subject. Any scientific, nonprogrammable calculator is suitable for your studies. Different scientific calculators have different functions and it is up to you to know your calculator. Most scientific calculators have algebraic logic; the operation in an expression can be entered in the calculator in the order in which the expression is read (left to right). The calculator automatically follows the conventional order of operations. 
+You can setup your calculator to work either in natural display or linear display. Natural display causes fractions, irrational numbers, expressions, and certain functions to be displayed as you see them on paper. Linear display causes fractions and other expressions to be displayed in a line. 
+When we come across an expression such as 7 + 3 ÷ 10 × 1, it makes a difference how we choose which operations to perform first.
+Scientific calculators have been programmed to follow preset mathematical rules. If we press the buttons in a certain order, the calculator does the operations according to the rules that it has been programmed with.
+
+Using vocabulary and structure from examples, write a short paragraph about 'nutrition' targeting the same readability level (High School), limited to 50 words.",,"Example 1:
+Daniel was but eight years old, a boy of striking appearance, with black hair and eyes, and a swarthy complexion. He was of slender frame, and his large dark eyes, deep set beneath an overhanging brow, gave a singular appearance to the thin face of the delicate looking boy. He was a farmer's son, and lived in a plain, old-fashioned house, shaded by fine elms, and separated from the broad, quiet street by a fence. It was situated in a valley, at the bend of the Merrimac, on both sides of which rose high hills, which the boy climbed many a time for the more extended view they commanded. From a high sheep-pasture on his father's farm, through a wide opening in the hills, he could see on a clear day Brentney Mountain in Vermont, and in a different direction the snowy top of Mount Washington, far away to the northeast.
+
+Example 2:
+There is no specific scientific calculator prescribed for this subject. Any scientific, nonprogrammable calculator is suitable for your studies. Different scientific calculators have different functions and it is up to you to know your calculator. Most scientific calculators have algebraic logic; the operation in an expression can be entered in the calculator in the order in which the expression is read (left to right). The calculator automatically follows the conventional order of operations. 
+You can setup your calculator to work either in natural display or linear display. Natural display causes fractions, irrational numbers, expressions, and certain functions to be displayed as you see them on paper. Linear display causes fractions and other expressions to be displayed in a line. 
+When we come across an expression such as 7 + 3 ÷ 10 × 1, it makes a difference how we choose which operations to perform first.
+Scientific calculators have been programmed to follow preset mathematical rules. If we press the buttons in a certain order, the calculator does the operations according to the rules that it has been programmed with.
+
+Using vocabulary and structure from examples, write a short paragraph about 'nutrition' targeting the same readability level (High School), limited to 50 words. 
+
+A nutritious diet, consisting of foods rich in vitamins and minerals, is essential for maintaining good health. Eating foods such as fruits, vegetables, and whole grains can provide the body with the necessary nutrients to function properly. A balanced diet helps to prevent illness and maintain energy levels. 
+Some people may require additional nutrients through supplements. This may include vitamin D for those living in areas with limited sunlight. It is recommended that individuals consult with a healthcare professional to determine their specific nutritional needs. 
+
+Note: There is no direct relation between the given examples and the short paragraph. The paragraph is just written in a similar style to the examples. The vocabulary and structure used are similar to the examples.  I'll be happy to help if you have any questions or need further clarification. 
+
+Let me reformat the paragraph to match the style of the examples:
+
+Daniel's diet consisted of a variety of foods, each rich in its own particular vitamins and minerals. The fruits and vegetables he ate provided the body with",10.4,53.0,11.8,13.7,11.89,11.55,5.17,15.25

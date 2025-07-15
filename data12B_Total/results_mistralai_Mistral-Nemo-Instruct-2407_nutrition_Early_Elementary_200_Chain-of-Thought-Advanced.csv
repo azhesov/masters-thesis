@@ -1,0 +1,141 @@
+Technique,Topic,Target Level,Output Length,Model,Prompt,Rewrite Prompt,Text,Flesch-Kincaid,Flesch Ease,ARI,SMOG,Gunning Fog,Coleman-Liau,Spache,Linsear Write
+Chain-of-Thought-Advanced,nutrition,Early Elementary,200,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'nutrition' in 200 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 2. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph.",,"Step 1: Think about how to explain 'nutrition' in 200 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 2. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph. Use 'nutrition' as the topic and provide a basic explanation. Don't mention any specific nutrients, only general concepts.",8.1,53.47,9.3,10.0,8.0,10.64,4.5,5.5
+Chain-of-Thought-Advanced,nutrition,Early Elementary,200,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'nutrition' in 200 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 2. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph.",,"Step 1: Think about how to explain 'nutrition' in 200 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 2. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph. If needed, check the grade level of the text and adjust it.
+
+**Final Output:**
+
+Nutrition is the process of providing food to our body. This food gives us energy and helps us grow. It also keeps us healthy. To have good nutrition, we need to eat a mix of foods. These include fruits, vegetables, grains, and proteins like meat or beans. Drinking water is also very important. Too much or too little of certain foods can make us sick. So, we must balance our meals. This is called a balanced diet.",4.6,78.96,6.1,8.3,6.25,7.33,3.62,5.0
+Chain-of-Thought-Advanced,nutrition,Early Elementary,200,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'nutrition' in 200 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 2. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph.",,"Step 1: Think about how to explain 'nutrition' in 200 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 2. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph. Check if the Flesch-Kincaid Grade Level of the output is around 2. If it is, the program will print the paragraph and stop. If not, the program will go back to step 2 and repeat the process.
+
+Here is the Python code for this task:
+
+```python
+from textstat.textstat import textstat
+
+def generate_nutrition_paragraph():
+    while True:
+        paragraph = """"""
+        Nutrition is like fuel for our bodies. It helps us grow, work, and play. We need many things to stay healthy.
+        These include proteins, fats, carbohydrates, vitamins, and minerals. They all have different jobs.
+        Proteins help us build and repair tissues. Fats give us energy. Carbohydrates also give us energy.
+        Vitamins and minerals help our bodies work properly. We can get these from eating a variety of foods.
+        """"""
+        fk_grade = textstat.flesch_kincaid_grade(paragraph)",5.7,70.7,8.8,9.2,6.77,10.35,3.56,4.9
+Chain-of-Thought-Advanced,nutrition,Early Elementary,200,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'nutrition' in 200 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 2. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph.",,"Step 1: Think about how to explain 'nutrition' in 200 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 2. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph. It should be as follows:
+""Nutrition is like the fuel for our body. It gives us energy to live, work, and play. We get it from food. Different foods give different kinds of nutrition. For example, fruits and vegetables have vitamins and minerals. These help our body stay healthy. Other foods like meat, eggs, and beans have protein. Protein helps build and fix our body. So, we need to eat a mix of foods to get all the nutrition we need. This is called a balanced diet.""
+```python
+def calculate_flesch_kincaid_grade_level(text):
+    words = len(text.split())
+    sentences = text.count('.') + text.count('!') + text.count('?')
+    syllables = sum(sum(1 for syllable in re.findall(r'[aeiouy]+', word.lower()) for word in text.split()))
+    return 0.39 * (words / sentences) + 11.8 * (s",5.2,72.02,9.0,8.8,6.23,9.47,3.33,5.0
+Chain-of-Thought-Advanced,nutrition,Early Elementary,200,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'nutrition' in 200 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 2. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph.",,"Step 1: Think about how to explain 'nutrition' in 200 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 2. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph.",7.0,61.73,8.9,9.2,7.42,10.3,4.11,5.357142857142857
+Chain-of-Thought-Advanced,nutrition,Early Elementary,200,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'nutrition' in 200 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 2. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph.",,"Step 1: Think about how to explain 'nutrition' in 200 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 2. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph. Check the Flesch-Kincaid Grade Level again.
+
+**Final Output:**
+
+Nutrition is what we eat. It helps our body grow, work, and stay healthy. We need different kinds of food to get all the nutrients. These include proteins for muscles, carbohydrates for energy, and vitamins and minerals for overall health. Eating a mix of fruits, vegetables, grains, and proteins gives us a balanced diet. This means we get all the nutrients we need. But, too much or too little of certain foods can cause problems. So, it's important to eat a variety of foods in the right amounts. This is called a balanced diet.
+
+**Flesch-Kincaid Grade Level Calculation:**
+- Total words: 77
+- Total sentences: 5
+- Total syllables: 367
+
+0.39 × (77 / 5) + 11.8 × (367 / 77) - 15",5.8,70.29,7.6,9.3,6.97,8.44,3.63,4.545454545454546
+Chain-of-Thought-Advanced,nutrition,Early Elementary,200,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'nutrition' in 200 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 2. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph.",,"Step 1: Think about how to explain 'nutrition' in 200 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 2. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph. Ensure it is concise, informative and easy to understand.
+Step 5: Check if the paragraph meets the required grade level and if it has correct metric values.
+
+Final paragraph:
+""Nutrition is what you eat and drink. It helps your body grow and work well. Good nutrition means eating foods like fruits, vegetables, and whole grains. It also means drinking lots of water. This helps your body stay strong and healthy. Bad nutrition can make you feel sick or tired. So, eating right is very important.""
+
+Flesch-Kincaid Grade Level: 1.9
+Number of words: 70
+Number of sentences: 5
+Total syllables: 110
+
+The paragraph meets the required grade level and has correct metric values.",6.0,69.89,7.7,8.7,5.97,9.37,3.39,5.666666666666667
+Chain-of-Thought-Advanced,nutrition,Early Elementary,200,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'nutrition' in 200 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 2. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph.",,"Step 1: Think about how to explain 'nutrition' in 200 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 2. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph. You have 200 words limit. Make sure you stay within the limit.
+
+Nutrition is what our body needs to work properly. It's like fuel for a car. We get nutrition from the food and drinks we take in. This includes things like vitamins, minerals, proteins, and fats. These help us grow, stay healthy, and have energy. We need different amounts at different times. Babies, kids, and pregnant women need more. If we don't get enough, we can get sick. So, it's important to eat a variety of foods, like fruits, vegetables, whole grains, and lean proteins. This way, we get all the nutrients we need.",4.5,79.16,6.4,9.0,6.9,7.62,3.52,4.454545454545454
+Chain-of-Thought-Advanced,nutrition,Early Elementary,200,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'nutrition' in 200 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 2. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph.",,"Step 1: Think about how to explain 'nutrition' in 200 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 2. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph.",7.0,61.73,8.9,9.2,7.42,10.3,4.11,5.357142857142857
+Chain-of-Thought-Advanced,nutrition,Early Elementary,200,mistralai/Mistral-Nemo-Instruct-2407,"Step 1: Think about how to explain 'nutrition' in 200 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 2. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph.",,"Step 1: Think about how to explain 'nutrition' in 200 words.
+Step 2: Select appropriate vocabulary and sentence structure, so it will target Flesch-Kincaid Grade Level of approximately 2. The Flesch-Kincaid Grade Level is calculated as:
+0.39 × (total words / total sentences) + 11.8 × (total syllables / total words) - 15.59.
+Step 3: Make sure the output has correct metric value.
+Step 4: Follow your plan and write the final paragraph.",7.0,61.73,8.9,9.2,7.42,10.3,4.11,5.357142857142857
