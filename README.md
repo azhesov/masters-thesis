@@ -1,4 +1,4 @@
-# Master’s Thesis  
+# Masters Thesis  
 **Prompting Large Language Models for Controlled Readability and Automated Evaluation of Textual Information Quality**  
 **Author:** Andrejs Žestjaņņikovs  
 **Institution:** Vrije Universiteit Amsterdam  
