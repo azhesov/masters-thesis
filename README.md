@@ -1,5 +1,5 @@
 # Masters Thesis  
-**Prompting Large Language Models for Controlled Readability and Automated Evaluation of Textual Information Quality**  
+**Prompting Large Language Models for Controlled Readability: Investigating the Ability of LLMs to Generate Readability-Constrained Text**  
 **Author:** Andrejs Žestjaņņikovs (2829510)  
 **Institution:** Vrije Universiteit Amsterdam  
 **Supervisor:** Davide Ceolin  
